@@ -3,7 +3,6 @@ import { Consumer } from "../layouts/Context";
 import styled from "styled-components";
 import People from "../components/people/People";
 import { staffCz, staffEn } from "../content/staff";
-import { studentsCz, studentsEn } from "../content/students";
 import { cz, en } from "../content/general";
 
 class Staff extends Component {
