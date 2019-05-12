@@ -13,7 +13,6 @@ class Staff extends Component {
           <Container>
             <People
               staffData={int === "en" ? staffEn : staffCz}
-              studentsData={int === "en" ? studentsEn : studentsCz}
               data={int === "en" ? en : cz}
             />
           </Container>

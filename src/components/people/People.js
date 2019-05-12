@@ -8,7 +8,7 @@ import styled from 'styled-components'
 
 class People extends Component {
   render() {
-    const {staffData, studentsData, data} = this.props
+    const {staffData, data} = this.props
     const people = staffData.map(i => <PersonBox personInfo={i} key={i.id} data={data}/>)
     return (
       <React.Fragment>
