@@ -18,8 +18,7 @@ captionsEn: /
 Miroslav Svoboda, Ondřej Sýkora, Volodymyr Trotsiuk
 + Institute for Biological Problems of Cryolithozone, Russian Academy of Sciences,
 Yakutsk: Mikhail Cherosov
-+ Institute of Biology, Russian Academy of Sciences, Ufa: El&#39;vira Baisheva, Vasiliy
-Martynenko
++ Institute of Biology, Russian Academy of Sciences, Ufa: Elvira Baisheva, Vasiliy Martynenko
 + Institute of Biology, Russian Academy of Sciences, Ulan-Ude: Oleg Anenkhonov
 + Institute of Botany, Academy of Sciences of the Czech Republic: Vlasta Jankovská,
 Helena Svobodová
@@ -100,7 +99,6 @@ Chytrý 1995, Anenkhonov &amp; Chytrý 1998) and scree vegetation in the Altai-S
 (Ermakov et al. 2006). We formally established several syntaxa new to science.
 New taxa. We described a new species of terrestrial snail, Vertigo botanicorum (Horsák &amp;
 Pokryszko 2010), and new intersectional hybrid of cinquefoil, Potentilla x nebulosa, both from
-
 the Russian Altai (Danihelka &amp; Soják 2012). In addition, we found another cinquefoil, Potentilla
 turkestanica, as a new species to the flora of Russia (Soják et al. 2011) and three species of
 mosses (Bryum klinggraeffii, B. rubens and Dicranella staphylinaas new species for the Asian
@@ -117,15 +115,13 @@ in a low-productive boreal region. Plant Ecology 214: 207-219. - fulltext on
 + Axmanová I., Chytrý M., Zelený D., Li C.-F., Vymazalová M., Danihelka J., Horsák M.,
 Kočí M., Kubešová S., Lososová Z., Otýpková Z., Tichý L., Martynenko V.B., Baisheva
 E.Z., Schuster B. &amp; Diekmann M. (2012): The species richness-productivity relationship in
-the herb layer of European deciduous forests. Global Ecology and Biogeography 21: 657-
-667. - fulltext in Wiley Online Library
+the herb layer of European deciduous forests. Global Ecology and Biogeography 21: 657-667. - fulltext in Wiley Online Library
 + Chytrý M. (2012): Database of Masaryk University&#39;s Vegetation Research in
 Siberia. Biodiversity &amp; Ecology 4: 290. - fulltext pdf file
 + Chytrý M., Danihelka J., Ermakov N., Hájek M., Hájková P., Kočí M., Kubešová S., Lustyk
 P., Otýpková Z., Popov D., Roleček J., Řezníčková M., Šmarda P. &amp; Valachovič M.
 (2007): Plant species richness in continental southern Siberia: effects of pH and climate in
-the context of the species pool hypothesis. Global Ecology and Biogeography 16: 668-
-678. - fulltext on Blackwell Synergy
+the context of the species pool hypothesis. Global Ecology and Biogeography 16: 668-678. - fulltext on Blackwell Synergy
 + Chytrý M., Danihelka J., Horsák M., Kočí M., Kubešová S., Lososová Z., Otýpková Z.,
 Tichý L., Martynenko V.B. &amp; Baisheva E.Z. (2010): Modern analogues from the Southern
 Urals provide insights into biodiversity change in the early Holocene forests of Central
@@ -171,23 +167,19 @@ Kintrová K., Kočí M., Kubešová S., Lustyk P., Otýpková Z., Pelánková B.
 reconstruction of palaeoenvironments of full-glacial Europe. Journal of Biogeography 37:
 1450-1462. - fulltext in Wiley Online Library
 + Horsák M. &amp; Pokryszko B.M. (2010): Vertigo botanicorum sp. nov. (Gastropoda:
-Pulmonata: Vertiginidae)-a new whorl-snail from the Russian Altai
-Mountains. Zootaxa 2634: 57-62. - fulltext in pdf
+Pulmonata: Vertiginidae)-a new whorl-snail from the Russian Altai Mountains. Zootaxa 2634: 57-62. - fulltext in pdf
 + Kuneš P., Pelánková B., Chytrý M., Jankovská V., Pokorný P. &amp; Petr L. (2008):
 Interpretation of the last-glacial vegetation of eastern-central Europe using modern
-analogues from southern Siberia. Journal of Biogeography 35: 2223-2236. -
- fulltext on Wiley InterScience
+analogues from southern Siberia. Journal of Biogeography 35: 2223-2236. - fulltext on Wiley InterScience
 + Magyari E.K., Kuneš P., Jakab G., Sümegi P., Pelánková B., Schäbitz F., Braun M. &amp;
 Chytrý M. (2014): Late Pleniglacial vegetation in eastern-central Europe: are there
-modern analogues in Siberia? Quaternary Science Reviews 95: 60-79. -
- fulltext in ScienceDirect
+modern analogues in Siberia? Quaternary Science Reviews 95: 60-79. - fulltext in ScienceDirect
 + Nekola J.C., Coles B.F. &amp; Horsák M. (2015): Species assignment in Pupilla(Gastropoda:
 Pulmonata: Pupillidae): integration of DNA-sequence data and conchology. Journal of
 Molluscan Studies 81: 196-216. - fulltext on Oxford Journals
 + Novák J., Trotsiuk V., Sýkora O., Svoboda M. &amp; Chytrý M. (2014): Ecology of Tilia
 sibirica in a continental hemiboreal forest, southern Siberia: An analogue of a glacial
-refugium of broad-leaved temperate trees? The Holocene 24: 908-918. -
- fulltext in SAGE Journals
+refugium of broad-leaved temperate trees? The Holocene 24: 908-918. - fulltext in SAGE Journals
 + Pavelková Řičánková V., Riegert J., Semančíková E., Hais M., Čejková A. &amp; Prach K.
 (2014): Habitat preferences in gray marmots (Marmota baibacina). Acta Theriologica 59:
 317-324. - fulltext in pdf
@@ -215,18 +207,12 @@ the flora of Russia. Turczaninowia 14: 101-105. - fulltext in pdf
 **Popularizations (in Czech)**
 
 + Kubešová S. (2015): Kazachstánem od severu na jih. M Revue 2015(2): 62-65. - PDF
-+ Chytrý M. (2012): Ekosystémy Sibiře: analogie zaniklé přírody střední Evropy. Živa 4:
-186-188. - PDF
-+ Chytrý M., Pavelková Řičánková V. &amp; Horsák M. (2010): Kde dnes znamená včera.
-Jihosibiřské refugium doby ledové. Vesmír 89: 526-530. - PDF
-+ Horsák M. &amp; Chytrý M. (2010): Krajiny zamrzlé v čase I. Jižní Sibiř - současná analogie
-střední Evropy v době ledové. Živa 2009: 118-120. - PDF
-+ Horsák M. &amp; Chytrý M. (2010): Krajiny zamrzlé v čase II. Jižní Ural - současná analogie
-střední Evropy ve starém a středním holocénu. Živa 2010: 166-168. - PDF
-+ Kuneš P. (2008): Předneolitická krajina, vegetace a role moderního člověka ve střední
-Evropě. Živa 2008: 146-150. - PDF
-+ Pokorný P. (2004): Velký bratr uděluje lekci. Sibiřské řešení záhady evropských ledových
-dob. Vesmír 83: 276-281. - PDF
++ Chytrý M. (2012): Ekosystémy Sibiře: analogie zaniklé přírody střední Evropy. Živa 4: 186-188. - PDF
++ Chytrý M., Pavelková Řičánková V. &amp; Horsák M. (2010): Kde dnes znamená včera. Jihosibiřské refugium doby ledové. Vesmír 89: 526-530. - PDF
++ Horsák M. &amp; Chytrý M. (2010): Krajiny zamrzlé v čase I. Jižní Sibiř - současná analogie střední Evropy v době ledové. Živa 2009: 118-120. - PDF
++ Horsák M. &amp; Chytrý M. (2010): Krajiny zamrzlé v čase II. Jižní Ural - současná analogie střední Evropy ve starém a středním holocénu. Živa 2010: 166-168. - PDF
++ Kuneš P. (2008): Předneolitická krajina, vegetace a role moderního člověka ve střední Evropě. Živa 2008: 146-150. - PDF
++ Pokorný P. (2004): Velký bratr uděluje lekci. Sibiřské řešení záhady evropských ledových dob. Vesmír 83: 276-281. - PDF
 
 **Media**
 
@@ -234,8 +220,7 @@ dob. Vesmír 83: 276-281. - PDF
 + 23/01/2014 Ice-age animals live on in Eurasian mountain range, New Scientist
 + 21/01/2013 Zničilo mamuty iba globálne otepľovanie? Plus 7 dní
 + 27/11/2012 Vegetace doby ledové na dosah? Česká televize, Před půlnocí, iVysílání
-+ 05/08/2012 Proč vyhynuli mamuti? Odpověď jezdí český vědec hledat na
-Sibiř, Hospodářské noviny
++ 05/08/2012 Proč vyhynuli mamuti? Odpověď jezdí český vědec hledat na Sibiř, Hospodářské noviny
 + 05/2007 Doba ledová nebyla tak hrozivá 21. století - PDF
 + 03/12/2006 Česko v době ledové - část 1. Český rozhlas Leonardo, Planetárium
 + 03/12/2006 Česko v době ledové - část 2. Český rozhlas Leonardo, Planetárium
@@ -253,21 +238,16 @@ Biodiversity of the Altai-Sayan Ecoregion (in Russian)
 **Collaborators at other institutions**
 
 + Altai State University: Dmitry German, Aleksandr Shmakov
-+ Central Siberian Botanical Garden, Russian Academy of Sciences, Novosibirsk: Nikolai
-Ermakov, Andrei Korolyuk, Nikolai Lashchinskiy, Denis Popov
++ Central Siberian Botanical Garden, Russian Academy of Sciences, Novosibirsk: Nikolai Ermakov, Andrei Korolyuk, Nikolai Lashchinskiy, Denis Popov
 + Charles University, Prague: Petr Kuneš, Petr Pokorný
 + Czech University of Life Sciences, Prague: Michal Hejcman, Pavla Hejcmanová,
 Miroslav Svoboda, Ondřej Sýkora, Volodymyr Trotsiuk
-+ Institute for Biological Problems of Cryolithozone, Russian Academy of Sciences,
-Yakutsk: Mikhail Cherosov
-+ Institute of Biology, Russian Academy of Sciences, Ufa: El&#39;vira Baisheva, Vasiliy
-Martynenko
++ Institute for Biological Problems of Cryolithozone, Russian Academy of Sciences, Yakutsk: Mikhail Cherosov
++ Institute of Biology, Russian Academy of Sciences, Ufa: Elvira Baisheva, Vasiliy Martynenko
 + Institute of Biology, Russian Academy of Sciences, Ulan-Ude: Oleg Anenkhonov
-+ Institute of Botany, Academy of Sciences of the Czech Republic: Vlasta Jankovská,
-Helena Svobodová
++ Institute of Botany, Academy of Sciences of the Czech Republic: Vlasta Jankovská, Helena Svobodová
 + Institute of Botany, Slovak Academy of Sciences: Ivan Pišút, Milan Valachovič
-+ North-Eastern Federal University Named After M.K. Ammosov, Yakutsk: Paraskovia
-Gogoleva
++ North-Eastern Federal University Named After M.K. Ammosov, Yakutsk: Paraskovia Gogoleva
 + University of Graz: Philipp Resl
 + University of New Mexico, Albuquerque: Jeffrey Nekola
 + University of South Bohemia, České Budějovice: Martin Hais, Jan Novák, Věra
