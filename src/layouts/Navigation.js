@@ -73,6 +73,9 @@ class Navigation extends Component {
         <ListLink to="/links/" isVisible={isVisible} className={this.getClass("links")}>
           {generalData.menu.menuLinks}
         </ListLink>
+        <ListLink to="/vegetation/" isVisible={isVisible} className={this.getClass("vegetation")}>
+          {generalData.menu.menuVegetation}
+        </ListLink>
       </Container>
     )
   }

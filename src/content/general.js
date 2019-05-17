@@ -4,7 +4,8 @@
     menuProjects: "Research",
     menuCourses: "Courses",
     menuGallery: "Gallery",
-    menuLinks: "Links"
+    menuLinks: "Links",
+    menuVegetation: "Vegetation of the Czech Republic",
   },
   footer: {
     botzool: "Department of Botany and Zoology, ",
@@ -57,7 +58,8 @@ export const cz = {
     menuProjects: "Výzkum",
     menuCourses: "Výuka",
     menuGallery: "Galerie",
-    menuLinks: "Odkazy"
+    menuLinks: "Odkazy",
+    menuVegetation: "Vegetace České Republiky",
   },
   footer: {
     botzool: "Ústav botaniky a zoologie, ",
