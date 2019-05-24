@@ -71,11 +71,11 @@ class Navigation extends Component {
           to="http://botzool.sci.muni.cz/publikace/c"
           isSimpleLink
           isVisible={isVisible}
-          className={this.getClass("publications")}
+          className={this.getClass("publikace")}
         >
           {generalData.menu.menuPublications}
         </ListLink>
-        <ListLink to="/" isVisible={isVisible} className={this.getClass("vegetation")}>
+        <ListLink to="/resources" isVisible={isVisible} className={this.getClass("resources")}>
           {generalData.menu.menuResources}
         </ListLink>
         <ListLink to="/gallery/" isVisible={isVisible} className={this.getClass("gallery")}>
