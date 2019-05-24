@@ -2,16 +2,21 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import Img from "gatsby-image";
+import projectImg from '../../images/project1.jpg'
 
 class ProjectBox extends Component {
   render() {
-    const { project, linkTo, fluid, int } = this.props;
+
+    
+    const { project, linkTo, isImageOnly } = this.props;
+    
     return (
       <StyledLink to={linkTo}>
         <Box>
           <Content>
-            {fluid && <Img fluid={fluid} style={{width: "90%"}} />}
-            <Name>{int==="en" ? project.frontmatter.nameEn : project.frontmatter.name}</Name>
+            {/* {fluid && <Img fluid={fluid} style={{width: "90%"}} />} */}
+            <img src={projectImg} width="90%" />
+            <Name>{project.title}</Name>
           </Content>
         </Box>
       </StyledLink>

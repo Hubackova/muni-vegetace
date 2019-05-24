@@ -49,13 +49,13 @@ class ProjectDetail extends Component {
   };
 
   render() {
-    const {
-      data: { markdownRemark, allImageSharp }
-    } = this.props;
+    // const {
+    //   data: { markdownRemark, allImageSharp }
+    // } = this.props;
 
     return (
       <MainContainer>
-        <Consumer>
+        {/* <Consumer>
           {({ int }) => {
             const captions =
               int === "en"
@@ -118,7 +118,7 @@ class ProjectDetail extends Component {
               </NarrowContainer>
             );
           }}
-        </Consumer>
+        </Consumer> */}
       </MainContainer>
     );
   }

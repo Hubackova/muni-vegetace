@@ -1,10 +1,13 @@
 ﻿export const en = {
   menu: {
+    menuHomepage: "Homepage",
     menuPeople: "People",
     menuProjects: "Research",
     menuCourses: "Courses",
     menuGallery: "Gallery",
     menuLinks: "Links",
+    menuPublications: "Publications",
+    menuResources: "Resources",
     menuVegetation: "Vegetation of the Czech Republic",
   },
   footer: {
@@ -54,11 +57,14 @@
 
 export const cz = {
   menu: {
+    menuHomepage: "Domů",
     menuPeople: "Lidé",
     menuProjects: "Výzkum",
     menuCourses: "Výuka",
     menuGallery: "Galerie",
     menuLinks: "Odkazy",
+    menuPublications: "Publikace",
+    menuResources: "Zdroje",
     menuVegetation: "Vegetace České Republiky",
   },
   footer: {

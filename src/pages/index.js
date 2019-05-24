@@ -8,41 +8,22 @@ import Databases from '../components/homepage/Databases'
 import {Consumer} from '../layouts/Context'
 import {cz, en} from '../content/general'
 
-class Index extends Component {
-  state = {
-    showAll: false,
-    selectedTopic: 'home'
-  }
+const index = () => {
+  return (
+    <Consumer>
+    {({int}) => (
+      <ContainerWrapper>
+        <Homepage />
+        <Databases text={int === 'en' ? en : cz} style={{flex: 1}}/>
+      </ContainerWrapper>
+    )}
+  </Consumer>
+  );
+};
 
-  toggleShowFulltext = () => {
-    this.setState(prevState => ({
-      showAll: !prevState.showAll
-    }))
-  }
+export default index
 
-  render() {
-    const {showAll} = this.state
-    return (
-      <Consumer>
-        {({int}) => (
-          <ContainerWrapper>
-            <Homepage
-              data={int === 'en' ? en : cz}
-              toggleShowFulltext={this.toggleShowFulltext}
-              selectTopic={this.selectTopic}
-              showAll={showAll}
-            />
-            <Databases text={int === 'en' ? en : cz} style={{flex: 1}}/>
-          </ContainerWrapper>
-        )}
-      </Consumer>
-    )
-  }
-}
-
-export default Index
-
-Index.propTypes = {
+index.propTypes = {
   location: PropTypes.object
 }
 

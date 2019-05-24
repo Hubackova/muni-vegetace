@@ -1,30 +1,39 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { StaticQuery, graphql } from "gatsby";
 import styled from "styled-components";
-import { Link } from "gatsby";
+import ProjectBox from "../../components/projects/ProjectBox";
+import { Consumer } from "../../layouts/Context";
+import { projectsCz, projectsEn } from "../../content/projects";
+import projectImg from "../../images/project1.jpg";
 
-const Databases = ({ text }) => (
-        <RightPanel>
-          <p>
-            <StyledLink href="http://www.sci.muni.cz/botany/vegsci/public.php?lang=cz">
-              {text.publications}
-            </StyledLink>
-          </p>
-          <p>
-            <strong>{text.databases}</strong>
-          </p>
-
-          <p></p>
-
-        </RightPanel>
-      );
-
+const Databases = ({ data }) => (
+  <RightPanel>
+    <Consumer>
+      {({ int }) => (
+        <Container>
+          <img src={projectImg} width="100%" />
+          <img src={projectImg} width="100%" />
+          <img src={projectImg} width="100%" />
+          <img src={projectImg} width="100%" />
+        </Container>
+      )}
+    </Consumer>
+  </RightPanel>
+);
 
 export default Databases;
 
 Databases.propTypes = {
   text: PropTypes.object
 };
+const Container = styled.div`
+  display: grid;
+  grid-template-columns: repeat(2, minmax(20vw, 20vw));
+  grid-gap: 5px;
+  justify-content: center;
+
+`;
 
 const RightPanel = styled.div`
   flex: 1;
@@ -37,16 +46,5 @@ const RightPanel = styled.div`
     margin: 0;
     border: 0;
     border-top: 1px solid ${props => props.theme.grey};
-  }
-`;
-
-const StyledLink = styled.a`
-  color: ${props => props.theme.main};
-  text-decoration: none;
-  &:hover {
-    text-decoration: underline;
-  }
-  &:focus {
-    color: ${props => props.theme.secondary};
   }
 `;
