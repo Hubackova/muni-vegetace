@@ -6,8 +6,8 @@ import { StaticQuery, graphql } from "gatsby";
 import ImgSlider from "./ImgSlider";
 import HeaderTop from "./HeaderTop";
 
-import logo from "../images/logo3.png";
-import mainLogo from "../images/mainLogo.png";
+import logo from "../../static/images/logo3.png";
+import mainLogo from "../../static/images/mainLogo.png";
 
 //query must be inline!!! not as a variable!
 const Header = ({ isIndex, generalData }) => (

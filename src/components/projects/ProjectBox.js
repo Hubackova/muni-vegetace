@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import Img from "gatsby-image";
-import projectImg from '../../images/project1.jpg'
+import projectImg from '../../../static/images/projects/project1.jpg'
 
 class ProjectBox extends Component {
   render() {
@@ -33,7 +33,7 @@ const Box = styled.div`
   border: 1px solid black;
 
   padding: 1em;
-  line-height: 1.6em;
+  line-height: 1.1em;
   &:after {
     content: "";
     display: block;

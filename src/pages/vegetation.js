@@ -1,8 +1,8 @@
 import React from "react";
 import { Consumer } from "../layouts/Context";
-import vegetace_cr_databaze from "../images/vegetace_cr_databaze.jpg";
-import vegetace_cr_expertsystem from "../images/vegetace_cr_expertsystem.jpg";
-import vegetace_cr_monografie from "../images/vegetace_cr_monografie.jpg";
+import vegetace_cr_databaze from "../../static/images/vegetace_cr_databaze.jpg";
+import vegetace_cr_expertsystem from "../../static/images/vegetace_cr_expertsystem.jpg";
+import vegetace_cr_monografie from "../../static/images/vegetace_cr_monografie.jpg";
 import { cz, en } from "../content/general";
 
 const VegetationPage = () => (

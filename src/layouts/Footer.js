@@ -2,9 +2,9 @@ import React from 'react'
 import styled from 'styled-components'
 import PropTypes from 'prop-types';
 
-import facebook from '../images/facebook.png'
-import youtube from '../images/youtube.png'
-import twitter from '../images/twitter.png'
+import facebook from '../../static/images/facebook.png'
+import youtube from '../../static/images/youtube.png'
+import twitter from '../../static/images/twitter.png'
 
 const FooterContent = ({footer}) => {
   return (

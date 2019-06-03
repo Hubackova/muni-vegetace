@@ -13,20 +13,6 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-layout`,
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: path.join(__dirname, `src`, `images`),
-      },
-  },
-  {
-    resolve: `gatsby-source-filesystem`,
-    options: {
-      path: `${__dirname}/src/markdowns`,
-      name: "markdown-pages",
-    },
-  },
   {
     resolve: `gatsby-source-filesystem`,
     options: {
@@ -37,27 +23,21 @@ module.exports = {
   {
     resolve: `gatsby-source-filesystem`,
     options: {
-      name: `images`,
-      path: `${__dirname}/src/images/`,
-    },
+      path: `${__dirname}/src/content/`,
+      name: `content`
+    }
   },
+  // {
+  //   resolve: `gatsby-source-filesystem`,
+  //   options: {
+  //     path: `${__dirname}/src/content/projects/`,
+  //     name: `projects`
+  //   }
+  // },
+  "gatsby-transformer-javascript-frontmatter",
+  "gatsby-transformer-remark",
   `gatsby-transformer-sharp`,
   `gatsby-plugin-sharp`,
-  {
-    resolve: 'gatsby-transformer-remark',
-    options: {
-      plugins: [
-        "gatsby-remark-copy-linked-files",
-        {
-          resolve: "gatsby-remark-external-links",
-          options: {
-            target: "_self",
-            rel: "nofollow"
-          }
-        }
-      ],
-    },
-  },
   ],
   pathPrefix: "/raseliniste"
 }

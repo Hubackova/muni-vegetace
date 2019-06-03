@@ -1,4 +1,4 @@
-﻿import smerdova from '../images/people/smerdova.jpg'
+﻿import smerdova from '../../static/images/people/smerdova.jpg'
 
 export const staffEn = [
   {

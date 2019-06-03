@@ -4,8 +4,8 @@ import { StaticQuery, graphql } from "gatsby";
 import styled from "styled-components";
 import ProjectBox from "../../components/projects/ProjectBox";
 import { Consumer } from "../../layouts/Context";
-import { projectsCz, projectsEn } from "../../content/projects";
-import projectImg from "../../images/project1.jpg";
+import { cz, en } from "../../content/projects";
+import projectImg from "../../../static/images/projects/project1.jpg";
 
 const Databases = ({ data }) => (
   <RightPanel>

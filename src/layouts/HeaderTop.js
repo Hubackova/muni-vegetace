@@ -1,8 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
 import PropTypes from 'prop-types';
-import czFlag from '../images/cz-icon.png'
-import ukFlag from '../images/uk-icon.png'
+import czFlag from '../../static/images/cz-icon.png'
+import ukFlag from '../../static/images/uk-icon.png'
 import Navigation from './Navigation'
 import {Consumer} from './Context'
 

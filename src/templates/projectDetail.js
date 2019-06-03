@@ -7,7 +7,7 @@ import { graphql } from "gatsby";
 
 import { Consumer } from "../layouts/Context";
 import MainContainer from "../components/MainContainer";
-
+import { cz, en } from "../content/projects";
 
 class ProjectDetail extends Component {
   state = {
@@ -49,18 +49,20 @@ class ProjectDetail extends Component {
   };
 
   render() {
-    // const {
-    //   data: { markdownRemark, allImageSharp }
-    // } = this.props;
+    const {
+      data: { allImageSharp }
+    } = this.props;
 
+    const name = this.props.location.pathname.slice(1);
     return (
       <MainContainer>
-        {/* <Consumer>
+        <Consumer>
           {({ int }) => {
-            const captions =
-              int === "en"
-                ? markdownRemark.frontmatter.captionsEn
-                : markdownRemark.frontmatter.captions;
+            const data = int === "en" ? en : cz;
+            const projectData = data.projectsList[name];
+       
+            const captions = false;
+
             const captionsArray = captions ? captions.split("/") : [];
 
             const imgs =
@@ -87,7 +89,7 @@ class ProjectDetail extends Component {
             return (
               <NarrowContainer>
                 <ImgColumn>{imgs2}</ImgColumn>
-                <Content>
+                 <Content>
                   <Lightbox
                     images={photos}
                     isOpen={this.state.lightboxIsOpen}
@@ -96,17 +98,8 @@ class ProjectDetail extends Component {
                     onClickNext={this.gotoNext}
                     onClose={this.closeLightbox}
                   />
-                  <h1>
-                    {int === "en"
-                      ? markdownRemark.frontmatter.nameEn
-                      : markdownRemark.frontmatter.name}
-                  </h1>
-                  {markdownRemark.frontmatter.coordination}
-                  {markdownRemark.frontmatter.participants}
-                  <div
-                    className={`project-body ${int}`}
-                    dangerouslySetInnerHTML={{ __html: markdownRemark.html }}
-                  />
+                  <h1>{projectData.title}</h1>
+                  <div className={`project-body ${int}`} />
                   <StyledLink to="/projects/">
                     <i className="fa fa-arrow-left" />
                   </StyledLink>
@@ -114,11 +107,10 @@ class ProjectDetail extends Component {
                 </Content>
 
                 <ImgColumn>{imgs}</ImgColumn>
-                
               </NarrowContainer>
             );
           }}
-        </Consumer> */}
+        </Consumer>
       </MainContainer>
     );
   }
@@ -128,7 +120,7 @@ const NarrowContainer = styled.div`
   display: flex;
 `;
 const ImgMobile = styled.div`
-    display: none;
+  display: none;
   @media (max-width: 768px) {
     display: block;
   }
@@ -162,7 +154,7 @@ const StyledLink = styled(Link)`
 export default ProjectDetail;
 
 export const query = graphql`
-  query($imgsRegex: String!, $title: String!) {
+  query($imgsRegex: String!) {
     allImageSharp(
       filter: { fluid: { src: { regex: $imgsRegex } } }
       sort: { fields: [fluid___originalName], order: ASC }
@@ -171,20 +163,10 @@ export const query = graphql`
         node {
           id
           fluid(maxWidth: 700) {
+            originalName
             ...GatsbyImageSharpFluid_noBase64
           }
         }
-      }
-    }
-
-    markdownRemark(frontmatter: { title: { eq: $title } }) {
-      html
-      frontmatter {
-        title
-        name
-        nameEn
-        captions
-        captionsEn
       }
     }
   }
