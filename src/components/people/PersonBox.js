@@ -26,7 +26,7 @@ class PersonBox extends Component {
               {personInfo.img ? (
                 <img src={personInfo.img} alt={personInfo.name} height="265px" />
               ) : (
-                <div style={{ height: 265, width: 177, border: "1px solid black" }} />
+                <div style={{ height: 265, width: 200, border: "1px solid black" }} />
               )}
             </div>
           </BoxPart>
@@ -35,7 +35,7 @@ class PersonBox extends Component {
               {personInfo.name}
               <div style={{ fontSize: "0.7em", color: "#778899" }}>{personInfo.position}</div>
             </Name>
-            <div style={{ display: "flex", flexDirection: "row" }}>
+            <Info>
               <div>
                 <P>
                   <i className="fa fa-envelope fa-lg" style={{ color: "black", marginRight: 15 }} />
@@ -61,9 +61,9 @@ class PersonBox extends Component {
                 </P>
               </div>
            
-            <div style={{ padding: "0 0 1em 3em", flex: 4 }}>
+            <Description>
               <div>{personInfo.description}</div>
-            </div> </div>
+            </Description> </Info>
           </BoxPart>
         </Box>
       </Fragment>
@@ -103,19 +103,18 @@ const P = styled.p`
   margin: 10px 0px;
 `;
 
-const ArrowIcon = styled.div`
-  color: ${props => props.theme.grey};
-  text-decoration: none;
-  cursor: 'pointer'
-  &:hover {
-    text-decoration: underline;
-  }
-  &:focus {
-    color: ${props => props.theme.secondary};
+const Description = styled.div`
+   padding-left: 2em; 
+   flex: 4;
+   @media (max-width: ${props => props.theme.extraLargeDevice}) {
+    padding-left: 0; 
   }
 `;
 
-const ArrowText = styled.span`
-  color: 'red',
-  cursor: 'pointer';
+const Info = styled.div`
+   display: flex; 
+   flex-direction: row;
+   @media (max-width: ${props => props.theme.extraLargeDevice}) {
+    flex-direction: column;
+  }
 `;

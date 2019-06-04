@@ -1,16 +1,16 @@
 import React from 'react'
 import {Consumer} from '../layouts/Context'
 import Links from '../components/links/Links'
-import {media} from '../content/links'
-import {resources} from '../content/links'
+import {mediaCz, mediaEn} from '../content/links'
+import {resourcesCz, resourcesEn} from '../content/links'
 import {cz, en} from '../content/general'
 
 const LinksPage = () => (
       <Consumer>
         {({int}) => (
             <Links
-              resourcesData={resources}
-              mediaData={media}
+              resourcesData={int === "en" ? resourcesEn : resourcesCz}
+              mediaData={int === "en" ? mediaEn : mediaCz}
               data={int === "en" ? en : cz}
             />
         )}

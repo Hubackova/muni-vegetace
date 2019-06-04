@@ -5,18 +5,15 @@ import MainContainer from "../MainContainer";
 import H2 from "../atoms/H2";
 import Ul from "../atoms/Ul";
 
-const Links = ({
-
-  mediaData,
-  resourcesData,
-  data
-}) => {
+const Links = ({ mediaData, resourcesData, data }) => {
   const mediaList = mediaData.map(i => {
     return (
-      <li key={i.name}>{i.date}
+      <li key={i.name}>
+        {i.date}
         <A target="_blank" rel="noopener noreferrer" href={i.link}>
           {i.name}
-        </A>, {i.resource}
+        </A>
+        , {i.resource}
       </li>
     );
   });
@@ -31,11 +28,16 @@ const Links = ({
   });
   return (
     <MainContainer>
-      <H2> {data.media} </H2>
-      <Ul>{mediaList}</Ul>
-      <br/>
-      <H2> {data.resources} </H2>
-      <Ul>{resourcesList}</Ul>
+      <FlexBox>
+        <div>
+          <H2> {data.media} </H2>
+          <Ul>{mediaList}</Ul>
+        </div>
+        <div>
+          <H2> {data.resources} </H2>
+          <Ul>{resourcesList}</Ul>
+        </div>
+      </FlexBox>
     </MainContainer>
   );
 };
@@ -56,3 +58,14 @@ const A = styled.a`
     text-decoration: underline;
   }
 `;
+
+const FlexBox = styled.div`
+  display: grid;
+  grid-column-gap: 3em;
+  grid-template-columns: 1fr 1fr;
+  @media (max-width: ${props => props.theme.largeDevice}) {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+`;
+

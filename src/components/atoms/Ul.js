@@ -13,7 +13,11 @@ Ul.propTypes = {
 export default Ul
 
 export const UlStyled = styled.ul`
-  list-style-position: inside;
+  list-style-position: outside;
   list-style-type: disc;
-  padding: 0;
+  padding-left: 20px;
+  li {
+    line-height: 1.8em;
+    margin-bottom: 0;
+  }
 `
