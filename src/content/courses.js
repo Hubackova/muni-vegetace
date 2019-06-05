@@ -5,7 +5,7 @@ export const coursesCz = [
   },
   {
     name: `Vegetace České republiky`,
-
+    link: `https://is.muni.cz/predmet/sci/podzim2018/Bi8175`
   },
   {
     name: `Vegetace Evropy`,
