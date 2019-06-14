@@ -14,6 +14,7 @@ const Containerwrapper = styled.div`
   @media (max-width: ${props => props.theme.largeDevice}) {
     margin: 0 15px;
     flex-wrap: wrap;
+    flex-direction: column;
   }
 `;
 

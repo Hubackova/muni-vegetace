@@ -55,12 +55,10 @@ class ProjectDetail extends Component {
 
     const name = this.props.location.pathname.slice(1);
     return (
-      <MainContainer>
         <Consumer>
           {({ int }) => {
             const data = int === "en" ? en : cz;
             const projectData = data.projectsList[name];
-       
             const captions = false;
 
             const captionsArray = captions ? captions.split("/") : [];
@@ -89,7 +87,7 @@ class ProjectDetail extends Component {
             return (
               <NarrowContainer>
                 <ImgColumn>{imgs2}</ImgColumn>
-                 <Content>
+                <Content>
                   <Lightbox
                     images={photos}
                     isOpen={this.state.lightboxIsOpen}
@@ -99,7 +97,8 @@ class ProjectDetail extends Component {
                     onClose={this.closeLightbox}
                   />
                   <h1>{projectData.title}</h1>
-                  <div className={`project-body ${int}`} />
+
+                  <div className={`project-body ${int}`}>{projectData.body}</div>
                   <StyledLink to="/projects/">
                     <i className="fa fa-arrow-left" />
                   </StyledLink>
@@ -111,7 +110,6 @@ class ProjectDetail extends Component {
             );
           }}
         </Consumer>
-      </MainContainer>
     );
   }
 }

@@ -6,32 +6,25 @@ import H2 from "../atoms/H2";
 import Ul from "../atoms/Ul";
 
 const Theses = ({ thesesData }) => {
-  const bachelorThesesList = thesesData.bachelorThesesList.map(i => {
+  const getThesesList = data => thesesData[data].map(i => {
     return (
       <li key={i.name}>
         <A target="_blank" rel="noopener noreferrer" href={i.link}>
           {i.name}
-        </A>
+        </A>, <span>{i.author}</span>, <span>{i.year}</span>
       </li>
     );
   });
-  const masterThesesList = thesesData.masterThesesList.map(i => {
-    return (
-      <li key={i.name}>
-        <A target="_blank" rel="noopener noreferrer" href={i.link}>
-          {i.name}
-        </A>
-      </li>
-    );
-  });
-
+  
   return (
     <ThesesContent>
       <h2>{thesesData.thesesTitle}</h2>
-      <h3>{thesesData.bachelorTheses}</h3>
-      <Ul>{bachelorThesesList}</Ul>
+      <h3>{thesesData.phdTheses}</h3>
+      <Ul>{getThesesList("phdThesesList")}</Ul>
       <h3>{thesesData.masterTheses}</h3>
-      <Ul>{masterThesesList}</Ul>
+      <Ul>{getThesesList("masterThesesList")}</Ul>
+      <h3>{thesesData.bachelorTheses}</h3>
+      <Ul>{getThesesList("bachelorThesesList")}</Ul>
     </ThesesContent>
   );
 };

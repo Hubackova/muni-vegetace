@@ -86,6 +86,8 @@ a {
   border: 1px solid #0868ac;
   padding: 0 20px;
   background-color: #d2e3ef;
+  li {padding-bottom: 15px}
+  h3 {border-bottom: 1px solid #0868ac}
 }
 
 .project-theses {
@@ -93,6 +95,11 @@ a {
   padding: 0 20px;
   background-color: #d7efdd;
   margin-top: 5px;
+}
+.main-results{
+  div {
+    padding-top: 1em;
+  }
 }
 
 .project-body > p {

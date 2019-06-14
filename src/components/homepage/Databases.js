@@ -46,5 +46,6 @@ const RightPanel = styled.div`
     margin: 0;
     border: 0;
     border-top: 1px solid ${props => props.theme.grey};
+    padding-top: 1em;
   }
 `;
