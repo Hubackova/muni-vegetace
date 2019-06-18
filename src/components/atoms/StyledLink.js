@@ -3,8 +3,8 @@ import styled from "styled-components";
 import PropTypes from "prop-types";
 import { Link } from "gatsby";
 
-const StyledLink = ({ to, navigation, children, isSimpleLink }) => {
-  return isSimpleLink ? (
+const StyledLink = ({ to, navigation, children, isSimpleLink }) =>
+  isSimpleLink ? (
     <StyledlinkA href={to} navigation={navigation} target="_blanc">
       {children}
     </StyledlinkA>
@@ -13,7 +13,6 @@ const StyledLink = ({ to, navigation, children, isSimpleLink }) => {
       {children}
     </Styledlink>
   );
-};
 
 StyledLink.propTypes = {
   children: PropTypes.node,

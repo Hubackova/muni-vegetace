@@ -2,22 +2,28 @@ import React from "react";
 import styled from "styled-components";
 
 import { Consumer } from "../layouts/Context";
-import Links from "../components/links/Links";
-import { media } from "../content/links";
-import { resources } from "../content/links";
-import { cz, en } from "../content/general";
+import { cz, en } from "../content/resources";
 
 const ResourcesPage = () => (
   <Consumer>
-    {({ int }) => (
-      <Container>
-        <GridWrapper>
-          {["Česká národní fytocenologická databáze", "Vegetace ČR(monografie)", "JUICE", "Expertní systém", "Pladias", "Botanická fotogalerie", "European Vegetation Archive", "Bibliografie vegetace ČR"].map(i => (
-            <ResourceBox key={i}>{i}</ResourceBox>
-          ))}
-        </GridWrapper>{" "}
-      </Container>
-    )}
+    {({ int }) => {
+      const data = int === "en" ? en : cz;
+      return (
+        <Container>
+          <GridWrapper>
+            {data.resourcesList.map(resource => (
+              <ResourceBox
+                href={resource.link}
+                key={resource.name}
+                target="_blanc"
+              >
+                {resource.name}
+              </ResourceBox>
+            ))}
+          </GridWrapper>
+        </Container>
+      );
+    }}
   </Consumer>
 );
 
@@ -32,15 +38,25 @@ const GridWrapper = styled.div`
   grid-gap: 1vw;
 `;
 
-const ResourceBox = styled.div`
+const Container = styled.div`
+  margin: 0 auto;
+  width: 84vw;
+`;
+
+const ResourceBox = styled.a`
   background-color: grey;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
-`;
-
-const Container = styled.div`
-  margin: 0 auto;
-  width: 84vw;
+  color: lightGrey;
+  padding: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover,
+  &:focus,
+  &.active {
+    color: black;
+    background-color: darkGrey;
+  }
 `;

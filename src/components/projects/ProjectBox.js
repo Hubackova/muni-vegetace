@@ -34,6 +34,7 @@ const ImgBox = styled.img`
 
 const Name = styled.h5`
   height: 5vw;
+  padding: 0 20px;
   color: ${props => props.theme.lightblue};
   text-transform: uppercase;
 `;
