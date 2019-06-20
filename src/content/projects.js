@@ -4,7 +4,7 @@ export const en = {
   projectsList: {
     project1: {
       name: "project1",
-      title: `European Vegetation Syntheses`,
+      title: `European Vegetation Syntheses`
     },
     project2: {
       name: "project2",
@@ -98,7 +98,8 @@ export const en = {
             <h3>Main results</h3>
             <div>
               <b>Glacial refugium in the Altai-Sayan Mountains.</b>
-            </div> We discovered that the Altai-Sayan Moutains of Southern Siberia are probably the best
+            </div>
+            We discovered that the Altai-Sayan Moutains of Southern Siberia are probably the best
             preserved refugium of full-glacial biota in Eurasia. This finding was supported by
             considerable similarity of modern pollen deposition from the Western Sayan Mountains
             with fossil pollen spectra from the Late Pleistocene deposits in Central Europe (Kuneš
@@ -123,7 +124,8 @@ export const en = {
             (Chytrý et al. 2010, Horsák et al. 2010a).
             <div>
               <b>The most species-rich forests in extratropical Eurasia.</b>
-            </div>             We discovered that birch-pine hemiboreal forests in the northern Altai Mountains
+            </div>
+            We discovered that birch-pine hemiboreal forests in the northern Altai Mountains
             locally contain extremely high numbers of vascular plant species (up to 114 species per
             100 m² or 149 species per 1000 m²). These are so far the highest values of fine-scale
             species richness reported for forests in temperate and boreal Eurasia (Chytrý et al.
@@ -346,14 +348,69 @@ export const en = {
     project3: {
       name: "project3",
       title: `Biodiverzita měst`,
+      body: (
+        <div>
+          <div>
+            <h3>Editor</h3> Zdeňka Lososová
+          </div>
+          <div>
+            <h3>Spolupráce</h3> Tomáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Karel
+            Fajmon (ČSOP Bílé Karpaty), Michal Horsák, Milan Chytrý, Lucie Juřičková (UK Praha),
+            Veronika Kalusová, Deana Láníková, Zdenka Preislerová, Vladimír Řehořek, Lubomír Tichý,
+            Bohuslav Uher
+          </div>
+          <div>
+            <h3>Finanční podpora</h3>
+            Tomáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Karel Fajmon (ČSOP Bílé
+            Karpaty), Michal Horsák, Milan Chytrý, Lucie Juřičková (UK Praha), Veronika Kalusová,
+            Deana Láníková, Zdenka Preislerová, Vladimír Řehořek, Lubomír Tichý, Bohuslav Uher
+          </div>
+          <div>
+            <li>Grantová agentura České republiky 14-10723S</li>
+            <li>Grantová agentura Akademie věd České republiky, projekt č. IAA601630803</li>
+            <li>
+              Výzkumný záměr MSM 0021622416 Ministerstva školství, mládeže a tělovýchovy České
+              republiky
+            </li>
+          </div>
+          <div>
+            <h3>Cíle</h3>
+            <div>
+              Projekt se zabývá biodiverzitou velkých středoevropských měst. Pomocí
+              standardizovaných protokolů sběru dat jsme ve vybraných antropogenních biotopech a
+              vybraných městech, reprezentujících různé makroklimatické a socioekonomické oblasti
+              střední Evropy, studovali tři modelové taxonomické a ekologické skupiny: cévnaté
+              rostliny, terestričtí plži a epilitické a epixylické terestrické řasy a sinice. Na
+              těchto organismech jsme řešili čtyři hlavní okruhy otázek
+            </div>
+            <li>
+              Jak závisí šíření nepůvodních druhů na makroklimatu různých částí střední Evropy a na
+              různých typech městských biotopů?
+            </li>
+            <li>
+              Působí městské prostředí negativně nebo pozitivně na diverzitu původních druhů a na
+              celkovou druhovou bohatost vybraných taxonomických skupin?
+            </li>
+            <li>
+              Způsobuje urbanizace biotickou homogenizaci městských biotopů, a pokud ano, projevuje
+              se homogenizace na úrovni druhů i na úrovni druhových vlastností? Které biotopy a
+              které skupiny druhů jsou homogenizací nejvíce postiženy?
+            </li>
+            <li>
+              Jsou trendy v diverzitě městských biotopů konzistentní v různých taxonomických
+              skupinách?
+            </li>
+          </div>
+        </div>
+      )
     },
     project4: {
       name: "project4",
-      title: `Fylogenetická a funkční diverzita rostlinných společenstev`,
+      title: `Fylogenetická a funkční diverzita rostlinných společenstev`
     },
     project5: {
       name: "project5",
-      title: `Fylogenetická a funkční diverzita rostlinných společenstev`,
+      title: `Fylogenetická a funkční diverzita rostlinných společenstev`
     }
   },
   general: {
@@ -372,7 +429,7 @@ export const cz = {
   projectsList: {
     project1: {
       name: "project1",
-      title: `European Vegetation Syntheses`,
+      title: `European Vegetation Syntheses`
     },
     project2: {
       name: "project2",
@@ -466,7 +523,8 @@ export const cz = {
             <h3>Main results</h3>
             <div>
               <b>Glacial refugium in the Altai-Sayan Mountains.</b>
-            </div> We discovered that the Altai-Sayan Moutains of Southern Siberia are probably the best
+            </div>
+             We discovered that the Altai-Sayan Moutains of Southern Siberia are probably the best
             preserved refugium of full-glacial biota in Eurasia. This finding was supported by
             considerable similarity of modern pollen deposition from the Western Sayan Mountains
             with fossil pollen spectra from the Late Pleistocene deposits in Central Europe (Kuneš
@@ -491,7 +549,8 @@ export const cz = {
             (Chytrý et al. 2010, Horsák et al. 2010a).
             <div>
               <b>The most species-rich forests in extratropical Eurasia.</b>
-            </div>             We discovered that birch-pine hemiboreal forests in the northern Altai Mountains
+            </div>
+             We discovered that birch-pine hemiboreal forests in the northern Altai Mountains
             locally contain extremely high numbers of vascular plant species (up to 114 species per
             100 m² or 149 species per 1000 m²). These are so far the highest values of fine-scale
             species richness reported for forests in temperate and boreal Eurasia (Chytrý et al.
@@ -550,8 +609,8 @@ export const cz = {
             <li>
               Axmanová I., Chytrý M., Danihelka J., Lustyk P., Kočí M., Kubešová S., Horsák M.,
               Cherosov M.M. &amp; Gogoleva P.A. (2013): Plant species richness-productivity
-              relationships in a low-productive boreal region. Plant Ecology 214: 207-219.- 
-              <a href="">fulltext on SpringerLink</a>
+              relationships in a low-productive boreal region. Plant Ecology 214: 207-219.- 
+              <a href="">fulltext on SpringerLink</a>
             </li>
             <li>
               Axmanová I., Chytrý M., Zelený D., Li C.-F., Vymazalová M., Danihelka J., Horsák M.,
@@ -714,14 +773,69 @@ export const cz = {
     project3: {
       name: "project3",
       title: `Biodiverzita měst`,
+      body: (
+        <div>
+          <div>
+            <h3>Editor</h3> Zdeňka Lososová
+          </div>
+          <div>
+            <h3>Spolupráce</h3> Tomáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Karel
+            Fajmon (ČSOP Bílé Karpaty), Michal Horsák, Milan Chytrý, Lucie Juřičková (UK Praha),
+            Veronika Kalusová, Deana Láníková, Zdenka Preislerová, Vladimír Řehořek, Lubomír Tichý,
+            Bohuslav Uher
+          </div>
+          <div>
+            <h3>Finanční podpora</h3>
+            Tomáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Karel Fajmon (ČSOP Bílé
+            Karpaty), Michal Horsák, Milan Chytrý, Lucie Juřičková (UK Praha), Veronika Kalusová,
+            Deana Láníková, Zdenka Preislerová, Vladimír Řehořek, Lubomír Tichý, Bohuslav Uher
+          </div>
+          <div>
+            <li>Grantová agentura České republiky 14-10723S</li>
+            <li>Grantová agentura Akademie věd České republiky, projekt č. IAA601630803</li>
+            <li>
+              Výzkumný záměr MSM 0021622416 Ministerstva školství, mládeže a tělovýchovy České
+              republiky
+            </li>
+          </div>
+          <div>
+            <h3>Cíle</h3>
+            <div>
+              Projekt se zabývá biodiverzitou velkých středoevropských měst. Pomocí
+              standardizovaných protokolů sběru dat jsme ve vybraných antropogenních biotopech a
+              vybraných městech, reprezentujících různé makroklimatické a socioekonomické oblasti
+              střední Evropy, studovali tři modelové taxonomické a ekologické skupiny: cévnaté
+              rostliny, terestričtí plži a epilitické a epixylické terestrické řasy a sinice. Na
+              těchto organismech jsme řešili čtyři hlavní okruhy otázek
+            </div>
+            <li>
+              Jak závisí šíření nepůvodních druhů na makroklimatu různých částí střední Evropy a na
+              různých typech městských biotopů?
+            </li>
+            <li>
+              Působí městské prostředí negativně nebo pozitivně na diverzitu původních druhů a na
+              celkovou druhovou bohatost vybraných taxonomických skupin?
+            </li>
+            <li>
+              Způsobuje urbanizace biotickou homogenizaci městských biotopů, a pokud ano, projevuje
+              se homogenizace na úrovni druhů i na úrovni druhových vlastností? Které biotopy a
+              které skupiny druhů jsou homogenizací nejvíce postiženy?
+            </li>
+            <li>
+              Jsou trendy v diverzitě městských biotopů konzistentní v různých taxonomických
+              skupinách?
+            </li>
+          </div>
+        </div>
+      )
     },
     project4: {
       name: "project4",
-      title: `Fylogenetická a funkční diverzita rostlinných společenstev`,
+      title: `Fylogenetická a funkční diverzita rostlinných společenstev`
     },
     project5: {
       name: "project5",
-      title: `Fylogenetická a funkční diverzita rostlinných společenstev`,
+      title: `Fylogenetická a funkční diverzita rostlinných společenstev`
     }
   },
   general: {

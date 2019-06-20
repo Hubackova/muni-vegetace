@@ -2,11 +2,11 @@ export const en = {
   resourcesList: [
     {
       name: "Česká národní fytocenologická databáze",
-      link: ""
+      linkTo: "/phytosociologicalDb"
     },
     {
       name: "Vegetace ČR (monografie)",
-      link: ""
+      linkTo: "/vegetationCR"
     },
     {
       name: "JUICE",
@@ -14,7 +14,7 @@ export const en = {
     },
     {
       name: "Expertní systém",
-      link: ""
+      linkTo: "/expertSystem"
     },
     {
       name: "Pladias",
@@ -39,11 +39,11 @@ export const cz = {
     resourcesList: [
       {
         name: "Česká národní fytocenologická databáze",
-        link: ""
+        linkTo: "/phytosociologicalDb"
       },
       {
         name: "Vegetace ČR (monografie)",
-        link: ""
+        linkTo: "/vegetationCR"
       },
       {
         name: "JUICE",
@@ -51,7 +51,7 @@ export const cz = {
       },
       {
         name: "Expertní systém",
-        link: ""
+        linkTo: "/expertSystem"
       },
       {
         name: "Pladias",

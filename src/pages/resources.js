@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-
+import { Link } from "gatsby";
 import { Consumer } from "../layouts/Context";
 import { cz, en } from "../content/resources";
 
@@ -11,15 +11,17 @@ const ResourcesPage = () => (
       return (
         <Container>
           <GridWrapper>
-            {data.resourcesList.map(resource => (
-              <ResourceBox
-                href={resource.link}
-                key={resource.name}
-                target="_blanc"
-              >
-                {resource.name}
-              </ResourceBox>
-            ))}
+            {data.resourcesList.map(resource =>
+              resource.link ? (
+                <ResourceBox href={resource.link} key={resource.name} target="_blanc">
+                  {resource.name}
+                </ResourceBox>
+              ) : (
+                <ResourceBoxLink to={resource.linkTo} key={resource.name} target="_blanc">
+                  {resource.name}
+                </ResourceBoxLink>
+              )
+            )}
           </GridWrapper>
         </Container>
       );
@@ -44,6 +46,24 @@ const Container = styled.div`
 `;
 
 const ResourceBox = styled.a`
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: lightGrey;
+  padding: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover,
+  &:focus,
+  &.active {
+    color: black;
+    background-color: darkGrey;
+  }
+`;
+
+const ResourceBoxLink = styled(Link)`
   background-color: grey;
   display: flex;
   justify-content: center;

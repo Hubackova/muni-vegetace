@@ -1,23 +1,28 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { StaticQuery, graphql } from "gatsby";
+import { Link } from "gatsby";
 import styled from "styled-components";
-import ProjectBox from "../../components/projects/ProjectBox";
 import { Consumer } from "../../layouts/Context";
 import { cz, en } from "../../content/projects";
-import projectImg from "../../../static/images/projects/project1.jpg";
+import project3 from "../../../static/images/projects/project3.jpg";
 
 const Databases = ({ data }) => (
   <RightPanel>
     <Consumer>
-      {({ int }) => (
-        <Container>
-          <img src={projectImg} width="100%" />
-          <img src={projectImg} width="100%" />
-          <img src={projectImg} width="100%" />
-          <img src={projectImg} width="100%" />
-        </Container>
-      )}
+      {({ int }) => {
+        const projects = int === "en" ? en : cz;
+        return (
+          <GridWrapper>
+            {Object.values(projects.projectsList)
+              .slice(0, -1)
+              .map(project => (
+                <ResourceBox to={project.name} key={project.name} img={project3}>
+                  <span>{project.title}</span>
+                </ResourceBox>
+              ))}
+          </GridWrapper>
+        );
+      }}
     </Consumer>
   </RightPanel>
 );
@@ -27,13 +32,6 @@ export default Databases;
 Databases.propTypes = {
   text: PropTypes.object
 };
-const Container = styled.div`
-  display: grid;
-  grid-template-columns: repeat(2, minmax(20vw, 20vw));
-  grid-gap: 5px;
-  justify-content: center;
-
-`;
 
 const RightPanel = styled.div`
   flex: 1;
@@ -47,5 +45,44 @@ const RightPanel = styled.div`
     border: 0;
     border-top: 1px solid ${props => props.theme.grey};
     padding-top: 1em;
+  }
+`;
+
+const GridWrapper = styled.div`
+  display: grid;
+  grid-template-columns: repeat(2, 20vw);
+  grid-template-rows: repeat(2, 20vw);
+  grid-gap: 1vw;
+`;
+
+const ResourceBox = styled(Link)`
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  padding: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover,
+  &:focus,
+  &.active {
+    color: white;
+    ::after {
+      opacity: 0.8;
+    }
+  }
+  ::after {
+    content: "";
+    background-image: url(${props => props.img});
+    opacity: 0.3;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
   }
 `;
