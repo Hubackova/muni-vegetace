@@ -5,13 +5,6 @@ export const en = {
     project1: {
       name: "project1",
       title: `European Vegetation Syntheses`,
-      coordination: "",
-      participantsMuni: [""],
-      participantsOthers: [""],
-      funding: [""],
-      projectAims: "",
-      mainResults: "",
-      researchPapers: ""
     },
     project2: {
       name: "project2",
@@ -353,35 +346,14 @@ export const en = {
     project3: {
       name: "project3",
       title: `Biodiverzita měst`,
-      coordination: "",
-      participantsMuni: [""],
-      participantsOthers: [""],
-      funding: [""],
-      projectAims: "",
-      mainResults: "",
-      researchPapers: ""
     },
     project4: {
       name: "project4",
       title: `Fylogenetická a funkční diverzita rostlinných společenstev`,
-      coordination: "",
-      participantsMuni: [""],
-      participantsOthers: [""],
-      funding: [""],
-      projectAims: "",
-      mainResults: "",
-      researchPapers: ""
     },
     project5: {
       name: "project5",
       title: `Fylogenetická a funkční diverzita rostlinných společenstev`,
-      coordination: "",
-      participantsMuni: [""],
-      participantsOthers: [""],
-      funding: [""],
-      projectAims: "",
-      mainResults: "",
-      researchPapers: ""
     }
   },
   general: {
@@ -401,13 +373,6 @@ export const cz = {
     project1: {
       name: "project1",
       title: `European Vegetation Syntheses`,
-      coordination: "",
-      participantsMuni: [""],
-      participantsOthers: [""],
-      funding: [""],
-      projectAims: "",
-      mainResults: "",
-      researchPapers: ""
     },
     project2: {
       name: "project2",
@@ -749,35 +714,14 @@ export const cz = {
     project3: {
       name: "project3",
       title: `Biodiverzita měst`,
-      coordination: "",
-      participantsMuni: [""],
-      participantsOthers: [""],
-      funding: [""],
-      projectAims: "",
-      mainResults: "",
-      researchPapers: ""
     },
     project4: {
       name: "project4",
       title: `Fylogenetická a funkční diverzita rostlinných společenstev`,
-      coordination: "",
-      participantsMuni: [""],
-      participantsOthers: [""],
-      funding: [""],
-      projectAims: "",
-      mainResults: "",
-      researchPapers: ""
     },
     project5: {
       name: "project5",
       title: `Fylogenetická a funkční diverzita rostlinných společenstev`,
-      coordination: "",
-      participantsMuni: [""],
-      participantsOthers: [""],
-      funding: [""],
-      projectAims: "",
-      mainResults: "",
-      researchPapers: ""
     }
   },
   general: {
