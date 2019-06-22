@@ -58,9 +58,8 @@ class ProjectDetail extends Component {
         <Consumer>
           {({ int }) => {
             const data = int === "en" ? en : cz;
-            const projectData = data.projectsList[name];
+            const projectData = data.projectsList[`${name}${int}`];
             const captions = false;
-
             const captionsArray = captions ? captions.split("/") : [];
 
             const imgs =

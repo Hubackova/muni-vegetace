@@ -63,6 +63,7 @@ const ResourceBox = styled(Link)`
   ::after {
     content: "";
     background-image: url(${props => props.img});
+    background-size: 20vw;
     opacity: 0.3;
     top: 0;
     left: 0;
