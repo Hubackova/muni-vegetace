@@ -1,6 +1,6 @@
 ﻿import smerdova from '../../static/images/people/smerdova.jpg'
 
-export const staffEn = [
+export const peopleEn = [
   {
     id: `chytry`,
     name: `Milan Chytrý`,
@@ -29,7 +29,7 @@ export const staffEn = [
   },
 ]
 
-export const staffCz = [
+export const peopleCz = [
   {
     id: `chytry`,
     name: `Milan Chytrý`,

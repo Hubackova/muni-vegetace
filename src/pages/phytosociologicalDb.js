@@ -6,7 +6,7 @@ import { Consumer } from "../layouts/Context";
 import { cz, en } from "../content/phytosociologicalDb";
 
 const PhytosociologicalDbPage = () => {
-  const [opened, setOpened] = useState("menuIntroduction");
+  const [opened, setOpened] = useState("introduction");
   return (
     <MainContainer>
       <Consumer>

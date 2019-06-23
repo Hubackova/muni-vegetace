@@ -50,8 +50,8 @@ const RightPanel = styled.div`
 
 const GridWrapper = styled.div`
   display: grid;
-  grid-template-columns: repeat(2, 20vw);
-  grid-template-rows: repeat(2, 20vw);
+  grid-template-columns: repeat(2, 15vw);
+  grid-template-rows: repeat(2, 15vw);
   grid-gap: 1vw;
 `;
 
@@ -77,6 +77,7 @@ const ResourceBox = styled(Link)`
   ::after {
     content: "";
     background-image: url(${props => props.img});
+    background-size: 15vw;
     opacity: 0.3;
     top: 0;
     left: 0;

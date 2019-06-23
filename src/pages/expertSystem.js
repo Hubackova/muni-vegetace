@@ -8,7 +8,7 @@ const ExpertSystemPage = () => (
   <Consumer>
     {({ int }) => {
       const data = int === "en" ? en : cz;
-      return <Container>Expert system - in progress</Container>;
+      return <Container>{data.body}</Container>;
     }}
   </Consumer>
 );
@@ -18,5 +18,5 @@ ExpertSystemPage.propTypes = {};
 export default ExpertSystemPage;
 const Container = styled.div`
   margin: 0 auto;
-  width: 84vw;
+  width: 80vw;
 `;

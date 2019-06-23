@@ -2,17 +2,17 @@ import React, { Component } from "react";
 import { Consumer } from "../layouts/Context";
 import styled from "styled-components";
 import People from "../components/people/People";
-import { staffCz, staffEn } from "../content/staff";
+import { peopleCz, peopleEn } from "../content/people";
 import { cz, en } from "../content/general";
 
-class Staff extends Component {
+class people extends Component {
   render() {
     return (
       <Consumer>
         {({int}) => (
           <Container>
             <People
-              staffData={int === "en" ? staffEn : staffCz}
+              peopleData={int === "en" ? peopleEn : peopleCz}
               data={int === "en" ? en : cz}
             />
           </Container>
@@ -22,7 +22,7 @@ class Staff extends Component {
   }
 }
 
-export default Staff;
+export default people;
 
 const Container = styled.div`
   display: flex;

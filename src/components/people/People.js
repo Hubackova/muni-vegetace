@@ -8,30 +8,30 @@ import styled from 'styled-components'
 
 class People extends Component {
   render() {
-    const {staffData, data} = this.props
-    const people = staffData.map(i => <PersonBox personInfo={i} key={i.id} data={data}/>)
+    const {peopleData, data} = this.props
+    const people = peopleData.map(i => <PersonBox personInfo={i} key={i.id} data={data}/>)
     return (
       <React.Fragment>
         <MenuContainer>
           <Li isVisible={true}>
-            <StyledLink activeClass="active" to="staff" spy={true} smooth={true} duration={500}>
+            <StyledLink activeClass="active" to="people" spy={true} smooth={true} duration={500}>
               Lidé
             </StyledLink>
           </Li>
           <Li isVisible={true}>
-            <StyledLink activeClass="active" to="formerstaff" spy={true} smooth={true} duration={500}>
+            <StyledLink activeClass="active" to="formerpeople" spy={true} smooth={true} duration={500}>
             Bývalí akademiční a výzkumní pracovníci
             </StyledLink>
           </Li>
         </MenuContainer>
 
-        <Element name="staff" className="element">
-          <H2>{data.staff}</H2>
+        <Element name="people" className="element">
+          <H2>{data.people}</H2>
         </Element>
         {people}
         {/* TODO */}
 
-        <Element name="formerstaff" className="element">
+        <Element name="formerpeople" className="element">
           <H2>Bývalí akademiční a výzkumní pracovníci</H2>
         </Element>
          <div><strong  style={{color: "#C0C844"}}>Borja Jiménez-Alfaro</strong> - borja.jimenez-alfaro@botanik.uni-halle.de</div>
@@ -47,7 +47,7 @@ export default People
 People.propTypes = {
   data: PropTypes.object,
   studentsData: PropTypes.array,
-  staffData: PropTypes.array,
+  peopleData: PropTypes.array,
 }
 
 const StyledLink = styled(Link)`

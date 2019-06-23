@@ -93,7 +93,7 @@ const BookImg = styled.img`
   margin-right: 20px;
   filter: grayscale(100%);
   &:hover {
-    filter: grayscale(0%);
+    filter: grayscale(50%);
   }
   &.active {
     filter: grayscale(0%);
