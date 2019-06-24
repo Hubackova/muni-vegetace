@@ -5,7 +5,7 @@ export const peopleEn = [
     id: `chytry`,
     name: `Milan Chytrý`,
     position: `Group Head`,
-    description: `test`,
+    description: `tohle je test`,
     email: `chytry@sci.muni.cz`,
     is: `http://www.sci.muni.cz/botany/chytry/`,
   },
