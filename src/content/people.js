@@ -29,6 +29,17 @@ export const peopleEn = [
     is: `https://is.muni.cz/osoba/75764`,
     img: smerdova
   },
+  {
+    id: `drevojan`,
+    name: `Pavel Dřevojan`,
+    position: `Researcher`,
+    description: ``,
+    email: `269768@mail.muni.cz`,
+    phoneNumber: `549498486`,
+    researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
+    is: `https://is.muni.cz/osoba/269768`,
+    img: drevojan
+  },
 ]
 
 export const peopleCz = [
