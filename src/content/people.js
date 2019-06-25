@@ -1,4 +1,9 @@
 ﻿import smerdova from '../../static/images/people/smerdova.jpg'
+import divisek from '../../static/images/people/divisek.jpg'
+import drevojan from '../../static/images/people/drevojan.jpg'
+import bonari from '../../static/images/people/bonari.jpg'
+import novak from '../../static/images/people/novak.jpg'
+import jaskova from '../../static/images/people/jaskova.jpg'
 
 export const peopleEn = [
   {
@@ -36,24 +41,37 @@ export const peopleCz = [
     position: `Vedoucí skupiny`,
     description: ``,
     email: `chytry@sci.muni.cz`,
+	phoneNumber: `549494595`,
+    researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
     is: `http://www.sci.muni.cz/botany/chytry/`,
   },
   {
     id: `lososova`,
     name: `Zdeňka Lososová`,
-    position: `Odborná pracovnice`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `lososova@sci.muni.cz`,
   },
   {
     id: `smerdova`,
     name: `Eva Šmerdová`,
-    position: `Odborná pracovnice`,
+    position: `Odborný pracovník`,
     description: `Eva Šmerdová získala bakalářský titul na Ostravské Univerzitě, její práce se zaměřovala na flóru a vegetaci hald. Magisterské studium botaniky ukončila v roce 2006 na PřF Masarykovy Univerzity v Brně diplomovou prací zabývající se vlivem kontaktních společenstev na druhové složení lučních pramenišť. Doktorskou práci na téma druhová bohatost a variabilita rostlin a měkkýšů na vlhkostním gradientu obhájila v roce 2013. V současné době se mimo jiné zabývá tvorbou databáze rostlinných makrozbytků České a Slovenské republiky a doplňováním vegetačních snímků a jiných údajů pro projekt PLADIAS. Ráda cestuje s kolegy po rodné vlasti i do zahraničí a sbírá terénní data k dalšímu výzkumu ekologie mokřadů i jiných biotopů.`,
     email: `eva.hette@centrum.cz`,
     phoneNumber: `549498487`,
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
     is: `https://is.muni.cz/osoba/75764`,
     img: smerdova
+  }
+  {
+    id: `drevojan`,
+    name: `Pavel Dřevojan`,
+    position: `Odborný pracovník`,
+    description: `Pavel Dřevojan vystudoval obor Botanika, směr Ekologie rostlin na Přírodovědecké fakultě Masarykovy univerzity v Brně. Ve své bakalářské práci se věnoval xerotermní flóře a vegetaci zářezů železniční trati Veselí nad Moravou – Vrbovce a v rámci diplomové práce studoval diverzitu vegetace polních plevelů jihovýchodního Znojemska. Mezi jeho hlavní zájmy patří studium flóry a vegetace jižní Moravy.`,
+    email: `269768@mail.muni.cz`,
+    phoneNumber: `549498486`,
+    researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
+    is: `https://is.muni.cz/osoba/269768`,
+    img: drevojan
   }
 ]
