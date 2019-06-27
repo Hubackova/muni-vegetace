@@ -1,6 +1,7 @@
 ﻿import smerdova from '../../static/images/people/smerdova.jpg'
 import drevojan from '../../static/images/people/drevojan.jpg'
-
+import lososova from '../../static/images/people/lososova.jpg'
+import bonari from '../../static/images/people/bonari.jpg'
 
 export const peopleEn = [
   {
@@ -15,8 +16,12 @@ export const peopleEn = [
     id: `lososova`,
     name: `Zdeňka Lososová`,
     position: `Researcher`,
-    description: ``,
+    description: `Zdeňka Lososová has been employed at the Department of Botany and Zoology of the Masaryk University since 2004. She is a guarantee of study programmes of Secondary school teacher training in biology. She leads the botanical and geobotanical seminars, she also participates on leading field course of Methods of geobotany. Her current scientific interests focus on diversity of vegetation, her main interest goes mainly to the vegetation of human made habitats. One of the main study areas is effect of urban environment on occurrences of vascular plants in European cities. Closely related study topics are those of biological invasions. Recently she focusses on the research of phylogenetic and functional diversity of plant communities. Based on these characteristics of plant communities she try to explain the role of environmental filtering and biotic interactions on the community assembly.`,
     email: `lososova@sci.muni.cz`,
+	phoneNumber: `549498399`,
+    researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
+    is: `https://is.muni.cz/auth/osoba/5767`,
+	img: lososova
   },
   {
     id: `smerdova`,
@@ -28,6 +33,17 @@ export const peopleEn = [
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
     is: `https://is.muni.cz/osoba/75764`,
     img: smerdova
+  },
+  {
+    id: `bonari`,
+    name: `Gianmaria Bonari`,
+    position: `Researcher`,
+    description: `Gianmaria Bonari received his B.Sc., M.Sc. and Ph.D. at the University of Siena (Italy). Currently, he is a postdoctoral researcher at the Masaryk University of Brno (Czech Republic). His scientific interests fill the niches of Botany and Vegetation Science. His research involves a thorough understanding of European (but also North African and Near East ones) pine forests, with a particular focus on the Mediterranean and Submediterranean types. His academic training includes ecoinformatics, classification of plant communities and habitats, management and conservation aspects, also favouring an integrated view which fosters crosswalks between plant and animal communities. He is the custodian of the CircumMed vegetation-plot database which was developed for broad-scale studies on vegetation classification, plant invasion ecology, macroecology and biological conservation. Being a vegetation ecologist, he is aware that the understanding of the complexity of communities also passes by field research. This makes him an active field botanist.`,
+    email: `gianmaria.bonari@gmail.com`,
+    phoneNumber: `549498479`,
+    researchgate: `https://www.researchgate.net/profile/Gianmaria_Bonari2`,
+    is: `https://is.muni.cz/auth/osoba/403975`,
+    img: bonari
   },
   {
     id: `drevojan`,
@@ -56,9 +72,13 @@ export const peopleCz = [
   {
     id: `lososova`,
     name: `Zdeňka Lososová`,
-    position: `Odborný pracovník`,
-    description: ``,
+    position: `Docent`,
+    description: `Zdeňka Lososová pracuje na Ústavu botaniky a zoologie od roku 2004. Je garantkou bakalářského a navazujícího magisterského studia učitelství biologie pro střední školy. Podílí se na výuce botanických a geobotanických seminářů a terénního cvičení z geobotaniky. Ve výzkumu se zabývá diverzitou vegetace, soustředí se především (ale nejenom) na vegetaci antropogenních stanovišť. Jedním z hlavních výzkumných témat je  vliv prostředí velkých evropských měst na výskyt cévnatých rostlin. S tímto tématem souvisí otázky invazní biologie. V posledních letech se soustředí na studium funkční a fylogenetické diverzity rostlinných společenstev. Pomocí těchto charakteristik rostlinných společenstev se snaží pochopit, do jaké míry utvářejí rostlinná společenstva podmínky prostředí a do jaké míry to jsou biotické interakce.`,
     email: `lososova@sci.muni.cz`,
+	phoneNumber: `549498399`,
+    researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
+    is: `https://is.muni.cz/auth/osoba/5767`,
+	img: lososova
   },
   {
     id: `smerdova`,
@@ -70,6 +90,17 @@ export const peopleCz = [
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
     is: `https://is.muni.cz/osoba/75764`,
     img: smerdova
+  },
+    {
+    id: `bonari`,
+    name: `Gianmaria Bonari`,
+    position: `Researcher`,
+    description: `Gianmaria Bonari received his B.Sc., M.Sc. and Ph.D. at the University of Siena (Italy). Currently, he is a postdoctoral researcher at the Masaryk University of Brno (Czech Republic). His scientific interests fill the niches of Botany and Vegetation Science. His research involves a thorough understanding of European (but also North African and Near East ones) pine forests, with a particular focus on the Mediterranean and Submediterranean types. His academic training includes ecoinformatics, classification of plant communities and habitats, management and conservation aspects, also favouring an integrated view which fosters crosswalks between plant and animal communities. He is the custodian of the CircumMed vegetation-plot database which was developed for broad-scale studies on vegetation classification, plant invasion ecology, macroecology and biological conservation. Being a vegetation ecologist, he is aware that the understanding of the complexity of communities also passes by field research. This makes him an active field botanist.`,
+    email: `gianmaria.bonari@gmail.com`,
+    phoneNumber: `549498479`,
+    researchgate: `https://www.researchgate.net/profile/Gianmaria_Bonari2`,
+    is: `https://is.muni.cz/auth/osoba/403975`,
+    img: bonari
   },
   {
     id: `drevojan`,
