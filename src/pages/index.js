@@ -1,31 +1,31 @@
-import React, {Component} from 'react'
-import {injectGlobal} from 'styled-components'
-import PropTypes from 'prop-types'
-import 'font-awesome/css/font-awesome.min.css'
-import ContainerWrapper from '../components/atoms/ContainerWrapper'
-import Homepage from '../components/homepage/Homepage'
-import Databases from '../components/homepage/Databases'
-import {Consumer} from '../layouts/Context'
-import {cz, en} from '../content/general'
+import React, { Component } from "react";
+import { injectGlobal } from "styled-components";
+import PropTypes from "prop-types";
+import "font-awesome/css/font-awesome.min.css";
+import ContainerWrapper from "../components/atoms/ContainerWrapper";
+import Homepage from "../components/homepage/Homepage";
+import Databases from "../components/homepage/Databases";
+import { Consumer } from "../layouts/Context";
+import { cz, en } from "../content/general";
 
 const index = () => {
   return (
     <Consumer>
-    {({int}) => (
-      <ContainerWrapper>
-        <Homepage />
-        <Databases text={int === 'en' ? en : cz} style={{flex: 1}}/>
-      </ContainerWrapper>
-    )}
-  </Consumer>
+      {({ int }) => (
+        <ContainerWrapper>
+          <Homepage />
+          <Databases text={int === "en" ? en : cz} style={{ flex: 1 }} />
+        </ContainerWrapper>
+      )}
+    </Consumer>
   );
 };
 
-export default index
+export default index;
 
 index.propTypes = {
   location: PropTypes.object
-}
+};
 
 // TODO: move this section to gatsby-browser after solving the issue with global styles: https://github.com/gatsbyjs/gatsby/issues/7447
 injectGlobal`
@@ -88,18 +88,22 @@ a {
   background-color: #d2e3ef;
   li {padding-bottom: 15px}
   h3 {border-bottom: 1px solid #0868ac}
+  margin-top: 15px;
 }
 
 .project-theses {
   border: 1px solid #a8ddb5;
   padding: 0 20px;
   background-color: #d7efdd;
-  margin-top: 5px;
+  margin-top: 15px;
 }
-.main-results{
-  div {
-    padding-top: 1em;
-  }
+
+.main-results{  
+  border: 1px solid #C0C844;
+  padding: 0 20px;
+  background-color: #e5e6cc;
+  margin-top: 15px;
+  h3 {border-bottom: 1px solid #C0C844}
 }
 
 .project-body > p {
@@ -118,4 +122,4 @@ a {
 .cz .en{
   display: none;
 }
-`
+`;
