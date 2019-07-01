@@ -32,11 +32,11 @@ class People extends Component {
         {/* TODO */}
 
         <Element name="formerpeople" className="element">
-          <H2>Bývalí akademiční a výzkumní pracovníci</H2>
+          <H2>Bývalí akademičtí a výzkumní pracovníci</H2>
         </Element>
          <div><strong  style={{color: "#C0C844"}}>Borja Jiménez-Alfaro</strong> - borja.jimenez-alfaro@botanik.uni-halle.de</div>
          <div><strong  style={{color: "#C0C844"}}>Martin Kočí</strong> - nitramicok@gmail.com</div>
-
+		 <div><strong  style={{color: "#C0C844"}}>Ching Feng Li</strong> - chingfeng.li@gmail.com</div>
       </React.Fragment>
     )
   }
