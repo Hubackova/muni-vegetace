@@ -21,7 +21,7 @@ export const peopleEn = [
     phoneNumber: `549493473`,
     researchgate: ``,
     is: `https://www.muni.cz/lide/5926-jiri-danihelka`,
-    img: danihelka
+    img: 
   },
   {
     id: `divisek`,
@@ -32,8 +32,19 @@ export const peopleEn = [
     phoneNumber: `549498494`,
     researchgate: ``,
     is: ``,
-    img: divisek
+    img: 
   }, 
+  {
+    id: `lososova`,
+    name: `Zdeňka Lososová`,
+    position: `Researcher`,
+    description: `Zdeňka Lososová has been employed at the Department of Botany and Zoology of the Masaryk University since 2004. She is a guarantee of study programmes of Secondary school teacher training in biology. She leads the botanical and geobotanical seminars, she also participates on leading field course of Methods of geobotany. Her current scientific interests focus on diversity of vegetation, her main interest goes mainly to the vegetation of human made habitats. One of the main study areas is effect of urban environment on occurrences of vascular plants in European cities. Closely related study topics are those of biological invasions. Recently she focusses on the research of phylogenetic and functional diversity of plant communities. Based on these characteristics of plant communities she try to explain the role of environmental filtering and biotic interactions on the community assembly.`,
+    email: `lososova@sci.muni.cz`,
+	phoneNumber: `549498399`,
+    researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
+    is: `https://www.muni.cz/en/people/5767-zdenka-lososova`,
+	img: lososova
+  },
   {
     id: `rolecek`,
     name: `Jan Roleček`,
@@ -43,7 +54,7 @@ export const peopleEn = [
     phoneNumber: `549498489`,
     researchgate: ``,
     is: ``,
-    img: rolecek
+    img: 
   },
   {
     id: `tesitel`,
@@ -54,7 +65,7 @@ export const peopleEn = [
     phoneNumber: `549496974`,
     researchgate: ``,
     is: ``,
-    img: tesitel
+    img: 
   },
    {
     id: `tichy`,
@@ -65,7 +76,7 @@ export const peopleEn = [
     phoneNumber: `549497673`,
     researchgate: ``,
     is: ``,
-    img: tichy
+    img: 
   },
   {
     id: ``,
@@ -78,17 +89,7 @@ export const peopleEn = [
     is: ``,
     img: 
   },
-   {
-    id: `lososova`,
-    name: `Zdeňka Lososová`,
-    position: `Researcher`,
-    description: `Zdeňka Lososová has been employed at the Department of Botany and Zoology of the Masaryk University since 2004. She is a guarantee of study programmes of Secondary school teacher training in biology. She leads the botanical and geobotanical seminars, she also participates on leading field course of Methods of geobotany. Her current scientific interests focus on diversity of vegetation, her main interest goes mainly to the vegetation of human made habitats. One of the main study areas is effect of urban environment on occurrences of vascular plants in European cities. Closely related study topics are those of biological invasions. Recently she focusses on the research of phylogenetic and functional diversity of plant communities. Based on these characteristics of plant communities she try to explain the role of environmental filtering and biotic interactions on the community assembly.`,
-    email: `lososova@sci.muni.cz`,
-	phoneNumber: `549498399`,
-    researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
-    is: `https://www.muni.cz/en/people/5767-zdenka-lososova`,
-	img: lososova
-  },
+   
   {
     id: `smerdova`,
     name: `Eva Šmerdová (Hettenbergerová)`,
