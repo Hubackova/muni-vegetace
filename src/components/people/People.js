@@ -37,6 +37,12 @@ class People extends Component {
          <div><strong  style={{color: "#C0C844"}}>Borja Jiménez-Alfaro</strong> - borja.jimenez-alfaro@botanik.uni-halle.de</div>
          <div><strong  style={{color: "#C0C844"}}>Martin Kočí</strong> - nitramicok@gmail.com</div>
 		 <div><strong  style={{color: "#C0C844"}}>Ching Feng Li</strong> - chingfeng.li@gmail.com</div>
+		 <div><strong  style={{color: "#C0C844"}}>Kristina Merunkova</strong> - merunkova@sci.muni.cz</div>
+		 <div><strong  style={{color: "#C0C844"}}>Salza Palpurina</strong> - salza.palpurina@gmail.com</div>
+		 <div><strong  style={{color: "#C0C844"}}>Barbora Pelánková</strong> - 	bpelankova@gmail.com</div>
+		 <div><strong  style={{color: "#C0C844"}}>Marie Vymazalová</strong> - meri@seznam.cz</div>
+		 <div><strong  style={{color: "#C0C844"}}>Viktoria Wagner</strong> - wagner_at_sci.muni.cz</div>
+		 <div><strong  style={{color: "#C0C844"}}>David Zelený</strong> - zeleny.david_at_gmail.com</div>
       </React.Fragment>
     )
   }
