@@ -13,6 +13,72 @@ export const peopleEn = [
     is: `http://www.sci.muni.cz/botany/chytry/`,
   },
   {
+    id: `danihelka`,
+    name: `Jiří Danihelka`,
+    position: `Researcher`,
+    description: ``,
+    email: `danihel@sci.muni.cz`,
+    phoneNumber: `549493473`,
+    researchgate: ``,
+    is: `https://www.muni.cz/lide/5926-jiri-danihelka`,
+    img: danihelka
+  },
+  {
+    id: `divisek`,
+    name: `Jan Divíšek`,
+    position: `Researcher`,
+    description: ``,
+    email: `divisekjan@mail.muni.cz`,
+    phoneNumber: `549498494`,
+    researchgate: ``,
+    is: ``,
+    img: divisek
+  }, 
+  {
+    id: `rolecek`,
+    name: `Jan Roleček`,
+    position: `Researcher`,
+    description: ``,
+    email: `honza.rolecek@centrum.cz`,
+    phoneNumber: `549498489`,
+    researchgate: ``,
+    is: ``,
+    img: rolecek
+  },
+  {
+    id: `tesitel`,
+    name: ``,
+    position: `Researcher`,
+    description: ``,
+    email: `tesitel@sci.muni.cz`,
+    phoneNumber: `549496974`,
+    researchgate: ``,
+    is: ``,
+    img: tesitel
+  },
+   {
+    id: `tichy`,
+    name: ``,
+    position: `Researcher`,
+    description: ``,
+    email: `tichy@sci.muni.cz`,
+    phoneNumber: `549497673`,
+    researchgate: ``,
+    is: ``,
+    img: tichy
+  },
+  {
+    id: ``,
+    name: ``,
+    position: `Researcher`,
+    description: ``,
+    email: ``,
+    phoneNumber: ``,
+    researchgate: ``,
+    is: ``,
+    img: 
+  },
+   {
     id: `lososova`,
     name: `Zdeňka Lososová`,
     position: `Researcher`,
@@ -20,7 +86,7 @@ export const peopleEn = [
     email: `lososova@sci.muni.cz`,
 	phoneNumber: `549498399`,
     researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
-    is: `https://is.muni.cz/auth/osoba/5767`,
+    is: `https://www.muni.cz/en/people/5767-zdenka-lososova`,
 	img: lososova
   },
   {
@@ -31,7 +97,7 @@ export const peopleEn = [
     email: `eva.hette@centrum.cz`,
     phoneNumber: `549498487`,
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
-    is: `https://is.muni.cz/osoba/75764`,
+    is: `https://www.muni.cz/en/people/75764-eva-smerdova`,
     img: smerdova
   },
   {
@@ -42,7 +108,7 @@ export const peopleEn = [
     email: `gianmaria.bonari@gmail.com`,
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Gianmaria_Bonari2`,
-    is: `https://is.muni.cz/auth/osoba/403975`,
+    is: `https://www.muni.cz/en/people/403975-gianmaria-bonari`,
     img: bonari
   },
   {
@@ -53,7 +119,7 @@ export const peopleEn = [
     email: `269768@mail.muni.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
-    is: `https://is.muni.cz/osoba/269768`,
+    is: `https://www.muni.cz/en/people/269768-pavel-drevojan`,
     img: drevojan
   },
 ]
@@ -77,7 +143,7 @@ export const peopleCz = [
     email: `lososova@sci.muni.cz`,
 	phoneNumber: `549498399`,
     researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
-    is: `https://is.muni.cz/auth/osoba/5767`,
+    is: `https://www.muni.cz/lide/5767-zdenka-lososova`,
 	img: lososova
   },
   {
@@ -88,7 +154,7 @@ export const peopleCz = [
     email: `eva.hette@centrum.cz`,
     phoneNumber: `549498487`,
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
-    is: `https://is.muni.cz/osoba/75764`,
+    is: `https://www.muni.cz/lide/75764-eva-smerdova`,
     img: smerdova
   },
     {
@@ -99,7 +165,7 @@ export const peopleCz = [
     email: `gianmaria.bonari@gmail.com`,
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Gianmaria_Bonari2`,
-    is: `https://is.muni.cz/auth/osoba/403975`,
+    is: `https://www.muni.cz/lide/403975-gianmaria-bonari`,
     img: bonari
   },
   {
@@ -110,7 +176,7 @@ export const peopleCz = [
     email: `269768@mail.muni.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
-    is: `https://is.muni.cz/osoba/269768`,
+    is: `https://www.muni.cz/lide/269768-pavel-drevojan`,
     img: drevojan
   },
 ]
