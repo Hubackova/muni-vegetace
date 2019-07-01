@@ -21,7 +21,6 @@ export const peopleEn = [
     phoneNumber: `549493473`,
     researchgate: ``,
     is: `https://www.muni.cz/lide/5926-jiri-danihelka`,
-    img: 
   },
   {
     id: `divisek`,
@@ -32,7 +31,6 @@ export const peopleEn = [
     phoneNumber: `549498494`,
     researchgate: ``,
     is: ``,
-    img: 
   }, 
   {
     id: `lososova`,
@@ -54,7 +52,6 @@ export const peopleEn = [
     phoneNumber: `549498489`,
     researchgate: ``,
     is: ``,
-    img: 
   },
   {
     id: `tesitel`,
@@ -65,9 +62,8 @@ export const peopleEn = [
     phoneNumber: `549496974`,
     researchgate: ``,
     is: ``,
-    img: 
   },
-   {
+  {
     id: `tichy`,
     name: ``,
     position: `Researcher`,
@@ -76,7 +72,6 @@ export const peopleEn = [
     phoneNumber: `549497673`,
     researchgate: ``,
     is: ``,
-    img: 
   },
   {
     id: ``,
@@ -87,9 +82,7 @@ export const peopleEn = [
     phoneNumber: ``,
     researchgate: ``,
     is: ``,
-    img: 
   },
-   
   {
     id: `smerdova`,
     name: `Eva Šmerdová (Hettenbergerová)`,
@@ -158,7 +151,7 @@ export const peopleCz = [
     is: `https://www.muni.cz/lide/75764-eva-smerdova`,
     img: smerdova
   },
-    {
+  {
     id: `bonari`,
     name: `Gianmaria Bonari`,
     position: `Researcher`,
