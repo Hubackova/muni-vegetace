@@ -20,7 +20,7 @@ class People extends Component {
           </Li>
           <Li isVisible={true}>
             <StyledLink activeClass="active" to="formerpeople" spy={true} smooth={true} duration={500}>
-            Bývalí akademiční a výzkumní pracovníci
+            Bývalí akademičtí a výzkumní pracovníci
             </StyledLink>
           </Li>
         </MenuContainer>
@@ -41,8 +41,8 @@ class People extends Component {
 		 <div><strong  style={{color: "#C0C844"}}>Salza Palpurina</strong> - salza.palpurina@gmail.com</div>
 		 <div><strong  style={{color: "#C0C844"}}>Barbora Pelánková</strong> - 	bpelankova@gmail.com</div>
 		 <div><strong  style={{color: "#C0C844"}}>Marie Vymazalová</strong> - meri@seznam.cz</div>
-		 <div><strong  style={{color: "#C0C844"}}>Viktoria Wagner</strong> - wagner_at_sci.muni.cz</div>
-		 <div><strong  style={{color: "#C0C844"}}>David Zelený</strong> - zeleny.david_at_gmail.com</div>
+		 <div><strong  style={{color: "#C0C844"}}>Viktoria Wagner</strong> - wagner@sci.muni.cz</div>
+		 <div><strong  style={{color: "#C0C844"}}>David Zelený</strong> - zeleny.david@gmail.com</div>
       </React.Fragment>
     )
   }
