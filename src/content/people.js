@@ -32,7 +32,7 @@ export const peopleEn = [
     id: `divisek`,
     name: `Jan Divíšek`,
     position: `Researcher`,
-    description: ``,
+    description: `Jan Divíšek studied Upper Secondary School Teacher Training in Biology and Geography at Masaryk University. He then continued with the Ph.D. study of Physical Geography at the same institution, and in 2015, he defended his Ph.D. thesis dealing with biogeography and beta diversity of species assemblages of various taxonomical groups of the Czech Republic. Currently, he works as an assistant professor at the Department of Botany and Zoology, and also at the Department of Geography of Masaryk University. He is mainly interested in biodiversity patterns, invasion ecology, and spatial modeling. Questions connected with his research include, for example: What is the effect of past landscape changes on current regional differences in plant species richness? What traits determine the success of alien species? or How does the distribution species or whole communities change in response to environmental changes?`,
     email: `divisekjan@mail.muni.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
@@ -255,7 +255,7 @@ export const peopleEn = [
     id: `drevojan`,
     name: `Pavel Døevojan`,
     position: `Researcher`,
-    description: ``,
+    description: `Pavel Døevojan studied Botany at the Faculty of Science of Masaryk University in Brno. In his bachelor thesis he devoted himself to xerothermic flora and vegetation of the railway cuttings along the track Veselí nad Moravou – Vrbovce, in the frame of his master thesis he studied the diversity of arable field vegetation of south-eastern Znojmo District. His main interests include the study of flora and vegetation of southern Moravia.`,
     email: `269768@mail.muni.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
@@ -285,7 +285,12 @@ export const peopleEn = [
     id: `jaskova`,
     name: `Anni Kanerva Jašková (Pyykönen)`,
     position: `Researcher`,
-    description: ``,
+    description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified
+European-scale vegetation classification of the boreal forests, but her
+interests lay also in theoretical ecology, i.e. plant strategies and
+plant-herbivore-interactions. Anni is originally from Finland, where she
+studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.
+`,
     email: `annipyy@mail.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
@@ -306,7 +311,7 @@ export const peopleEn = [
     id: `novak`,
     name: `Pavel Novák`,
     position: `Researcher`,
-    description: ``,
+    description: `Pavel Novák studied Botany (focused on plant ecology) at Masaryk University, Brno. He graduated in 2013. His master thesis was dealing with variability of forest vegetation of the Krumlovský les Forest and its surroundings (SW Moravia). In 2014, he started his ongoing Ph.D. study. It is aimed at variability and syntaxonomy of oak-hornbeam forests (order Carpinetalia) on European scale. Besides Central Europe, he is focused on forest vegetation of the Caucasus and Euxinian Region.`,
     email: `269109@mail.muni.cz`,
     phoneNumber: `549498485`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
@@ -370,7 +375,7 @@ export const peopleCz = [
     id: `divisek`,
     name: `Jan Divíšek`,
     position: `Researcher`,
-    description: ``,
+    description: `Jan Divíšek vystudoval uèitelství biologie a geografie na Masarykovì univerzitì. Následnì pokraèoval na téže instituci doktorským studiem v oboru Fyzická geografie a v roce 2015 obhájil disertaèní práci, která se zabývala biogeografií a beta diverzitou spoleèenstev rùzných taxonomických skupin Èeské republiky. V souèasnosti pracuje jako odborný asistent Ústavu botaniky a zoologie a také Geografického ústavu Masarykovy univerzity. Aktuálnì se vìnuje výzkumu biodiverzity, invazní ekologii a prostorovému modelování. Mezi otázky spojené s jeho výzkumem patøí napø.: Jaký je vliv historických zmìn krajiny na souèasné regionální rozdíly v druhové bohatosti rostlin? Jaké vlastnosti ovlivòují úspìšnost nepùvodních druhù? nebo Jak se mìní rozšíøení druhù i celých spoleèenstev v reakci na zmìny prostøení? `,
     email: `divisekjan@mail.muni.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
@@ -623,7 +628,12 @@ export const peopleCz = [
     id: `jaskova`,
     name: `Anni Kanerva Jašková (Pyykönen)`,
     position: `Researcher`,
-    description: ``,
+    description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified
+European-scale vegetation classification of the boreal forests, but her
+interests lay also in theoretical ecology, i.e. plant strategies and
+plant-herbivore-interactions. Anni is originally from Finland, where she
+studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.
+`,
     email: `annipyy@mail.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
@@ -644,7 +654,7 @@ export const peopleCz = [
     id: `novak`,
     name: `Pavel Novák`,
     position: `Researcher`,
-    description: ``,
+    description: `Pavel Novák studoval obor Botanika, smìr Ekologie rostlin na Pøírodovìdecké fakultì Masarykovy univerzity v Brnì. V roce 2013 obhájil diplomovou práci zamìøenou na diverzitu lesní vegetace Krumlovského lesa a okolí (JZ Morava), území vegetaènì velmi zajímavého a pøitom do té doby takøka neprozkoumaného. V roce 2014 zaèal svoje doktorské studium, ve kterém pokraèuje dodnes. Dizertaèní práce je zamìøena na variabilitu a syntaxonomii dubohabøin (øád Carpinetalia) na evropské škále. Vedle støední Evropy se vìnuje lesní vegetaci Kavkazu a Euxinie.`,
     email: `269109@mail.muni.cz`,
     phoneNumber: `549498485`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
