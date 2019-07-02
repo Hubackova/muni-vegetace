@@ -2,6 +2,10 @@ import smerdova from '../../static/images/people/smerdova.jpg'
 import drevojan from '../../static/images/people/drevojan.jpg'
 import lososova from '../../static/images/people/lososova.jpg'
 import bonari from '../../static/images/people/bonari.jpg'
+import divisek from '../../static/images/people/divisek.jpg'
+import jaskova from '../../static/images/people/jaskova.jpg'
+import novak from '../../static/images/people/novak.jpg'
+
 
 export const peopleEn = [
   {
@@ -33,6 +37,7 @@ export const peopleEn = [
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
     is: `https://www.muni.cz/en/people/106310-jan-divisek`,
+	img: divisek
   }, 
   {
     id: `lososova`,
@@ -276,6 +281,17 @@ export const peopleEn = [
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
     is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`,
   }, 
+   {
+    id: `jaskova`,
+    name: `Anni Kanerva Jašková (Pyykönen)`,
+    position: `Researcher`,
+    description: ``,
+    email: `annipyy@mail.muni.cz`,
+    phoneNumber: `549498395`,
+    researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
+    is: `https://www.muni.cz/en/people/452344-anni-kanerva-pyykoenen`,
+	img: jaskova
+  },
     {
     id: `kalnikova`,
     name: `Veronika Kalníková`,
@@ -295,17 +311,9 @@ export const peopleEn = [
     phoneNumber: `549498485`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
     is: `https://www.muni.cz/en/people/269109-pavel-novak`,
+	img: novak
   },
-   {
-    id: `jaskova`,
-    name: `Anni Kanerva Jašková (Pyykönen)`,
-    position: `Researcher`,
-    description: ``,
-    email: `annipyy@mail.muni.cz`,
-    phoneNumber: `549498395`,
-    researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
-    is: `https://www.muni.cz/en/people/452344-anni-kanerva-pyykoenen`,
-  },
+
    {
     id: `spanikova`,
     name: `Šárka Špániková`,
@@ -367,6 +375,7 @@ export const peopleCz = [
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
     is: `https://www.muni.cz/lide/106310-jan-divisek`,
+	img: divisek
   }, 
   {
     id: `lososova`,
@@ -611,6 +620,17 @@ export const peopleCz = [
     is: `https://www.muni.cz/lide/323585-marketa-chudomelova`,
   }, 
     {
+    id: `jaskova`,
+    name: `Anni Kanerva Jašková (Pyykönen)`,
+    position: `Researcher`,
+    description: ``,
+    email: `annipyy@mail.muni.cz`,
+    phoneNumber: `549498395`,
+    researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
+    is: `https://www.muni.cz/lide/452344-anni-kanerva-pyykoenen`,
+	img: jaskova
+  },
+    {
     id: `kalnikova`,
     name: `Veronika Kalníková`,
     position: `Researcher`,
@@ -629,17 +649,9 @@ export const peopleCz = [
     phoneNumber: `549498485`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
     is: `https://www.muni.cz/lide/269109-pavel-novak`,
+	img: novak
   },
-   {
-    id: `jaskova`,
-    name: `Anni Kanerva Jašková (Pyykönen)`,
-    position: `Researcher`,
-    description: ``,
-    email: `annipyy@mail.muni.cz`,
-    phoneNumber: `549498395`,
-    researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
-    is: `https://www.muni.cz/lide/452344-anni-kanerva-pyykoenen`,
-  },
+
    {
     id: `spanikova`,
     name: `Šárka Špániková`,
