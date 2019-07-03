@@ -406,7 +406,7 @@ export const peopleCz = [
   {
     id: `tesitel`,
     name: `Jakub Tìšitel`,
-    position: `Researcher`,
+    position: `Docent`,
     description: ``,
     email: `tesitel@sci.muni.cz`,
     phoneNumber: `549496974`,
@@ -597,7 +597,7 @@ export const peopleCz = [
    {
     id: `drevojan`,
     name: `Pavel Døevojan`,
-    position: `Odborný pracovník`,
+    position: `Technik`,
     description: `Pavel Døevojan vystudoval obor Botanika, smìr Ekologie rostlin na Pøírodovìdecké fakultì Masarykovy univerzity v Brnì. Ve své bakaláøské práci se vìnoval xerotermní flóøe a vegetaci záøezù železnièní trati Veselí nad Moravou – Vrbovce a v rámci diplomové práce studoval diverzitu vegetace polních plevelù jihovýchodního Znojemska. Mezi jeho hlavní zájmy patøí studium flóry a vegetace jižní Moravy.`,
     email: `269768@mail.muni.cz`,
     phoneNumber: `549498486`,
@@ -608,7 +608,7 @@ export const peopleCz = [
    {
     id: `galuskova`,
     name: `Hana Galušková`,
-    position: `Researcher`,
+    position: `Technik`,
     description: ``,
     email: `357936@mail.muni.cz`,
     phoneNumber: `549494813`,
