@@ -30,7 +30,7 @@ export const peopleEn = [
   },
   {
     id: `divisek`,
-    name: `Jan Divíšek`,
+    name: `Jan Divíšek Divíšek`,
     position: `Researcher`,
     description: `Jan Divíšek studied Upper Secondary School Teacher Training in Biology and Geography at Masaryk University. He then continued with the Ph.D. study of Physical Geography at the same institution, and in 2015, he defended his Ph.D. thesis dealing with biogeography and beta diversity of species assemblages of various taxonomical groups of the Czech Republic. Currently, he works as an assistant professor at the Department of Botany and Zoology, and also at the Department of Geography of Masaryk University. He is mainly interested in biodiversity patterns, invasion ecology, and spatial modeling. Questions connected with his research include, for example: What is the effect of past landscape changes on current regional differences in plant species richness? What traits determine the success of alien species? or How does the distribution species or whole communities change in response to environmental changes?`,
     email: `divisekjan@mail.muni.cz`,
@@ -373,7 +373,7 @@ export const peopleCz = [
   },
   {
     id: `divisek`,
-    name: `Jan Divíšek`,
+    name: `Jan Divíšek Divíšek`,
     position: `Researcher`,
     description: `Jan Divíšek vystudoval uèitelství biologie a geografie na Masarykovì univerzitì. Následnì pokraèoval na téže instituci doktorským studiem v oboru Fyzická geografie a v roce 2015 obhájil disertaèní práci, která se zabývala biogeografií a beta diverzitou spoleèenstev rùzných taxonomických skupin Èeské republiky. V souèasnosti pracuje jako odborný asistent Ústavu botaniky a zoologie a také Geografického ústavu Masarykovy univerzity. Aktuálnì se vìnuje výzkumu biodiverzity, invazní ekologii a prostorovému modelování. Mezi otázky spojené s jeho výzkumem patøí napø.: Jaký je vliv historických zmìn krajiny na souèasné regionální rozdíly v druhové bohatosti rostlin? Jaké vlastnosti ovlivòují úspìšnost nepùvodních druhù? nebo Jak se mìní rozšíøení druhù i celých spoleèenstev v reakci na zmìny prostøení? `,
     email: `divisekjan@mail.muni.cz`,
