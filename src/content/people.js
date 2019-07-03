@@ -10,7 +10,7 @@ import novak from '../../static/images/people/novak.jpg'
 export const peopleEn = [
   {
     id: `chytry`,
-    name: `Milan Chytrý`,
+    name: `Milan Chytrý Chytrý`,
     position: `Group Head`,
     description: ``,
     email: `chytry@sci.muni.cz`,
@@ -351,7 +351,7 @@ plant-herbivore-interactions. Anni is originally from Finland, where she studied
 export const peopleCz = [
   {
     id: `chytry`,
-    name: `Milan Chytrý`,
+    name: `Milan Chytrý Chytrý`,
     position: `Vedoucí skupiny`,
     description: ``,
     email: `chytry@sci.muni.cz`,
