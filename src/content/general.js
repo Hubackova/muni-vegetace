@@ -24,8 +24,17 @@
     excursions: "Excursions",
     fieldworks: "Fieldworks"
   },
+  people: {
+    people: "People",
+    employees: "Employees",
+    phdStudents: "PhD student",
+    formerPeople: "Former academic and researchers"
+  },
   mainHeader: "Vegetation Science Group",
   muni: "Masaryk university",
+  up: "Up",
+  showMore: "Show detail",
+  showLess: "Hide detail"
 };
 
 export const cz = {
@@ -55,6 +64,15 @@ export const cz = {
     excursions: "Terenní exkurze",
     fieldworks: "Terenní výzkum"
   },
+  people: {
+    people: "Lidé",
+    employees: "Zaměstnanci",
+    phdStudents: "PhD studenti",
+    formerPeople: "Bývalí akademičtí a výzkumní pracovníci"
+  },
   mainHeader: "Pracovní skupina pro výzkum vegetace",
   muni: "Masarykova univerzita",
+  up: "Nahoru",
+  showMore: "Zobrazit detail",
+  showLess: "Skrýt detail"
 };

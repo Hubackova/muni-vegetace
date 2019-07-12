@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Consumer } from "../layouts/Context";
 import styled from "styled-components";
 import People from "../components/people/People";
-import { peopleCz, peopleEn } from "../content/people";
+import { peopleCz, peopleEn, formerPeople, generalCz, generalEn } from "../content/people";
 import { cz, en } from "../content/general";
 
 class people extends Component {
@@ -13,7 +13,8 @@ class people extends Component {
           <Container>
             <People
               peopleData={int === "en" ? peopleEn : peopleCz}
-              data={int === "en" ? en : cz}
+              formerPeopleData={formerPeople}
+              msg={int === "en" ? en : cz}
             />
           </Container>
         )}

@@ -1,21 +1,44 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
+import styled from "styled-components";
+import { Link, Element } from "react-scroll";
+
 import PersonBox from "./PersonBox";
 import H2 from "../atoms/H2";
-import PropTypes from "prop-types";
-import { Link, Element } from "react-scroll";
+import Uparrow from "../atoms/Uparrow";
 import { Container as MenuContainer, Li } from "../../layouts/Navigation";
-import styled from "styled-components";
 
 class People extends Component {
   render() {
-    const { peopleData, data } = this.props;
-    const people = peopleData.map(i => <PersonBox personInfo={i} key={i.id} data={data} />);
+    const { peopleData, msg, formerPeopleData } = this.props;
+    const phdStudents = peopleData.phdStudents.map(i => (
+      <PersonBox personInfo={i} key={i.id} msg={msg} />
+    ));
+    const employees = peopleData.employees.map(i => (
+      <PersonBox personInfo={i} key={i.id} msg={msg} />
+    ));
+    const formerPeople = formerPeopleData.map(person => (
+      <div key={person.name}>
+        <strong style={{ color: "#C0C844" }}>{person.name}</strong> - {person.email}
+      </div>
+    ));
     return (
       <React.Fragment>
         <MenuContainer>
           <Li isVisible={true}>
-            <StyledLink activeClass="active" to="people" spy={true} smooth={true} duration={500}>
-              Lidé
+            <StyledLink activeClass="active" to="employees" spy={true} smooth={true} duration={500}>
+              {msg.people.employees}
+            </StyledLink>
+          </Li>
+          <Li isVisible={true}>
+            <StyledLink
+              activeClass="active"
+              to="phdStudents"
+              spy={true}
+              smooth={true}
+              duration={500}
+            >
+              {msg.people.phdStudents}
             </StyledLink>
           </Li>
           <Li isVisible={true}>
@@ -26,48 +49,28 @@ class People extends Component {
               smooth={true}
               duration={500}
             >
-              Bývalí akademičtí a výzkumní pracovníci
+              {msg.people.formerPeople}
             </StyledLink>
           </Li>
         </MenuContainer>
 
-        <Element name="people" className="element">
-          <H2>{data.people}</H2>
+        <Element name="employees" className="element">
+          <H2>{msg.people.employees}</H2>
         </Element>
-        {people}
-        {/* TODO */}
+        {employees}
+        <Uparrow text={msg.up} />
+
+        <Element name="phdStudents" className="element">
+          <H2>{msg.people.phdStudents}</H2>
+        </Element>
+        {phdStudents}
+        <Uparrow text={msg.up} />
 
         <Element name="formerpeople" className="element">
-          <H2>Bývalí akademičtí a výzkumní pracovníci</H2>
+          <H2>{msg.people.formerPeople}</H2>
         </Element>
-        <div>
-          <strong style={{ color: "#C0C844" }}>Borja Jiménez-Alfaro</strong> -
-          borja.jimenez-alfaro@botanik.uni-halle.de
-        </div>
-        <div>
-          <strong style={{ color: "#C0C844" }}>Martin Kočí</strong> - nitramicok@gmail.com
-        </div>
-        <div>
-          <strong style={{ color: "#C0C844" }}>Ching Feng Li</strong> - chingfeng.li@gmail.com
-        </div>
-        <div>
-          <strong style={{ color: "#C0C844" }}>Kristina Merunkova</strong> - merunkova@sci.muni.cz
-        </div>
-        <div>
-          <strong style={{ color: "#C0C844" }}>Salza Palpurina</strong> - salza.palpurina@gmail.com
-        </div>
-        <div>
-          <strong style={{ color: "#C0C844" }}>Barbora Pelánková</strong> - bpelankova@gmail.com
-        </div>
-        <div>
-          <strong style={{ color: "#C0C844" }}>Marie Vymazalová</strong> - meri@seznam.cz
-        </div>
-        <div>
-          <strong style={{ color: "#C0C844" }}>Viktoria Wagner</strong> - wagner@sci.muni.cz
-        </div>
-        <div>
-          <strong style={{ color: "#C0C844" }}>David Zelený</strong> - zeleny.david@gmail.com
-        </div>
+        {formerPeople}
+        <Uparrow text={msg.up} />
       </React.Fragment>
     );
   }
@@ -76,7 +79,7 @@ class People extends Component {
 export default People;
 
 People.propTypes = {
-  data: PropTypes.object,
+  msg: PropTypes.object,
   studentsData: PropTypes.array,
   peopleData: PropTypes.array
 };

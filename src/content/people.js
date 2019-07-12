@@ -6,7 +6,8 @@ import divisek from "../../static/images/people/divisek.jpg";
 import jaskova from "../../static/images/people/jaskova.jpg";
 import novak from "../../static/images/people/novak.jpg";
 
-export const peopleEn = [
+export const peopleEn = {
+  employees: [
   {
     id: `chytry`,
     name: `Milan Chytrý`,
@@ -269,7 +270,8 @@ export const peopleEn = [
     email: `357936@mail.muni.cz`,
     phoneNumber: `549494813`,
     is: `https://www.muni.cz/en/people/357936-hana-galuskova`
-  },
+  }],
+  phdStudents: [
   {
     id: `chudomelova`,
     name: `Markéta Chudomelová`,
@@ -341,10 +343,11 @@ export const peopleEn = [
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`,
     is: `https://www.muni.cz/en/people/375623-dominik-zukal`
-  }
-];
+  }]
+};
 
-export const peopleCz = [
+export const peopleCz = {
+  employees: [
   {
     id: `chytry`,
     name: `Milan Chytrý`,
@@ -607,8 +610,8 @@ export const peopleCz = [
     email: `357936@mail.muni.cz`,
     phoneNumber: `549494813`,
     is: `https://www.muni.cz/lide/357936-hana-galuskova`
-  },
-  {
+  }],
+  phdStudents: [{
     id: `chudomelova`,
     name: `Markéta Chudomelová`,
     position: `Researcher`,
@@ -679,5 +682,44 @@ export const peopleCz = [
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`,
     is: `https://www.muni.cz/lide/375623-dominik-zukal`
-  }
-];
+  }]
+};
+
+export const formerPeople = [
+  {
+    name: "Borja Jiménez-Alfaro",
+    email: "borja.jimenez-alfaro@botanik.uni-halle.de"
+  },
+  {
+    name: "Martin Kočí",
+    email: "nitramicok@gmail.com"
+  },
+  {
+    name: "Ching Feng Li",
+    email: "chingfeng.li@gmail.com"
+  },
+  {
+    name: "Kristina Merunkova",
+    email: "merunkova@sci.muni.cz"
+  },
+  {
+    name: "Salza Palpurina",
+    email: "salza.palpurina@gmail.com"
+  },
+  {
+    name: "Barbora Pelánková",
+    email: "bpelankova@gmail.com"
+  },
+  {
+    name: "Marie Vymazalová",
+    email: "meri@seznam.cz"
+  },
+  {
+    name: "Viktoria Wagner",
+    email: "wagner@sci.muni.cz"
+  },
+  {
+    name: "David Zelený",
+    email: "zeleny.david@gmail.com"
+  },
+]

@@ -1,13 +1,16 @@
-import React from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import PropTypes from "prop-types";
 
 import researchgate from "../../../static/images/social-researchgate.png";
 import is from "../../../static/images/social-is.png";
 
+const windowGlobal = typeof window !== "undefined" && window;
+const isMobile = windowGlobal.innerWidth < 1024
 
-
-const PersonBox = ({ personInfo }) => {
+const PersonBox = ({ personInfo, msg }) => {
+  const [detailVisibility, setDetailVisibility] = useState(!isMobile);
+  const hasDetail = personInfo.description.length > 0;
   return (
     <Box>
       <BoxPart style={{ flex: 1, paddingLeft: 0 }}>
@@ -49,9 +52,24 @@ const PersonBox = ({ personInfo }) => {
               )}
             </P>
           </div>
-          <Description>
-            <div>{personInfo.description}</div>
-          </Description>{" "}
+
+          {!detailVisibility && hasDetail && isMobile && (
+            <ArrowIcon onClick={() => setDetailVisibility(true)}>
+              <i className="fa fa-arrow-down" />
+              <ArrowText style={{ color: "red", cursor: "pointer", marginLeft: 5 }}> {msg.showMore}</ArrowText>
+            </ArrowIcon>
+          )}
+          {detailVisibility && hasDetail && (
+            <div>
+              <Description>
+                <div>{personInfo.description}</div>
+              </Description>
+              {isMobile && <ArrowIcon onClick={() => setDetailVisibility(false)}>
+                <i className="fa fa-arrow-up" />
+                <ArrowText style={{ color: "red", cursor: "pointer", marginLeft: 5 }}>{msg.showLess}</ArrowText>
+              </ArrowIcon>}
+            </div>
+          )}
         </Info>
       </BoxPart>
     </Box>
@@ -110,4 +128,18 @@ const Info = styled.div`
   @media (max-width: ${props => props.theme.extraLargeDevice}) {
     flex-direction: column;
   }
+`;
+
+const ArrowIcon = styled.div`
+  color: ${props => props.theme.grey};
+  text-decoration: none;
+  cursor: pointer;
+  &:focus {
+    color: ${props => props.theme.secondary};
+  }
+`;
+
+const ArrowText = styled.span`
+  color: red;
+  cursor: pointer;
 `;
