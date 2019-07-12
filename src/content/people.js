@@ -618,10 +618,8 @@ export const peopleCz = [
   },
    {
     id: `taborska`,
-<<<<<<< HEAD
         name: `Markéta Táborská`,
     position: `Researcher (mateřská dovolená)`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `taborska.mar@gmail.com`,
     phoneNumber: `549498474`,
