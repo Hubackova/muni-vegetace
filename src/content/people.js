@@ -10,7 +10,7 @@ import novak from '../../static/images/people/novak.jpg'
 export const peopleEn = [
   {
     id: `chytry`,
-    name: `Milan Chytrı`,
+    name: `Milan ChytrÃ½`,
     position: `Group Head`,
     description: ``,
     email: `chytry@sci.muni.cz`,
@@ -20,7 +20,7 @@ export const peopleEn = [
   },
   {
     id: `danihelka`,
-    name: `Jiøí Danihelka`,
+    name: `JiÅ™Ã­ Danihelka`,
     position: `Researcher`,
     description: ``,
     email: `danihel@sci.muni.cz`,
@@ -30,9 +30,9 @@ export const peopleEn = [
   },
   {
     id: `divisek`,
-    name: `Jan Divíšek`,
+    name: `Jan DivÃ­Å¡ek`,
     position: `Researcher`,
-    description: `Jan Divíšek studied Upper Secondary School Teacher Training in Biology and Geography at Masaryk University. He then continued with the Ph.D. study of Physical Geography at the same institution, and in 2015, he defended his Ph.D. thesis dealing with biogeography and beta diversity of species assemblages of various taxonomical groups of the Czech Republic. Currently, he works as an assistant professor at the Department of Botany and Zoology, and also at the Department of Geography of Masaryk University. He is mainly interested in biodiversity patterns, invasion ecology, and spatial modeling. Questions connected with his research include, for example: What is the effect of past landscape changes on current regional differences in plant species richness? What traits determine the success of alien species? or How does the distribution species or whole communities change in response to environmental changes?`,
+    description: `Jan DivÃ­Å¡ek studied Upper Secondary School Teacher Training in Biology and Geography at Masaryk University. He then continued with the Ph.D. study of Physical Geography at the same institution, and in 2015, he defended his Ph.D. thesis dealing with biogeography and beta diversity of species assemblages of various taxonomical groups of the Czech Republic. Currently, he works as an assistant professor at the Department of Botany and Zoology, and also at the Department of Geography of Masaryk University. He is mainly interested in biodiversity patterns, invasion ecology, and spatial modeling. Questions connected with his research include, for example: What is the effect of past landscape changes on current regional differences in plant species richness? What traits determine the success of alien species? or How does the distribution species or whole communities change in response to environmental changes?`,
     email: `divisekjan@mail.muni.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
@@ -41,9 +41,9 @@ export const peopleEn = [
   }, 
   {
     id: `lososova`,
-    name: `Zdeòka Lososová`,
+    name: `ZdeÅˆka LososovÃ¡`,
     position: `Researcher`,
-    description: `Zdeòka Lososová has been employed at the Department of Botany and Zoology of the Masaryk University since 2004. She is a guarantee of study programmes of Secondary school teacher training in biology. She leads the botanical and geobotanical seminars, she also participates on leading field course of Methods of geobotany. Her current scientific interests focus on diversity of vegetation, her main interest goes mainly to the vegetation of human made habitats. One of the main study areas is effect of urban environment on occurrences of vascular plants in European cities. Closely related study topics are those of biological invasions. Recently she focusses on the research of phylogenetic and functional diversity of plant communities. Based on these characteristics of plant communities she try to explain the role of environmental filtering and biotic interactions on the community assembly.`,
+    description: `ZdeÅˆka LososovÃ¡ has been employed at the Department of Botany and Zoology of the Masaryk University since 2004. She is a guarantee of study programmes of Secondary school teacher training in biology. She leads the botanical and geobotanical seminars, she also participates on leading field course of Methods of geobotany. Her current scientific interests focus on diversity of vegetation, her main interest goes mainly to the vegetation of human made habitats. One of the main study areas is effect of urban environment on occurrences of vascular plants in European cities. Closely related study topics are those of biological invasions. Recently she focusses on the research of phylogenetic and functional diversity of plant communities. Based on these characteristics of plant communities she try to explain the role of environmental filtering and biotic interactions on the community assembly.`,
     email: `lososova@sci.muni.cz`,
     phoneNumber: `549498399`,
     researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
@@ -52,7 +52,7 @@ export const peopleEn = [
   },
   {
     id: `rolecek`,
-    name: `Jan Roleèek`,
+    name: `Jan RoleÄek`,
     position: `Researcher`,
     description: ``,
     email: `honza.rolecek@centrum.cz`,
@@ -62,7 +62,7 @@ export const peopleEn = [
   },
   {
     id: `tesitel`,
-    name: `Jakub Tìšitel`,
+    name: `Jakub TÄ›Å¡itel`,
     position: `Researcher`,
     description: ``,
     email: `tesitel@sci.muni.cz`,
@@ -72,7 +72,7 @@ export const peopleEn = [
   },
   {
     id: `tichy`,
-    name: `Lubomír Tichı`,
+    name: `LubomÃ­r TichÃ½`,
     position: `Researcher`,
     description: ``,
     email: `tichy@sci.muni.cz`,
@@ -82,7 +82,7 @@ export const peopleEn = [
   },
   {
     id: `axmanova`,
-    name: `Irena Axmanová`,
+    name: `Irena AxmanovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `axmanova@sci.muni.cz`,
@@ -113,7 +113,7 @@ export const peopleEn = [
   },
   {
     id: `ceplova`,
-    name: `Natálie Èeplová`,
+    name: `NatÃ¡lie ÄŒeplovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `ceplova@ped.muni.cz`,
@@ -123,7 +123,7 @@ export const peopleEn = [
   },
   {
     id: `fischer`,
-    name: `Felícia Miranda Fischer`,
+    name: `FelÃ­cia Miranda Fischer`,
     position: `Researcher`,
     description: ``,
     email: `feliciafischerster@gmail.com`,
@@ -133,7 +133,7 @@ export const peopleEn = [
   },
   {
     id: `gotzenberger`,
-    name: `Lars Götzenberger`,
+    name: `Lars GÃ¶tzenberger`,
     position: `Researcher`,
     description: ``,
     email: `lars.goetzenberger@gmail.com`,
@@ -143,7 +143,7 @@ export const peopleEn = [
   },
   {
     id: `hajek`,
-    name: `Ondøej Hájek`,
+    name: `OndÅ™ej HÃ¡jek`,
     position: `Researcher`,
     description: ``,
     email: `ohajek@sci.muni.cz`,
@@ -153,7 +153,7 @@ export const peopleEn = [
   },
   {
     id: `holubova`,
-    name: `Dana Holubová`,
+    name: `Dana HolubovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `danmich@mail.muni.cz`,
@@ -163,7 +163,7 @@ export const peopleEn = [
   },
   {
     id: `kalusova`,
-    name: `Veronika Kalusová`,
+    name: `Veronika KalusovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `kalveron@tiscali.cz`,
@@ -173,7 +173,7 @@ export const peopleEn = [
   },
   {
     id: `knollova`,
-    name: `Ilona Knollová`,
+    name: `Ilona KnollovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `ikuzel@sci.muni.cz`,
@@ -183,7 +183,7 @@ export const peopleEn = [
   },
   {
     id: `kubesova`,
-    name: `Svatava Kubešová`,
+    name: `Svatava KubeÅ¡ovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `skubesova@mzm.cz`,
@@ -203,7 +203,7 @@ export const peopleEn = [
   },
    {
     id: `preislerova`,
-    name: `Zdenka Preislerová`,
+    name: `Zdenka PreislerovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `zpreislerova@gmail.com`,
@@ -213,7 +213,7 @@ export const peopleEn = [
   },
    {
     id: `reznickova`,
-    name: `Marcela Øezníèková`,
+    name: `Marcela Å˜eznÃ­ÄkovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `mar.reznickova@seznam.cz`,
@@ -223,9 +223,9 @@ export const peopleEn = [
   },
   {
     id: `smerdova`,
-    name: `Eva Šmerdová (Hettenbergerová)`,
+    name: `Eva Å merdovÃ¡ (HettenbergerovÃ¡)`,
     position: `Researcher`,
-    description: `Eva Šmerdová studied Plant Systematics and Ecology at University of Ostrava. She continued in master study of botany at Masaryk University, Brno and was graduated in 2006. Her master thesis dealt with the effect of contact plant communities on the species composition of spring fens. Her PhD thesis dealt with species richness of plants and molluscs along the moisture gradient. Currently she works on database of plant macrofossils of Czech and Slovak Republic. She likes to travel with co-workers to sample field data for the next research`,
+    description: `Eva Å merdovÃ¡ studied Plant Systematics and Ecology at University of Ostrava. She continued in master study of botany at Masaryk University, Brno and was graduated in 2006. Her master thesis dealt with the effect of contact plant communities on the species composition of spring fens. Her PhD thesis dealt with species richness of plants and molluscs along the moisture gradient. Currently she works on database of plant macrofossils of Czech and Slovak Republic. She likes to travel with co-workers to sample field data for the next research`,
     email: `eva.hette@centrum.cz`,
     phoneNumber: `549498487`,
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
@@ -234,7 +234,7 @@ export const peopleEn = [
   },
    {
     id: `stepankova`,
-    name: `Petra Štìpánková`,
+    name: `Petra Å tÄ›pÃ¡nkovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `pstepankova@sci.muni.cz`,
@@ -243,7 +243,7 @@ export const peopleEn = [
   },
    {
     id: `taborska`,
-    name: `Markéta Táborská`,
+    name: `MarkÃ©ta TÃ¡borskÃ¡`,
     position: `Researcher (maternity leave)`,
     description: ``,
     email: `taborska.mar@gmail.com`,
@@ -253,9 +253,9 @@ export const peopleEn = [
   },
    {
     id: `drevojan`,
-    name: `Pavel Døevojan`,
+    name: `Pavel DÅ™evojan`,
     position: `Researcher`,
-    description: `Pavel Døevojan studied Botany at the Faculty of Science of Masaryk University in Brno. In his bachelor thesis he devoted himself to xerothermic flora and vegetation of the railway cuttings along the track Veselí nad Moravou – Vrbovce, in the frame of his master thesis he studied the diversity of arable field vegetation of south-eastern Znojmo District. His main interests include the study of flora and vegetation of southern Moravia.`,
+    description: `Pavel DÅ™evojan studied Botany at the Faculty of Science of Masaryk University in Brno. In his bachelor thesis he devoted himself to xerothermic flora and vegetation of the railway cuttings along the track VeselÃ­ nad Moravou â€“ Vrbovce, in the frame of his master thesis he studied the diversity of arable field vegetation of south-eastern Znojmo District. His main interests include the study of flora and vegetation of southern Moravia.`,
     email: `269768@mail.muni.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
@@ -264,7 +264,7 @@ export const peopleEn = [
   },
    {
     id: `galuskova`,
-    name: `Hana Galušková`,
+    name: `Hana GaluÅ¡kovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `357936@mail.muni.cz`,
@@ -273,7 +273,7 @@ export const peopleEn = [
   },
    {
     id: `chudomelova`,
-    name: `Markéta Chudomelová`,
+    name: `MarkÃ©ta ChudomelovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `323585@mail.muni.cz`,
@@ -283,9 +283,11 @@ export const peopleEn = [
   }, 
    {
     id: `jaskova`,
-    name: `Anni Kanerva Jašková (Pyykönen)`,
+    name: `Anni Kanerva JaÅ¡kovÃ¡ (PyykÃ¶nen)`,
     position: `Researcher`,
-    description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
+<<<<<<< HEAD
+    description: `Anni JaÅ¡kovÃ¡ is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     email: `annipyy@mail.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
@@ -294,7 +296,7 @@ export const peopleEn = [
   },
     {
     id: `kalnikova`,
-    name: `Veronika Kalníková`,
+    name: `Veronika KalnÃ­kovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `V.Kalnikova@seznam.cz`,
@@ -304,9 +306,9 @@ export const peopleEn = [
   },
    {
     id: `novak`,
-    name: `Pavel Novák`,
+    name: `Pavel NovÃ¡k`,
     position: `Researcher`,
-    description: `Pavel Novák studied Botany (focused on plant ecology) at Masaryk University, Brno. He graduated in 2013. His master thesis was dealing with variability of forest vegetation of the Krumlovskı les Forest and its surroundings (SW Moravia). In 2014, he started his ongoing Ph.D. study. It is aimed at variability and syntaxonomy of oak-hornbeam forests (order Carpinetalia) on European scale. Besides Central Europe, he is focused on forest vegetation of the Caucasus and Euxinian Region.`,
+    description: `Pavel NovÃ¡k studied Botany (focused on plant ecology) at Masaryk University, Brno. He graduated in 2013. His master thesis was dealing with variability of forest vegetation of the KrumlovskÃ½ les Forest and its surroundings (SW Moravia). In 2014, he started his ongoing Ph.D. study. It is aimed at variability and syntaxonomy of oak-hornbeam forests (order Carpinetalia) on European scale. Besides Central Europe, he is focused on forest vegetation of the Caucasus and Euxinian Region.`,
     email: `269109@mail.muni.cz`,
     phoneNumber: `549498485`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
@@ -316,7 +318,7 @@ export const peopleEn = [
 
    {
     id: `spanikova`,
-    name: `Šárka Špániková`,
+    name: `Å Ã¡rka Å pÃ¡nikovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `408322@mail.muni.cz`,
@@ -325,7 +327,7 @@ export const peopleEn = [
   },
    {
     id: `vecera`,
-    name: `Martin Veèeøa`,
+    name: `Martin VeÄeÅ™a`,
     position: `Researcher`,
     description: ``,
     email: `martinvec@seznam.cz`,
@@ -348,8 +350,8 @@ export const peopleEn = [
 export const peopleCz = [
   {
     id: `chytry`,
-    name: `Milan Chytrı`,
-    position: `Vedoucí skupiny`,
+    name: `Milan ChytrÃ½`,
+    position: `VedoucÃ­ skupiny`,
     description: ``,
     email: `chytry@sci.muni.cz`,
 	phoneNumber: `549494595`,
@@ -358,8 +360,11 @@ export const peopleCz = [
   },
   {
     id: `danihelka`,
-    name: `Jiøí Danihelka`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+=======
+    name: `JiÅ™Ã­ Danihelka`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `danihel@sci.muni.cz`,
     phoneNumber: `549493473`,
@@ -368,9 +373,13 @@ export const peopleCz = [
   },
   {
     id: `divisek`,
-    name: `Jan Divíšek`,
-    position: `Odbornı pracovník`,
-    description: `Jan Divíšek vystudoval uèitelství biologie a geografie na Masarykovì univerzitì. Následnì pokraèoval na tée instituci doktorskım studiem v oboru Fyzická geografie a v roce 2015 obhájil disertaèní práci, která se zabıvala biogeografií a beta diverzitou spoleèenstev rùznıch taxonomickıch skupin Èeské republiky. V souèasnosti pracuje jako odbornı asistent Ústavu botaniky a zoologie a také Geografického ústavu Masarykovy univerzity. Aktuálnì se vìnuje vızkumu biodiverzity, invazní ekologii a prostorovému modelování. Mezi otázky spojené s jeho vızkumem patøí napø.: Jakı je vliv historickıch zmìn krajiny na souèasné regionální rozdíly v druhové bohatosti rostlin? Jaké vlastnosti ovlivòují úspìšnost nepùvodních druhù? nebo Jak se mìní rozšíøení druhù i celıch spoleèenstev v reakci na zmìny prostøení? `,
+<<<<<<< HEAD
+   
+=======
+    name: `Jan DivÃ­Å¡ek`,
+    position: `Researcher`,
+    description: `Jan DivÃ­Å¡ek vystudoval uÄitelstvÃ­ biologie a geografie na MasarykovÄ› univerzitÄ›. NÃ¡slednÄ› pokraÄoval na tÃ©Å¾e instituci doktorskÃ½m studiem v oboru FyzickÃ¡ geografie a v roce 2015 obhÃ¡jil disertaÄnÃ­ prÃ¡ci, kterÃ¡ se zabÃ½vala biogeografiÃ­ a beta diverzitou spoleÄenstev rÅ¯znÃ½ch taxonomickÃ½ch skupin ÄŒeskÃ© republiky. V souÄasnosti pracuje jako odbornÃ½ asistent Ãšstavu botaniky a zoologie a takÃ© GeografickÃ©ho Ãºstavu Masarykovy univerzity. AktuÃ¡lnÄ› se vÄ›nuje vÃ½zkumu biodiverzity, invaznÃ­ ekologii a prostorovÃ©mu modelovÃ¡nÃ­. Mezi otÃ¡zky spojenÃ© s jeho vÃ½zkumem patÅ™Ã­ napÅ™.: JakÃ½ je vliv historickÃ½ch zmÄ›n krajiny na souÄasnÃ© regionÃ¡lnÃ­ rozdÃ­ly v druhovÃ© bohatosti rostlin? JakÃ© vlastnosti ovlivÅˆujÃ­ ÃºspÄ›Å¡nost nepÅ¯vodnÃ­ch druhÅ¯? nebo Jak se mÄ›nÃ­ rozÅ¡Ã­Å™enÃ­ druhÅ¯ i celÃ½ch spoleÄenstev v reakci na zmÄ›ny prostÅ™enÃ­? `,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     email: `divisekjan@mail.muni.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
@@ -379,9 +388,9 @@ export const peopleCz = [
   }, 
   {
     id: `lososova`,
-    name: `Zdeòka Lososová`,
+    name: `ZdeÅˆka LososovÃ¡`,
     position: `Docent`,
-    description: `Zdeòka Lososová pracuje na Ústavu botaniky a zoologie od roku 2004. Je garantkou bakaláøského a navazujícího magisterského studia uèitelství biologie pro støední školy. Podílí se na vıuce botanickıch a geobotanickıch semináøù a terénního cvièení z geobotaniky. Ve vızkumu se zabıvá diverzitou vegetace, soustøedí se pøedevším (ale nejenom) na vegetaci antropogenních stanoviš. Jedním z hlavních vızkumnıch témat je  vliv prostøedí velkıch evropskıch mìst na vıskyt cévnatıch rostlin. S tímto tématem souvisí otázky invazní biologie. V posledních letech se soustøedí na studium funkèní a fylogenetické diverzity rostlinnıch spoleèenstev. Pomocí tìchto charakteristik rostlinnıch spoleèenstev se snaí pochopit, do jaké míry utváøejí rostlinná spoleèenstva podmínky prostøedí a do jaké míry to jsou biotické interakce.`,
+    description: `ZdeÅˆka LososovÃ¡ pracuje na Ãšstavu botaniky a zoologie od roku 2004. Je garantkou bakalÃ¡Å™skÃ©ho a navazujÃ­cÃ­ho magisterskÃ©ho studia uÄitelstvÃ­ biologie pro stÅ™ednÃ­ Å¡koly. PodÃ­lÃ­ se na vÃ½uce botanickÃ½ch a geobotanickÃ½ch seminÃ¡Å™Å¯ a terÃ©nnÃ­ho cviÄenÃ­ z geobotaniky. Ve vÃ½zkumu se zabÃ½vÃ¡ diverzitou vegetace, soustÅ™edÃ­ se pÅ™edevÅ¡Ã­m (ale nejenom) na vegetaci antropogennÃ­ch stanoviÅ¡Å¥. JednÃ­m z hlavnÃ­ch vÃ½zkumnÃ½ch tÃ©mat je  vliv prostÅ™edÃ­ velkÃ½ch evropskÃ½ch mÄ›st na vÃ½skyt cÃ©vnatÃ½ch rostlin. S tÃ­mto tÃ©matem souvisÃ­ otÃ¡zky invaznÃ­ biologie. V poslednÃ­ch letech se soustÅ™edÃ­ na studium funkÄnÃ­ a fylogenetickÃ© diverzity rostlinnÃ½ch spoleÄenstev. PomocÃ­ tÄ›chto charakteristik rostlinnÃ½ch spoleÄenstev se snaÅ¾Ã­ pochopit, do jakÃ© mÃ­ry utvÃ¡Å™ejÃ­ rostlinnÃ¡ spoleÄenstva podmÃ­nky prostÅ™edÃ­ a do jakÃ© mÃ­ry to jsou biotickÃ© interakce.`,
     email: `lososova@sci.muni.cz`,
 	phoneNumber: `549498399`,
     researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
@@ -390,8 +399,10 @@ export const peopleCz = [
   },
   {
     id: `rolecek`,
-    name: `Jan Roleèek`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Jan RoleÄek`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `honza.rolecek@centrum.cz`,
     phoneNumber: `549498489`,
@@ -400,7 +411,7 @@ export const peopleCz = [
   },
   {
     id: `tesitel`,
-    name: `Jakub Tìšitel`,
+    name: `Jakub TÄ›Å¡itel`,
     position: `Docent`,
     description: ``,
     email: `tesitel@sci.muni.cz`,
@@ -410,8 +421,10 @@ export const peopleCz = [
   },
   {
     id: `tichy`,
-    name: `Lubomír Tichı`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+       name: `LubomÃ­r TichÃ½`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `tichy@sci.muni.cz`,
     phoneNumber: `549497673`,
@@ -420,8 +433,10 @@ export const peopleCz = [
   },
   {
     id: `axmanova`,
-    name: `Irena Axmanová`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+       name: `Irena AxmanovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `axmanova@sci.muni.cz`,
     phoneNumber: `549498395`,
@@ -451,8 +466,10 @@ export const peopleCz = [
   },
   {
     id: `ceplova`,
-    name: `Natálie Èeplová`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+       name: `NatÃ¡lie ÄŒeplovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `ceplova@ped.muni.cz`,
     phoneNumber: `549494992`,
@@ -461,8 +478,10 @@ export const peopleCz = [
   },
   {
     id: `fischer`,
-    name: `Felícia Miranda Fischer`,
-    position: `Postdoc`,
+<<<<<<< HEAD
+        name: `FelÃ­cia Miranda Fischer`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `feliciafischerster@gmail.com`,
     phoneNumber: `549498479`,
@@ -471,8 +490,10 @@ export const peopleCz = [
   },
   {
     id: `gotzenberger`,
-    name: `Lars Götzenberger`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Lars GÃ¶tzenberger`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `lars.goetzenberger@gmail.com`,
     phoneNumber: ``,
@@ -481,8 +502,10 @@ export const peopleCz = [
   },
   {
     id: `hajek`,
-    name: `Ondøej Hájek`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `OndÅ™ej HÃ¡jek`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `ohajek@sci.muni.cz`,
     phoneNumber: `549494033`,
@@ -491,8 +514,10 @@ export const peopleCz = [
   },
   {
     id: `holubova`,
-    name: `Dana Holubová`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Dana HolubovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `danmich@mail.muni.cz`,
     phoneNumber: `549496974`,
@@ -501,8 +526,10 @@ export const peopleCz = [
   },
   {
     id: `kalusova`,
-    name: `Veronika Kalusová`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Veronika KalusovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `kalveron@tiscali.cz`,
     phoneNumber: `549494992`,
@@ -511,8 +538,10 @@ export const peopleCz = [
   },
   {
     id: `knollova`,
-    name: `Ilona Knollová`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Ilona KnollovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `ikuzel@sci.muni.cz`,
     phoneNumber: `549498488`,
@@ -521,8 +550,10 @@ export const peopleCz = [
   },
   {
     id: `kubesova`,
-    name: `Svatava Kubešová`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Svatava KubeÅ¡ovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `skubesova@mzm.cz`,
     phoneNumber: `545217322`,
@@ -532,7 +563,7 @@ export const peopleCz = [
   {
     id: `landucci`,
     name: `Flavia Landucci`,
-    position: `Odbornı pracovník (mateøská dovolená)`,
+    position: `OdbornÃ½ pracovnÃ­k (mateÅ™skÃ¡ dovolenÃ¡)`,
     description: ``,
     email: `386683@mail.muni.cz`,
     phoneNumber: `549498479`,
@@ -541,8 +572,10 @@ export const peopleCz = [
   },
    {
     id: `preislerova`,
-    name: `Zdenka Preislerová`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Zdenka PreislerovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `zpreislerova@gmail.com`,
     phoneNumber: `549498477`,
@@ -551,8 +584,10 @@ export const peopleCz = [
   },
    {
     id: `reznickova`,
-    name: `Marcela Øezníèková`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Marcela Å˜eznÃ­ÄkovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `mar.reznickova@seznam.cz`,
     phoneNumber: `549498488`,
@@ -561,9 +596,9 @@ export const peopleCz = [
   },
  {
     id: `smerdova`,
-    name: `Eva Šmerdová (Hettenbergerová)`,
-    position: `Odbornı pracovník`,
-    description: `Eva Šmerdová získala bakaláøskı titul na Ostravské Univerzitì, její práce se zamìøovala na flóru a vegetaci hald. Magisterské studium botaniky ukonèila v roce 2006 na PøF Masarykovy Univerzity v Brnì diplomovou prací zabıvající se vlivem kontaktních spoleèenstev na druhové sloení luèních prameniš. Doktorskou práci na téma druhová bohatost a variabilita rostlin a mìkkıšù na vlhkostním gradientu obhájila v roce 2013. V souèasné dobì se mimo jiné zabıvá tvorbou databáze rostlinnıch makrozbytkù Èeské a Slovenské republiky a doplòováním vegetaèních snímkù a jinıch údajù pro projekt PLADIAS. Ráda cestuje s kolegy po rodné vlasti i do zahranièí a sbírá terénní data k dalšímu vızkumu ekologie mokøadù i jinıch biotopù.`,
+    name: `Eva Å merdovÃ¡ (HettenbergerovÃ¡)`,
+    position: `OdbornÃ½ pracovnÃ­k`,
+    description: `Eva Å merdovÃ¡ zÃ­skala bakalÃ¡Å™skÃ½ titul na OstravskÃ© UniverzitÄ›, jejÃ­ prÃ¡ce se zamÄ›Å™ovala na flÃ³ru a vegetaci hald. MagisterskÃ© studium botaniky ukonÄila v roce 2006 na PÅ™F Masarykovy Univerzity v BrnÄ› diplomovou pracÃ­ zabÃ½vajÃ­cÃ­ se vlivem kontaktnÃ­ch spoleÄenstev na druhovÃ© sloÅ¾enÃ­ luÄnÃ­ch prameniÅ¡Å¥. Doktorskou prÃ¡ci na tÃ©ma druhovÃ¡ bohatost a variabilita rostlin a mÄ›kkÃ½Å¡Å¯ na vlhkostnÃ­m gradientu obhÃ¡jila v roce 2013. V souÄasnÃ© dobÄ› se mimo jinÃ© zabÃ½vÃ¡ tvorbou databÃ¡ze rostlinnÃ½ch makrozbytkÅ¯ ÄŒeskÃ© a SlovenskÃ© republiky a doplÅˆovÃ¡nÃ­m vegetaÄnÃ­ch snÃ­mkÅ¯ a jinÃ½ch ÃºdajÅ¯ pro projekt PLADIAS. RÃ¡da cestuje s kolegy po rodnÃ© vlasti i do zahraniÄÃ­ a sbÃ­rÃ¡ terÃ©nnÃ­ data k dalÅ¡Ã­mu vÃ½zkumu ekologie mokÅ™adÅ¯ i jinÃ½ch biotopÅ¯.`,
     email: `eva.hette@centrum.cz`,
     phoneNumber: `549498487`,
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
@@ -572,8 +607,10 @@ export const peopleCz = [
   },
    {
     id: `stepankova`,
-    name: `Petra Štìpánková`,
-    position: `Odbornı pracovník`,
+<<<<<<< HEAD
+        name: `Petra Å tÄ›pÃ¡nkovÃ¡`,
+    position: `Researcher`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `pstepankova@sci.muni.cz`,
     phoneNumber: `549498389`,
@@ -581,8 +618,10 @@ export const peopleCz = [
   },
    {
     id: `taborska`,
-    name: `Markéta Táborská`,
-    position: `Odbornı pracovník (mateøská dovolená)`,
+<<<<<<< HEAD
+        name: `MarkÃ©ta TÃ¡borskÃ¡`,
+    position: `Researcher (mateÅ™skÃ¡ dovolenÃ¡)`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `taborska.mar@gmail.com`,
     phoneNumber: `549498474`,
@@ -591,9 +630,9 @@ export const peopleCz = [
   },
    {
     id: `drevojan`,
-    name: `Pavel Døevojan`,
+    name: `Pavel DÅ™evojan`,
     position: `Technik`,
-    description: `Pavel Døevojan vystudoval obor Botanika, smìr Ekologie rostlin na Pøírodovìdecké fakultì Masarykovy univerzity v Brnì. Ve své bakaláøské práci se vìnoval xerotermní flóøe a vegetaci záøezù eleznièní trati Veselí nad Moravou – Vrbovce a v rámci diplomové práce studoval diverzitu vegetace polních plevelù jihovıchodního Znojemska. Mezi jeho hlavní zájmy patøí studium flóry a vegetace jiní Moravy.`,
+    description: `Pavel DÅ™evojan vystudoval obor Botanika, smÄ›r Ekologie rostlin na PÅ™Ã­rodovÄ›deckÃ© fakultÄ› Masarykovy univerzity v BrnÄ›. Ve svÃ© bakalÃ¡Å™skÃ© prÃ¡ci se vÄ›noval xerotermnÃ­ flÃ³Å™e a vegetaci zÃ¡Å™ezÅ¯ Å¾elezniÄnÃ­ trati VeselÃ­ nad Moravou â€“ Vrbovce a v rÃ¡mci diplomovÃ© prÃ¡ce studoval diverzitu vegetace polnÃ­ch plevelÅ¯ jihovÃ½chodnÃ­ho Znojemska. Mezi jeho hlavnÃ­ zÃ¡jmy patÅ™Ã­ studium flÃ³ry a vegetace jiÅ¾nÃ­ Moravy.`,
     email: `269768@mail.muni.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
@@ -602,7 +641,7 @@ export const peopleCz = [
   },
    {
     id: `galuskova`,
-    name: `Hana Galušková`,
+    name: `Hana GaluÅ¡kovÃ¡`,
     position: `Technik`,
     description: ``,
     email: `357936@mail.muni.cz`,
@@ -611,7 +650,7 @@ export const peopleCz = [
   },
    {
     id: `chudomelova`,
-    name: `Markéta Chudomelová`,
+    name: `MarkÃ©ta ChudomelovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `323585@mail.muni.cz`,
@@ -621,9 +660,11 @@ export const peopleCz = [
   }, 
     {
     id: `jaskova`,
-    name: `Anni Kanerva Jašková (Pyykönen)`,
+<<<<<<< HEAD
+        name: `Anni Kanerva JaÅ¡kovÃ¡ (PyykÃ¶nen)`,
     position: `Researcher`,
-    description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
+    description: `Anni JaÅ¡kovÃ¡ is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
+>>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     email: `annipyy@mail.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
@@ -632,7 +673,7 @@ export const peopleCz = [
   },
     {
     id: `kalnikova`,
-    name: `Veronika Kalníková`,
+    name: `Veronika KalnÃ­kovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `V.Kalnikova@seznam.cz`,
@@ -642,9 +683,9 @@ export const peopleCz = [
   },
    {
     id: `novak`,
-    name: `Pavel Novák`,
+    name: `Pavel NovÃ¡k`,
     position: `Researcher`,
-    description: `Pavel Novák studoval obor Botanika, smìr Ekologie rostlin na Pøírodovìdecké fakultì Masarykovy univerzity v Brnì. V roce 2013 obhájil diplomovou práci zamìøenou na diverzitu lesní vegetace Krumlovského lesa a okolí (JZ Morava), území vegetaènì velmi zajímavého a pøitom do té doby takøka neprozkoumaného. V roce 2014 zaèal svoje doktorské studium, ve kterém pokraèuje dodnes. Dizertaèní práce je zamìøena na variabilitu a syntaxonomii dubohabøin (øád Carpinetalia) na evropské škále. Vedle støední Evropy se vìnuje lesní vegetaci Kavkazu a Euxinie.`,
+    description: `Pavel NovÃ¡k studoval obor Botanika, smÄ›r Ekologie rostlin na PÅ™Ã­rodovÄ›deckÃ© fakultÄ› Masarykovy univerzity v BrnÄ›. V roce 2013 obhÃ¡jil diplomovou prÃ¡ci zamÄ›Å™enou na diverzitu lesnÃ­ vegetace KrumlovskÃ©ho lesa a okolÃ­ (JZ Morava), ÃºzemÃ­ vegetaÄnÄ› velmi zajÃ­mavÃ©ho a pÅ™itom do tÃ© doby takÅ™ka neprozkoumanÃ©ho. V roce 2014 zaÄal svoje doktorskÃ© studium, ve kterÃ©m pokraÄuje dodnes. DizertaÄnÃ­ prÃ¡ce je zamÄ›Å™ena na variabilitu a syntaxonomii dubohabÅ™in (Å™Ã¡d Carpinetalia) na evropskÃ© Å¡kÃ¡le. Vedle stÅ™ednÃ­ Evropy se vÄ›nuje lesnÃ­ vegetaci Kavkazu a Euxinie.`,
     email: `269109@mail.muni.cz`,
     phoneNumber: `549498485`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
@@ -654,7 +695,7 @@ export const peopleCz = [
 
    {
     id: `spanikova`,
-    name: `Šárka Špániková`,
+    name: `Å Ã¡rka Å pÃ¡nikovÃ¡`,
     position: `Researcher`,
     description: ``,
     email: `408322@mail.muni.cz`,
@@ -663,7 +704,7 @@ export const peopleCz = [
   },
    {
     id: `vecera`,
-    name: `Martin Veèeøa`,
+    name: `Martin VeÄeÅ™a`,
     position: `Researcher`,
     description: ``,
     email: `martinvec@seznam.cz`,
