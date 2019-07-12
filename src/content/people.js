@@ -285,10 +285,7 @@ export const peopleEn = [
     id: `jaskova`,
     name: `Anni Kanerva Jašková (Pyykönen)`,
     position: `Researcher`,
-    description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified
-European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and
-plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.
-`,
+    description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
     email: `annipyy@mail.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
@@ -362,7 +359,7 @@ export const peopleCz = [
   {
     id: `danihelka`,
     name: `Jiøí Danihelka`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `danihel@sci.muni.cz`,
     phoneNumber: `549493473`,
@@ -372,7 +369,7 @@ export const peopleCz = [
   {
     id: `divisek`,
     name: `Jan Divíšek`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: `Jan Divíšek vystudoval uèitelství biologie a geografie na Masarykovì univerzitì. Následnì pokraèoval na téže instituci doktorským studiem v oboru Fyzická geografie a v roce 2015 obhájil disertaèní práci, která se zabývala biogeografií a beta diverzitou spoleèenstev rùzných taxonomických skupin Èeské republiky. V souèasnosti pracuje jako odborný asistent Ústavu botaniky a zoologie a také Geografického ústavu Masarykovy univerzity. Aktuálnì se vìnuje výzkumu biodiverzity, invazní ekologii a prostorovému modelování. Mezi otázky spojené s jeho výzkumem patøí napø.: Jaký je vliv historických zmìn krajiny na souèasné regionální rozdíly v druhové bohatosti rostlin? Jaké vlastnosti ovlivòují úspìšnost nepùvodních druhù? nebo Jak se mìní rozšíøení druhù i celých spoleèenstev v reakci na zmìny prostøení? `,
     email: `divisekjan@mail.muni.cz`,
     phoneNumber: `549498494`,
@@ -394,7 +391,7 @@ export const peopleCz = [
   {
     id: `rolecek`,
     name: `Jan Roleèek`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `honza.rolecek@centrum.cz`,
     phoneNumber: `549498489`,
@@ -414,7 +411,7 @@ export const peopleCz = [
   {
     id: `tichy`,
     name: `Lubomír Tichý`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `tichy@sci.muni.cz`,
     phoneNumber: `549497673`,
@@ -424,7 +421,7 @@ export const peopleCz = [
   {
     id: `axmanova`,
     name: `Irena Axmanová`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `axmanova@sci.muni.cz`,
     phoneNumber: `549498395`,
@@ -434,7 +431,7 @@ export const peopleCz = [
   {
     id: `bonari`,
     name: `Gianmaria Bonari`,
-    position: `Researcher`,
+    position: `Postdoc`,
     description: `Gianmaria Bonari received his B.Sc., M.Sc. and Ph.D. at the University of Siena (Italy). Currently, he is a postdoctoral researcher at the Masaryk University of Brno (Czech Republic). His scientific interests fill the niches of Botany and Vegetation Science. His research involves a thorough understanding of European (but also North African and Near East ones) pine forests, with a particular focus on the Mediterranean and Submediterranean types. His academic training includes ecoinformatics, classification of plant communities and habitats, management and conservation aspects, also favouring an integrated view which fosters crosswalks between plant and animal communities. He is the custodian of the CircumMed vegetation-plot database which was developed for broad-scale studies on vegetation classification, plant invasion ecology, macroecology and biological conservation. Being a vegetation ecologist, he is aware that the understanding of the complexity of communities also passes by field research. This makes him an active field botanist.`,
     email: `gianmaria.bonari@gmail.com`,
     phoneNumber: `549498479`,
@@ -455,7 +452,7 @@ export const peopleCz = [
   {
     id: `ceplova`,
     name: `Natálie Èeplová`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `ceplova@ped.muni.cz`,
     phoneNumber: `549494992`,
@@ -465,7 +462,7 @@ export const peopleCz = [
   {
     id: `fischer`,
     name: `Felícia Miranda Fischer`,
-    position: `Researcher`,
+    position: `Postdoc`,
     description: ``,
     email: `feliciafischerster@gmail.com`,
     phoneNumber: `549498479`,
@@ -475,7 +472,7 @@ export const peopleCz = [
   {
     id: `gotzenberger`,
     name: `Lars Götzenberger`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `lars.goetzenberger@gmail.com`,
     phoneNumber: ``,
@@ -485,7 +482,7 @@ export const peopleCz = [
   {
     id: `hajek`,
     name: `Ondøej Hájek`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `ohajek@sci.muni.cz`,
     phoneNumber: `549494033`,
@@ -495,7 +492,7 @@ export const peopleCz = [
   {
     id: `holubova`,
     name: `Dana Holubová`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `danmich@mail.muni.cz`,
     phoneNumber: `549496974`,
@@ -505,7 +502,7 @@ export const peopleCz = [
   {
     id: `kalusova`,
     name: `Veronika Kalusová`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `kalveron@tiscali.cz`,
     phoneNumber: `549494992`,
@@ -515,7 +512,7 @@ export const peopleCz = [
   {
     id: `knollova`,
     name: `Ilona Knollová`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `ikuzel@sci.muni.cz`,
     phoneNumber: `549498488`,
@@ -525,7 +522,7 @@ export const peopleCz = [
   {
     id: `kubesova`,
     name: `Svatava Kubešová`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `skubesova@mzm.cz`,
     phoneNumber: `545217322`,
@@ -535,7 +532,7 @@ export const peopleCz = [
   {
     id: `landucci`,
     name: `Flavia Landucci`,
-    position: `Researcher (maternity leave)`,
+    position: `Odborný pracovník (mateøská dovolená)`,
     description: ``,
     email: `386683@mail.muni.cz`,
     phoneNumber: `549498479`,
@@ -545,7 +542,7 @@ export const peopleCz = [
    {
     id: `preislerova`,
     name: `Zdenka Preislerová`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `zpreislerova@gmail.com`,
     phoneNumber: `549498477`,
@@ -555,7 +552,7 @@ export const peopleCz = [
    {
     id: `reznickova`,
     name: `Marcela Øezníèková`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `mar.reznickova@seznam.cz`,
     phoneNumber: `549498488`,
@@ -576,7 +573,7 @@ export const peopleCz = [
    {
     id: `stepankova`,
     name: `Petra Štìpánková`,
-    position: `Researcher`,
+    position: `Odborný pracovník`,
     description: ``,
     email: `pstepankova@sci.muni.cz`,
     phoneNumber: `549498389`,
@@ -585,7 +582,7 @@ export const peopleCz = [
    {
     id: `taborska`,
     name: `Markéta Táborská`,
-    position: `Researcher (maternity leave)`,
+    position: `Odborný pracovník (mateøská dovolená)`,
     description: ``,
     email: `taborska.mar@gmail.com`,
     phoneNumber: `549498474`,
@@ -626,12 +623,7 @@ export const peopleCz = [
     id: `jaskova`,
     name: `Anni Kanerva Jašková (Pyykönen)`,
     position: `Researcher`,
-    description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified
-European-scale vegetation classification of the boreal forests, but her
-interests lay also in theoretical ecology, i.e. plant strategies and
-plant-herbivore-interactions. Anni is originally from Finland, where she
-studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.
-`,
+    description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
     email: `annipyy@mail.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
