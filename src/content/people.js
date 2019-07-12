@@ -1,11 +1,10 @@
-import smerdova from '../../static/images/people/smerdova.jpg'
-import drevojan from '../../static/images/people/drevojan.jpg'
-import lososova from '../../static/images/people/lososova.jpg'
-import bonari from '../../static/images/people/bonari.jpg'
-import divisek from '../../static/images/people/divisek.jpg'
-import jaskova from '../../static/images/people/jaskova.jpg'
-import novak from '../../static/images/people/novak.jpg'
-
+import smerdova from "../../static/images/people/smerdova.jpg";
+import drevojan from "../../static/images/people/drevojan.jpg";
+import lososova from "../../static/images/people/lososova.jpg";
+import bonari from "../../static/images/people/bonari.jpg";
+import divisek from "../../static/images/people/divisek.jpg";
+import jaskova from "../../static/images/people/jaskova.jpg";
+import novak from "../../static/images/people/novak.jpg";
 
 export const peopleEn = [
   {
@@ -16,7 +15,7 @@ export const peopleEn = [
     email: `chytry@sci.muni.cz`,
     phoneNumber: `549494595`,
     researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
-    is: `http://www.sci.muni.cz/botany/chytry/`,
+    is: `http://www.sci.muni.cz/botany/chytry/`
   },
   {
     id: `danihelka`,
@@ -26,7 +25,7 @@ export const peopleEn = [
     email: `danihel@sci.muni.cz`,
     phoneNumber: `549493473`,
     researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`,
-    is: `https://www.muni.cz/en/people/5926-jiri-danihelka`,
+    is: `https://www.muni.cz/en/people/5926-jiri-danihelka`
   },
   {
     id: `divisek`,
@@ -37,8 +36,8 @@ export const peopleEn = [
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
     is: `https://www.muni.cz/en/people/106310-jan-divisek`,
-	img: divisek
-  }, 
+    img: divisek
+  },
   {
     id: `lososova`,
     name: `Zdeňka Lososová`,
@@ -48,7 +47,7 @@ export const peopleEn = [
     phoneNumber: `549498399`,
     researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
     is: `https://www.muni.cz/en/people/5767-zdenka-lososova`,
-	img: lososova
+    img: lososova
   },
   {
     id: `rolecek`,
@@ -58,7 +57,7 @@ export const peopleEn = [
     email: `honza.rolecek@centrum.cz`,
     phoneNumber: `549498489`,
     researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
-    is: `https://www.muni.cz/en/people/42706-jan-rolecek`,
+    is: `https://www.muni.cz/en/people/42706-jan-rolecek`
   },
   {
     id: `tesitel`,
@@ -68,7 +67,7 @@ export const peopleEn = [
     email: `tesitel@sci.muni.cz`,
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
-    is: `https://www.muni.cz/en/people/116967-jakub-tesitel`,
+    is: `https://www.muni.cz/en/people/116967-jakub-tesitel`
   },
   {
     id: `tichy`,
@@ -78,7 +77,7 @@ export const peopleEn = [
     email: `tichy@sci.muni.cz`,
     phoneNumber: `549497673`,
     researchgate: `https://www.researchgate.net/scientific-contributions/14637372_Lubomir_Tichy`,
-    is: `https://www.muni.cz/en/people/6669-lubomir-tichy`,
+    is: `https://www.muni.cz/en/people/6669-lubomir-tichy`
   },
   {
     id: `axmanova`,
@@ -88,7 +87,7 @@ export const peopleEn = [
     email: `axmanova@sci.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`,
-    is: `https://www.muni.cz/en/people/78388-irena-axmanova`,
+    is: `https://www.muni.cz/en/people/78388-irena-axmanova`
   },
   {
     id: `bonari`,
@@ -109,7 +108,7 @@ export const peopleEn = [
     email: `padulles@sci.muni.cz`,
     phoneNumber: `549498477`,
     researchgate: `https://www.researchgate.net/profile/Josep_Padulles`,
-    is: `https://www.muni.cz/en/people/243613-josep-padulles-cubino`,
+    is: `https://www.muni.cz/en/people/243613-josep-padulles-cubino`
   },
   {
     id: `ceplova`,
@@ -119,7 +118,7 @@ export const peopleEn = [
     email: `ceplova@ped.muni.cz`,
     phoneNumber: `549494992`,
     researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`,
-    is: `https://www.muni.cz/en/people/13913-natalie-ceplova`,
+    is: `https://www.muni.cz/en/people/13913-natalie-ceplova`
   },
   {
     id: `fischer`,
@@ -129,7 +128,7 @@ export const peopleEn = [
     email: `feliciafischerster@gmail.com`,
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
-    is: `https://www.muni.cz/en/people/243002-felicia-miranda-fischer`,
+    is: `https://www.muni.cz/en/people/243002-felicia-miranda-fischer`
   },
   {
     id: `gotzenberger`,
@@ -139,7 +138,7 @@ export const peopleEn = [
     email: `lars.goetzenberger@gmail.com`,
     phoneNumber: ``,
     researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`,
-    is: `https://www.muni.cz/en/people/238736-lars-goetzenberger`,
+    is: `https://www.muni.cz/en/people/238736-lars-goetzenberger`
   },
   {
     id: `hajek`,
@@ -149,7 +148,7 @@ export const peopleEn = [
     email: `ohajek@sci.muni.cz`,
     phoneNumber: `549494033`,
     researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`,
-    is: `https://www.muni.cz/en/people/16845-ondrej-hajek`,
+    is: `https://www.muni.cz/en/people/16845-ondrej-hajek`
   },
   {
     id: `holubova`,
@@ -159,7 +158,7 @@ export const peopleEn = [
     email: `danmich@mail.muni.cz`,
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
-    is: `https://www.muni.cz/en/people/113226-dana-holubova`,
+    is: `https://www.muni.cz/en/people/113226-dana-holubova`
   },
   {
     id: `kalusova`,
@@ -169,7 +168,7 @@ export const peopleEn = [
     email: `kalveron@tiscali.cz`,
     phoneNumber: `549494992`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
-    is: `https://www.muni.cz/en/people/106856-veronika-kalusova`,
+    is: `https://www.muni.cz/en/people/106856-veronika-kalusova`
   },
   {
     id: `knollova`,
@@ -179,7 +178,7 @@ export const peopleEn = [
     email: `ikuzel@sci.muni.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
-    is: `https://www.muni.cz/en/people/10355-ilona-knollova`,
+    is: `https://www.muni.cz/en/people/10355-ilona-knollova`
   },
   {
     id: `kubesova`,
@@ -189,7 +188,7 @@ export const peopleEn = [
     email: `skubesova@mzm.cz`,
     phoneNumber: `545217322`,
     researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`,
-    is: `https://www.muni.cz/en/people/18604-svatava-kubesova`,
+    is: `https://www.muni.cz/en/people/18604-svatava-kubesova`
   },
   {
     id: `landucci`,
@@ -199,9 +198,9 @@ export const peopleEn = [
     email: `386683@mail.muni.cz`,
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
-    is: `https://www.muni.cz/en/people/386683-flavia-landucci`,
+    is: `https://www.muni.cz/en/people/386683-flavia-landucci`
   },
-   {
+  {
     id: `preislerova`,
     name: `Zdenka Preislerová`,
     position: `Researcher`,
@@ -209,9 +208,9 @@ export const peopleEn = [
     email: `zpreislerova@gmail.com`,
     phoneNumber: `549498477`,
     researchgate: `https://www.researchgate.net/profile/Zdenka_Preislerova`,
-    is: `https://www.muni.cz/en/people/10230-zdenka-preislerova`,
+    is: `https://www.muni.cz/en/people/10230-zdenka-preislerova`
   },
-   {
+  {
     id: `reznickova`,
     name: `Marcela Řezníčková`,
     position: `Researcher`,
@@ -219,7 +218,7 @@ export const peopleEn = [
     email: `mar.reznickova@seznam.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
-    is: `https://www.muni.cz/en/people/19437-marcela-reznickova`,
+    is: `https://www.muni.cz/en/people/19437-marcela-reznickova`
   },
   {
     id: `smerdova`,
@@ -232,16 +231,16 @@ export const peopleEn = [
     is: `https://www.muni.cz/en/people/75764-eva-smerdova`,
     img: smerdova
   },
-   {
+  {
     id: `stepankova`,
     name: `Petra Štěpánková`,
     position: `Researcher`,
     description: ``,
     email: `pstepankova@sci.muni.cz`,
     phoneNumber: `549498389`,
-    is: `https://www.muni.cz/en/people/234942-petra-stepankova`,
+    is: `https://www.muni.cz/en/people/234942-petra-stepankova`
   },
-   {
+  {
     id: `taborska`,
     name: `Markéta Táborská`,
     position: `Researcher (maternity leave)`,
@@ -249,9 +248,9 @@ export const peopleEn = [
     email: `taborska.mar@gmail.com`,
     phoneNumber: `549498474`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`,
-    is: `https://www.muni.cz/en/people/222793-marketa-taborska`,
+    is: `https://www.muni.cz/en/people/222793-marketa-taborska`
   },
-   {
+  {
     id: `drevojan`,
     name: `Pavel Dřevojan`,
     position: `Researcher`,
@@ -262,16 +261,16 @@ export const peopleEn = [
     is: `https://www.muni.cz/en/people/269768-pavel-drevojan`,
     img: drevojan
   },
-   {
+  {
     id: `galuskova`,
     name: `Hana Galušková`,
     position: `Researcher`,
     description: ``,
     email: `357936@mail.muni.cz`,
     phoneNumber: `549494813`,
-    is: `https://www.muni.cz/en/people/357936-hana-galuskova`,
+    is: `https://www.muni.cz/en/people/357936-hana-galuskova`
   },
-   {
+  {
     id: `chudomelova`,
     name: `Markéta Chudomelová`,
     position: `Researcher`,
@@ -279,22 +278,20 @@ export const peopleEn = [
     email: `323585@mail.muni.cz`,
     phoneNumber: `541126221`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
-    is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`,
-  }, 
-   {
+    is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`
+  },
+  {
     id: `jaskova`,
     name: `Anni Kanerva Jašková (Pyykönen)`,
     position: `Researcher`,
-<<<<<<< HEAD
     description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     email: `annipyy@mail.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
     is: `https://www.muni.cz/en/people/452344-anni-kanerva-pyykoenen`,
-	img: jaskova
+    img: jaskova
   },
-    {
+  {
     id: `kalnikova`,
     name: `Veronika Kalníková`,
     position: `Researcher`,
@@ -302,9 +299,9 @@ export const peopleEn = [
     email: `V.Kalnikova@seznam.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
-    is: `https://www.muni.cz/en/people/222967-veronika-kalnikova`,
+    is: `https://www.muni.cz/en/people/222967-veronika-kalnikova`
   },
-   {
+  {
     id: `novak`,
     name: `Pavel Novák`,
     position: `Researcher`,
@@ -313,19 +310,19 @@ export const peopleEn = [
     phoneNumber: `549498485`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
     is: `https://www.muni.cz/en/people/269109-pavel-novak`,
-	img: novak
+    img: novak
   },
 
-   {
+  {
     id: `spanikova`,
     name: `Šárka Špániková`,
     position: `Researcher`,
     description: ``,
     email: `408322@mail.muni.cz`,
     phoneNumber: ``,
-    is: `https://www.muni.cz/en/people/408322-sarka-spanikova`,
+    is: `https://www.muni.cz/en/people/408322-sarka-spanikova`
   },
-   {
+  {
     id: `vecera`,
     name: `Martin Večeřa`,
     position: `Researcher`,
@@ -333,9 +330,9 @@ export const peopleEn = [
     email: `martinvec@seznam.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-    is: `https://www.muni.cz/en/people/357693-martin-vecera`,
+    is: `https://www.muni.cz/en/people/357693-martin-vecera`
   },
-   {
+  {
     id: `zukal`,
     name: `Dominik Zukal`,
     position: `Researcher`,
@@ -343,9 +340,9 @@ export const peopleEn = [
     email: `375623@mail.muni.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`,
-    is: `https://www.muni.cz/en/people/375623-dominik-zukal`,
-  },   
-]
+    is: `https://www.muni.cz/en/people/375623-dominik-zukal`
+  }
+];
 
 export const peopleCz = [
   {
@@ -354,60 +351,51 @@ export const peopleCz = [
     position: `Vedoucí skupiny`,
     description: ``,
     email: `chytry@sci.muni.cz`,
-	phoneNumber: `549494595`,
+    phoneNumber: `549494595`,
     researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
-    is: `http://www.sci.muni.cz/botany/chytry/`,
+    is: `http://www.sci.muni.cz/botany/chytry/`
   },
   {
     id: `danihelka`,
-<<<<<<< HEAD
-=======
     name: `Jiří Danihelka`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `danihel@sci.muni.cz`,
     phoneNumber: `549493473`,
     researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`,
-    is: `https://www.muni.cz/lide/5926-jiri-danihelka`,
+    is: `https://www.muni.cz/lide/5926-jiri-danihelka`
   },
   {
     id: `divisek`,
-<<<<<<< HEAD
-   
-=======
     name: `Jan Divíšek`,
     position: `Researcher`,
     description: `Jan Divíšek vystudoval učitelství biologie a geografie na Masarykově univerzitě. Následně pokračoval na téže instituci doktorským studiem v oboru Fyzická geografie a v roce 2015 obhájil disertační práci, která se zabývala biogeografií a beta diverzitou společenstev různých taxonomických skupin České republiky. V současnosti pracuje jako odborný asistent Ústavu botaniky a zoologie a také Geografického ústavu Masarykovy univerzity. Aktuálně se věnuje výzkumu biodiverzity, invazní ekologii a prostorovému modelování. Mezi otázky spojené s jeho výzkumem patří např.: Jaký je vliv historických změn krajiny na současné regionální rozdíly v druhové bohatosti rostlin? Jaké vlastnosti ovlivňují úspěšnost nepůvodních druhů? nebo Jak se mění rozšíření druhů i celých společenstev v reakci na změny prostření? `,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     email: `divisekjan@mail.muni.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
     is: `https://www.muni.cz/lide/106310-jan-divisek`,
-	img: divisek
-  }, 
+    img: divisek
+  },
   {
     id: `lososova`,
     name: `Zdeňka Lososová`,
     position: `Docent`,
     description: `Zdeňka Lososová pracuje na Ústavu botaniky a zoologie od roku 2004. Je garantkou bakalářského a navazujícího magisterského studia učitelství biologie pro střední školy. Podílí se na výuce botanických a geobotanických seminářů a terénního cvičení z geobotaniky. Ve výzkumu se zabývá diverzitou vegetace, soustředí se především (ale nejenom) na vegetaci antropogenních stanovišť. Jedním z hlavních výzkumných témat je  vliv prostředí velkých evropských měst na výskyt cévnatých rostlin. S tímto tématem souvisí otázky invazní biologie. V posledních letech se soustředí na studium funkční a fylogenetické diverzity rostlinných společenstev. Pomocí těchto charakteristik rostlinných společenstev se snaží pochopit, do jaké míry utvářejí rostlinná společenstva podmínky prostředí a do jaké míry to jsou biotické interakce.`,
     email: `lososova@sci.muni.cz`,
-	phoneNumber: `549498399`,
+    phoneNumber: `549498399`,
     researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
     is: `https://www.muni.cz/lide/5767-zdenka-lososova`,
-	img: lososova
+    img: lososova
   },
   {
     id: `rolecek`,
-<<<<<<< HEAD
-        name: `Jan Roleček`,
+    name: `Jan Roleček`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `honza.rolecek@centrum.cz`,
     phoneNumber: `549498489`,
     researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
-    is: `https://www.muni.cz/lide/42706-jan-rolecek`,
+    is: `https://www.muni.cz/lide/42706-jan-rolecek`
   },
   {
     id: `tesitel`,
@@ -417,31 +405,27 @@ export const peopleCz = [
     email: `tesitel@sci.muni.cz`,
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
-    is: `https://www.muni.cz/lide/116967-jakub-tesitel`,
+    is: `https://www.muni.cz/lide/116967-jakub-tesitel`
   },
   {
     id: `tichy`,
-<<<<<<< HEAD
-       name: `Lubomír Tichý`,
+    name: `Lubomír Tichý`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `tichy@sci.muni.cz`,
     phoneNumber: `549497673`,
     researchgate: `https://www.researchgate.net/scientific-contributions/14637372_Lubomir_Tichy`,
-    is: `https://www.muni.cz/lide/6669-lubomir-tichy`,
+    is: `https://www.muni.cz/lide/6669-lubomir-tichy`
   },
   {
     id: `axmanova`,
-<<<<<<< HEAD
-       name: `Irena Axmanová`,
+    name: `Irena Axmanová`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `axmanova@sci.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`,
-    is: `https://www.muni.cz/lide/78388-irena-axmanova`,
+    is: `https://www.muni.cz/lide/78388-irena-axmanova`
   },
   {
     id: `bonari`,
@@ -462,103 +446,87 @@ export const peopleCz = [
     email: `padulles@sci.muni.cz`,
     phoneNumber: `549498477`,
     researchgate: `https://www.researchgate.net/profile/Josep_Padulles`,
-    is: `https://www.muni.cz/lide/243613-josep-padulles-cubino`,
+    is: `https://www.muni.cz/lide/243613-josep-padulles-cubino`
   },
   {
     id: `ceplova`,
-<<<<<<< HEAD
-       name: `Natálie Čeplová`,
+    name: `Natálie Čeplová`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `ceplova@ped.muni.cz`,
     phoneNumber: `549494992`,
     researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`,
-    is: `https://www.muni.cz/lide/13913-natalie-ceplova`,
+    is: `https://www.muni.cz/lide/13913-natalie-ceplova`
   },
   {
     id: `fischer`,
-<<<<<<< HEAD
-        name: `Felícia Miranda Fischer`,
+    name: `Felícia Miranda Fischer`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `feliciafischerster@gmail.com`,
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
-    is: `https://www.muni.cz/lide/243002-felicia-miranda-fischer`,
+    is: `https://www.muni.cz/lide/243002-felicia-miranda-fischer`
   },
   {
     id: `gotzenberger`,
-<<<<<<< HEAD
-        name: `Lars Götzenberger`,
+    name: `Lars Götzenberger`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `lars.goetzenberger@gmail.com`,
     phoneNumber: ``,
     researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`,
-    is: `https://www.muni.cz/lide/238736-lars-goetzenberger`,
+    is: `https://www.muni.cz/lide/238736-lars-goetzenberger`
   },
   {
     id: `hajek`,
-<<<<<<< HEAD
-        name: `Ondřej Hájek`,
+    name: `Ondřej Hájek`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `ohajek@sci.muni.cz`,
     phoneNumber: `549494033`,
     researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`,
-    is: `https://www.muni.cz/lide/16845-ondrej-hajek`,
+    is: `https://www.muni.cz/lide/16845-ondrej-hajek`
   },
   {
     id: `holubova`,
-<<<<<<< HEAD
-        name: `Dana Holubová`,
+    name: `Dana Holubová`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `danmich@mail.muni.cz`,
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
-    is: `https://www.muni.cz/lide/113226-dana-holubova`,
+    is: `https://www.muni.cz/lide/113226-dana-holubova`
   },
   {
     id: `kalusova`,
-<<<<<<< HEAD
-        name: `Veronika Kalusová`,
+    name: `Veronika Kalusová`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `kalveron@tiscali.cz`,
     phoneNumber: `549494992`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
-    is: `https://www.muni.cz/lide/106856-veronika-kalusova`,
+    is: `https://www.muni.cz/lide/106856-veronika-kalusova`
   },
   {
     id: `knollova`,
-<<<<<<< HEAD
-        name: `Ilona Knollová`,
+    name: `Ilona Knollová`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `ikuzel@sci.muni.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
-    is: `https://www.muni.cz/lide/10355-ilona-knollova`,
+    is: `https://www.muni.cz/lide/10355-ilona-knollova`
   },
   {
     id: `kubesova`,
-<<<<<<< HEAD
-        name: `Svatava Kubešová`,
+    name: `Svatava Kubešová`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `skubesova@mzm.cz`,
     phoneNumber: `545217322`,
     researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`,
-    is: `https://www.muni.cz/lide/18604-svatava-kubesova`,
+    is: `https://www.muni.cz/lide/18604-svatava-kubesova`
   },
   {
     id: `landucci`,
@@ -568,33 +536,29 @@ export const peopleCz = [
     email: `386683@mail.muni.cz`,
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
-    is: `https://www.muni.cz/lide/386683-flavia-landucci`,
+    is: `https://www.muni.cz/lide/386683-flavia-landucci`
   },
-   {
+  {
     id: `preislerova`,
-<<<<<<< HEAD
-        name: `Zdenka Preislerová`,
+    name: `Zdenka Preislerová`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `zpreislerova@gmail.com`,
     phoneNumber: `549498477`,
     researchgate: `https://www.researchgate.net/profile/Zdenka_Preislerova`,
-    is: `https://www.muni.cz/lide/10230-zdenka-preislerova`,
+    is: `https://www.muni.cz/lide/10230-zdenka-preislerova`
   },
-   {
+  {
     id: `reznickova`,
-<<<<<<< HEAD
-        name: `Marcela Řezníčková`,
+    name: `Marcela Řezníčková`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `mar.reznickova@seznam.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
-    is: `https://www.muni.cz/lide/19437-marcela-reznickova`,
+    is: `https://www.muni.cz/lide/19437-marcela-reznickova`
   },
- {
+  {
     id: `smerdova`,
     name: `Eva Šmerdová (Hettenbergerová)`,
     position: `Odborný pracovník`,
@@ -605,28 +569,26 @@ export const peopleCz = [
     is: `https://www.muni.cz/lide/75764-eva-smerdova`,
     img: smerdova
   },
-   {
+  {
     id: `stepankova`,
-<<<<<<< HEAD
-        name: `Petra Štěpánková`,
+    name: `Petra Štěpánková`,
     position: `Researcher`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     description: ``,
     email: `pstepankova@sci.muni.cz`,
     phoneNumber: `549498389`,
-    is: `https://www.muni.cz/lide/234942-petra-stepankova`,
+    is: `https://www.muni.cz/lide/234942-petra-stepankova`
   },
-   {
+  {
     id: `taborska`,
-        name: `Markéta Táborská`,
+    name: `Markéta Táborská`,
     position: `Researcher (mateřská dovolená)`,
     description: ``,
     email: `taborska.mar@gmail.com`,
     phoneNumber: `549498474`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`,
-    is: `https://www.muni.cz/lide/222793-marketa-taborska`,
+    is: `https://www.muni.cz/lide/222793-marketa-taborska`
   },
-   {
+  {
     id: `drevojan`,
     name: `Pavel Dřevojan`,
     position: `Technik`,
@@ -637,16 +599,16 @@ export const peopleCz = [
     is: `https://www.muni.cz/lide/269768-pavel-drevojan`,
     img: drevojan
   },
-   {
+  {
     id: `galuskova`,
     name: `Hana Galušková`,
     position: `Technik`,
     description: ``,
     email: `357936@mail.muni.cz`,
     phoneNumber: `549494813`,
-    is: `https://www.muni.cz/lide/357936-hana-galuskova`,
+    is: `https://www.muni.cz/lide/357936-hana-galuskova`
   },
-   {
+  {
     id: `chudomelova`,
     name: `Markéta Chudomelová`,
     position: `Researcher`,
@@ -654,22 +616,20 @@ export const peopleCz = [
     email: `323585@mail.muni.cz`,
     phoneNumber: `541126221`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
-    is: `https://www.muni.cz/lide/323585-marketa-chudomelova`,
-  }, 
-    {
+    is: `https://www.muni.cz/lide/323585-marketa-chudomelova`
+  },
+  {
     id: `jaskova`,
-<<<<<<< HEAD
-        name: `Anni Kanerva Jašková (Pyykönen)`,
+    name: `Anni Kanerva Jašková (Pyykönen)`,
     position: `Researcher`,
     description: `Anni Jašková is a PhD-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
->>>>>>> 226231ee5c1ba272ef2c5a4c175ae12d2135ee86
     email: `annipyy@mail.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
     is: `https://www.muni.cz/lide/452344-anni-kanerva-pyykoenen`,
-	img: jaskova
+    img: jaskova
   },
-    {
+  {
     id: `kalnikova`,
     name: `Veronika Kalníková`,
     position: `Researcher`,
@@ -677,9 +637,9 @@ export const peopleCz = [
     email: `V.Kalnikova@seznam.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
-    is: `https://www.muni.cz/lide/222967-veronika-kalnikova`,
+    is: `https://www.muni.cz/lide/222967-veronika-kalnikova`
   },
-   {
+  {
     id: `novak`,
     name: `Pavel Novák`,
     position: `Researcher`,
@@ -688,19 +648,19 @@ export const peopleCz = [
     phoneNumber: `549498485`,
     researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
     is: `https://www.muni.cz/lide/269109-pavel-novak`,
-	img: novak
+    img: novak
   },
 
-   {
+  {
     id: `spanikova`,
     name: `Šárka Špániková`,
     position: `Researcher`,
     description: ``,
     email: `408322@mail.muni.cz`,
     phoneNumber: ``,
-    is: `https://www.muni.cz/lide/408322-sarka-spanikova`,
+    is: `https://www.muni.cz/lide/408322-sarka-spanikova`
   },
-   {
+  {
     id: `vecera`,
     name: `Martin Večeřa`,
     position: `Researcher`,
@@ -708,9 +668,9 @@ export const peopleCz = [
     email: `martinvec@seznam.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-    is: `https://www.muni.cz/lide/357693-martin-vecera`,
+    is: `https://www.muni.cz/lide/357693-martin-vecera`
   },
-   {
+  {
     id: `zukal`,
     name: `Dominik Zukal`,
     position: `Researcher`,
@@ -718,6 +678,6 @@ export const peopleCz = [
     email: `375623@mail.muni.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`,
-    is: `https://www.muni.cz/lide/375623-dominik-zukal`,
-  }, 
-]
+    is: `https://www.muni.cz/lide/375623-dominik-zukal`
+  }
+];
