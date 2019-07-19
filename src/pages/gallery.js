@@ -3,14 +3,14 @@ import styled from "styled-components";
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Img from "gatsby-image"
+import Img from "gatsby-image";
 import { Consumer } from "../layouts/Context";
-import { cz, en } from "../content/general";
+import { galleryNamesCz, galleryNamesEn } from "../content/galleryCaptions";
 
-const GalleryType = ({ to, img, heading }) => {
+const GalleryType = ({ to, img, heading, query }) => {
   return (
     <div style={{ margin: "1em" }}>
-      <Link to={to}>
+      <Link to={to} state={{ query: query }}>
         <Img fixed={img} alt={heading} height="265px" />
       </Link>
       <div style={{ textAlign: "center" }}>{heading}</div>
@@ -24,35 +24,31 @@ GalleryType.propTypes = {
   to: PropTypes.string
 };
 
-const PhotoGallery = ({data}) => {
-  return (
-    <Consumer>
-      {({ int }) => (
-        <Container>
+const PhotoGallery = ({ data }) => (
+  <Consumer>
+    {({ int }) => {
+      const galleryNames = int === "en" ? galleryNamesEn : galleryNamesCz;
+      const galleries = galleryNames.map((galleryName, index) => {
+        return (
           <GalleryType
-            to="/"
+            key={galleryName}
+            to={`/gallery-${galleryNamesEn[index]}`}
+            query={galleryName}
             img={data.excursions.childImageSharp.fixed}
-            heading={
-              int === "en" ? en.gallery.excursions : cz.gallery.excursions
-            }
+            heading={galleryName}
           />
-          <GalleryType
-            to="/"
-            img={data.excursions.childImageSharp.fixed}
-            heading={
-              int === "en" ? en.gallery.fieldworks : cz.gallery.fieldworks
-            }
-          />
-        </Container>
-      )}
-    </Consumer>
-  );
-};
+        );
+      });
+      return <Container>{galleries}</Container>;
+    }}
+  </Consumer>
+);
 
 export default PhotoGallery;
 
 PhotoGallery.propTypes = {
-  data: PropTypes.object
+  data: PropTypes.object,
+  query: PropTypes.object
 };
 
 const Container = styled.div`
@@ -64,20 +60,20 @@ const Container = styled.div`
 `;
 
 export const query = graphql`
-query {
-  excursions: file(relativePath: { eq: "gallery/excursions.jpg" }) {
-    childImageSharp {
-      fixed(width: 400) {
-        ...GatsbyImageSharpFixed
+  query {
+    excursions: file(relativePath: { eq: "gallery/excursions.jpg" }) {
+      childImageSharp {
+        fixed(width: 400) {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
+    fieldwork: file(relativePath: { eq: "gallery/fieldwork.jpg" }) {
+      childImageSharp {
+        fixed(width: 400) {
+          ...GatsbyImageSharpFixed
+        }
       }
     }
   }
-  fieldwork: file(relativePath: { eq: "gallery/fieldwork.jpg" }) {
-    childImageSharp {
-      fixed(width: 400) {
-        ...GatsbyImageSharpFixed
-      }
-    }
-  }
-}
 `;

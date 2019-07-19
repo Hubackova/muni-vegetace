@@ -6,7 +6,6 @@ import Lightbox from "react-images";
 import { graphql } from "gatsby";
 
 import { Consumer } from "../layouts/Context";
-import MainContainer from "../components/MainContainer";
 import { cz, en } from "../content/projects";
 
 class ProjectDetail extends Component {

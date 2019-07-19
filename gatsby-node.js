@@ -1,7 +1,8 @@
 const path = require(`path`);
+const { galleryNames, projectsNames } = require("./src/content/pagesNames");
 
 exports.createPages = ({ actions: { createPage } }) => {
-    ["project1", "project2", "project3", "project4", "project5"].forEach(projectItem => {
+  projectsNames.forEach(projectItem => {
     createPage({
       path: projectItem,
       component: path.resolve(`./src/templates/projectDetail.js`),
@@ -9,6 +10,20 @@ exports.createPages = ({ actions: { createPage } }) => {
         slug: projectItem,
         title: projectItem,
         imgsRegex: `/${projectItem}_/`
+      }
+    });
+  });
+};
+
+exports.createPages = ({ actions: { createPage } }) => {
+  galleryNames.forEach(galleryItem => {
+    createPage({
+      path: `gallery-${galleryItem}`,
+      component: path.resolve(`./src/templates/gallery.js`),
+      context: {
+        slug: `gallery-${galleryItem}`,
+        title: galleryItem,
+        imgsRegex: `/${galleryItem}_/`
       }
     });
   });

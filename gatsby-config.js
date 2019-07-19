@@ -3,10 +3,9 @@ const path = require(`path`)
 module.exports = {
   siteMetadata: {
     title: `Vegetace - MUNI`,
-    description:
-    ``,
-    url: "https://botzool-mirecol.netlify.com", // No trailing slash allowed!
-    image: "/mainLogo.png", // Path to your image you placed in the 'static' folder
+    description: `Vegetation Science Group - Masaryk University`,
+    url: "https://botzool-vegetation.netlify.com",
+    image: "/mainLogo.png",
   },
   plugins: [
     `gatsby-plugin-eslint`,
@@ -27,17 +26,9 @@ module.exports = {
       name: `content`
     }
   },
-  // {
-  //   resolve: `gatsby-source-filesystem`,
-  //   options: {
-  //     path: `${__dirname}/src/content/projects/`,
-  //     name: `projects`
-  //   }
-  // },
   "gatsby-transformer-javascript-frontmatter",
   "gatsby-transformer-remark",
   `gatsby-transformer-sharp`,
   `gatsby-plugin-sharp`,
   ],
-  pathPrefix: "/raseliniste"
 }
