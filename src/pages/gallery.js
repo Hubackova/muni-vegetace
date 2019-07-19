@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Img from "gatsby-image";
 import { Consumer } from "../layouts/Context";
-import { galleryNamesCz, galleryNamesEn } from "../content/galleryCaptions";
+import { galleryNames as pageNames, galleryNamesCz, galleryNamesEn } from "../content/galleries";
 
 const GalleryType = ({ to, img, heading, query }) => {
   return (
@@ -27,14 +27,16 @@ GalleryType.propTypes = {
 const PhotoGallery = ({ data }) => (
   <Consumer>
     {({ int }) => {
-      const galleryNames = int === "en" ? galleryNamesEn : galleryNamesCz;
-      const galleries = galleryNames.map((galleryName, index) => {
+      const galleryNames = int === "en" ? galleryNames : galleryNames;
+
+      const galleries = pageNames.map((galleryName, index) => {
+        const img = data.allImageSharp.edges.filter(i => i.node.fixed.src.includes(galleryName))
         return (
           <GalleryType
             key={galleryName}
-            to={`/gallery-${galleryNamesEn[index]}`}
+            to={`/gallery-${pageNames[index]}`}
             query={galleryName}
-            img={data.excursions.childImageSharp.fixed}
+            img={img[0].node.fixed}
             heading={galleryName}
           />
         );
@@ -61,17 +63,13 @@ const Container = styled.div`
 
 export const query = graphql`
   query {
-    excursions: file(relativePath: { eq: "gallery/excursions.jpg" }) {
-      childImageSharp {
-        fixed(width: 400) {
-          ...GatsbyImageSharpFixed
-        }
-      }
-    }
-    fieldwork: file(relativePath: { eq: "gallery/fieldwork.jpg" }) {
-      childImageSharp {
-        fixed(width: 400) {
-          ...GatsbyImageSharpFixed
+    allImageSharp(filter: { fixed: { src: { regex: "/main_/" } } }) {
+      edges {
+        node {
+          id
+          fixed {
+            ...GatsbyImageSharpFixed
+          }
         }
       }
     }
