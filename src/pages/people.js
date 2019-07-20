@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Consumer } from "../layouts/Context";
 import styled from "styled-components";
 import People from "../components/people/People";
-import { peopleCz, peopleEn, formerPeople, generalCz, generalEn } from "../content/people";
+import { peopleCz, peopleEn, formerPeople } from "../content/people";
 import { cz, en } from "../content/general";
 
 class people extends Component {

@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 import styled from "styled-components";
+import PropTypes from "prop-types";
 
 import MainContainer from "../components/MainContainer";
 import { Consumer } from "../layouts/Context";
@@ -67,6 +68,12 @@ const BookBox = ({ book, isActive }) => {
     </React.Fragment>
   );
 };
+
+BookBox.propTypes = {
+  book: PropTypes.object,
+  isActive: PropTypes.bool,
+};
+
 const BookContainer = styled.div`
   display: flex;
   margin: 20px 0;

@@ -16,7 +16,8 @@ ListLink.propTypes = {
   children: PropTypes.node,
   isVisible: PropTypes.bool,
   to: PropTypes.string,
-  className: PropTypes.string
+  className: PropTypes.string,
+  isSimpleLink: PropTypes.bool,
 };
 
 const windowGlobal = typeof window !== "undefined" && window;

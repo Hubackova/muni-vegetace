@@ -1,8 +1,6 @@
-import React, {Fragment} from "react";
+import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
-import MainContainer from "../MainContainer";
-import H2 from "../atoms/H2";
 import Ul from "../atoms/Ul";
 
 const Theses = ({ thesesData }) => {

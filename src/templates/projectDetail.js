@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import Img from "gatsby-image";
 import styled from "styled-components";
 import { Link } from "gatsby";
@@ -148,6 +149,11 @@ const StyledLink = styled(Link)`
 `;
 
 export default ProjectDetail;
+
+ProjectDetail.propTypes = {
+  data: PropTypes.object,
+  location: PropTypes.object,
+};
 
 export const query = graphql`
   query($imgsRegex: String!) {

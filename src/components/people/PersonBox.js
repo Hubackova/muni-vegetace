@@ -80,7 +80,8 @@ export default PersonBox;
 
 PersonBox.propTypes = {
   personInfo: PropTypes.object,
-  data: PropTypes.object
+  data: PropTypes.object,
+  msg: PropTypes.object,
 };
 
 const Box = styled.div`

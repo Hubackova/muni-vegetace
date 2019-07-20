@@ -6,7 +6,7 @@ import { Consumer } from "../../layouts/Context";
 import { cz, en } from "../../content/projects";
 import project3 from "../../../static/images/projects/project3.jpg";
 
-const Databases = ({ data }) => (
+const Databases = () => (
   <RightPanel>
     <Consumer>
       {({ int }) => {

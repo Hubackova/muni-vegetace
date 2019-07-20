@@ -13,9 +13,6 @@ exports.createPages = ({ actions: { createPage } }) => {
       }
     });
   });
-};
-
-exports.createPages = ({ actions: { createPage } }) => {
   galleryNames.forEach(galleryItem => {
     createPage({
       path: `gallery-${galleryItem}`,

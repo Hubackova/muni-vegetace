@@ -21,13 +21,14 @@ const GalleryType = ({ to, img, heading, query }) => {
 GalleryType.propTypes = {
   heading: PropTypes.string,
   img: PropTypes.object,
-  to: PropTypes.string
+  to: PropTypes.string,
+  query: PropTypes.object
 };
 
 const PhotoGallery = ({ data }) => (
   <Consumer>
     {({ int }) => {
-      const galleryNames = int === "en" ? galleryNames : galleryNames;
+      const galleryNames = int === "en" ? galleryNamesEn : galleryNamesCz;
 
       const galleries = pageNames.map((galleryName, index) => {
         const img = data.allImageSharp.edges.filter(i => i.node.fixed.src.includes(galleryName))
@@ -37,7 +38,7 @@ const PhotoGallery = ({ data }) => (
             to={`/gallery-${pageNames[index]}`}
             query={galleryName}
             img={img[0].node.fixed}
-            heading={galleryName}
+            heading={galleryNames[index]}
           />
         );
       });

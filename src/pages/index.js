@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { injectGlobal } from "styled-components";
 import PropTypes from "prop-types";
 import "font-awesome/css/font-awesome.min.css";

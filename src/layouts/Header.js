@@ -27,17 +27,6 @@ const Header = ({ isIndex, generalData }) => (
             }
           }
         }
-        # smallimages: allFile(filter: {extension: {regex: "/(jpg)|(png)/"}, relativeDirectory: {eq: "smallhomepage"}}) {
-        #   edges {
-        #     node {
-        #       childImageSharp {
-        #         fluid(maxWidth: 2200) {
-        #         ...GatsbyImageSharpFluid
-        #         }
-        #       }
-        #     }
-        #   }
-        # }
       }
     `}
     render={data => {

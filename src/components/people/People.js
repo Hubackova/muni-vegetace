@@ -81,7 +81,8 @@ export default People;
 People.propTypes = {
   msg: PropTypes.object,
   studentsData: PropTypes.array,
-  peopleData: PropTypes.array
+  peopleData: PropTypes.array,
+  formerPeopleData: PropTypes.array,
 };
 
 const StyledLink = styled(Link)`
