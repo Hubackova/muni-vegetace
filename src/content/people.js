@@ -565,14 +565,14 @@ export const peopleCz = {
     id: `smerdova`,
     name: `Eva Šmerdová (Hettenbergerová)`,
     position: `Odborný pracovník`,
-    description: `Test šššš ččč řřř Eva Šmerdová získala bakalářský titul na Ostravské Univerzitě, její práce se zaměřovala na flóru a vegetaci hald. Magisterské studium botaniky ukončila v roce 2006 na PřF Masarykovy Univerzity v Brně diplomovou prací zabývající se vlivem kontaktních společenstev na druhové složení lučních pramenišť. Doktorskou práci na téma druhová bohatost a variabilita rostlin a měkkýšů na vlhkostním gradientu obhájila v roce 2013. V současné době se mimo jiné zabývá tvorbou databáze rostlinných makrozbytků České a Slovenské republiky a doplňováním vegetačních snímků a jiných údajů pro projekt PLADIAS. Ráda cestuje s kolegy po rodné vlasti i do zahraničí a sbírá terénní data k dalšímu výzkumu ekologie mokřadů i jiných biotopů.`,
+    description: `2. Test ěě žž ýý šššš ččč řřř Eva Šmerdová získala bakalářský titul na Ostravské Univerzitě, její práce se zaměřovala na flóru a vegetaci hald. Magisterské studium botaniky ukončila v roce 2006 na PřF Masarykovy Univerzity v Brně diplomovou prací zabývající se vlivem kontaktních společenstev na druhové složení lučních pramenišť. Doktorskou práci na téma druhová bohatost a variabilita rostlin a měkkýšů na vlhkostním gradientu obhájila v roce 2013. V současné době se mimo jiné zabývá tvorbou databáze rostlinných makrozbytků České a Slovenské republiky a doplňováním vegetačních snímků a jiných údajů pro projekt PLADIAS. Ráda cestuje s kolegy po rodné vlasti i do zahraničí a sbírá terénní data k dalšímu výzkumu ekologie mokřadů i jiných biotopů.`,
     email: `eva.hette@centrum.cz`,
     phoneNumber: `549498487`,
     researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
     is: `https://www.muni.cz/lide/75764-eva-smerdova`,
     img: smerdova
   },
-  {
+    {
     id: `stepankova`,
     name: `Petra Štěpánková`,
     position: `Researcher`,
