@@ -1,7 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import Gallery from "react-grid-gallery";
+import Img from "gatsby-image";
 
 import { Consumer } from "../layouts/Context";
 import { galleryLabelsEn, galleryLabelsCz } from "../content/galleries";
@@ -12,19 +13,53 @@ const gallery = ({ data: { allImageSharp }, location }) => {
     location.pathname.lastIndexOf("-") + 1,
     location.pathname.lenght
   );
+
+  const subgalleries = location.state && location.state.subgalleries;
+  const subgalleriesMainImgs =
+    location.state && location.state.subgalleriesMainImgs;
+  const subgalleriesFolders =
+    subgalleries &&
+    subgalleries.length &&
+    subgalleries.map(subgallery => {
+      const img = subgalleriesMainImgs.filter(imgSub => {
+        return imgSub[0] && imgSub[0].node.fixed.src.includes(subgallery);
+      });
+
+      return (
+        <div style={{ margin: "1em" }} key={subgallery}>
+          <Link to={`gallery-${subgallery}`}>
+            {img[0] && (
+              <Img
+                fixed={img[0][0].node.fixed}
+                alt={"heading"}
+                height="265px"
+              />
+            )}
+          </Link>
+          <div style={{ textAlign: "center" }}>{subgallery}</div>
+        </div>
+      );
+    });
+
   return (
     <Consumer>
       {({ int }) => {
         const captions = int === "en" ? galleryLabelsEn : galleryLabelsCz;
-        const imgs = allImageSharp && allImageSharp.edges.map(i => i.node.fluid);
+        const imgs =
+          allImageSharp && allImageSharp.edges.map(i => i.node.fluid);
         const PHOTO_SET = imgs.map((i, index) => {
-          const caption = captions[galleryName][index];
+          const caption = captions[galleryName]
+            ? captions[galleryName][index]
+            : "";
           return { src: i.src, thumbnail: i.src, caption: caption };
         });
         return (
-          <GalleryContainer>
-            <Gallery images={PHOTO_SET} />
-          </GalleryContainer>
+          <React.Fragment>
+            {subgalleriesFolders}
+            <GalleryContainer>
+              <Gallery images={PHOTO_SET} />
+            </GalleryContainer>
+          </React.Fragment>
         );
       }}
     </Consumer>

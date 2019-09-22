@@ -1,3 +1,3 @@
-exports.galleryNames = ["excursions", "others"]
+exports.galleryNames = ["excursions", "others", "trip2009"]
 exports.projectsNames = ["project1", "project2", "project3", "project4", "project5"]
   

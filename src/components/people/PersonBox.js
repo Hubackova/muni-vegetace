@@ -30,12 +30,12 @@ const PersonBox = ({ personInfo, msg }) => {
         <Info>
           <div>
             <P>
-              <i className="fa fa-envelope fa-lg" style={{ color: "black", marginRight: 15 }} />
+              <i className="fa fa-envelope fa-lg" style={{ color: "black", marginRight: 5 }} />
               <span>{personInfo.email}</span>
             </P>
             {personInfo.phoneNumber && (
               <P>
-                <i className="fa fa-phone fa-lg" style={{ marginRight: 15 }} />
+                <i className="fa fa-phone fa-lg" style={{ marginRight: 5 }} />
                 {personInfo.phoneNumber}
               </P>
             )}

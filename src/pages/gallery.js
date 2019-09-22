@@ -5,12 +5,23 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Img from "gatsby-image";
 import { Consumer } from "../layouts/Context";
-import { galleryNames as pageNames, galleryNamesCz, galleryNamesEn } from "../content/galleries";
+import {
+  galleryNames as pageNames,
+  galleryNamesCz,
+  galleryNamesEn
+} from "../content/galleries";
 
-const GalleryType = ({ to, img, heading, query }) => {
+const GalleryType = ({
+  to,
+  img,
+  heading,
+  query,
+  subgalleries,
+  subgalleriesMainImgs
+}) => {
   return (
     <div style={{ margin: "1em" }}>
-      <Link to={to} state={{ query: query }}>
+      <Link to={to} state={{ query, subgalleries, subgalleriesMainImgs }}>
         <Img fixed={img} alt={heading} height="265px" />
       </Link>
       <div style={{ textAlign: "center" }}>{heading}</div>
@@ -22,7 +33,8 @@ GalleryType.propTypes = {
   heading: PropTypes.string,
   img: PropTypes.object,
   to: PropTypes.string,
-  query: PropTypes.object
+  query: PropTypes.object,
+  subgalleries: PropTypes.array
 };
 
 const PhotoGallery = ({ data }) => (
@@ -31,14 +43,28 @@ const PhotoGallery = ({ data }) => (
       const galleryNames = int === "en" ? galleryNamesEn : galleryNamesCz;
 
       const galleries = pageNames.map((galleryName, index) => {
-        const img = data.allImageSharp.edges.filter(i => i.node.fixed.src.includes(galleryName))
+        const img = data.allImageSharp.edges.filter(i =>
+          i.node.fixed.src.includes(galleryName.main)
+        );
+
+        const subgalleriesMainImgs =
+          galleryName.subgalleries &&
+          galleryName.subgalleries.length &&
+          galleryName.subgalleries.map(subgalleryName => {
+            return data.allImageSharp.edges.filter(img =>
+              img.node.fixed.src.includes(subgalleryName)
+            );
+          });
+
         return (
           <GalleryType
-            key={galleryName}
-            to={`/gallery-${pageNames[index]}`}
-            query={galleryName}
+            key={galleryName.main}
+            to={`/gallery-${pageNames[index].main}`}
+            query={galleryName.main}
             img={img[0].node.fixed}
             heading={galleryNames[index]}
+            subgalleries={galleryName.subgalleries || []}
+            subgalleriesMainImgs={subgalleriesMainImgs}
           />
         );
       });

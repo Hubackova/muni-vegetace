@@ -20,7 +20,8 @@ exports.createPages = ({ actions: { createPage } }) => {
       context: {
         slug: `gallery-${galleryItem}`,
         title: galleryItem,
-        imgsRegex: `/${galleryItem}_/`
+        imgsRegex: `/${galleryItem}_/`,
+        subImgsRegex: `/--${galleryItem}_/`
       }
     });
   });

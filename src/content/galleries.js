@@ -1,4 +1,4 @@
-export const galleryNames = ["excursions", "others"]
+export const galleryNames = [{main: "excursions", subgalleries: ["trip2009"]}, {main: "others"}]
 
 export const galleryNamesCz = ["Terenní exkurze", "Ostatní"];
 export const galleryNamesEn = ["Excursions", "Other Photos"];
