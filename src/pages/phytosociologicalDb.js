@@ -41,13 +41,14 @@ export default PhytosociologicalDbPage;
 const Container = styled.div`
   display: flex;
   flex-direction: row;
-  @media (max-width: ${props => props.theme.largeDevice}) {
+  @media (max-width: 1256px) {
     flex-direction: column;
   }
 `;
 
 const Menu = styled.div`
   flex: 1;
+  margin-right: 2em;
 `;
 
 const Content = styled.div`

@@ -15,29 +15,21 @@ const gallery = ({ data: { allImageSharp }, location }) => {
   );
 
   const subgalleries = location.state && location.state.subgalleries;
-  const subgalleriesMainImgs =
-    location.state && location.state.subgalleriesMainImgs;
+  const subgalleriesMainImgs = location.state && location.state.subgalleriesMainImgs;
   const subgalleriesFolders =
     subgalleries &&
-    subgalleries.length &&
+    !!subgalleries.length &&
     subgalleries.map(subgallery => {
       const img = subgalleriesMainImgs.filter(imgSub => {
         return imgSub[0] && imgSub[0].node.fixed.src.includes(subgallery);
       });
 
       return (
-        <div style={{ margin: "1em" }} key={subgallery}>
+        <span style={{ margin: "1em" }} key={subgallery}>
           <Link to={`gallery-${subgallery}`}>
-            {img[0] && (
-              <Img
-                fixed={img[0][0].node.fixed}
-                alt={"heading"}
-                height="265px"
-              />
-            )}
+            {img[0] && <Img fixed={img[0][0].node.fixed} alt={"heading"} height="265px" />}
           </Link>
-          <div style={{ textAlign: "center" }}>{subgallery}</div>
-        </div>
+        </span>
       );
     });
 
@@ -45,18 +37,15 @@ const gallery = ({ data: { allImageSharp }, location }) => {
     <Consumer>
       {({ int }) => {
         const captions = int === "en" ? galleryLabelsEn : galleryLabelsCz;
-        const imgs =
-          allImageSharp && allImageSharp.edges.map(i => i.node.fluid);
+        const imgs = allImageSharp && allImageSharp.edges.map(i => i.node.fluid);
         const PHOTO_SET = imgs.map((i, index) => {
-          const caption = captions[galleryName]
-            ? captions[galleryName][index]
-            : "";
+          const caption = captions[galleryName] ? captions[galleryName][index] : "";
           return { src: i.src, thumbnail: i.src, caption: caption };
         });
         return (
           <React.Fragment>
-            {subgalleriesFolders}
             <GalleryContainer>
+              {subgalleriesFolders}
               <Gallery images={PHOTO_SET} />
             </GalleryContainer>
           </React.Fragment>

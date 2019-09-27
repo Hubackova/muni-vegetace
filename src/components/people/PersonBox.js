@@ -2,11 +2,12 @@ import React, { useState } from "react";
 import styled from "styled-components";
 import PropTypes from "prop-types";
 
+import { MailEmoji, PhoneEmoji } from "../atoms/Emoji";
 import researchgate from "../../../static/images/social-researchgate.png";
 import is from "../../../static/images/social-is.png";
 
 const windowGlobal = typeof window !== "undefined" && window;
-const isMobile = windowGlobal.innerWidth < 1024
+const isMobile = windowGlobal.innerWidth < 1024;
 
 const PersonBox = ({ personInfo, msg }) => {
   const [detailVisibility, setDetailVisibility] = useState(!isMobile);
@@ -30,13 +31,11 @@ const PersonBox = ({ personInfo, msg }) => {
         <Info>
           <div>
             <P>
-              <i className="fa fa-envelope fa-lg" style={{ color: "black", marginRight: 5 }} />
-              <span>{personInfo.email}</span>
+              <MailEmoji mail={personInfo.email} />
             </P>
             {personInfo.phoneNumber && (
               <P>
-                <i className="fa fa-phone fa-lg" style={{ marginRight: 5 }} />
-                {personInfo.phoneNumber}
+                <PhoneEmoji phone={personInfo.phoneNumber} />
               </P>
             )}
             <P>
@@ -56,7 +55,10 @@ const PersonBox = ({ personInfo, msg }) => {
           {!detailVisibility && hasDetail && isMobile && (
             <ArrowIcon onClick={() => setDetailVisibility(true)}>
               <i className="fa fa-arrow-down" />
-              <ArrowText style={{ color: "red", cursor: "pointer", marginLeft: 5 }}> {msg.showMore}</ArrowText>
+              <ArrowText style={{ color: "red", cursor: "pointer", marginLeft: 5 }}>
+                {" "}
+                {msg.showMore}
+              </ArrowText>
             </ArrowIcon>
           )}
           {detailVisibility && hasDetail && (
@@ -64,10 +66,14 @@ const PersonBox = ({ personInfo, msg }) => {
               <Description>
                 <div>{personInfo.description}</div>
               </Description>
-              {isMobile && <ArrowIcon onClick={() => setDetailVisibility(false)}>
-                <i className="fa fa-arrow-up" />
-                <ArrowText style={{ color: "red", cursor: "pointer", marginLeft: 5 }}>{msg.showLess}</ArrowText>
-              </ArrowIcon>}
+              {isMobile && (
+                <ArrowIcon onClick={() => setDetailVisibility(false)}>
+                  <i className="fa fa-arrow-up" />
+                  <ArrowText style={{ color: "red", cursor: "pointer", marginLeft: 5 }}>
+                    {msg.showLess}
+                  </ArrowText>
+                </ArrowIcon>
+              )}
             </div>
           )}
         </Info>
@@ -81,7 +87,7 @@ export default PersonBox;
 PersonBox.propTypes = {
   personInfo: PropTypes.object,
   data: PropTypes.object,
-  msg: PropTypes.object,
+  msg: PropTypes.object
 };
 
 const Box = styled.div`

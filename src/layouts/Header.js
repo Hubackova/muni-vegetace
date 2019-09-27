@@ -79,7 +79,6 @@ const SubContainer = styled.div`
 const LeftSide = styled.div`
   flex: 1;
   display: flex;
-  justify-content: space-between;
   align-items: center;
   background-color: ${props => props.theme.main};
   @media (max-width: 2000px) {
@@ -87,8 +86,9 @@ const LeftSide = styled.div`
   }
 `;
 const LogoLink = styled.a`
-  margin-left: 15px;
-  margin-right: 2%;
+  flex: 1;
+  display: flex;
+  justify-content: center;
   @media (max-width: 730px) {
     display: none;
   }
