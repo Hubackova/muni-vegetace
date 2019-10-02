@@ -64,7 +64,7 @@ export const peopleEn = {
     email: `honza.rolecek@centrum.cz`,
     phoneNumber: `549498489`,
     researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
-    is: `https://www.muni.cz/en/people/42706-jan-rolecek`
+    is: `https://www.muni.cz/en/people/42706-jan-rolecek`,
 	img: rolecek
   },
   {
@@ -75,7 +75,7 @@ export const peopleEn = {
     email: `tesitel@sci.muni.cz`,
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
-    is: `https://www.muni.cz/en/people/116967-jakub-tesitel`
+    is: `https://www.muni.cz/en/people/116967-jakub-tesitel`,
 	img: tesitel
   },
   {
@@ -167,7 +167,7 @@ export const peopleEn = {
     email: `danmich@mail.muni.cz`,
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
-    is: `https://www.muni.cz/en/people/113226-dana-holubova`
+    is: `https://www.muni.cz/en/people/113226-dana-holubova`,
 	img: holubova
   },
   {
@@ -178,7 +178,7 @@ export const peopleEn = {
     email: `kalveron@tiscali.cz`,
     phoneNumber: `549494992`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
-    is: `https://www.muni.cz/en/people/106856-veronika-kalusova`
+    is: `https://www.muni.cz/en/people/106856-veronika-kalusova`,
 	img: kalusova
   },
   {
@@ -189,7 +189,7 @@ export const peopleEn = {
     email: `ikuzel@sci.muni.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
-    is: `https://www.muni.cz/en/people/10355-ilona-knollova`
+    is: `https://www.muni.cz/en/people/10355-ilona-knollova`,
   },
   {
     id: `kubesova`,
@@ -229,7 +229,7 @@ export const peopleEn = {
     email: `mar.reznickova@seznam.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
-    is: `https://www.muni.cz/en/people/19437-marcela-reznickova`
+    is: `https://www.muni.cz/en/people/19437-marcela-reznickova`,
 	img: reznickova
   },
   {
@@ -291,7 +291,7 @@ export const peopleEn = {
     email: `323585@mail.muni.cz`,
     phoneNumber: `541126221`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
-    is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`
+    is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`,
 	img: chudomelova
   },
   {
@@ -313,7 +313,7 @@ export const peopleEn = {
     email: `V.Kalnikova@seznam.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
-    is: `https://www.muni.cz/en/people/222967-veronika-kalnikova`
+    is: `https://www.muni.cz/en/people/222967-veronika-kalnikova`,
 	img: kalnikova
   },
   {
@@ -411,7 +411,7 @@ export const peopleCz = {
     email: `honza.rolecek@centrum.cz`,
     phoneNumber: `549498489`,
     researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
-    is: `https://www.muni.cz/lide/42706-jan-rolecek`
+    is: `https://www.muni.cz/lide/42706-jan-rolecek`,
 	img: rolecek
   },
   {
@@ -422,7 +422,7 @@ export const peopleCz = {
     email: `tesitel@sci.muni.cz`,
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
-    is: `https://www.muni.cz/lide/116967-jakub-tesitel`
+    is: `https://www.muni.cz/lide/116967-jakub-tesitel`,
 	img: tesitel
   },
   {
@@ -514,7 +514,7 @@ export const peopleCz = {
     email: `danmich@mail.muni.cz`,
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
-    is: `https://www.muni.cz/lide/113226-dana-holubova`
+    is: `https://www.muni.cz/lide/113226-dana-holubova`,
 	img: holubova
   },
   {
@@ -525,7 +525,7 @@ export const peopleCz = {
     email: `kalveron@tiscali.cz`,
     phoneNumber: `549494992`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
-    is: `https://www.muni.cz/lide/106856-veronika-kalusova`
+    is: `https://www.muni.cz/lide/106856-veronika-kalusova`,
 	img: kalusova
   },
   {
@@ -576,7 +576,7 @@ export const peopleCz = {
     email: `mar.reznickova@seznam.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
-    is: `https://www.muni.cz/lide/19437-marcela-reznickova`
+    is: `https://www.muni.cz/lide/19437-marcela-reznickova`,
 	img: reznickova
   },
   {
@@ -637,7 +637,7 @@ export const peopleCz = {
     email: `323585@mail.muni.cz`,
     phoneNumber: `541126221`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
-    is: `https://www.muni.cz/lide/323585-marketa-chudomelova`
+    is: `https://www.muni.cz/lide/323585-marketa-chudomelova`,
 	img: chudomelova
   },
   {
@@ -659,7 +659,7 @@ export const peopleCz = {
     email: `V.Kalnikova@seznam.cz`,
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
-    is: `https://www.muni.cz/lide/222967-veronika-kalnikova`
+    is: `https://www.muni.cz/lide/222967-veronika-kalnikova`,
 	img: kalnikova
   },
   {
