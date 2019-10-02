@@ -10,6 +10,7 @@ import kalusova from "../../static/images/people/kalusova.jpg";
 import chudomelova from "../../static/images/people/chudomelova.jpg";
 import holubova from "../../static/images/people/holubova.jpg";
 import tesitel from "../../static/images/people/tesitel.jpg";
+import reznickova from "../../static/images/people/reznickova.jpg";
 
 export const peopleEn = {
   employees: [
@@ -224,11 +225,12 @@ export const peopleEn = {
     id: `reznickova`,
     name: `Marcela Řezníčková`,
     position: `Researcher`,
-    description: ``,
+    description: `Marcela Řezníčková graduated in Systematic Biology and Ecology from the Faculty of Science, Masaryk University (1995–2000). She completed this study by defending her diploma thesis “Forest vegetation of the Chřiby Mountains”. Since 2002 she continued her doctoral studies at the same university and in 2007 she defended her dissertation thesis "Variability of Molinion meadows in the Czech and Slovak Republics". Currently she is a specialist at the Department of Botany and Zoology (MU) and is mainly involved in the administration of the Pladias database.`,
     email: `mar.reznickova@seznam.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
     is: `https://www.muni.cz/en/people/19437-marcela-reznickova`
+	img: reznickova
   },
   {
     id: `smerdova`,
@@ -570,11 +572,12 @@ export const peopleCz = {
     id: `reznickova`,
     name: `Marcela Řezníčková`,
     position: `Researcher`,
-    description: ``,
+    description: `Marcela Řezníčková vystudovala magisterský obor Systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy univerzity (1995–2000). Toto studium ukončila obhajobou diplomové práce na téma „Lesní vegetace Chřibů“. Od roku 2002 pokračovala doktorským studiem na stejné univerzitě a v roce 2007 obhájila dizertační práci  „Variabilita luk svazu Molinion v České a Slovenské republice“. V současnosti je odbornou pracovnicí na Ústavu botaniky a zoologie (MU) a zabývá se zejména správou databáze Pladias.`,
     email: `mar.reznickova@seznam.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
     is: `https://www.muni.cz/lide/19437-marcela-reznickova`
+	img: reznickova
   },
   {
     id: `smerdova`,
