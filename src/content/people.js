@@ -7,10 +7,11 @@ import jaskova from "../../static/images/people/jaskova.jpg";
 import rolecek from "../../static/images/people/rolecek.jpg";
 import kalnikova from "../../static/images/people/kalnikova.jpg";
 import kalusova from "../../static/images/people/kalusova.jpg";
-import chudomelova from "../../static/images/people/chudomelova.jpg";
+// import chudomelova from "../../static/images/people/chudomelova.jpg";
 import holubova from "../../static/images/people/holubova.jpg";
 import tesitel from "../../static/images/people/tesitel.jpg";
 import reznickova from "../../static/images/people/reznickova.jpg";
+import novak from "../../static/images/people/novak.jpg";
 
 export const peopleEn = {
   employees: [
@@ -292,7 +293,7 @@ export const peopleEn = {
     phoneNumber: `541126221`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
     is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`,
-	img: chudomelova
+	// img: chudomelova
   },
   {
     id: `jaskova`,
@@ -638,7 +639,7 @@ export const peopleCz = {
     phoneNumber: `541126221`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
     is: `https://www.muni.cz/lide/323585-marketa-chudomelova`,
-	img: chudomelova
+	// img: chudomelova
   },
   {
     id: `jaskova`,
