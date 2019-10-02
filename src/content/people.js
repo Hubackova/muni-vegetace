@@ -4,7 +4,12 @@ import lososova from "../../static/images/people/lososova.jpg";
 import bonari from "../../static/images/people/bonari.jpg";
 import divisek from "../../static/images/people/divisek.jpg";
 import jaskova from "../../static/images/people/jaskova.jpg";
-import novak from "../../static/images/people/novak.jpg";
+import rolecek from "../../static/images/people/rolecek.jpg";
+import kalnikova from "../../static/images/people/kalnikova.jpg";
+import kalusova from "../../static/images/people/kalusova.jpg";
+import chudomelova from "../../static/images/people/chudomelova.jpg";
+import holubova from "../../static/images/people/holubova.jpg";
+import tesitel from "../../static/images/people/tesitel.jpg";
 
 export const peopleEn = {
   employees: [
@@ -59,6 +64,7 @@ export const peopleEn = {
     phoneNumber: `549498489`,
     researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
     is: `https://www.muni.cz/en/people/42706-jan-rolecek`
+	img: rolecek
   },
   {
     id: `tesitel`,
@@ -69,6 +75,7 @@ export const peopleEn = {
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
     is: `https://www.muni.cz/en/people/116967-jakub-tesitel`
+	img: tesitel
   },
   {
     id: `tichy`,
@@ -84,7 +91,7 @@ export const peopleEn = {
     id: `axmanova`,
     name: `Irena Axmanová`,
     position: `Researcher`,
-    description: ``,
+    description: `Irena Axmanová studied Systematic botany and ecology at the Department of Botany and Zoology of the Masaryk University.  She continued with postgraduate studies at the same department and in 2012 she defended her Ph.D. thesis focused on "The effect of productivity and other environmental factors on the forest herb-layer diversity" across different scales. She was involved in the project looking for modern analogues of vegetation in the late Pleistocene, asking which habitats were preferred by mammoths and other mega-herbivores in late glacial. Currently she cooperates on projects based on extensive phytosociological database EVA to study vegetation patterns at the European scale. She is mainly interested in vegetation ecology, alien species, functional and phylogenetic diversity of plant communities.`,
     email: `axmanova@sci.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`,
@@ -160,6 +167,7 @@ export const peopleEn = {
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
     is: `https://www.muni.cz/en/people/113226-dana-holubova`
+	img: holubova
   },
   {
     id: `kalusova`,
@@ -170,6 +178,7 @@ export const peopleEn = {
     phoneNumber: `549494992`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
     is: `https://www.muni.cz/en/people/106856-veronika-kalusova`
+	img: kalusova
   },
   {
     id: `knollova`,
@@ -281,6 +290,7 @@ export const peopleEn = {
     phoneNumber: `541126221`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
     is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`
+	img: chudomelova
   },
   {
     id: `jaskova`,
@@ -302,6 +312,7 @@ export const peopleEn = {
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
     is: `https://www.muni.cz/en/people/222967-veronika-kalnikova`
+	img: kalnikova
   },
   {
     id: `novak`,
@@ -399,6 +410,7 @@ export const peopleCz = {
     phoneNumber: `549498489`,
     researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
     is: `https://www.muni.cz/lide/42706-jan-rolecek`
+	img: rolecek
   },
   {
     id: `tesitel`,
@@ -409,6 +421,7 @@ export const peopleCz = {
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
     is: `https://www.muni.cz/lide/116967-jakub-tesitel`
+	img: tesitel
   },
   {
     id: `tichy`,
@@ -424,7 +437,7 @@ export const peopleCz = {
     id: `axmanova`,
     name: `Irena Axmanová`,
     position: `Researcher`,
-    description: ``,
+    description: `Irena Axmanová vystudovala obor Systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy Univerzity v Brně.  Na stejném pracovišti v roce 2012 obhájila i dizertační práci v oboru Botanika na téma "Vliv produktivity a dalších faktorů prostředí na diverzitu bylinného patra lesů" na různých studovaných škálách. Podílela se i na projektu hledajícím současné analogie přírody v pozdním Pleistocénu, s otázkou jak vypadala krajina mamutů a dalších velkých býložravců na severu Sibiře a v Beringii v době ledové. V současné době spolupracuje na projektech využívajících rozsáhlou fytocenologickou databázi EVA ke studiu vegetace na evropské škále. Mezi hlavní zájmy patří studium vegetační ekologie, zastoupení nepůvodních druhů ve vegetaci, funkční a fylogenetická diverzita společenstev. `,
     email: `axmanova@sci.muni.cz`,
     phoneNumber: `549498395`,
     researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`,
@@ -500,6 +513,7 @@ export const peopleCz = {
     phoneNumber: `549496974`,
     researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
     is: `https://www.muni.cz/lide/113226-dana-holubova`
+	img: holubova
   },
   {
     id: `kalusova`,
@@ -510,6 +524,7 @@ export const peopleCz = {
     phoneNumber: `549494992`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
     is: `https://www.muni.cz/lide/106856-veronika-kalusova`
+	img: kalusova
   },
   {
     id: `knollova`,
@@ -620,6 +635,7 @@ export const peopleCz = {
     phoneNumber: `541126221`,
     researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
     is: `https://www.muni.cz/lide/323585-marketa-chudomelova`
+	img: chudomelova
   },
   {
     id: `jaskova`,
@@ -641,6 +657,7 @@ export const peopleCz = {
     phoneNumber: `549498486`,
     researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
     is: `https://www.muni.cz/lide/222967-veronika-kalnikova`
+	img: kalnikova
   },
   {
     id: `novak`,
@@ -653,7 +670,6 @@ export const peopleCz = {
     is: `https://www.muni.cz/lide/269109-pavel-novak`,
     img: novak
   },
-
   {
     id: `spanikova`,
     name: `Šárka Špániková`,
