@@ -1,34 +1,40 @@
 ﻿export const thesesEn = {
   bachelorThesesList: [
     {
-      name: `Vegetační charakteristika geograficky významných prvků květeny Zlínska`,
+      name: `Vegetation characteristics of the geographically distinct floral elements of the Zlín region`,
       link: `https://is.muni.cz/auth/th/gkizc/?lang=cs`,
-      author: "Autor",
-      year: "2222"
+      author: "Pavel Daněk",
+      year: "2011"
     }
   ],
 
   masterThesesList: [
     {
-      name: `Flóra a vegetace povodí Bílé vody na Drahanské vrchovině`,
+      name: `Flora and vegetation of the Bílá voda catchment in the Drahanská vrchovina Mountains`,
       link: `https://is.muni.cz/auth/th/yefy1/?lang=cs`,
-      author: "Autor",
-      year: "2222"
+      author: "Pavla Vlčková",
+      year: "2018"
     },
     {
-      name: `Lokální druhové bohatství přirozené vegetace hlubokých říčních údolí Českého masivu`,
+      name: `Local species richness of natural vegetation in the deep river valleys of the Bohemian Massif`,
       link: `https://is.muni.cz/auth/th/oeak6/?lang=cs`,
-      author: "",
-      year: ""
+      author: "Jaroslav Hruban",
+      year: "2017"
     }
   ],
 
   phdThesesList: [
     {
-      name: `Název disertačky`,
-      link: `https://is.muni.cz/`,
-      author: "Autor",
-      year: "2222"
+      name: `The effect of productivity and other environmental factors on the forest herb-layer diversity`,
+      link: `https://is.muni.cz/auth/th/g64sa/?lang=cs`,
+      author: "Irena Axmanová",
+      year: "2012"
+    }
+	{
+      name: `Spatial distribution of small scale vegetation diversity in the landscape`,
+      link: `https://is.muni.cz/auth/th/qh9b3/?lang=cs`,
+      author: "Dana Holubová",
+      year: "2016"
     }
   ],
 
@@ -43,8 +49,8 @@ export const thesesCz = {
     {
       name: `Vegetační charakteristika geograficky významných prvků květeny Zlínska`,
       link: `https://is.muni.cz/auth/th/gkizc/?lang=cs`,
-      author: "Autor",
-      year: "2222"
+      author: "Pavel Daněk",
+      year: "2011"
     }
   ],
 
@@ -52,23 +58,29 @@ export const thesesCz = {
     {
       name: `Flóra a vegetace povodí Bílé vody na Drahanské vrchovině`,
       link: `https://is.muni.cz/auth/th/yefy1/?lang=cs`,
-      author: "Autor",
-      year: "2222"
+      author: "Pavla Vlčková",
+      year: "2018"
     },
     {
       name: `Lokální druhové bohatství přirozené vegetace hlubokých říčních údolí Českého masivu`,
       link: `https://is.muni.cz/auth/th/oeak6/?lang=cs`,
-      author: "Autor",
-      year: "2222"
+      author: "Jaroslav Hruban",
+      year: "2017"
     }
   ],
 
   phdThesesList: [
     {
-      name: `Název disertačky`,
-      link: `https://is.muni.cz/`,
-      author: "Autor",
-      year: "2222"
+      name: `Vliv produktivity a dalších faktorů prostředí na diverzitu bylinného patra lesů`,
+      link: `https://is.muni.cz/auth/th/g64sa/?lang=cs`,
+      author: "Irena Axmanová",
+      year: "2012"
+    }
+	{
+      name: `Spatial distribution of small scale vegetation diversity in the landscape`,
+      link: `https://is.muni.cz/auth/th/qh9b3/?lang=cs`,
+      author: "Dana Holubová",
+      year: "2016"
     }
   ],
 
