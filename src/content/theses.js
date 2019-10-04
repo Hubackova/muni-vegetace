@@ -29,7 +29,7 @@
       link: `https://is.muni.cz/auth/th/g64sa/?lang=cs`,
       author: "Irena Axmanová",
       year: "2012"
-    }
+    },
 	{
       name: `Spatial distribution of small scale vegetation diversity in the landscape`,
       link: `https://is.muni.cz/auth/th/qh9b3/?lang=cs`,
@@ -75,7 +75,7 @@ export const thesesCz = {
       link: `https://is.muni.cz/auth/th/g64sa/?lang=cs`,
       author: "Irena Axmanová",
       year: "2012"
-    }
+    },
 	{
       name: `Spatial distribution of small scale vegetation diversity in the landscape`,
       link: `https://is.muni.cz/auth/th/qh9b3/?lang=cs`,
