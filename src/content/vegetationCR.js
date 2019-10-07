@@ -57,13 +57,9 @@ export const en = {
           <li>Adolf Češka in <a href="http://www.ou.edu/cas/botany-micro/ben/ben394.html">Botanical Electronic News</a> 394 (2008) </li>
           <li>Jürgen Dengler in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dengler2007_Kieler-Not-Pflanzenk.pdf">Kieler Notizen zur Pflanzenkunde</a> 35: 121–122 (2007) </li>
           <li>Hartmut Dierschke in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dierschke2008_Tuexenia.pdf">Tuexenia</a> 28: 279–293 (2008) </li>
-          <li>
-            {`Valentin B. Golub & L. F. Nikolaychuk in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Golub2009_Rast-Rossii.pdf">Rastitel'nost' Rossii</a> 12: 152–155 (2008)`}
-          </li>
+          <li>Valentin B. Golub & L. F. Nikolaychuk in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Golub2009_Rast-Rossii.pdf">Rastitelnost Rossii</a> 12: 152–155 (2008) </li>
           <li>Radim Hédl in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Hedl2007_Ziva.pdf">Živa</a> 2007(6): LXXXVIII (2007) </li>
-          <li>
-            Barbara Juskiewicz-Swaczyna in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Juskiewicz2009_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 3: 28 (2009)
-          </li>
+          <li>Barbara Juskiewicz-Swaczyna in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Juskiewicz2009_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 3: 28 (2009)</li>
           <li>Anna A. Kuzemko in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">Ukrainskii Botanichnii Zhurnal</a> 66: 307–314 (2009) </li>
           <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
           <li>Milan Valachovič in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Valachovic2007_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 42: 358–360 (2007) </li>
