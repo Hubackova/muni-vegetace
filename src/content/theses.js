@@ -30,13 +30,13 @@
       author: "Markéta Táborská",
       year: "2018"
     },
-	 {
+	{
       name: `Diversity of European urban vegetation`,
       link: `https://is.muni.cz/auth/th/l2m0i/`,
       author: "Natálie Čeplová",
       year: "2017"
     },
-	 {
+	{
       name: `Environmental drivers of fine-scale plant species richness in Eurasian dry grasslands: a macroecological perspective`,
       link: `https://is.muni.cz/auth/th/pqmhh/`,
       author: "Salza Palpurina",
@@ -119,42 +119,12 @@ export const thesesCz = {
 
   phdThesesList: [
      {
-      name: `Diversity and ecology of epiphytic bryophyte communities on dead wood in forest nature reserves.`,
+      name: `Diversity and ecology of epiphytic bryophyte communities on dead wood in forest nature reserves`,
       link: `https://is.muni.cz/auth/th/eqf1z/`,
       author: "Markéta Táborská",
-      year: "2012"
+      year: "2018"
     },
 	 {
-      name: `Diversity and ecology of epiphytic bryophyte communities on dead wood in forest nature reserves.`,
-      link: `https://is.muni.cz/auth/th/eqf1z/`,
-      author: "Markéta Táborská",
-      year: "2012"
-    },
-	 {
-      name: `Diversity and ecology of epiphytic bryophyte communities on dead wood in forest nature reserves.`,
-      link: `https://is.muni.cz/auth/th/eqf1z/`,
-      author: "Markéta Táborská",
-      year: "2012"
-    },
-	 {
-      name: `Diversity and ecology of epiphytic bryophyte communities on dead wood in forest nature reserves.`,
-      link: `https://is.muni.cz/auth/th/eqf1z/`,
-      author: "Markéta Táborská",
-      year: "2012"
-    },
-	 {
-      name: `Diversity and ecology of epiphytic bryophyte communities on dead wood in forest nature reserves.`,
-      link: `https://is.muni.cz/auth/th/eqf1z/`,
-      author: "Markéta Táborská",
-      year: "2012"
-    },
-	 {
-      name: `Diversity and ecology of epiphytic bryophyte communities on dead wood in forest nature reserves.`,
-      link: `https://is.muni.cz/auth/th/eqf1z/`,
-      author: "Markéta Táborská",
-      year: "2012"
-    },
-	{
       name: `Vliv produktivity a dalších faktorů prostředí na diverzitu bylinného patra lesů`,
       link: `https://is.muni.cz/auth/th/g64sa/?lang=cs`,
       author: "Irena Axmanová",
