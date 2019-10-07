@@ -15,25 +15,25 @@
 	 {
       name: `Species richness of selected vegetation types: comparison of modelled and observed numbers of species`,
       link: `https://is.muni.cz/auth/th/pefba/?lang=en`,
-      author: "Andrea Lobpreisová"
+      author: "Andrea Lobpreisová",
 	  year: "2019"
     },
 	{
       name: `Distribution of Oxalis corniculata, O. dillenii and O. stricta in the Czech Republic as documented by herbarium specimens in some public collections`,
       link: `https://is.muni.cz/auth/th/fqiqn/?lang=en`,
-      author: "Jan Dohnal"
+      author: "Jan Dohnal",
 	  year: "2018"
     },
 	 {
       name: `Diversity and ecology of terrestrial cyanobacteria and algae in caves of the Protected Landscape Area Moravian Karst`,
       link: `https://is.muni.cz/auth/th/hitm3/?lang=en`,
-      author: "Zuzana Hůlková"
+      author: "Zuzana Hůlková",
 	  year: "2018"
     },
 	 {
       name: `Natural conditions and flora of mining sites of White Carpathians Mts.`,
       link: `https://is.muni.cz/auth/th/rjhl3/?lang=en`,
-      author: "Eliška Kundratová"
+      author: "Eliška Kundratová",
 	  year: "2017"
         }
 	
@@ -127,7 +127,7 @@
       author: "Kristína Merunková",
       year: "2013"
     },
-		{
+	{
       name: `The effect of productivity and other environmental factors on the forest herb-layer diversity`,
       link: `https://is.muni.cz/auth/th/g64sa/?lang=cs`,
       author: "Irena Axmanová",
@@ -149,35 +149,36 @@ export const thesesCz = {
       author: "Kryštof Chytrý",
       year: "2019"
     },
- {
+	{
       name: `Sukcese vegetace na zrušených železničních tratích ve východní části České republiky`,
       link: `https://is.muni.cz/auth/th/h0k5v/?lang=cs`,
       author: "Filip Kratoš",
       year: "2019"
     },
-	 {
+	{
       name: `Druhová bohatost vybraných vegetačních typů: srovnání modelovaného a pozorovaného počtu druhů`,
       link: `https://is.muni.cz/auth/th/pefba/?lang=cs`,
-      author: "Andrea Lobpreisová"
+      author: "Andrea Lobpreisová",
 	  year: "2019"
-	},{
+	},
+	{
       name: `Rozšíření šťavelů Oxalis corniculata, O. dillenii a O. stricta v České republice podle herbářových dokladů ve vybraných veřejných sbírkách`,
       link: `https://is.muni.cz/auth/th/fqiqn/`,
-      author: "Jan Dohnal"
+      author: "Jan Dohnal",
 	  year: "2018"
     },
 	{
       name: `Diverzita a ekologie terestrických sinic a řas v jeskyních CHKO Moravský kras`,
       link: `https://is.muni.cz/auth/th/hitm3/`,
-      author: "Zuzana Hůlková"
+      author: "Zuzana Hůlková",
 	  year: "2018"
-	  },
-	 {
+	},
+	{
       name: `Přírodní poměry a flóra lomů v Bílých Karpatech`,
       link: `https://is.muni.cz/auth/th/rjhl3/`,
-      author: "Eliška Kundratová"
+      author: "Eliška Kundratová",
 	  year: "2017"
-        }
+    }
   ],
 
   masterThesesList: [
@@ -205,7 +206,7 @@ export const thesesCz = {
       author: "Jaroslav Hruban",
       year: "2017"
     },
-	 {
+	{
       name: `Flóra vybraného územi na západním okraji Brna`,
       link: `https://is.muni.cz/auth/th/iu4t7/`,
       author: "Martina Staviařová",
@@ -238,13 +239,13 @@ export const thesesCz = {
       author: "Dana Holubová",
       year: "2016"
     },
-	 {
+	{
       name: `Tradiční management a jeho vliv na vegetaci podrostu světlých lesů nížin`,
       link: `https://is.muni.cz/auth/th/pyveg/`,
       author: "Ondřej Vild",
       year: "2016"
     },
-	 {
+	{
       name: `Invaze nepůvodních druhů rostlin v biotopech: mezikontinentální srovnání`,
       link: `https://is.muni.cz/auth/th/iiosh/`,
       author: "Veronika Kalusová",
