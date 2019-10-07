@@ -65,7 +65,7 @@ export const en = {
       review: (
         <div>
           <b>Recenze:</b>
-          <li>Iva Apostolova in Phytologia Balcanica<a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Apostolova2008_Phytol-Balc.pdf"</a> 14: 149 (2008) </li>
+          <li>Iva Apostolova in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Apostolova2008_Phytol-Balc.pdf">Phytologia Balcanica</a> 14: 149 (2008) </li>
           <li>Adolf Češka in Botanical Electronic News 394 (2008) </li>
           <li>Jürgen Dengler in Kieler Notizen zur Pflanzenkunde 35: 121–122 (2007) </li>
           <li>Hartmut Dierschke in Tuexenia 28: 279–293 (2008) </li>
