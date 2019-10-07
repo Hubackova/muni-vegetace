@@ -5,7 +5,7 @@ import vegetace3 from "../../static/images/vegetation/vegetace3.jpg";
 import vegetace4 from "../../static/images/vegetation/vegetace4.jpg";
 
 export const en = {
-  title: "Vegetation of Czech Republic",
+  title: "Vegetation of the Czech Republic",
   introduction: (
     <div>
       <div>
@@ -23,13 +23,13 @@ export const en = {
         Chytrý, Martin Kočí, Jiří Kolbek, František Krahulec, Tomáš Kučera, Deana Láníková
         (Simonová), Zdeňka Lososová, Jana Navrátilová, Zdenka Neuhäuslová, Jan Novák, Zdenka
         Otýpková, Helena Oťaheľová, Petr Petřík, Jan Roleček, Jaroslav Rydlo, Marcela Řezníčková,
-        Jiří Sádlo, Kateřina Šumberová, Michaela Vítková a David Zelený
+        Jiří Sádlo, Kateřina Šumberová, Michaela Vítková and David Zelený
       </div>
 
       <div>
         <b>Technical support:</b> Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová,
         Štěpánka Králová, Klára Kubošová, Dana Michalcová, Jiří Rozehnal, Lubomír Tichý, Václav
-        Zouhar a Kristýna Žáková
+        Zouhar and Kristýna Žáková
       </div>
     </div>
   ),
@@ -40,9 +40,9 @@ export const en = {
       link:
         "Chytrý M. (ed.) (2007): Vegetace České republiky 1. Travinná a keříčková vegetace / Vegetation of the Czech Republic 1. Grassland and Heathland Vegetation. Academia, Praha, 525 pp.",
       authors:
-        "Authors: Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová, Štěpánka Králová, Klára Kubošová, Dana Michalcová, Jiří Rozehnal, Lubomír Tichý, Václav Zouhar a Kristýna Žáková",
+        "Authors: Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová, Štěpánka Králová, Klára Kubošová, Dana Michalcová, Jiří Rozehnal, Lubomír Tichý, Václav Zouhar and Kristýna Žáková",
       technical:
-        "Technical support: L. Tichý, I. Knollová, Z. Otýpková, J. Danihelka, O. Hájek, K. Kubošová, K. Karimová a J. Rozehnal",
+        "Technical support: L. Tichý, I. Knollová, Z. Otýpková, J. Danihelka, O. Hájek, K. Kubošová, K. Karimová and J. Rozehnal",
       pdfLowRes: "PDF coarse resolution (1st edition 2007)",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-1-2007-low-resolution.pdf",
@@ -64,7 +64,7 @@ export const en = {
           <li>
             Barbara Juskiewicz-Swaczyna in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Juskiewicz2009_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 3: 28 (2009)
           </li>
-          <li>Anna A. Kuzemko in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">Ukrainskii Botanichnii Zhurna</a>l 66: 307–314 (2009) </li>
+          <li>Anna A. Kuzemko in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">Ukrainskii Botanichnii Zhurnal</a> 66: 307–314 (2009) </li>
           <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
           <li>Milan Valachovič in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Valachovic2007_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 42: 358–360 (2007) </li>
           <li>Wofgang Willner in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Willner2008_Neilreichia.pdf">Neilreichia</a> 5: 339–341 (2008) </li>
@@ -77,9 +77,9 @@ export const en = {
       link:
         "Chytrý M. (ed.) (2009): Vegetace České republiky 2. Ruderální, plevelová, skalní a suťová vegetace / Vegetation of the Czech Republic 2. Ruderal, Weed, Rock and Scree vegetation. Academia, Praha, 520 pp.",
       authors:
-        "Authors: D. Láníková, Z. Lososová, J. Sádlo, M. Chytrý, Z. Otýpková, M. Kočí, P. Petřík, K. Šumberová, Z. Neuhäuslová, P. Hájková a M. Hájek",
+        "Authors: D. Láníková, Z. Lososová, J. Sádlo, M. Chytrý, Z. Otýpková, M. Kočí, P. Petřík, K. Šumberová, Z. Neuhäuslová, P. Hájková and M. Hájek",
       technical:
-        "Technical support: Š. Králová, K. Karimová, J. Danihelka, L. Tichý, D. Michalcová, O. Hájek a K. Kubošová",
+        "Technical support: Š. Králová, K. Karimová, J. Danihelka, L. Tichý, D. Michalcová, O. Hájek and K. Kubošová",
       pdfLowRes: "PDF coarse resolution",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-2-2009-low-resolution.pdf",
@@ -111,9 +111,9 @@ export const en = {
       link:
         "Chytrý M. (ed.) (2011): Vegetace České republiky 3. Vodní a mokřadní vegetace / Vegetation of the Czech Republic 3. Aquatic and Wetland Vegetation. Academia, Praha, 827 pp.",
       authors:
-        "Authors: K. Šumberová, P. Hájková, M. Hájek, M. Chytrý, Z. Hroudová, J. Navrátilová, M. Čtvrtlíková, J. Sádlo, Z. Lososová, R. Hrivnák, J. Rydlo, H. Oťaheľová, P. Bauer, P. Hanáková, L. Ekrt a E. Ekrtová",
+        "Authors: K. Šumberová, P. Hájková, M. Hájek, M. Chytrý, Z. Hroudová, J. Navrátilová, M. Čtvrtlíková, J. Sádlo, Z. Lososová, R. Hrivnák, J. Rydlo, H. Oťaheľová, P. Bauer, P. Hanáková, L. Ekrt and E. Ekrtová",
       technical:
-        "Technical support: D. Michalcová, K. Žáková, J. Danihelka, Š. Králová, K. Karimová, L. Tichý, O. Hájek a M. Kočí",
+        "Technical support: D. Michalcová, K. Žáková, J. Danihelka, Š. Králová, K. Karimová, L. Tichý, O. Hájek and M. Kočí",
       pdfLowRes: "PDF coarse resolution",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-3-2011-low-resolution.pdf",
@@ -146,9 +146,9 @@ export const en = {
       link:
         "Chytrý M. (ed.) (2013): Vegetace České republiky 4. Lesní a křovinná vegetace / Vegetation of the Czech Republic 4. Forest and Scrub Vegetation. Academia, Praha, 552 pp.",
       authors:
-        "Authors: M. Chytrý, J. Douda, J. Roleček, J. Sádlo, K. Boublík, R. Hédl, M. Vítková, D. Zelený, J. Navrátilová, Z. Neuhäuslová, P. Petřík, J. Kolbek, Z. Lososová, K. Šumberová a R. Hrivnák",
+        "Authors: M. Chytrý, J. Douda, J. Roleček, J. Sádlo, K. Boublík, R. Hédl, M. Vítková, D. Zelený, J. Navrátilová, Z. Neuhäuslová, P. Petřík, J. Kolbek, Z. Lososová, K. Šumberová and R. Hrivnák",
       technical:
-        "Technical support: D. Michalcová, K. Žáková, J. Danihelka, L. Tichý, V. Zouhar, O. Hájek a M. Kočí",
+        "Technical support: D. Michalcová, K. Žáková, J. Danihelka, L. Tichý, V. Zouhar, O. Hájek and M. Kočí",
       pdfLowRes: "PDF coarse resolution",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-4-2013-low-resolution.pdf",
@@ -237,7 +237,7 @@ export const cz = {
           <li>
             Barbara Juskiewicz-Swaczyna in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Juskiewicz2009_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 3: 28 (2009)
           </li>
-          <li>Anna A. Kuzemko in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">Ukrainskii Botanichnii Zhurna</a>l 66: 307–314 (2009) </li>
+          <li>Anna A. Kuzemko in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">Ukrainskii Botanichnii Zhurnal</a> 66: 307–314 (2009) </li>
           <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
           <li>Milan Valachovič in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Valachovic2007_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 42: 358–360 (2007) </li>
           <li>Wofgang Willner in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Willner2008_Neilreichia.pdf">Neilreichia</a> 5: 339–341 (2008) </li>
