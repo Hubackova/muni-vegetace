@@ -12,6 +12,7 @@ import holubova from "../../static/images/people/holubova.jpg";
 import tesitel from "../../static/images/people/tesitel.jpg";
 import reznickova from "../../static/images/people/reznickova.jpg";
 import novak from "../../static/images/people/novak.jpg";
+import fisher from "../../static/images/people/fisher.jpg";
 
 export const peopleEn = {
   employees: [
@@ -134,11 +135,14 @@ export const peopleEn = {
     id: `fischer`,
     name: `Felícia Miranda Fischer`,
     position: `Researcher`,
-    description: ``,
+    description: `I aim to understand the processes behind spatial and temporal patterns in plant communities. I am developing the project “Plant communities through time” where I explore changes in species composition in permanent plots at different time-scales and relate these dynamics to intrinsic community properties and environmental factors. I also work with the Pladias database, where I aim to undercover plant distributions and their functional traits in response to natural and human factors on the national scale. 
+I got my Ph.D. in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. I started my career in Ecology as an undergraduate student in 2007 since then I have been several projects concerning Vegetation Science in native grasslands and forests in southern Brazil. I worked on the relationship between grazing disturbance and plant community functional structure and ecosystem processes. Specifically, in my Ph.D., I studied how pant community functional aspects affect stability face to climate-change-related disturbances. I am experienced in caring out field experiments, grassland vegetation surveys, and functional traits methodologies. I also contribute with other international groups in themes as dark diversity, habitat loss and biodiversity conservation and ecosystem stability at local and global scale.
+`,
     email: `feliciafischerster@gmail.com`,
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
-    is: `https://www.muni.cz/en/people/243002-felicia-miranda-fischer`
+    is: `https://www.muni.cz/en/people/243002-felicia-miranda-fischer`,
+	img: fisher
   },
   {
     id: `gotzenberger`,
@@ -481,11 +485,14 @@ export const peopleCz = {
     id: `fischer`,
     name: `Felícia Miranda Fischer`,
     position: `Researcher`,
-    description: ``,
+    description: `I aim to understand the processes behind spatial and temporal patterns in plant communities. I am developing the project “Plant communities through time” where I explore changes in species composition in permanent plots at different time-scales and relate these dynamics to intrinsic community properties and environmental factors. I also work with the Pladias database, where I aim to undercover plant distributions and their functional traits in response to natural and human factors on the national scale. 
+I got my Ph.D. in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. I started my career in Ecology as an undergraduate student in 2007 since then I have been several projects concerning Vegetation Science in native grasslands and forests in southern Brazil. I worked on the relationship between grazing disturbance and plant community functional structure and ecosystem processes. Specifically, in my Ph.D., I studied how pant community functional aspects affect stability face to climate-change-related disturbances. I am experienced in caring out field experiments, grassland vegetation surveys, and functional traits methodologies. I also contribute with other international groups in themes as dark diversity, habitat loss and biodiversity conservation and ecosystem stability at local and global scale.
+`,
     email: `feliciafischerster@gmail.com`,
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
-    is: `https://www.muni.cz/lide/243002-felicia-miranda-fischer`
+    is: `https://www.muni.cz/lide/243002-felicia-miranda-fischer`, 
+	img: fisher
   },
   {
     id: `gotzenberger`,
