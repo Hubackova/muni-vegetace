@@ -217,6 +217,16 @@ I got my Ph.D. in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), 
     is: `https://www.muni.cz/en/people/386683-flavia-landucci`
   },
   {
+    id: `marceno`,
+    name: `Corrado Marcenò`,
+    position: `Postdoc`,
+    description: ``,
+    email: `marcenocorrado@libero.it`,
+    phoneNumber: `549498477`,
+    researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`,
+    is: `https://is.muni.cz/auth/osoba/234828?lang=en;setlang=en`
+  },
+  {
     id: `preislerova`,
     name: `Zdenka Preislerová`,
     position: `Researcher`,
@@ -565,6 +575,16 @@ I got my Ph.D. in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), 
     phoneNumber: `549498479`,
     researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
     is: `https://www.muni.cz/lide/386683-flavia-landucci`
+  },
+  {
+    id: `marceno`,
+    name: `Corrado Marcenò`,
+    position: `Postdoc`,
+    description: ``,
+    email: `marcenocorrado@libero.it`,
+    phoneNumber: `549498477`,
+    researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`,
+    is: `https://is.muni.cz/auth/osoba/234828`
   },
   {
     id: `preislerova`,
