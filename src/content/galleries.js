@@ -20,9 +20,9 @@ export const galleryNames = [
 export const galleryNamesCz = [
   "Terenní exkurze",
   "Ostatní",
-  "2019 Mohelno",
   "Zahraniční exkurze",
-  "2019 Makedonie",
+  "2019 Mohelno",
+    "2019 Makedonie",
   "2018 Korsika",
   "2017 Rumunsko",
   "2016 Albánie + Černá Hora",
@@ -35,8 +35,8 @@ export const galleryNamesCz = [
 export const galleryNamesEn = [
   "Excursions",
   "Other Photos",
-  "2019 Mohelno",
   "Excursions abroad",
+  "2019 Mohelno", 
   "2019 Macedonia",
   "2018 Corsica",
   "2017 Romania",
