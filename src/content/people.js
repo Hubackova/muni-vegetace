@@ -13,6 +13,8 @@ import tesitel from "../../static/images/people/tesitel.jpg";
 import reznickova from "../../static/images/people/reznickova.jpg";
 import novak from "../../static/images/people/novak.jpg";
 import fisher from "../../static/images/people/fisher.jpg";
+import knollova from "../../static/images/people/knollova.jpg";
+import vecera from "../../static/images/people/vecera.jpg";
 
 export const peopleEn = {
   employees: [
@@ -195,6 +197,7 @@ I got my Ph.D. in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), 
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
     is: `https://www.muni.cz/en/people/10355-ilona-knollova`,
+	img: knollova
   },
   {
     id: `kubesova`,
@@ -360,7 +363,8 @@ I got my Ph.D. in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), 
     email: `martinvec@seznam.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-    is: `https://www.muni.cz/en/people/357693-martin-vecera`
+    is: `https://www.muni.cz/en/people/357693-martin-vecera`,
+	img: vecera
   },
   {
     id: `zukal`,
@@ -554,7 +558,8 @@ I got my Ph.D. in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), 
     email: `ikuzel@sci.muni.cz`,
     phoneNumber: `549498488`,
     researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
-    is: `https://www.muni.cz/lide/10355-ilona-knollova`
+    is: `https://www.muni.cz/lide/10355-ilona-knollova`, 
+	img: knollova
   },
   {
     id: `kubesova`,
@@ -718,7 +723,8 @@ I got my Ph.D. in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), 
     email: `martinvec@seznam.cz`,
     phoneNumber: `549498494`,
     researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-    is: `https://www.muni.cz/lide/357693-martin-vecera`
+    is: `https://www.muni.cz/lide/357693-martin-vecera`,
+	img: vecera
   },
   {
     id: `zukal`,
