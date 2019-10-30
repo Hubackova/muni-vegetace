@@ -6,6 +6,7 @@ import { Link } from "gatsby";
 import { cz, en } from "../content/projects";
 import project3 from "../../static/images/projects/project3.jpg";
 
+
 const Projects = () => (
   <Consumer>
     {({ int }) => {
