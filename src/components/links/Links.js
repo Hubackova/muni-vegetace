@@ -7,13 +7,17 @@ import Ul from "../atoms/Ul";
 
 const Links = ({ mediaData, resourcesData, data }) => {
   const mediaList = mediaData.map(i => {
+    const resources = i.resources.map((src, index) => {
+      if (!i.links[index]) return `${src}, `;
+      return (
+        <A key={index} target="_blank" rel="noopener noreferrer" href={i.links[index]}>
+          {index === i.resources.length-1 ? src : `${src}, `}
+        </A>
+      );
+    });
     return (
       <li key={i.name}>
-        {i.date}
-        <A target="_blank" rel="noopener noreferrer" href={i.link}>
-          {i.name}
-        </A>
-        , {i.resource}
+        {i.date} {i.name}, {resources}
       </li>
     );
   });
@@ -53,7 +57,6 @@ export default Links;
 const A = styled.a`
   color: ${props => props.theme.darkMain};
   text-decoration: none;
-  margin-left: 0.5em;
   &:hover {
     text-decoration: underline;
   }
@@ -68,4 +71,3 @@ const FlexBox = styled.div`
     grid-template-rows: 1fr 1fr;
   }
 `;
-
