@@ -50,9 +50,17 @@ const RightPanel = styled.div`
 
 const GridWrapper = styled.div`
   display: grid;
-  grid-template-columns: repeat(2, 10vw);
-  grid-template-rows: repeat(2, 10vw);
+  grid-template-columns: repeat(2, minmax(200px, 10vw));
+  grid-template-rows: repeat(2, minmax(200px, 10vw));
   grid-gap: 1vw;
+  @media (max-width: ${props => props.theme.largeDevice}) {
+    grid-template-columns: repeat(4, minmax(20vw, 1fr));
+    grid-template-rows: repeat(1, minmax(20vw, 1fr));
+  }
+  @media (max-width: 620px) {
+    grid-template-columns: repeat(1, minmax(200px, 200px));
+    grid-template-rows: repeat(4, minmax(200px, 200px));
+  }
 `;
 
 const ResourceBox = styled(Link)`
@@ -77,7 +85,7 @@ const ResourceBox = styled(Link)`
   ::after {
     content: "";
     background-image: url(${props => props.img});
-    background-size: 10vw;
+    background-size: 100%;
     opacity: 0.3;
     top: 0;
     left: 0;
