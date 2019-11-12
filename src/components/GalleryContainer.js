@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import styled from 'styled-components'
 
 import MainContainer from "./MainContainer";
 import H2 from "./atoms/H2";
@@ -10,7 +11,7 @@ const GalleryContainer = ({ children, heading }) => {
     <MainContainer>
       <Backarrow to="/gallery/" />
       <H2>{heading} </H2>
-      {children}
+      <GalleryContainerWrapper> {children}</GalleryContainerWrapper>
     </MainContainer>
   );
 };
@@ -21,3 +22,7 @@ GalleryContainer.propTypes = {
   children: PropTypes.node,
   heading: PropTypes.string
 };
+
+const GalleryContainerWrapper = styled.div`
+
+`;

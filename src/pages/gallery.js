@@ -34,7 +34,8 @@ GalleryType.propTypes = {
   img: PropTypes.object,
   to: PropTypes.string,
   query: PropTypes.object,
-  subgalleries: PropTypes.array
+  subgalleries: PropTypes.array,
+  subgalleriesMainImgs: PropTypes.array,
 };
 
 const PhotoGallery = ({ data }) => (
@@ -50,9 +51,9 @@ const PhotoGallery = ({ data }) => (
         const subgalleriesMainImgs =
           galleryName.subgalleries &&
           galleryName.subgalleries.length &&
-          galleryName.subgalleries.map(subgalleryName => {
+          galleryName.subgalleries.map(subgallery => {
             return data.allImageSharp.edges.filter(img =>
-              img.node.fixed.src.includes(subgalleryName)
+              img.node.fixed.src.includes(subgallery.key)
             );
           });
 

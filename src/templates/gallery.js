@@ -9,37 +9,64 @@ import { galleryLabelsEn, galleryLabelsCz } from "../content/galleries";
 import GalleryContainer from "../components/GalleryContainer";
 
 const gallery = ({ data: { allImageSharp }, location }) => {
-  const galleryName = location.pathname.slice(
-    location.pathname.lastIndexOf("-") + 1,
-    location.pathname.lenght
-  );
-
-  const subgalleries = location.state && location.state.subgalleries;
-  const subgalleriesMainImgs = location.state && location.state.subgalleriesMainImgs;
-  const subgalleriesFolders =
-    subgalleries &&
-    !!subgalleries.length &&
-    subgalleries.map(subgallery => {
-      const img = subgalleriesMainImgs.filter(imgSub => {
-        return imgSub[0] && imgSub[0].node.fixed.src.includes(subgallery);
-      });
-
-      return (
-        <span style={{ margin: "1em" }} key={subgallery}>
-          <Link to={`gallery-${subgallery}`}>
-            {img[0] && <Img fixed={img[0][0].node.fixed} alt={"heading"} height="265px" />}
-          </Link>
-        </span>
-      );
-    });
-
   return (
     <Consumer>
       {({ int }) => {
+        const galleryName = location.pathname.slice(
+          location.pathname.lastIndexOf("-") + 1,
+          location.pathname.lenght
+        );
+
+        const subgalleries = location.state && location.state.subgalleries;
+        const subgalleriesMainImgs =
+          location.state && location.state.subgalleriesMainImgs;
+        const subgalleriesFolders =
+          subgalleries &&
+          !!subgalleries.length &&
+          subgalleries.map(subgallery => {
+            const img = subgalleriesMainImgs.filter(imgSub => {
+              return (
+                imgSub[0] && imgSub[0].node.fixed.src.includes(subgallery.key)
+              );
+            });
+
+            return (
+              <div
+                style={{
+                  margin: "1em",
+                  alignItems: "center",
+                  maxWidth: 450,
+                  display: "inline-block"
+                }}
+                key={subgallery.key}
+              >
+                <Link to={`gallery-${subgallery.key}`}>
+                  {img[0] && (
+                    <Img
+                      fixed={img[0][0].node.fixed}
+                      alt={"heading"}
+                      height="265px"
+                    />
+                  )}
+                </Link>
+                <div
+                  style={{
+                    textAlign: "center"
+                  }}
+                >
+                  {int === "en" ? subgallery.labelEn : subgallery.labelCz}
+                </div>
+              </div>
+            );
+          });
         const captions = int === "en" ? galleryLabelsEn : galleryLabelsCz;
-        const imgs = allImageSharp && allImageSharp.edges.map(i => i.node.fluid);
+        console.log(captions, galleryName)
+        const imgs =
+          allImageSharp && allImageSharp.edges.map(i => i.node.fluid);
         const PHOTO_SET = imgs.map((i, index) => {
-          const caption = captions[galleryName] ? captions[galleryName][index] : "";
+          const caption = captions[galleryName]
+            ? captions[galleryName][index]
+            : "";
           return { src: i.src, thumbnail: i.src, caption: caption };
         });
         return (
