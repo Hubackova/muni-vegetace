@@ -15,18 +15,20 @@ import novak from "../../static/images/people/novak.jpg";
 import fisher from "../../static/images/people/fisher.jpg";
 import knollova from "../../static/images/people/knollova.jpg";
 import vecera from "../../static/images/people/vecera.jpg";
+import chytry from "../../static/images/people/chytry.jpg";
 
 export const peopleEn = {
   employees: [
   {
     id: `chytry`,
     name: `Milan Chytrý`,
-    position: `Group Head`,
-    description: ``,
+    position: `Professor, Group Leader`,
+    description: `Milan Chytrý got Ph.D. in Botany at Masaryk University in 1995. He is interested in vegetation diversity, vegetation survey, methods of vegetation classification, macroecology, alien plant invasions and palaeoecology. He edited the Habitat Catalogue of the Czech Republic (2001, 2010) and the four-volume monograph Vegetation of the Czech Republic (2007-2013). In 2014-2018 he led the project Pladias, which synthesized information on flora and vegetation of the Czech Republic in an online database. He studied vegetation in different parts of Europe. In 2003-2015 he led projects of field research of ecosystems in different parts of Siberia, which resulted in characterizing some Siberian ecosystems as modern analogues of the Last Glacial ecosystems of Europe. Currently, he is coordinating the Centre of European Vegetation Syntheses at Masaryk University. He is a Secretary of the IAVS Working Group European Vegetation Survey, Custodian of the European Vegetation Archive (EVA) and Chief Editor of the IAVS journals (Journal of Vegetation Science and Applied Vegetation Science). He teaches Community Ecology and Macroecology, Vegetation and Habitats of the Czech Republic, Vegetation and Habitats of Europe and several field courses and seminars at Masaryk University.`,
     email: `chytry@sci.muni.cz`,
     phoneNumber: `549494595`,
     researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
-    is: `http://www.sci.muni.cz/botany/chytry/`
+    is: `http://www.sci.muni.cz/botany/chytry/`,
+	img: chytry
   },
   {
     id: `danihelka`,
@@ -384,11 +386,12 @@ export const peopleCz = {
     id: `chytry`,
     name: `Milan Chytrý`,
     position: `Vedoucí skupiny`,
-    description: ``,
+    description: `Milan Chytrý absolvoval doktorské studium v oboru Botanika na Masarykově univerzitě v roce 1995. Zabývá se diverzitou vegetace, klasifikací rostlinných společenstev a metodami klasifikace, makroekologií, rostlinnými invazemi a paleoekologií. Editoval Katalog biotopů České republiky (2001, 2010) a čtyřdílnou monografii Vegetace České republiky (2007-2013). V letech 2014-2018 řídil projekt Pladias, který syntetizoval informace o flóře a vegetaci České republiky a zpřístupnil je v online databázi. Zkoumal vegetaci v různých částech Evropy. V letech 2003-2015 řídil projekty terénního výzkumu ekosystémů v různých částech Sibiře, během nichž byly identifikovány současné analogie zaniklých ekosystémů posledního glaciálu v Evropě. V současné době koordinuje projekt Centrum pro evropské vegetační syntézy na Masarykově univerzitě. Je tajemníkem pracovní skupiny European Vegetation Survey Mezinárodní společnosti pro výzkum vegetace (IAVS), kustodem Evropského vegetačního archivu (EVA) a vedoucím redaktorem časopisů Journal of Vegetation Science a Applied Vegetation Science. Na Masarykově univerzitě učí Ekologii společenstev a makroekologii, Vegataci a biotopy České republiky, Vegetaci a biotopy Evropy a několik terénních cvičení a seminářů.`,
     email: `chytry@sci.muni.cz`,
     phoneNumber: `549494595`,
     researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
-    is: `http://www.sci.muni.cz/botany/chytry/`
+    is: `http://www.sci.muni.cz/botany/chytry/`,
+	img: chytry
   },
   {
     id: `danihelka`,
