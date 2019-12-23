@@ -20,7 +20,7 @@ export const en = {
     { name: "dbState", text: "Stav centrální databáze" },
     { name: "turboweg", text: "Turboveg for Windows" },
     { name: "data", text: "Výměna a poskytování dat" },
-    { name: "turbowegCheck", text: "Turboweg CHECK-UP" },
+    { name: "turbowegCheck", text: "Turboweg Check-Up" },
     { name: "literature", text: "Literatura" },
     { name: "acknowledgements", text: "Poděkování" }
   ],
@@ -210,7 +210,7 @@ export const en = {
       chybně uvedená vegetační patra, v hlavičkových datech např. chybějící údaje v povinných polích
       nebo chybné souřadnice. Aplikace se ovládá pomocí jednoduchého rozhraní, a je proto možné ji
       používat i bez znalosti práce s MS ACCESS. Chyby nebo údaje ve formě souhrnů se zobrazují jako
-      přehledné sestavy, které lze vytisknout. TURBOVEG CHECK-UP používá pro hledání chyb tabulky,
+      přehledné sestavy, které lze vytisknout. TURBOVEG Check-Up používá pro hledání chyb tabulky,
       které lze pravidelně aktualizovat z těchto webových stránek. Kromě toho se v aplikaci
       nacházejí odkazy na informace o České národní fytocenologické databázi. Bližší informace a
       odkazy na stažení aplikace najdete{" "}
@@ -473,7 +473,7 @@ export const cz = {
     { name: "dbState", text: "Stav centrální databáze" },
     { name: "turboweg", text: "Turboveg for Windows" },
     { name: "data", text: "Výměna a poskytování dat" },
-    { name: "turbowegCheck", text: "Turboweg CHECK-UP" },
+    { name: "turbowegCheck", text: "Turboweg Check-Up" },
     { name: "literature", text: "Literatura" },
     { name: "acknowledgements", text: "Poděkování" }
   ],
@@ -567,8 +567,7 @@ export const cz = {
   dbState: (
     <div>
       <p>
-        Databáze v současné době obsahuje přibližně 113,6 tis. snímků (113 568, červenec 2019) z
-        celého území České republiky (obr. 1) zapsané od roku 1922 (obr. 2, dole) více než 1000
+        Databáze obsahuje 113 568 (červenec 2019) z celého území České republiky (obr. 1) zapsané od roku 1922 (obr. 2, dole) více než 1000
         botaniky. Největší počet snímků byl zaznamenán ve vegetaci listnatých lesů (Querco-Fagetea),
         luk a pastvin (Molinio-Arrhenatheretea) nebo vysokých ostřic (Phragmito-Magno-Caricetea;
         obr. 2, nahoře). Fytocenologická bibliografie s vyznačením publikací excerpovaných v
@@ -661,7 +660,7 @@ export const cz = {
       chybně uvedená vegetační patra, v hlavičkových datech např. chybějící údaje v povinných polích
       nebo chybné souřadnice. Aplikace se ovládá pomocí jednoduchého rozhraní, a je proto možné ji
       používat i bez znalosti práce s MS ACCESS. Chyby nebo údaje ve formě souhrnů se zobrazují jako
-      přehledné sestavy, které lze vytisknout. TURBOVEG CHECK-UP používá pro hledání chyb tabulky,
+      přehledné sestavy, které lze vytisknout. TURBOVEG Check-Up používá pro hledání chyb tabulky,
       které lze pravidelně aktualizovat z těchto webových stránek. Kromě toho se v aplikaci
       nacházejí odkazy na informace o České národní fytocenologické databázi. Bližší informace a
       odkazy na stažení aplikace najdete{" "}

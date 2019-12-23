@@ -2,46 +2,20 @@ import React, { Fragment } from "react";
 
 export const homepageEn = (
   <Fragment>
-    <h3>The main topics of current research include:</h3>
+    <h3>What do we do?</h3>
     <li>
-      macroecological patterns in plant communities and local floras, large-scale gradients of
-      diversity and their relationships to local and regional ecological processes
+    We are interested in the diversity of plant communities and its underlying factors. We investigate the distribution patterns of vegetation types and habitats in the landscape. We analyze in detail the species composition of different types of plant communities and ask how these communities originated, how they change due to natural and human influences and to what extent they are endangered. We deal not only with contemporary vegetation but also with changes in vegetation since the last Ice Age. Our area of interest is all of Europe and various areas of extratropical Asia. We perform basic vegetation surveys in the field as well as statistical analyses of large vegetation-plot databases.
+Our research is of high practical importance for nature conservation since we define vegetation and habitat types used for setting conservation priorities, inventorying, monitoring, planning appropriate management and defining targets of ecological restoration. We contribute to understanding how nature is affected by recent changes in land use, management, water regime, climate warming, eutrophication and the invasions of alien species, and we seek ways to reduce their negative impacts.
     </li>
-    <li>
-      development of new methods of data sampling and analysis for vegetation science and community
-      ecology and their software implementations
-    </li>
-    <li>critical revision of the national vegetation classification for the Czech Republic</li>
-    <li>
-      international cooperation in vegetation survey and vegetation databanking (especially with
-      countries of central and southern Europe and Taiwan)
-    </li>
-    <li>
-      diversity of Siberian ecosystems and its relationships to diversity of Full Glacial and Early
-      Holocene ecosystems of northern Eurasia
-    </li>
-  </Fragment>
+      </Fragment>
 );
 
 export const homepageCz = (
   <Fragment>
-    <h3>Hlavními tématy současného výzkumu jsou:</h3>
+    <h3>Čím se zabýváme?</h3>
     <li>
-      studium makroekologických struktur v rostlinných společenstvech a lokálních flórách, zejména
-      gradientů diverzity v závislosti na lokálních nebo regionálních ekologických procesech
+     Zajímá nás diverzita rostlinných společenstev a faktory, které ji ovlivňují. Zkoumáme zákonitosti rozmístění vegetačních typů a biotopů v krajině. Podrobně analyzujeme druhové složení různých typů rostlinných společenstev a ptáme se, jak tato společenstva vznikla, jak se mění vlivem přírodních i lidských vlivů a do jaké míry jsou ohrožená. Zabýváme se nejen současnou vegetací, ale i změnami vegetace od poslední doby ledové. Naší zájmovou oblastí je celá Evropa a různé oblasti mimotropické Asie. Provádíme základní průzkum vegetace v terénu i statistické analýzy rozsáhlých vegetačních databází.
+Náš výzkum má význam pro ochranu přírody, protože definujeme typy vegetace a biotopů používaných v praxi pro stanovení ochranářských priorit, inventarizaci, monitoring, navrhování managementu a cílů ekologické obnovy. Přispíváme k poznání, jak přírodu ovlivňují současné změny využití krajiny, obhospodařování pozemků, vodního režimu, oteplování klimatu, eutrofizace a šíření nepůvodních druhů, a hledáme cesty, jak omezit jejich negativní dopady.
     </li>
-    <li>
-      vývoj nových metod sběru a analýzy dat pro výzkum vegetace a ekologii společenstev a tvorba
-      jejich softwarových implementací
-    </li>
-    <li>kritická revize národní klasifikace vegetace pro Českou republiku</li>
-    <li>
-      mezinárodní spolupráce v klasifikaci vegetace a tvorbě a využití fytocenologických databází
-      (hlavně se státy střední a jižní Evropy a Tchaj-wanem)
-    </li>
-    <li>
-      diverzita současných ekosystémů Sibiře a její vztah k diverzitě vrcholně glaciálních až raně
-      holocénních ekosystémů severní Eurasie
-    </li>
-  </Fragment>
+      </Fragment>
 );

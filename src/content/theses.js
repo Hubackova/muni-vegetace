@@ -24,13 +24,7 @@
       author: "Jan Dohnal",
       year: "2018"
     },
-    {
-      name: `Diversity and ecology of terrestrial cyanobacteria and algae in caves of the Protected Landscape Area Moravian Karst`,
-      link: `https://is.muni.cz/th/hitm3/?lang=en`,
-      author: "Zuzana Hůlková",
-      year: "2018"
-    },
-    {
+     {
       name: `Natural conditions and flora of mining sites of White Carpathians Mts.`,
       link: `https://is.muni.cz/th/rjhl3/?lang=en`,
       author: "Eliška Kundratová",
@@ -39,12 +33,7 @@
   ],
 
   masterThesesList: [
-    {
-      name: `Ecology and diversity of soil diatoms (Bacillariophyta) of Ile Amsterdam and Ile Saint-Paul (TAAF, Southern Indian Ocean)`,
-      link: `https://is.muni.cz/th/b97qq/?lang=en`,
-      author: "Tereza Cahová",
-      year: "2019"
-    },
+    
     {
       name: `Alpine vegetation of Mount Smolikas (Greece) and Mount Nemërçkë (Albania)`,
       link: `https://is.muni.cz/th/nwy2q/?lang=en`,
@@ -123,7 +112,7 @@
     {
       name: `Environmental control of diversity of Central European grasslands`,
       link: `https://is.muni.cz/th/gyqwk/`,
-      author: "Kristína Merunková",
+      author: "Kristina Merunková",
       year: "2013"
     },
     {
@@ -166,13 +155,7 @@ export const thesesCz = {
       author: "Jan Dohnal",
       year: "2018"
     },
-    {
-      name: `Diverzita a ekologie terestrických sinic a řas v jeskyních CHKO Moravský kras`,
-      link: `https://is.muni.cz/th/hitm3/`,
-      author: "Zuzana Hůlková",
-      year: "2018"
-    },
-    {
+       {
       name: `Přírodní poměry a flóra lomů v Bílých Karpatech`,
       link: `https://is.muni.cz/th/rjhl3/`,
       author: "Eliška Kundratová",
@@ -181,13 +164,7 @@ export const thesesCz = {
   ],
 
   masterThesesList: [
-    {
-      name: `Ekologie a diverzita půdních rozsivek ostrova Nový Amsterdam a ostrova Svatého Pavla (TAAF, Jižní Indický oceán)`,
-      link: `https://is.muni.cz/th/b97qq/`,
-      author: "Tereza Cahová",
-      year: "2019"
-    },
-    {
+      {
       name: `Alpínská vegetace pohoří Smolikas v Řecku a Nemërçkë v Albánii`,
       link: `https://is.muni.cz/th/nwy2q/`,
       author: "Mário Duchoň",
@@ -265,7 +242,7 @@ export const thesesCz = {
     {
       name: `Vliv prostředí na diverzitu středoevropské travinné vegetace`,
       link: `https://is.muni.cz/th/gyqwk/`,
-      author: "Kristína Merunková",
+      author: "Kristina Merunková",
       year: "2013"
     },
     {
