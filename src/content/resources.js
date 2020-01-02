@@ -12,7 +12,7 @@ export const en = {
     },
     {
       name: "JUICE",
-      link: "https://www.sci.muni.cz/botany/juice/",
+      linkTo: "/juice",
       img: "resources-juice"
     },
     {
@@ -21,22 +21,22 @@ export const en = {
     },
     {
       name: "Pladias",
-      link: "https://pladias.cz/",
+      linkTo: "/pladias",
       img: "resources-pladias"
     },
     {
       name: "Botanická fotogalerie",
-      link: "http://www.botanickafotogalerie.cz/",
+      linkTo: "/botanicPhotogallery",
       img: "resources-photogallery"
     },
     {
       name: "European Vegetation Archive",
-      link: "http://euroveg.org/eva-database",
+      linkTo: "/eva",
       img: "resources-eva"
     },
     {
       name: "Bibliografie vegetace ČR",
-      link: "https://www.sci.muni.cz/botany/tvref/"
+      linkTo: "/bibliography"
     }
   ]
 };
@@ -55,7 +55,7 @@ export const cz = {
       },
       {
         name: "JUICE",
-        link: "https://www.sci.muni.cz/botany/juice/",
+        linkTo: "/juice",
         img: "resources-juice"
       },
       {
@@ -64,22 +64,22 @@ export const cz = {
       },
       {
         name: "Pladias",
-        link: "https://pladias.cz/",
+        linkTo: "/pladias",
         img: "resources-pladias"
       },
       {
         name: "Botanická fotogalerie",
-        link: "http://www.botanickafotogalerie.cz/",
+        linkTo: "/botanicPhotogallery",
         img: "resources-photogallery"
       },
       {
         name: "European Vegetation Archive",
-        link: "http://euroveg.org/eva-database",
+        linkTo: "/eva",
         img: "resources-eva"
       },
       {
         name: "Bibliografie vegetace ČR",
-        link: "https://www.sci.muni.cz/botany/tvref/"
+        linkTo: "/bibliography"
       }
     ]
   };
