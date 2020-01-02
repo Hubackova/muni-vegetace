@@ -1,10 +1,10 @@
+import Img from "gatsby-image";
+import PropTypes from "prop-types";
 import React from "react";
 import styled from "styled-components";
-import { Link } from "gatsby";
-import PropTypes from "prop-types";
-import { graphql } from "gatsby";
-import Img from "gatsby-image";
 import { Consumer } from "../layouts/Context";
+import { Link } from "gatsby";
+import { graphql } from "gatsby";
 import {
   galleryNames as pageNames,
   galleryNamesCz,

@@ -254,8 +254,7 @@ export const project3cz = {
           Jsou trendy v diverzitě městských biotopů konzistentní v různých taxonomických skupinách?
         </li>
       </div>
-    </div>
-  <div className="project-publication">
+      <div className="project-publication">
         <h3>Publikace</h3>
         <h4>Odborné články</h4>
         <li>

@@ -2,15 +2,18 @@ export const en = {
   resourcesList: [
     {
       name: "Česká národní fytocenologická databáze",
-      linkTo: "/phytosociologicalDb"
+      linkTo: "/phytosociologicalDb",
+      img: "resources-cnfd_en"
     },
     {
       name: "Vegetace ČR (monografie)",
-      linkTo: "/vegetationCR"
+      linkTo: "/vegetationCR",
+      img: "resources-monography"
     },
     {
       name: "JUICE",
-      link: "https://www.sci.muni.cz/botany/juice/"
+      link: "https://www.sci.muni.cz/botany/juice/",
+      img: "resources-juice"
     },
     {
       name: "Expertní systém",
@@ -18,15 +21,18 @@ export const en = {
     },
     {
       name: "Pladias",
-      link: "https://pladias.cz/"
+      link: "https://pladias.cz/",
+      img: "resources-pladias"
     },
     {
       name: "Botanická fotogalerie",
-      link: "http://www.botanickafotogalerie.cz/"
+      link: "http://www.botanickafotogalerie.cz/",
+      img: "resources-photogallery"
     },
     {
       name: "European Vegetation Archive",
-      link: "http://euroveg.org/eva-database"
+      link: "http://euroveg.org/eva-database",
+      img: "resources-eva"
     },
     {
       name: "Bibliografie vegetace ČR",
@@ -39,15 +45,18 @@ export const cz = {
     resourcesList: [
       {
         name: "Česká národní fytocenologická databáze",
-        linkTo: "/phytosociologicalDb"
+        linkTo: "/phytosociologicalDb",
+        img: "resources-cnfd_cz"
       },
       {
         name: "Vegetace ČR (monografie)",
-        linkTo: "/vegetationCR"
+        linkTo: "/vegetationCR",
+        img: "resources-monography"
       },
       {
         name: "JUICE",
-        link: "https://www.sci.muni.cz/botany/juice/"
+        link: "https://www.sci.muni.cz/botany/juice/",
+        img: "resources-juice"
       },
       {
         name: "Expertní systém",
@@ -55,15 +64,18 @@ export const cz = {
       },
       {
         name: "Pladias",
-        link: "https://pladias.cz/"
+        link: "https://pladias.cz/",
+        img: "resources-pladias"
       },
       {
         name: "Botanická fotogalerie",
-        link: "http://www.botanickafotogalerie.cz/"
+        link: "http://www.botanickafotogalerie.cz/",
+        img: "resources-photogallery"
       },
       {
         name: "European Vegetation Archive",
-        link: "http://euroveg.org/eva-database"
+        link: "http://euroveg.org/eva-database",
+        img: "resources-eva"
       },
       {
         name: "Bibliografie vegetace ČR",

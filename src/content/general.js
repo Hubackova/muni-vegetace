@@ -27,8 +27,8 @@
   people: {
     people: "People",
     employees: "Employees",
-    phdStudents: "PhD student",
-    formerPeople: "Former academic and researchers"
+    phdStudents: "PhD students",
+    formerPeople: "Former group members"
   },
   mainHeader: "Vegetation Science Group",
   muni: "Masaryk university",
