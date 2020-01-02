@@ -68,14 +68,6 @@ class Navigation extends Component {
         <ListLink to="/projects/" isVisible={isVisible} className={this.getClass("projects")}>
           {generalData.menu.menuProjects}
         </ListLink>
-        <ListLink
-          to="http://botzool.sci.muni.cz/publikace/c"
-          isSimpleLink
-          isVisible={isVisible}
-          className={this.getClass("publikace")}
-        >
-          {generalData.menu.menuPublications}
-        </ListLink>
         <ListLink to="/resources" isVisible={isVisible} className={this.getClass("resources")}>
           {generalData.menu.menuResources}
         </ListLink>

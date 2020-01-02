@@ -36,7 +36,8 @@ export const en = {
     },
     {
       name: "Bibliografie vegetace ČR",
-      linkTo: "/bibliography"
+      linkTo: "/bibliography",
+      img: "resources-bibliography"
     }
   ]
 };
@@ -79,7 +80,8 @@ export const cz = {
       },
       {
         name: "Bibliografie vegetace ČR",
-        linkTo: "/bibliography"
+        linkTo: "/bibliography",
+        img: "resources-bibliography"
       }
     ]
   };

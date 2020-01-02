@@ -6,9 +6,8 @@
     menuCourses: "Courses",
     menuGallery: "Gallery",
     menuLinks: "Links",
-    menuPublications: "Publications",
     menuResources: "Resources",
-    menuVegetation: "Vegetation of the Czech Republic",
+    menuVegetation: "Vegetation of the Czech Republic"
   },
   footer: {
     botzool: "Department of Botany and Zoology, ",
@@ -30,6 +29,11 @@
     phdStudents: "PhD students",
     formerPeople: "Former group members"
   },
+  links: { 
+    media: "Media", 
+    publications: "Publications", 
+    popularization: "Popularization" 
+  },
   mainHeader: "Vegetation Science Group",
   muni: "Masaryk university",
   up: "Up",
@@ -45,9 +49,8 @@ export const cz = {
     menuCourses: "Výuka",
     menuGallery: "Galerie",
     menuLinks: "Odkazy",
-    menuPublications: "Publikace",
     menuResources: "Zdroje",
-    menuVegetation: "Vegetace České Republiky",
+    menuVegetation: "Vegetace České Republiky"
   },
   footer: {
     botzool: "Ústav botaniky a zoologie, ",
@@ -69,6 +72,11 @@ export const cz = {
     employees: "Zaměstnanci",
     phdStudents: "PhD studenti",
     formerPeople: "Bývalí akademičtí a výzkumní pracovníci"
+  },
+  links: { 
+    media: "Média", 
+    publications: "Publikace", 
+    popularization: "Popularizační články" 
   },
   mainHeader: "Pracovní skupina pro výzkum vegetace",
   muni: "Masarykova univerzita",

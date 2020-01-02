@@ -7,12 +7,6 @@ export const mediaCz = [
     links: ["", "", "",`https://pozitivni-zpravy.cz/cesti-vedci-rozklicovali-tajemstvi-uspechu-invazivnich-rostlin/`]
   },
   {
-    date: `1/4/2018`,
-    name: `Každý druh má v ekosystému svou roli`,
-    resources: [`Online.muni.cz`],
-    links: [`https://www.em.muni.cz/veda-a-vyzkum/10378-kazdy-druh-ma-v-ekosystemu-svou-roli`]
-  },
-  {
     date: `24/3/2018`,
     name: `Česká flóra a vegetace na jednom místě`,
     resources: [`Česká televize, Studio 6`],
@@ -51,7 +45,7 @@ export const mediaCz = [
    {
     date: `6/12/2016`,
     name: `První úplný přehled typů evropské vegetace`,
-    resources: [`Online.muni.cz`, `Movinky.cz (7/12)`],
+    resources: [`Online.muni.cz`, `Novinky.cz (7/12)`],
     links: ["", ""]
   },
    {
@@ -77,34 +71,20 @@ export const mediaEn = [
   }
 ];
 
-export const resourcesCz = [
+export const popularizationCz = [
   {
-    name: `Česká botanická společnost (ČBS)`,
-    link: `https://botanospol.cz/`
+    date: `1/4/2018`,
+    name: `Každý druh má v ekosystému svou roli`,
+    resources: [`Online.muni.cz`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/10378-kazdy-druh-ma-v-ekosystemu-svou-roli`]
   },
-  {
-    name: `European Vegetation Archive (EVA)`,
-    link: `http://euroveg.org/eva-database`
-  },
-  {
-    name: `The International Association for Vegetation Science
-    (IAVS)`,
-    link: `http://iavs.org/`
-  }
 ];
 
-export const resourcesEn = [
+export const popularizationEn = [
   {
-    name: `Czech Botanical Society (ČBS)`,
-    link: `https://botanospol.cz/en`
+    date: `1/4/2018`,
+    name: `Každý druh má v ekosystému svou roli`,
+    resources: [`Online.muni.cz`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/10378-kazdy-druh-ma-v-ekosystemu-svou-roli`]
   },
-  {
-    name: `European Vegetation Archive (EVA)`,
-    link: `http://euroveg.org/eva-database`
-  },
-  {
-    name: `The International Association for Vegetation Science
-    (IAVS)`,
-    link: `http://iavs.org/`
-  }
 ];
