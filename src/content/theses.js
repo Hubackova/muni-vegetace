@@ -1,6 +1,18 @@
 ﻿export const thesesEn = {
   bachelorThesesList: [
     {
+      name: `Flora and vegetation of area near Mokrá-Horákov east of the Brno city`,
+      link: `https://is.muni.cz/th/ba4ml/?lang=en`,
+      author: "Marcel Bartoš",
+      year: "2019"
+    },
+	 {
+      name: `Vegetation around the western part of the Brno Reservoir`,
+      link: `https://is.muni.cz/th/sw165/?lang=en`,
+      author: "Martin Harásek",
+      year: "2019"
+    },
+	{
       name: `Structure of exposure-related forest-steppe in Central Europe`,
       link: `https://is.muni.cz/th/tq01u/?lang=en`,
       author: "Kryštof Chytrý",
@@ -54,9 +66,15 @@
     },
     {
       name: `Flora of selected area on western margin of Brno`,
-      link: `https://is.muni.cz/th/iu4t7/`,
+      link: `https://is.muni.cz/th/iu4t7/?lang=en`,
       author: "Martina Staviařová",
       year: "2017"
+    },
+	{
+      name: `Effect of alien deciduous woody plants on herb-layer diversity`,
+      link: `https://is.muni.cz/th/hpzms/?lang=en`,
+      author: "Milan Šenkýř",
+      year: "2015"
     }
   ],
 
@@ -131,7 +149,19 @@
 
 export const thesesCz = {
   bachelorThesesList: [
-    {
+     {
+      name: `Flóra a vegetace území v okolí obce Mokrá-Horákov východně od Brna`,
+      link: `https://is.muni.cz/th/ba4ml/`,
+      author: "Marcel Bartoš",
+      year: "2019"
+    },
+	{
+      name: `Vegetace v okolí západní části Brněnské přehrady`,
+      link: `https://is.muni.cz/th/sw165/`,
+      author: "Martin Harásek",
+      year: "2019"
+    },
+	{
       name: `Struktura expoziční lesostepi ve střední Evropě`,
       link: `https://is.muni.cz/th/tq01u/`,
       author: "Kryštof Chytrý",
@@ -187,6 +217,12 @@ export const thesesCz = {
       link: `https://is.muni.cz/th/iu4t7/`,
       author: "Martina Staviařová",
       year: "2017"
+    },
+	{
+      name: `Vliv nepůvodních listnatých dřevin na diverzitu bylinného patra`,
+      link: `https://is.muni.cz/th/hpzms/`,
+      author: "Milan Šenkýř",
+      year: "2015"
     }
   ],
 
