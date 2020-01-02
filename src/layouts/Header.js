@@ -8,6 +8,7 @@ import HeaderTop from "./HeaderTop";
 
 import logo from "../../static/images/logo3.png";
 import mainLogo from "../../static/images/mainLogo.png";
+import logoSci from "../../static/images/logoSci.png";
 
 //query must be inline!!! not as a variable!
 const Header = ({ isIndex, generalData }) => (
@@ -31,15 +32,17 @@ const Header = ({ isIndex, generalData }) => (
     `}
     render={data => {
       const imgs = data.images.edges.map(i => i.node.childImageSharp.fluid);
-      // const sImgs = data.smallimages.edges.map(i => i.node.childImageSharp.fluid)
       return (
         <Fragment>
           <HeaderTop generalData={generalData} isIndex={isIndex} />
           <SubContainer>
             <LeftSide>
-              <MainLogo src={mainLogo} alt="mainLogo" />
               <LogoLink href="http://www.botzool.sci.muni.cz" target="_blank">
                 <Logo src={logo} alt="logo" />
+              </LogoLink>
+              <MainLogo src={mainLogo} alt="mainLogo" />
+              <LogoLink href="http://www.sci.muni.cz" target="_blank">
+                <Logo src={logoSci} alt="logoSci" />
               </LogoLink>
             </LeftSide>
             {isIndex && (
@@ -77,7 +80,7 @@ const SubContainer = styled.div`
 `;
 
 const LeftSide = styled.div`
-  flex: 1;
+  flex: 2;
   display: flex;
   align-items: center;
   background-color: ${props => props.theme.main};
@@ -102,7 +105,7 @@ const Logo = styled.img`
 `;
 
 const MainLogo = styled.img`
-  max-width: 65%;
+  max-width: 40%;
   margin-left: 2%;
   margin-right: 15px;
 `;
