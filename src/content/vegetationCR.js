@@ -9,8 +9,17 @@ export const en = {
   introduction: (
     <div>
       <div>
-       Vegetation of the Czech Republic is a four-volume monograph which systematically summarizes the diversity of vegetation types on the territory of the Czech Republic. Czech vegetation is divided into 39 phytosociological classes, which are further divided into 138 alliances and 496 associations. Each of these vegetation units is characterized by a detailed description of its floristic composition, ecology, dynamics, distribution and economic or conservation value, including distribution maps and synoptic tables of species composition. Associations were delimited by formal definitions and tested using a set of approximately 100,000 vegetation plots contained in the Czech National Phytosociological Database. National vegetation classification is accompanied by a computer expert system for identification of associations. The monograph was elaborated by a team of botanists from the Department of Botany and Zoology, Masaryk University in cooperation with experts from the Institute of Botany, Academy of Sciences of the Czech Republic, and other institutions. The project was funded by the Czech Science Foundation (grants 206/02/0957, 206/05/0200, 206/06/0659 and 206/09/0329) and Ministry of Education, Youth and Sports of the Czech Republic (long-term research plan MSM0021622416). The project received an Award of the Chairman of the Czech Science Foundation in 2012.
-      </div>
+       Vegetation of the Czech Republic is a four-volume monograph which systematically summarizes the diversity of vegetation types on the territory of the Czech Republic. 
+	   Czech vegetation is divided into 39 phytosociological classes, which are further divided into 138 alliances and 496 associations. 
+	   Each of these vegetation units is characterized by a detailed description of its floristic composition, ecology, dynamics, distribution and economic or conservation value, 
+	   including distribution maps and synoptic tables of species composition. Associations were delimited by formal definitions and tested using a set of approximately 100,000 vegetation plots 
+	   contained in the Czech National Phytosociological Database. National vegetation classification is accompanied by a computer expert system for identification of associations. 
+	   The monograph was elaborated by a team of botanists from the Department of Botany and Zoology, Masaryk University in cooperation with experts from the Institute of Botany, 
+	   Academy of Sciences of the Czech Republic, and other institutions. The project was funded by the Czech Science Foundation (grants 206/02/0957, 206/05/0200, 206/06/0659 and 206/09/0329) 
+	   and Ministry of Education, Youth and Sports of the Czech Republic (long-term research plan MSM0021622416). 
+	   The project received an Award of the Chairman of the Czech Science Foundation in 2012. 
+	   The content of descriptions of vegetation units from the printed version of Vegetation of the Czech Republic was also made available in the <a href="https://pladias.cz/en/vegetation/">Pladias database</a>. 
+	   </div>
 
       <div>
         <b>Editor:</b> Milan Chytrý
@@ -28,7 +37,7 @@ export const en = {
 
       <div>
         <b>Technical support:</b> Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová,
-        Štěpánka Králová, Klára Kubošová, Dana Michalcová, Jiří Rozehnal, Lubomír Tichý, Václav
+        Štěpánka Králová, Klára Komprdová (Kubošová), Dana Holubová (Michalcová), Jiří Rozehnal, Lubomír Tichý, Václav
         Zouhar and Kristýna Žáková
       </div>
     </div>
@@ -163,7 +172,7 @@ export const en = {
 };
 
 export const cz = {
-  title: "Vegetace České Republiky",
+  title: "Vegetace České republiky",
   introduction: (
     <div>
       <div>
@@ -179,7 +188,9 @@ export const cz = {
         spolupráci s odborníky z Botanického ústavu AV ČR a dalších institucí. Projekt byl
         financován Grantovou agenturou České republiky (projekty 206/02/0957, 206/05/0200,
         206/06/0659 a 206/09/0329) a Ministerstvem školství, mládeže a tělovýchovy (výzkumný záměr
-        MŠM0021622416). Projektu byla udělena Cena předsedy Grantové agentury ČR za rok 2012.
+        MŠM0021622416). Projektu byla udělena Cena předsedy Grantové agentury ČR za rok 2012. 
+		Obsah popisů vegetačních jednotek z tištěné verze Vegetace České republiky byl zpřístupněn také v databázi <a href="https://pladias.cz/vegetation/">Pladias</a>.
+
       </div>
       <div>
         <b>Editor:</b> Milan Chytrý
@@ -195,7 +206,7 @@ export const cz = {
       </div>
       <div>
         <b>Technická spolupráce:</b> Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová,
-        Štěpánka Králová, Klára Kubošová, Dana Michalcová, Jiří Rozehnal, Lubomír Tichý, Václav
+        Štěpánka Králová, Klára Komprdová (Kubošová), Dana Holubová (Michalcová), Jiří Rozehnal, Lubomír Tichý, Václav
         Zouhar a Kristýna Žáková
       </div>
     </div>
