@@ -6,13 +6,13 @@
       author: "Marcel Bartoš",
       year: "2019"
     },
-	 {
+    {
       name: `Vegetation around the western part of the Brno Reservoir`,
       link: `https://is.muni.cz/th/sw165/?lang=en`,
       author: "Martin Harásek",
       year: "2019"
     },
-	{
+    {
       name: `Structure of exposure-related forest-steppe in Central Europe`,
       link: `https://is.muni.cz/th/tq01u/?lang=en`,
       author: "Kryštof Chytrý",
@@ -36,7 +36,7 @@
       author: "Jan Dohnal",
       year: "2018"
     },
-     {
+    {
       name: `Natural conditions and flora of mining sites of White Carpathians Mts.`,
       link: `https://is.muni.cz/th/rjhl3/?lang=en`,
       author: "Eliška Kundratová",
@@ -45,7 +45,6 @@
   ],
 
   masterThesesList: [
-    
     {
       name: `Alpine vegetation of Mount Smolikas (Greece) and Mount Nemërçkë (Albania)`,
       link: `https://is.muni.cz/th/nwy2q/?lang=en`,
@@ -70,7 +69,7 @@
       author: "Martina Staviařová",
       year: "2017"
     },
-	{
+    {
       name: `Effect of alien deciduous woody plants on herb-layer diversity`,
       link: `https://is.muni.cz/th/hpzms/?lang=en`,
       author: "Milan Šenkýř",
@@ -149,19 +148,19 @@
 
 export const thesesCz = {
   bachelorThesesList: [
-     {
+    {
       name: `Flóra a vegetace území v okolí obce Mokrá-Horákov východně od Brna`,
       link: `https://is.muni.cz/th/ba4ml/`,
       author: "Marcel Bartoš",
       year: "2019"
     },
-	{
+    {
       name: `Vegetace v okolí západní části Brněnské přehrady`,
       link: `https://is.muni.cz/th/sw165/`,
       author: "Martin Harásek",
       year: "2019"
     },
-	{
+    {
       name: `Struktura expoziční lesostepi ve střední Evropě`,
       link: `https://is.muni.cz/th/tq01u/`,
       author: "Kryštof Chytrý",
@@ -185,7 +184,7 @@ export const thesesCz = {
       author: "Jan Dohnal",
       year: "2018"
     },
-       {
+    {
       name: `Přírodní poměry a flóra lomů v Bílých Karpatech`,
       link: `https://is.muni.cz/th/rjhl3/`,
       author: "Eliška Kundratová",
@@ -194,7 +193,7 @@ export const thesesCz = {
   ],
 
   masterThesesList: [
-      {
+    {
       name: `Alpínská vegetace pohoří Smolikas v Řecku a Nemërçkë v Albánii`,
       link: `https://is.muni.cz/th/nwy2q/`,
       author: "Mário Duchoň",
@@ -218,7 +217,7 @@ export const thesesCz = {
       author: "Martina Staviařová",
       year: "2017"
     },
-	{
+    {
       name: `Vliv nepůvodních listnatých dřevin na diverzitu bylinného patra`,
       link: `https://is.muni.cz/th/hpzms/`,
       author: "Milan Šenkýř",
