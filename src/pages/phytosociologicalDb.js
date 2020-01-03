@@ -83,6 +83,7 @@ const Container = styled.div`
   flex-direction: row;
   @media (max-width: 1256px) {
     flex-direction: column;
+    margin: 0 1em;
   }
 `;
 

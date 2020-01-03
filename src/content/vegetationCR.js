@@ -8,7 +8,7 @@ export const en = {
   title: "Vegetation of the Czech Republic",
   introduction: (
     <div>
-      <div>
+      <p>
         Vegetation of the Czech Republic is a four-volume monograph which systematically summarizes
         the diversity of vegetation types on the territory of the Czech Republic. Czech vegetation
         is divided into 39 phytosociological classes, which are further divided into 138 alliances
@@ -27,13 +27,13 @@ export const en = {
         Chairman of the Czech Science Foundation in 2012. The content of descriptions of vegetation
         units from the printed version of Vegetation of the Czech Republic was also made available
         in the <a href="https://pladias.cz/en/vegetation/">Pladias database</a>.
-      </div>
+      </p>
 
-      <div>
+      <p>
         <b>Editor:</b> Milan Chytrý
-      </div>
+      </p>
 
-      <div>
+      <p>
         <b>Authors:</b> Petr Bauer, Denisa Blažková, Karel Boublík, Tomáš Černý, Martina
         Čtvrtlíková, Jan Douda, Libor Ekrt, Ester Ekrtová, Michal Hájek, Petra Hájková, Petra
         Hanáková, Handrij Härtel, Radim Hédl, Aleš Hoffmann, Richard Hrivnák, Zdenka Hroudová, Milan
@@ -41,13 +41,13 @@ export const en = {
         (Simonová), Zdeňka Lososová, Jana Navrátilová, Zdenka Neuhäuslová, Jan Novák, Zdenka
         Otýpková, Helena Oťaheľová, Petr Petřík, Jan Roleček, Jaroslav Rydlo, Marcela Řezníčková,
         Jiří Sádlo, Kateřina Šumberová, Michaela Vítková and David Zelený
-      </div>
+      </p>
 
-      <div>
+      <p>
         <b>Technical support:</b> Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová,
         Štěpánka Králová, Klára Komprdová (Kubošová), Dana Holubová (Michalcová), Jiří Rozehnal,
         Lubomír Tichý, Václav Zouhar and Kristýna Žáková
-      </div>
+      </p>
     </div>
   ),
   books: [
@@ -391,7 +391,7 @@ export const cz = {
   title: "Vegetace České republiky",
   introduction: (
     <div>
-      <div>
+      <p>
         Vegetace České republiky je čtyřdílná monografie, která systematicky shrnuje diverzitu
         vegetačních typů na území České republiky. Česká vegetace je členěna do 39 fytocenologických
         tříd, které se dále dělí na 138 svazů a 496 asociací. Pro každou z těchto vegetačních
@@ -407,11 +407,11 @@ export const cz = {
         MŠM0021622416). Projektu byla udělena Cena předsedy Grantové agentury ČR za rok 2012. Obsah
         popisů vegetačních jednotek z tištěné verze Vegetace České republiky byl zpřístupněn také v
         databázi <a href="https://pladias.cz/vegetation/">Pladias</a>.
-      </div>
-      <div>
+      </p>
+      <p>
         <b>Editor:</b> Milan Chytrý
-      </div>
-      <div>
+      </p>
+      <p>
         <b>Autoři textů:</b> Petr Bauer, Denisa Blažková, Karel Boublík, Tomáš Černý, Martina
         Čtvrtlíková, Jan Douda, Libor Ekrt, Ester Ekrtová, Michal Hájek, Petra Hájková, Petra
         Hanáková, Handrij Härtel, Radim Hédl, Aleš Hoffmann, Richard Hrivnák, Zdenka Hroudová, Milan
@@ -419,12 +419,12 @@ export const cz = {
         (Simonová), Zdeňka Lososová, Jana Navrátilová, Zdenka Neuhäuslová, Jan Novák, Zdenka
         Otýpková, Helena Oťaheľová, Petr Petřík, Jan Roleček, Jaroslav Rydlo, Marcela Řezníčková,
         Jiří Sádlo, Kateřina Šumberová, Michaela Vítková a David Zelený
-      </div>
-      <div>
+      </p>
+      <p>
         <b>Technická spolupráce:</b> Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová,
         Štěpánka Králová, Klára Komprdová (Kubošová), Dana Holubová (Michalcová), Jiří Rozehnal,
         Lubomír Tichý, Václav Zouhar a Kristýna Žáková
-      </div>
+      </p>
     </div>
   ),
   books: [

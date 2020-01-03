@@ -5,7 +5,7 @@
     menuProjects: "Research",
     menuCourses: "Courses",
     menuGallery: "Gallery",
-    menuLinks: "Links",
+    menuLinks: "Publications",
     menuResources: "Resources",
     menuVegetation: "Vegetation of the Czech Republic"
   },
@@ -48,7 +48,7 @@ export const cz = {
     menuProjects: "Výzkum",
     menuCourses: "Výuka",
     menuGallery: "Galerie",
-    menuLinks: "Odkazy",
+    menuLinks: "Publikace",
     menuResources: "Zdroje",
     menuVegetation: "Vegetace České Republiky"
   },
