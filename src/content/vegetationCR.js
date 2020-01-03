@@ -49,9 +49,9 @@ export const en = {
       link:
         "Chytrý M. (ed.) (2007): Vegetace České republiky 1. Travinná a keříčková vegetace / Vegetation of the Czech Republic 1. Grassland and Heathland Vegetation. Academia, Praha, 525 pp.",
       authors:
-        "Authors: Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová, Štěpánka Králová, Klára Kubošová, Dana Michalcová, Jiří Rozehnal, Lubomír Tichý, Václav Zouhar and Kristýna Žáková",
+        "Authors: M. Chytrý, M. Kočí, K. Šumberová, J. Sádlo, F. Krahulec, P. Hájková, M. Hájek, A. Hoffmann, D. Blažková, T. Kučera, J. Novák, M. Řezníčková, T. Černý, H. Härtel & D. Simonová",
       technical:
-        "Technical support: L. Tichý, I. Knollová, Z. Otýpková, J. Danihelka, O. Hájek, K. Kubošová, K. Karimová and J. Rozehnal",
+        "Technical support: L. Tichý, I. Knollová, Z. Otýpková, J. Danihelka, O. Hájek, K. Komprdová (Kubošová), K. Karimová and J. Rozehnal",
       pdfLowRes: "PDF coarse resolution (1st edition 2007)",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-1-2007-low-resolution.pdf",
@@ -218,7 +218,7 @@ export const cz = {
       link:
         "Chytrý M. (ed.) (2007): Vegetace České republiky 1. Travinná a keříčková vegetace / Vegetation of the Czech Republic 1. Grassland and Heathland Vegetation. Academia, Praha, 525 pp.",
       authors:
-        "Autoři textů: Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová, Štěpánka Králová, Klára Kubošová, Dana Michalcová, Jiří Rozehnal, Lubomír Tichý, Václav Zouhar a Kristýna Žáková",
+        "Autoři textů: M. Chytrý, M. Kočí, K. Šumberová, J. Sádlo, F. Krahulec, P. Hájková, M. Hájek, A. Hoffmann, D. Blažková, T. Kučera, J. Novák, M. Řezníčková, T. Černý, H. Härtel a D. Simonová",
       technical:
         "Technická spolupráce: L. Tichý, I. Knollová, Z. Otýpková, J. Danihelka, O. Hájek, K. Kubošová, K. Karimová a J. Rozehnal",
       pdfLowRes: "PDF hrubé rozlišení (1. vydání 2007)",
