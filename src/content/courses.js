@@ -117,7 +117,7 @@ export const coursesCz = [
   },
   {
     name: `Zahraniční botanická exkurze`,
-    link: `http://botanicka-exkurze.cz`
+    link: `https://is.muni.cz/course/sci/jaro2020/BI6691?lang=cs`
   },
   {
     name: `Základní metody terénní botaniky`,
@@ -135,25 +135,117 @@ export const coursesCz = [
 ];
 
 export const coursesEn = [
+   {
+    name: `Botany & ecology bachelor thesis`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi5200?lang=en`
+  },
+  {
+    name: `Bachelor thesis of ecological and evolutionary biology `,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi5831?lang=en`
+  },
   {
     name: `Botany seminar`,
     link: `http://botzool.sci.muni.cz/study/seminar_bot.pdf`
+  },
+  {
+    name: `Bryological practice`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6640?lang=en`
+  },
+  {
+    name: `Bryophytes determination for advanced`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi9640?lang=en`
+  },
+   {
+    name: `Angiosperm identification course`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8630?lang=en`
+  },
+  {
+    name: `Diploma thesis tutorial`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/BI7110BZ?lang=en`
+  },
+  {
+    name: `Botany diploma thesis`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi7701?lang=en`
+  },
+  {
+    name: `Nature conservation diploma thesis`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi7731?lang=en`
+  },
+  {
+    name: `Forest ecology`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8185?lang=en`
   },
   {
     name: `Community ecology and macroecology`,
 	link: `https://is.muni.cz/predmet/sci/podzim2019/Bi6340?lang=en`
   },
   {
+    name: `Geobotany seminar `,
+	link: `https://is.muni.cz/predmet/sci/podzim2019/BI5659?lang=en`
+  },
+  {
+    name: `Geobotany project`,
+	link: `https://is.muni.cz/predmet/sci/jaro2020/BI6662?lang=en`
+  },
+  {
     name: `Protected areas of Central Europe`,
 	link: `https://is.muni.cz/predmet/sci/podzim2019/Bi9980?lang=en`
+  },
+  {
+    name: `Introduction to Biostatistics in English`,
+	link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6050?lang=en`
+  },
+  {
+    name: `Management of endangered ecosystems`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi7113?lang=en`
+  },
+   {
+    name: `Plant Ecology Lab Meeting`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/BI9666?lang=en`
+  },
+  {
+    name: `Plant population ecology`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi5210?lang=en`
+  },
+  {
+    name: `Nature Conservation and Environmental Legislation`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi7710?lang=en`
+  },
+  {
+    name: `Quaternary environments`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi8300?lang=en`
+  },
+    {
+    name: `(Special field practice in zoology)`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8160?lang=en`
+  },
+   {
+    name: `Field course of systematic botany`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi2130?lang=en`
+  },
+  {
+    name: `Field botanical excursion`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi2160?lang=en`
+  },
+  {
+    name: `Field course of geobotany`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6661?lang=en`
+  },
+  {
+    name: `Field excursion on environmental problems`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi7111?lang=en`
   },
   {
     name: `Introduction to study of ecological and evolutionary biology`,
     link: `https://is.muni.cz/predmet/sci/podzim2019/Bi1000?lang=en`
   },
   {
+    name: `Scientific work in botany and zoology`,
+    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8705?lang=en`
+  },
+  {
     name: `Vegetation and habitats of the Czech Republic`,
-    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6540?lang=en;setlang=en`
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6540?lang=en`
   },
   {
     name: `Vegetation and habitats of Europe`,
@@ -161,7 +253,18 @@ export const coursesEn = [
   },
   {
     name: `Botanical excursion abroad`,
-    link: `http://botanicka-exkurze.cz`
+    link: `https://is.muni.cz/course/sci/jaro2020/BI6691?lang=en`
   },
-  
+  {
+    name: `Basic methods of field botany`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6450?lang=en`
+  },
+  {
+    name: `Data analysis in community ecology`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi7540?lang=en`
+  },
+  {
+    name: `Methods of phytosociology`,
+    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6549?lang=en`
+  }
 ];
