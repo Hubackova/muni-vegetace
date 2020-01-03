@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import "font-awesome/css/font-awesome.min.css";
 import ContainerWrapper from "../components/atoms/ContainerWrapper";
 import Homepage from "../components/homepage/Homepage";
-import Databases from "../components/homepage/Databases";
+import Important from "../components/homepage/Important";
 import { Consumer } from "../layouts/Context";
 import { cz, en } from "../content/general";
 
@@ -14,7 +14,7 @@ const index = () => {
       {({ int }) => (
         <ContainerWrapper>
           <Homepage />
-          <Databases text={int === "en" ? en : cz} style={{ flex: 1 }} />
+          <Important text={int === "en" ? en : cz} style={{ flex: 1 }} />
         </ContainerWrapper>
       )}
     </Consumer>

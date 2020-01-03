@@ -86,6 +86,8 @@ const Container = styled.div`
   justify-content: center;
   flex-wrap: wrap;
   margin: 0 auto;
+  margin-bottom: 100px;
+  /* TODO: temporary fix */
   width: 90%;
 `;
 
