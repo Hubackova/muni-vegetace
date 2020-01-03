@@ -84,7 +84,7 @@ export const en = {
       authors:
         "Authors: D. Láníková, Z. Lososová, J. Sádlo, M. Chytrý, Z. Otýpková, M. Kočí, P. Petřík, K. Šumberová, Z. Neuhäuslová, P. Hájková and M. Hájek",
       technical:
-        "Technical support: Š. Králová, K. Karimová, J. Danihelka, L. Tichý, D. Michalcová, O. Hájek and K. Kubošová",
+        "Technical support: Š. Králová, K. Karimová, J. Danihelka, L. Tichý, D. Holubová (Michalcová), O. Hájek and K. Komprdová (Kubošová)",
       pdfLowRes: "PDF coarse resolution",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-2-2009-low-resolution.pdf",
@@ -116,7 +116,7 @@ export const en = {
       authors:
         "Authors: K. Šumberová, P. Hájková, M. Hájek, M. Chytrý, Z. Hroudová, J. Navrátilová, M. Čtvrtlíková, J. Sádlo, Z. Lososová, R. Hrivnák, J. Rydlo, H. Oťaheľová, P. Bauer, P. Hanáková, L. Ekrt and E. Ekrtová",
       technical:
-        "Technical support: D. Michalcová, K. Žáková, J. Danihelka, Š. Králová, K. Karimová, L. Tichý, O. Hájek and M. Kočí",
+        "Technical support: D. Holubová (Michalcová), K. Žáková, J. Danihelka, Š. Králová, K. Karimová, L. Tichý, O. Hájek and M. Kočí",
       pdfLowRes: "PDF coarse resolution",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-3-2011-low-resolution.pdf",
@@ -151,7 +151,7 @@ export const en = {
       authors:
         "Authors: M. Chytrý, J. Douda, J. Roleček, J. Sádlo, K. Boublík, R. Hédl, M. Vítková, D. Zelený, J. Navrátilová, Z. Neuhäuslová, P. Petřík, J. Kolbek, Z. Lososová, K. Šumberová and R. Hrivnák",
       technical:
-        "Technical support: D. Michalcová, K. Žáková, J. Danihelka, L. Tichý, V. Zouhar, O. Hájek and M. Kočí",
+        "Technical support: D. Holubová (Michalcová), K. Žáková, J. Danihelka, L. Tichý, V. Zouhar, O. Hájek and M. Kočí",
       pdfLowRes: "PDF coarse resolution",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-4-2013-low-resolution.pdf",
@@ -220,7 +220,7 @@ export const cz = {
       authors:
         "Autoři textů: M. Chytrý, M. Kočí, K. Šumberová, J. Sádlo, F. Krahulec, P. Hájková, M. Hájek, A. Hoffmann, D. Blažková, T. Kučera, J. Novák, M. Řezníčková, T. Černý, H. Härtel a D. Simonová",
       technical:
-        "Technická spolupráce: L. Tichý, I. Knollová, Z. Otýpková, J. Danihelka, O. Hájek, K. Kubošová, K. Karimová a J. Rozehnal",
+        "Technická spolupráce: L. Tichý, I. Knollová, Z. Otýpková, J. Danihelka, O. Hájek, K. Komprdová (Kubošová), K. Karimová a J. Rozehnal",
       pdfLowRes: "PDF hrubé rozlišení (1. vydání 2007)",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-1-2007-low-resolution.pdf",
@@ -255,7 +255,7 @@ export const cz = {
       authors:
         "Autoři textů: D. Láníková, Z. Lososová, J. Sádlo, M. Chytrý, Z. Otýpková, M. Kočí, P. Petřík, K. Šumberová, Z. Neuhäuslová, P. Hájková a M. Hájek",
       technical:
-        "Technická spolupráce: Š. Králová, K. Karimová, J. Danihelka, L. Tichý, D. Michalcová, O. Hájek a K. Kubošová",
+        "Technická spolupráce: Š. Králová, K. Karimová, J. Danihelka, L. Tichý, D. Holubová (Michalcová), O. Hájek a K. Komprdová (Kubošová)",
       pdfLowRes: "PDF hrubé rozlišení",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-2-2009-low-resolution.pdf",
@@ -287,7 +287,7 @@ export const cz = {
       authors:
         "Autoři textů: K. Šumberová, P. Hájková, M. Hájek, M. Chytrý, Z. Hroudová, J. Navrátilová, M. Čtvrtlíková, J. Sádlo, Z. Lososová, R. Hrivnák, J. Rydlo, H. Oťaheľová, P. Bauer, P. Hanáková, L. Ekrt a E. Ekrtová",
       technical:
-        "Technická spolupráce: D. Michalcová, K. Žáková, J. Danihelka, Š. Králová, K. Karimová, L. Tichý, O. Hájek a M. Kočí",
+        "Technická spolupráce: D. Holubová (Michalcová), K. Žáková, J. Danihelka, Š. Králová, K. Karimová, L. Tichý, O. Hájek a M. Kočí",
       pdfLowRes: "PDF hrubé rozlišení",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-3-2011-low-resolution.pdf",
@@ -322,7 +322,7 @@ export const cz = {
       authors:
         "Autoři textů: M. Chytrý, J. Douda, J. Roleček, J. Sádlo, K. Boublík, R. Hédl, M. Vítková, D. Zelený, J. Navrátilová, Z. Neuhäuslová, P. Petřík, J. Kolbek, Z. Lososová, K. Šumberová a R. Hrivnák",
       technical:
-        "Technická spolupráce: D. Michalcová, K. Žáková, J. Danihelka, L. Tichý, V. Zouhar, O. Hájek a M. Kočí",
+        "Technická spolupráce: D. Holubová (Michalcová), K. Žáková, J. Danihelka, L. Tichý, V. Zouhar, O. Hájek a M. Kočí",
       pdfLowRes: "PDF hrubé rozlišení",
       pdfLowResLink:
         "https://www.sci.muni.cz/botany/chytry/Vegetace-Ceske-republiky-4-2013-low-resolution.pdf",
