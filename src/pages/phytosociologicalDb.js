@@ -104,6 +104,7 @@ const Ul = styled.ul`
 export const Li = styled.li`
   cursor: pointer;
   color: ${props => props.theme.grey};
+  white-space: "nowrap";
   &:hover {
     color: ${props => props.theme.main};
   }

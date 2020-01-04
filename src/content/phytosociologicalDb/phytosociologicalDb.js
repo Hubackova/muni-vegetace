@@ -1,9 +1,9 @@
 /* eslint-disable no-irregular-whitespace */
 import React from "react";
 import { MailEmoji } from "../../components/atoms/Emoji";
-import cnfdMap from "../../../static/images/cnfd_map.png";
+
 import BarChart from "../../components/charts/BarChart";
-// import CnfdMap from "./CnfdMap"
+import CnfdMap from "./CnfdMap";
 
 import {
   samplesData,
@@ -124,13 +124,8 @@ export const en = {
       </p>
       Obr1. Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
       fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat)
-      <img
-        width={"70%"}
-        src={cnfdMap}
-        alt="Rozmístění fytocenologických snímků do čtverců v České republice
-      podle České národní fytocenologické databáze"
-      />
-      {/* <CnfdMap /> */}
+      <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
+      podle České národní fytocenologické databáze"/>
       <p>
         Obr. 2 <br />
         <BarChart
@@ -576,12 +571,8 @@ export const cz = {
       </p>
       Obr1. Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
       fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat)
-      <img
-        width={"70%"}
-        src={cnfdMap}
-        alt="Rozmístění fytocenologických snímků do čtverců v České republice
-      podle České národní fytocenologické databáze"
-      />
+      <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
+      podle České národní fytocenologické databáze"/>
       <p>
         Obr. 2 <br />
         <BarChart
