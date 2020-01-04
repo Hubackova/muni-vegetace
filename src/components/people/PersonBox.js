@@ -5,6 +5,10 @@ import PropTypes from "prop-types";
 import { MailEmoji, PhoneEmoji } from "../atoms/Emoji";
 import researchgate from "../../../static/images/social-researchgate.png";
 import is from "../../../static/images/social-is.png";
+import orcid from "../../../static/images/social-orcid.png";
+import personal from "../../../static/images/social-personal.png";
+import publons from "../../../static/images/social-publons.png";
+import scholar from "../../../static/images/social-scholar.png";
 
 const windowGlobal = typeof window !== "undefined" && window;
 const isMobile = windowGlobal.innerWidth < 1024;
@@ -39,14 +43,34 @@ const PersonBox = ({ personInfo, msg }) => {
               </P>
             )}
             <P>
-              {personInfo.researchgate && (
-                <a target="_blank" rel="noopener noreferrer" href={personInfo.researchgate}>
-                  <img src={researchgate} alt="researchgate" height="40px" />
-                </a>
-              )}
               {personInfo.is && (
                 <a target="_blank" rel="noopener noreferrer" href={personInfo.is}>
-                  <img src={is} alt="is" height="40px" />
+                  <img src={is} alt="is" height="40px" title="IS"/>
+                </a>
+              )}
+              {personInfo.orcid && (
+                <a target="_blank" rel="noopener noreferrer" href={personInfo.orcid}>
+                  <img src={orcid} alt="orcid" height="40px"  title="ORCID"/>
+                </a>
+              )}
+              {personInfo.publons && (
+                <a target="_blank" rel="noopener noreferrer" href={personInfo.publons}>
+                  <img src={publons} alt="publons" height="40px"  title="Publons"/>
+                </a>
+              )}
+              {personInfo.scholar && (
+                <a target="_blank" rel="noopener noreferrer" href={personInfo.scholar}>
+                  <img src={scholar} alt="scholar" height="40px"  title="Google scholar"/>
+                </a>
+              )}
+              {personInfo.researchgate && (
+                <a target="_blank" rel="noopener noreferrer" href={personInfo.researchgate}>
+                  <img src={researchgate} alt="researchgate" height="40px"  title="ResearchGate"/>
+                </a>
+              )}
+              {personInfo.personal && (
+                <a target="_blank" rel="noopener noreferrer" href={personInfo.personal}>
+                  <img src={personal} alt="personal" height="40px"  title="Personal website"/>
                 </a>
               )}
             </P>
@@ -134,6 +158,9 @@ const Info = styled.div`
   flex-direction: row;
   @media (max-width: ${props => props.theme.extraLargeDevice}) {
     flex-direction: column;
+  }
+  img {
+    padding-right: 0.5rem;
   }
 `;
 

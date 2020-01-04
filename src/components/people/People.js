@@ -10,7 +10,7 @@ import { Container as MenuContainer, Li } from "../../layouts/Navigation";
 
 class People extends Component {
   render() {
-    const { peopleData, msg, formerPeopleData } = this.props;
+    const { peopleData, msg, formerPeopleData, visitingScientistsData } = this.props;
     const phdStudents = peopleData.phdStudents.map(i => (
       <PersonBox personInfo={i} key={i.id} msg={msg} />
     ));
@@ -19,7 +19,13 @@ class People extends Component {
     ));
     const formerPeople = formerPeopleData.map(person => (
       <div key={person.name}>
-        <strong style={{ color: "#C0C844" }}>{person.name}</strong> - {person.email}
+        <strong style={{ color: "#C0C844" }}>{person.name}</strong> -{" "}
+        <a href={`mailto:${person.email}`}>{person.email}</a>
+      </div>
+    ));
+    const visitingScientists = visitingScientistsData.map(person => (
+      <div key={person.name}>
+        <strong style={{ color: "#C0C844" }}>{person.name}</strong>
       </div>
     ));
     return (
@@ -52,6 +58,17 @@ class People extends Component {
               {msg.people.formerPeople}
             </StyledLink>
           </Li>
+          <Li isVisible={true}>
+            <StyledLink
+              activeClass="active"
+              to="visitingScientists"
+              spy={true}
+              smooth={true}
+              duration={500}
+            >
+              {msg.people.visitingScientistsShort}
+            </StyledLink>
+          </Li>
         </MenuContainer>
 
         <Element name="employees" className="element">
@@ -71,6 +88,13 @@ class People extends Component {
         </Element>
         {formerPeople}
         <Uparrow text={msg.up} />
+
+        <Element name="visitingScientists" className="element">
+          <H2>{msg.people.visitingScientists}</H2>
+        </Element>
+        {visitingScientists}
+        <Uparrow text={msg.up} />
+
       </React.Fragment>
     );
   }
@@ -82,7 +106,7 @@ People.propTypes = {
   msg: PropTypes.object,
   studentsData: PropTypes.array,
   peopleData: PropTypes.array,
-  formerPeopleData: PropTypes.array,
+  formerPeopleData: PropTypes.array
 };
 
 const StyledLink = styled(Link)`

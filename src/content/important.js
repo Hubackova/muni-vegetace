@@ -3,7 +3,8 @@ export const en = {
   resourcesList: [
     {
       name: "European Vegetation Syntheses",
-      linkTo: "/project1"
+      linkTo: "/project1",
+      img: "main-project1"
     },
     {
       name: "Biodiversity of European cities",
@@ -36,7 +37,8 @@ export const cz = {
   resourcesList: [
     {
       name: "European Vegetation Syntheses",
-      linkTo: "/project1"
+      linkTo: "/project1",
+      img: "main-project1"
     },
     {
       name: "Biodiversity of European cities",

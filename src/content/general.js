@@ -27,12 +27,14 @@
     people: "People",
     employees: "Employees",
     phdStudents: "PhD students",
-    formerPeople: "Former group members"
+    formerPeople: "Former group members",
+    visitingScientists: "Visiting Scientists (one-month and longer stays)",
+    visitingScientistsShort: "Visiting Scientists"
   },
-  links: { 
-    media: "Media", 
-    publications: "Publications", 
-    popularization: "Popularization" 
+  links: {
+    media: "Media",
+    publications: "Publications",
+    popularization: "Popularization"
   },
   mainHeader: "Vegetation Science Group",
   muni: "Masaryk university",
@@ -71,12 +73,14 @@ export const cz = {
     people: "Lidé",
     employees: "Zaměstnanci",
     phdStudents: "PhD studenti",
-    formerPeople: "Bývalí akademičtí a výzkumní pracovníci"
+    formerPeople: "Bývalí akademičtí a výzkumní pracovníci",
+    visitingScientists: "Hostující výzkumní pracovníci (pobyt delší jednoho měsíce)",
+    visitingScientistsShort: "Hostující výzkumní pracovníci "
   },
-  links: { 
-    media: "Média", 
-    publications: "Publikace", 
-    popularization: "Popularizační články" 
+  links: {
+    media: "Média",
+    publications: "Publikace",
+    popularization: "Popularizační články"
   },
   mainHeader: "Pracovní skupina pro výzkum vegetace",
   muni: "Masarykova univerzita",
