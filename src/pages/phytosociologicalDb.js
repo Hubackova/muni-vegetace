@@ -83,6 +83,7 @@ const Container = styled.div`
   flex-direction: row;
   @media (max-width: 1256px) {
     flex-direction: column;
+    margin: 0 1em;
   }
 `;
 
@@ -103,6 +104,7 @@ const Ul = styled.ul`
 export const Li = styled.li`
   cursor: pointer;
   color: ${props => props.theme.grey};
+  white-space: "nowrap";
   &:hover {
     color: ${props => props.theme.main};
   }

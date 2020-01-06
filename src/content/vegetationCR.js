@@ -8,24 +8,32 @@ export const en = {
   title: "Vegetation of the Czech Republic",
   introduction: (
     <div>
-      <div>
-       Vegetation of the Czech Republic is a four-volume monograph which systematically summarizes the diversity of vegetation types on the territory of the Czech Republic. 
-	   Czech vegetation is divided into 39 phytosociological classes, which are further divided into 138 alliances and 496 associations. 
-	   Each of these vegetation units is characterized by a detailed description of its floristic composition, ecology, dynamics, distribution and economic or conservation value, 
-	   including distribution maps and synoptic tables of species composition. Associations were delimited by formal definitions and tested using a set of approximately 100,000 vegetation plots 
-	   contained in the Czech National Phytosociological Database. National vegetation classification is accompanied by a computer expert system for identification of associations. 
-	   The monograph was elaborated by a team of botanists from the Department of Botany and Zoology, Masaryk University in cooperation with experts from the Institute of Botany, 
-	   Academy of Sciences of the Czech Republic, and other institutions. The project was funded by the Czech Science Foundation (grants 206/02/0957, 206/05/0200, 206/06/0659 and 206/09/0329) 
-	   and Ministry of Education, Youth and Sports of the Czech Republic (long-term research plan MSM0021622416). 
-	   The project received an Award of the Chairman of the Czech Science Foundation in 2012. 
-	   The content of descriptions of vegetation units from the printed version of Vegetation of the Czech Republic was also made available in the <a href="https://pladias.cz/en/vegetation/">Pladias database</a>. 
-	   </div>
+      <p>
+        Vegetation of the Czech Republic is a four-volume monograph which systematically summarizes
+        the diversity of vegetation types on the territory of the Czech Republic. Czech vegetation
+        is divided into 39 phytosociological classes, which are further divided into 138 alliances
+        and 496 associations. Each of these vegetation units is characterized by a detailed
+        description of its floristic composition, ecology, dynamics, distribution and economic or
+        conservation value, including distribution maps and synoptic tables of species composition.
+        Associations were delimited by formal definitions and tested using a set of approximately
+        100,000 vegetation plots contained in the Czech National Phytosociological Database.
+        National vegetation classification is accompanied by a computer expert system for
+        identification of associations. The monograph was elaborated by a team of botanists from the
+        Department of Botany and Zoology, Masaryk University in cooperation with experts from the
+        Institute of Botany, Academy of Sciences of the Czech Republic, and other institutions. The
+        project was funded by the Czech Science Foundation (grants 206/02/0957, 206/05/0200,
+        206/06/0659 and 206/09/0329) and Ministry of Education, Youth and Sports of the Czech
+        Republic (long-term research plan MSM0021622416). The project received an Award of the
+        Chairman of the Czech Science Foundation in 2012. The content of descriptions of vegetation
+        units from the printed version of Vegetation of the Czech Republic was also made available
+        in the <a href="https://pladias.cz/en/vegetation/">Pladias database</a>.
+      </p>
 
-      <div>
+      <p>
         <b>Editor:</b> Milan Chytrý
-      </div>
+      </p>
 
-      <div>
+      <p>
         <b>Authors:</b> Petr Bauer, Denisa Blažková, Karel Boublík, Tomáš Černý, Martina
         Čtvrtlíková, Jan Douda, Libor Ekrt, Ester Ekrtová, Michal Hájek, Petra Hájková, Petra
         Hanáková, Handrij Härtel, Radim Hédl, Aleš Hoffmann, Richard Hrivnák, Zdenka Hroudová, Milan
@@ -33,13 +41,13 @@ export const en = {
         (Simonová), Zdeňka Lososová, Jana Navrátilová, Zdenka Neuhäuslová, Jan Novák, Zdenka
         Otýpková, Helena Oťaheľová, Petr Petřík, Jan Roleček, Jaroslav Rydlo, Marcela Řezníčková,
         Jiří Sádlo, Kateřina Šumberová, Michaela Vítková and David Zelený
-      </div>
+      </p>
 
-      <div>
+      <p>
         <b>Technical support:</b> Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová,
-        Štěpánka Králová, Klára Komprdová (Kubošová), Dana Holubová (Michalcová), Jiří Rozehnal, Lubomír Tichý, Václav
-        Zouhar and Kristýna Žáková
-      </div>
+        Štěpánka Králová, Klára Komprdová (Kubošová), Dana Holubová (Michalcová), Jiří Rozehnal,
+        Lubomír Tichý, Václav Zouhar and Kristýna Žáková
+      </p>
     </div>
   ),
   books: [
@@ -62,17 +70,83 @@ export const en = {
       review: (
         <div>
           <b>Reviews:</b>
-          <li>Iva Apostolova in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Apostolova2008_Phytol-Balc.pdf">Phytologia Balcanica</a> 14: 149 (2008) </li>
-          <li>Adolf Češka in <a href="http://www.ou.edu/cas/botany-micro/ben/ben394.html">Botanical Electronic News</a> 394 (2008) </li>
-          <li>Jürgen Dengler in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dengler2007_Kieler-Not-Pflanzenk.pdf">Kieler Notizen zur Pflanzenkunde</a> 35: 121–122 (2007) </li>
-          <li>Hartmut Dierschke in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dierschke2008_Tuexenia.pdf">Tuexenia</a> 28: 279–293 (2008) </li>
-          <li>Valentin B. Golub & L. F. Nikolaychuk in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Golub2009_Rast-Rossii.pdf">Rastitelnost Rossii</a> 12: 152–155 (2008) </li>
-          <li>Radim Hédl in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Hedl2007_Ziva.pdf">Živa</a> 2007(6): LXXXVIII (2007) </li>
-          <li>Barbara Juskiewicz-Swaczyna in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Juskiewicz2009_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 3: 28 (2009)</li>
-          <li>Anna A. Kuzemko in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">Ukrainskii Botanichnii Zhurnal</a> 66: 307–314 (2009) </li>
-          <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
-          <li>Milan Valachovič in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Valachovic2007_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 42: 358–360 (2007) </li>
-          <li>Wofgang Willner in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Willner2008_Neilreichia.pdf">Neilreichia</a> 5: 339–341 (2008) </li>
+          <li>
+            Iva Apostolova in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Apostolova2008_Phytol-Balc.pdf">
+              Phytologia Balcanica
+            </a>{" "}
+            14: 149 (2008){" "}
+          </li>
+          <li>
+            Adolf Češka in{" "}
+            <a href="http://www.ou.edu/cas/botany-micro/ben/ben394.html">
+              Botanical Electronic News
+            </a>{" "}
+            394 (2008){" "}
+          </li>
+          <li>
+            Jürgen Dengler in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dengler2007_Kieler-Not-Pflanzenk.pdf">
+              Kieler Notizen zur Pflanzenkunde
+            </a>{" "}
+            35: 121–122 (2007){" "}
+          </li>
+          <li>
+            Hartmut Dierschke in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dierschke2008_Tuexenia.pdf">
+              Tuexenia
+            </a>{" "}
+            28: 279–293 (2008){" "}
+          </li>
+          <li>
+            Valentin B. Golub & L. F. Nikolaychuk in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Golub2009_Rast-Rossii.pdf">
+              Rastitelnost Rossii
+            </a>{" "}
+            12: 152–155 (2008){" "}
+          </li>
+          <li>
+            Radim Hédl in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Hedl2007_Ziva.pdf">
+              Živa
+            </a>{" "}
+            2007(6): LXXXVIII (2007){" "}
+          </li>
+          <li>
+            Barbara Juskiewicz-Swaczyna in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Juskiewicz2009_Bull-EDGG.pdf">
+              Bulletin of the European Dry Grassland Group
+            </a>{" "}
+            3: 28 (2009)
+          </li>
+          <li>
+            Anna A. Kuzemko in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">
+              Ukrainskii Botanichnii Zhurnal
+            </a>{" "}
+            66: 307–314 (2009){" "}
+          </li>
+          <li>
+            Detlef Mahn in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">
+              Botanik und Naturschutz in Hessen
+            </a>{" "}
+            24: 135–143 (2012){" "}
+          </li>
+          <li>
+            Milan Valachovič in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Valachovic2007_Zpr-CBS.pdf">
+              Zprávy České botanické společnosti
+            </a>{" "}
+            42: 358–360 (2007){" "}
+          </li>
+          <li>
+            Wofgang Willner in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Willner2008_Neilreichia.pdf">
+              Neilreichia
+            </a>{" "}
+            5: 339–341 (2008){" "}
+          </li>
         </div>
       )
     },
@@ -95,16 +169,62 @@ export const en = {
       review: (
         <div>
           <b>Reviews:</b>
-          <li>Iva Apostolova in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Apostolova2010_Phytol-Balc.pdf">Phytologia Balcanica</a> 16: 169–170 (2010)</li>
-          <li>Valentin B. Golub, Aleksei N. Sorokin & L. F. Nikolaychuk in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Golub2010_Rast-Rossii.pdf">Rastitelnost Rossii</a> 16:73–76 (2010)</li>
-          <li>Jürgen Dengler in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2-3_Dengler2011_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 13: 28–29 (2011) </li>
-          <li>Radim Hédl in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Hedl2010_Ziva.pdf">Živa</a> 2007(4): LIX-LX (2010) </li>
           <li>
-            Richard Hrivnák in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Hrivnak2010_Bull-SBS.pdf">Bulletin Slovenskej botanickej spoločnosti</a> 32: 136, 146 (2010)
+            Iva Apostolova in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Apostolova2010_Phytol-Balc.pdf">
+              Phytologia Balcanica
+            </a>{" "}
+            16: 169–170 (2010)
           </li>
-          <li>Ján Kliment & Ivan Jarolímek in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Kliment-Jarolimek2012_Folia-Geobot.pdf">Folia Geobotanica</a> 47: 105–115 (2012) </li>
-          <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
-          <li>Milan Valachovič in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Valachovic2010_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 45: 133-134 (2010) </li>
+          <li>
+            Valentin B. Golub, Aleksei N. Sorokin & L. F. Nikolaychuk in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Golub2010_Rast-Rossii.pdf">
+              Rastitelnost Rossii
+            </a>{" "}
+            16:73–76 (2010)
+          </li>
+          <li>
+            Jürgen Dengler in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2-3_Dengler2011_Bull-EDGG.pdf">
+              Bulletin of the European Dry Grassland Group
+            </a>{" "}
+            13: 28–29 (2011){" "}
+          </li>
+          <li>
+            Radim Hédl in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Hedl2010_Ziva.pdf">
+              Živa
+            </a>{" "}
+            2007(4): LIX-LX (2010){" "}
+          </li>
+          <li>
+            Richard Hrivnák in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Hrivnak2010_Bull-SBS.pdf">
+              Bulletin Slovenskej botanickej spoločnosti
+            </a>{" "}
+            32: 136, 146 (2010)
+          </li>
+          <li>
+            Ján Kliment & Ivan Jarolímek in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Kliment-Jarolimek2012_Folia-Geobot.pdf">
+              Folia Geobotanica
+            </a>{" "}
+            47: 105–115 (2012){" "}
+          </li>
+          <li>
+            Detlef Mahn in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">
+              Botanik und Naturschutz in Hessen
+            </a>{" "}
+            24: 135–143 (2012){" "}
+          </li>
+          <li>
+            Milan Valachovič in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Valachovic2010_Zpr-CBS.pdf">
+              Zprávy České botanické společnosti
+            </a>{" "}
+            45: 133-134 (2010){" "}
+          </li>
         </div>
       )
     },
@@ -127,19 +247,97 @@ export const en = {
       review: (
         <div>
           <b>Reviews:</b>
-          <li>Anonymous in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Anonymus2012_Ziva.pdf">Živa</a> 2012: 24 (2012) </li>
-          <li>János Csiky in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Csiky2013_Kitaibelia.pdf">Kitaibelia</a> 18: 187–196 (2013) </li>
-          <li>Adolf Češka in <a href="http://www.ou.edu/cas/botany-micro/ben/ben449.html">Botanical Electronic News</a> 449 (2012) </li>
-          <li>Hartmut Dierschke in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Dierschke2012_Tuexenia.pdf">Tuexenia</a> 32: 372 (2012) </li>
-          <li>Jürgen Dengler in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2-3_Dengler2011_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 13: 28–29 (2011) </li>
-          <li>Daniel Dítě in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Dite2012_Bryonora.pdf">Bryonora</a> 48: 68–70 (2012) </li>
-          <li>Valentin B. Golub, Aleksei N. Sorokin & L. F. Nikolaychuk in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Golub2012_Rast-Rossii.pdf">Rastitelnost Rossii</a> 20: 139–142 (2012)</li>
-          <li>Ján Kliment in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Kliment2011_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 46: 394–396 (2011) </li>
-          <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
-          <li>Jan Pergl in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Pergl2014_Folia-Geobot_DOI.pdf">Folia Geobotanica</a> 49 (2014) </li>
-          <li>Joop Schaminée in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Schaminee2012_Preslia.pdf">Preslia</a> 84: 325–326 (2012) </li>
-          <li>Jozef Šibík in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Sibik2012_Bull-SBS.pdf">Bulletin Slovenskej botanickej spoločnosti </a> 34: 124–126 (2012) </li>
-          <li>Rossen Tzonev in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Tzonev2012_Phytol-Balc.pdf">Phytologia Balcanica</a> 17: 385–386 (2011) </li>
+          <li>
+            Anonymous in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Anonymus2012_Ziva.pdf">
+              Živa
+            </a>{" "}
+            2012: 24 (2012){" "}
+          </li>
+          <li>
+            János Csiky in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Csiky2013_Kitaibelia.pdf">
+              Kitaibelia
+            </a>{" "}
+            18: 187–196 (2013){" "}
+          </li>
+          <li>
+            Adolf Češka in{" "}
+            <a href="http://www.ou.edu/cas/botany-micro/ben/ben449.html">
+              Botanical Electronic News
+            </a>{" "}
+            449 (2012){" "}
+          </li>
+          <li>
+            Hartmut Dierschke in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Dierschke2012_Tuexenia.pdf">
+              Tuexenia
+            </a>{" "}
+            32: 372 (2012){" "}
+          </li>
+          <li>
+            Jürgen Dengler in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2-3_Dengler2011_Bull-EDGG.pdf">
+              Bulletin of the European Dry Grassland Group
+            </a>{" "}
+            13: 28–29 (2011){" "}
+          </li>
+          <li>
+            Daniel Dítě in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Dite2012_Bryonora.pdf">
+              Bryonora
+            </a>{" "}
+            48: 68–70 (2012){" "}
+          </li>
+          <li>
+            Valentin B. Golub, Aleksei N. Sorokin & L. F. Nikolaychuk in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Golub2012_Rast-Rossii.pdf">
+              Rastitelnost Rossii
+            </a>{" "}
+            20: 139–142 (2012)
+          </li>
+          <li>
+            Ján Kliment in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Kliment2011_Zpr-CBS.pdf">
+              Zprávy České botanické společnosti
+            </a>{" "}
+            46: 394–396 (2011){" "}
+          </li>
+          <li>
+            Detlef Mahn in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">
+              Botanik und Naturschutz in Hessen
+            </a>{" "}
+            24: 135–143 (2012){" "}
+          </li>
+          <li>
+            Jan Pergl in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Pergl2014_Folia-Geobot_DOI.pdf">
+              Folia Geobotanica
+            </a>{" "}
+            49 (2014){" "}
+          </li>
+          <li>
+            Joop Schaminée in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Schaminee2012_Preslia.pdf">
+              Preslia
+            </a>{" "}
+            84: 325–326 (2012){" "}
+          </li>
+          <li>
+            Jozef Šibík in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Sibik2012_Bull-SBS.pdf">
+              Bulletin Slovenskej botanickej spoločnosti{" "}
+            </a>{" "}
+            34: 124–126 (2012){" "}
+          </li>
+          <li>
+            Rossen Tzonev in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Tzonev2012_Phytol-Balc.pdf">
+              Phytologia Balcanica
+            </a>{" "}
+            17: 385–386 (2011){" "}
+          </li>
         </div>
       )
     },
@@ -162,9 +360,27 @@ export const en = {
       review: (
         <div>
           <b>Reviews:</b>
-          <li>Hartmut Dierschke in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Dierschke2014_Tuexenia.pdf">Tuexenia</a> 34: 491–499 (2014) </li>
-          <li>Valentin B. Golub in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Golub2014_Rost-Rossii.pdf">Rastitelnost Rossii</a> 24: 154–160 (2014)</li>
-          <li>Jaroslav Vojta in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Vojta2015_Ziva.pdf">Živa</a> 2015: XV (2015)</li>
+          <li>
+            Hartmut Dierschke in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Dierschke2014_Tuexenia.pdf">
+              Tuexenia
+            </a>{" "}
+            34: 491–499 (2014){" "}
+          </li>
+          <li>
+            Valentin B. Golub in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Golub2014_Rost-Rossii.pdf">
+              Rastitelnost Rossii
+            </a>{" "}
+            24: 154–160 (2014)
+          </li>
+          <li>
+            Jaroslav Vojta in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Vojta2015_Ziva.pdf">
+              Živa
+            </a>{" "}
+            2015: XV (2015)
+          </li>
         </div>
       )
     }
@@ -175,7 +391,7 @@ export const cz = {
   title: "Vegetace České republiky",
   introduction: (
     <div>
-      <div>
+      <p>
         Vegetace České republiky je čtyřdílná monografie, která systematicky shrnuje diverzitu
         vegetačních typů na území České republiky. Česká vegetace je členěna do 39 fytocenologických
         tříd, které se dále dělí na 138 svazů a 496 asociací. Pro každou z těchto vegetačních
@@ -188,14 +404,14 @@ export const cz = {
         spolupráci s odborníky z Botanického ústavu AV ČR a dalších institucí. Projekt byl
         financován Grantovou agenturou České republiky (projekty 206/02/0957, 206/05/0200,
         206/06/0659 a 206/09/0329) a Ministerstvem školství, mládeže a tělovýchovy (výzkumný záměr
-        MŠM0021622416). Projektu byla udělena Cena předsedy Grantové agentury ČR za rok 2012. 
-		Obsah popisů vegetačních jednotek z tištěné verze Vegetace České republiky byl zpřístupněn také v databázi <a href="https://pladias.cz/vegetation/">Pladias</a>.
-
-      </div>
-      <div>
+        MŠM0021622416). Projektu byla udělena Cena předsedy Grantové agentury ČR za rok 2012. Obsah
+        popisů vegetačních jednotek z tištěné verze Vegetace České republiky byl zpřístupněn také v
+        databázi <a href="https://pladias.cz/vegetation/">Pladias</a>.
+      </p>
+      <p>
         <b>Editor:</b> Milan Chytrý
-      </div>
-      <div>
+      </p>
+      <p>
         <b>Autoři textů:</b> Petr Bauer, Denisa Blažková, Karel Boublík, Tomáš Černý, Martina
         Čtvrtlíková, Jan Douda, Libor Ekrt, Ester Ekrtová, Michal Hájek, Petra Hájková, Petra
         Hanáková, Handrij Härtel, Radim Hédl, Aleš Hoffmann, Richard Hrivnák, Zdenka Hroudová, Milan
@@ -203,12 +419,12 @@ export const cz = {
         (Simonová), Zdeňka Lososová, Jana Navrátilová, Zdenka Neuhäuslová, Jan Novák, Zdenka
         Otýpková, Helena Oťaheľová, Petr Petřík, Jan Roleček, Jaroslav Rydlo, Marcela Řezníčková,
         Jiří Sádlo, Kateřina Šumberová, Michaela Vítková a David Zelený
-      </div>
-      <div>
+      </p>
+      <p>
         <b>Technická spolupráce:</b> Jiří Danihelka, Ondřej Hájek, Katrin Karimová, Ilona Knollová,
-        Štěpánka Králová, Klára Komprdová (Kubošová), Dana Holubová (Michalcová), Jiří Rozehnal, Lubomír Tichý, Václav
-        Zouhar a Kristýna Žáková
-      </div>
+        Štěpánka Králová, Klára Komprdová (Kubošová), Dana Holubová (Michalcová), Jiří Rozehnal,
+        Lubomír Tichý, Václav Zouhar a Kristýna Žáková
+      </p>
     </div>
   ),
   books: [
@@ -231,19 +447,83 @@ export const cz = {
       review: (
         <div>
           <b>Recenze:</b>
-          <li>Iva Apostolova in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Apostolova2008_Phytol-Balc.pdf">Phytologia Balcanica</a> 14: 149 (2008) </li>
-          <li>Adolf Češka in <a href="http://www.ou.edu/cas/botany-micro/ben/ben394.html">Botanical Electronic News</a> 394 (2008) </li>
-          <li>Jürgen Dengler in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dengler2007_Kieler-Not-Pflanzenk.pdf">Kieler Notizen zur Pflanzenkunde</a> 35: 121–122 (2007) </li>
-          <li>Hartmut Dierschke in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dierschke2008_Tuexenia.pdf">Tuexenia</a> 28: 279–293 (2008) </li>
-          <li>Valentin B. Golub & L. F. Nikolaychuk in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Golub2009_Rast-Rossii.pdf">Rastitelnost Rossii</a> 12: 152–155 (2008) </li>
-          <li>Radim Hédl in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Hedl2007_Ziva.pdf">Živa</a> 2007(6): LXXXVIII (2007) </li>
           <li>
-            Barbara Juskiewicz-Swaczyna in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Juskiewicz2009_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 3: 28 (2009)
+            Iva Apostolova in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Apostolova2008_Phytol-Balc.pdf">
+              Phytologia Balcanica
+            </a>{" "}
+            14: 149 (2008){" "}
           </li>
-          <li>Anna A. Kuzemko in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">Ukrainskii Botanichnii Zhurnal</a> 66: 307–314 (2009) </li>
-          <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
-          <li>Milan Valachovič in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Valachovic2007_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 42: 358–360 (2007) </li>
-          <li>Wofgang Willner in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Willner2008_Neilreichia.pdf">Neilreichia</a> 5: 339–341 (2008) </li>
+          <li>
+            Adolf Češka in{" "}
+            <a href="http://www.ou.edu/cas/botany-micro/ben/ben394.html">
+              Botanical Electronic News
+            </a>{" "}
+            394 (2008){" "}
+          </li>
+          <li>
+            Jürgen Dengler in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dengler2007_Kieler-Not-Pflanzenk.pdf">
+              Kieler Notizen zur Pflanzenkunde
+            </a>{" "}
+            35: 121–122 (2007){" "}
+          </li>
+          <li>
+            Hartmut Dierschke in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Dierschke2008_Tuexenia.pdf">
+              Tuexenia
+            </a>{" "}
+            28: 279–293 (2008){" "}
+          </li>
+          <li>
+            Valentin B. Golub & L. F. Nikolaychuk in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Golub2009_Rast-Rossii.pdf">
+              Rastitelnost Rossii
+            </a>{" "}
+            12: 152–155 (2008){" "}
+          </li>
+          <li>
+            Radim Hédl in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Hedl2007_Ziva.pdf">
+              Živa
+            </a>{" "}
+            2007(6): LXXXVIII (2007){" "}
+          </li>
+          <li>
+            Barbara Juskiewicz-Swaczyna in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Juskiewicz2009_Bull-EDGG.pdf">
+              Bulletin of the European Dry Grassland Group
+            </a>{" "}
+            3: 28 (2009)
+          </li>
+          <li>
+            Anna A. Kuzemko in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Kuzemko2009_Ukr-Bot-J.pdf">
+              Ukrainskii Botanichnii Zhurnal
+            </a>{" "}
+            66: 307–314 (2009){" "}
+          </li>
+          <li>
+            Detlef Mahn in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">
+              Botanik und Naturschutz in Hessen
+            </a>{" "}
+            24: 135–143 (2012){" "}
+          </li>
+          <li>
+            Milan Valachovič in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Valachovic2007_Zpr-CBS.pdf">
+              Zprávy České botanické společnosti
+            </a>{" "}
+            42: 358–360 (2007){" "}
+          </li>
+          <li>
+            Wofgang Willner in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Willner2008_Neilreichia.pdf">
+              Neilreichia
+            </a>{" "}
+            5: 339–341 (2008){" "}
+          </li>
         </div>
       )
     },
@@ -266,16 +546,62 @@ export const cz = {
       review: (
         <div>
           <b>Recenze:</b>
-          <li>Iva Apostolova in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Apostolova2010_Phytol-Balc.pdf">Phytologia Balcanica</a> 16: 169–170 (2010)</li>
-           <li>Valentin B. Golub, Aleksei N. Sorokin & L. F. Nikolaychuk in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Golub2010_Rast-Rossii.pdf">Rastitelnost Rossii</a> 16:73–76 (2010)</li>
-          <li>Jürgen Dengler in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2-3_Dengler2011_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 13: 28–29 (2011) </li>
-          <li>Radim Hédl in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Hedl2010_Ziva.pdf">Živa</a> 2007(4): LIX-LX (2010) </li>
           <li>
-            Richard Hrivnák in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Hrivnak2010_Bull-SBS.pdf">Bulletin Slovenskej botanickej spoločnosti</a> 32: 136, 146 (2010)
+            Iva Apostolova in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Apostolova2010_Phytol-Balc.pdf">
+              Phytologia Balcanica
+            </a>{" "}
+            16: 169–170 (2010)
           </li>
-          <li>Ján Kliment & Ivan Jarolímek in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Kliment-Jarolimek2012_Folia-Geobot.pdf">Folia Geobotanica</a> 47: 105–115 (2012) </li>
-          <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
-          <li>Milan Valachovič in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Valachovic2010_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 45: 133-134 (2010) </li>
+          <li>
+            Valentin B. Golub, Aleksei N. Sorokin & L. F. Nikolaychuk in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Golub2010_Rast-Rossii.pdf">
+              Rastitelnost Rossii
+            </a>{" "}
+            16:73–76 (2010)
+          </li>
+          <li>
+            Jürgen Dengler in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2-3_Dengler2011_Bull-EDGG.pdf">
+              Bulletin of the European Dry Grassland Group
+            </a>{" "}
+            13: 28–29 (2011){" "}
+          </li>
+          <li>
+            Radim Hédl in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Hedl2010_Ziva.pdf">
+              Živa
+            </a>{" "}
+            2007(4): LIX-LX (2010){" "}
+          </li>
+          <li>
+            Richard Hrivnák in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Hrivnak2010_Bull-SBS.pdf">
+              Bulletin Slovenskej botanickej spoločnosti
+            </a>{" "}
+            32: 136, 146 (2010)
+          </li>
+          <li>
+            Ján Kliment & Ivan Jarolímek in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Kliment-Jarolimek2012_Folia-Geobot.pdf">
+              Folia Geobotanica
+            </a>{" "}
+            47: 105–115 (2012){" "}
+          </li>
+          <li>
+            Detlef Mahn in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">
+              Botanik und Naturschutz in Hessen
+            </a>{" "}
+            24: 135–143 (2012){" "}
+          </li>
+          <li>
+            Milan Valachovič in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Valachovic2010_Zpr-CBS.pdf">
+              Zprávy České botanické společnosti
+            </a>{" "}
+            45: 133-134 (2010){" "}
+          </li>
         </div>
       )
     },
@@ -298,19 +624,97 @@ export const cz = {
       review: (
         <div>
           <b>Recenze:</b>
-          <li>Anonymous in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Anonymus2012_Ziva.pdf">Živa</a> 2012: 24 (2012) </li>
-          <li>János Csiky in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Csiky2013_Kitaibelia.pdf">Kitaibelia</a> 18: 187–196 (2013) </li>
-          <li>Adolf Češka in <a href="http://www.ou.edu/cas/botany-micro/ben/ben449.html">Botanical Electronic News</a> 449 (2012) </li>
-          <li>Hartmut Dierschke in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Dierschke2012_Tuexenia.pdf">Tuexenia</a> 32: 372 (2012) </li>
-          <li>Jürgen Dengler in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2-3_Dengler2011_Bull-EDGG.pdf">Bulletin of the European Dry Grassland Group</a> 13: 28–29 (2011) </li>
-          <li>Daniel Dítě in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Dite2012_Bryonora.pdf">Bryonora</a> 48: 68–70 (2012) </li>
-          <li>Valentin B. Golub, Aleksei N. Sorokin & L. F. Nikolaychuk in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Golub2012_Rast-Rossii.pdf">Rastitelnost Rossii</a> 20: 139–142 (2012)</li>
-          <li>Ján Kliment in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Kliment2011_Zpr-CBS.pdf">Zprávy České botanické společnosti</a> 46: 394–396 (2011) </li>
-          <li>Detlef Mahn in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">Botanik und Naturschutz in Hessen</a> 24: 135–143 (2012) </li>
-          <li>Jan Pergl in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Pergl2014_Folia-Geobot_DOI.pdf">Folia Geobotanica</a> 49 (2014) </li>
-          <li>Joop Schaminée in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Schaminee2012_Preslia.pdf">Preslia</a> 84: 325–326 (2012) </li>
-          <li>Jozef Šibík in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Sibik2012_Bull-SBS.pdf">Bulletin Slovenskej botanickej spoločnosti </a> 34: 124–126 (2012) </li>
-          <li>Rossen Tzonev in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Tzonev2012_Phytol-Balc.pdf">Phytologia Balcanica</a> 17: 385–386 (2011) </li>
+          <li>
+            Anonymous in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Anonymus2012_Ziva.pdf">
+              Živa
+            </a>{" "}
+            2012: 24 (2012){" "}
+          </li>
+          <li>
+            János Csiky in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Csiky2013_Kitaibelia.pdf">
+              Kitaibelia
+            </a>{" "}
+            18: 187–196 (2013){" "}
+          </li>
+          <li>
+            Adolf Češka in{" "}
+            <a href="http://www.ou.edu/cas/botany-micro/ben/ben449.html">
+              Botanical Electronic News
+            </a>{" "}
+            449 (2012){" "}
+          </li>
+          <li>
+            Hartmut Dierschke in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Dierschke2012_Tuexenia.pdf">
+              Tuexenia
+            </a>{" "}
+            32: 372 (2012){" "}
+          </li>
+          <li>
+            Jürgen Dengler in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2-3_Dengler2011_Bull-EDGG.pdf">
+              Bulletin of the European Dry Grassland Group
+            </a>{" "}
+            13: 28–29 (2011){" "}
+          </li>
+          <li>
+            Daniel Dítě in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Dite2012_Bryonora.pdf">
+              Bryonora
+            </a>{" "}
+            48: 68–70 (2012){" "}
+          </li>
+          <li>
+            Valentin B. Golub, Aleksei N. Sorokin & L. F. Nikolaychuk in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Golub2012_Rast-Rossii.pdf">
+              Rastitelnost Rossii
+            </a>{" "}
+            20: 139–142 (2012)
+          </li>
+          <li>
+            Ján Kliment in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Kliment2011_Zpr-CBS.pdf">
+              Zprávy České botanické společnosti
+            </a>{" "}
+            46: 394–396 (2011){" "}
+          </li>
+          <li>
+            Detlef Mahn in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1-2-3_Mahn2012_Bot-Natursch-Hessen.pdf">
+              Botanik und Naturschutz in Hessen
+            </a>{" "}
+            24: 135–143 (2012){" "}
+          </li>
+          <li>
+            Jan Pergl in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Pergl2014_Folia-Geobot_DOI.pdf">
+              Folia Geobotanica
+            </a>{" "}
+            49 (2014){" "}
+          </li>
+          <li>
+            Joop Schaminée in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Schaminee2012_Preslia.pdf">
+              Preslia
+            </a>{" "}
+            84: 325–326 (2012){" "}
+          </li>
+          <li>
+            Jozef Šibík in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Sibik2012_Bull-SBS.pdf">
+              Bulletin Slovenskej botanickej spoločnosti{" "}
+            </a>{" "}
+            34: 124–126 (2012){" "}
+          </li>
+          <li>
+            Rossen Tzonev in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Tzonev2012_Phytol-Balc.pdf">
+              Phytologia Balcanica
+            </a>{" "}
+            17: 385–386 (2011){" "}
+          </li>
         </div>
       )
     },
@@ -333,9 +737,27 @@ export const cz = {
       review: (
         <div>
           <b>Recenze:</b>
-          <li>Hartmut Dierschke in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Dierschke2014_Tuexenia.pdf">Tuexenia</a> 34: 491–499 (2014) </li>
-          <li>Valentin B. Golub in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Golub2014_Rost-Rossii.pdf">Rastitelnost Rossii</a> 24: 154–160 (2014)</li>
-          <li>Jaroslav Vojta in <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Vojta2015_Ziva.pdf">Živa</a> 2015: XV (2015)</li>
+          <li>
+            Hartmut Dierschke in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Dierschke2014_Tuexenia.pdf">
+              Tuexenia
+            </a>{" "}
+            34: 491–499 (2014){" "}
+          </li>
+          <li>
+            Valentin B. Golub in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Golub2014_Rost-Rossii.pdf">
+              Rastitelnost Rossii
+            </a>{" "}
+            24: 154–160 (2014)
+          </li>
+          <li>
+            Jaroslav Vojta in{" "}
+            <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Vojta2015_Ziva.pdf">
+              Živa
+            </a>{" "}
+            2015: XV (2015)
+          </li>
         </div>
       )
     }

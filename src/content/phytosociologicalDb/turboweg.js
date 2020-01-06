@@ -1,5 +1,23 @@
 import React from "react";
 import { MailEmoji } from "../../components/atoms/Emoji";
+import { graphql, StaticQuery } from "gatsby";
+
+const DbDate = ({ type }) => (
+  <StaticQuery
+    query={graphql`
+      query {
+        dbData {
+          dbData
+        }
+      }
+    `}
+    render={data => {
+      if (!data && !data.dbData) return <span></span>;
+      const dates = JSON.parse(data.dbData.dbData);
+      return <span>({type === "speciesDate" ? dates.speciesDate : dates.dbaseDate})</span>;
+    }}
+  />
+);
 
 export const en = {
   menu: [
@@ -68,8 +86,7 @@ export const en = {
             >
               species.zip
             </a>{" "}
-            (19. 10. 2018)
-            {/* TODO: – datum se doplňuje samo po aktualizaci souboru na server, bylo by dobré to zachovat */}
+            <DbDate type="speciesDate" />
           </div>
           <div>
             Aktuální verze společných databází, tzv. popup lists:{" "}
@@ -80,8 +97,7 @@ export const en = {
             >
               popup.zip
             </a>{" "}
-            (17. 05. 2019)
-            {/* TODO: – datum se doplňuje samo po aktualizaci souboru na server, bylo by dobré to zachovat */}
+            <DbDate />
           </div>
         </p>
 

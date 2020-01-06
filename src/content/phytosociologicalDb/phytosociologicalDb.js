@@ -1,12 +1,9 @@
 /* eslint-disable no-irregular-whitespace */
 import React from "react";
 import { MailEmoji } from "../../components/atoms/Emoji";
-import cnfdMap from "../../../static/images/cnfd_map.png";
-import BarChart from "../../components/charts/BarChart";
-import Img from "gatsby-image";
-import { graphql } from "gatsby";
-// import CnfdMap from "./CnfdMap"
 
+import BarChart from "../../components/charts/BarChart";
+import CnfdMap from "./CnfdMap";
 
 import {
   samplesData,
@@ -127,13 +124,8 @@ export const en = {
       </p>
       Obr1. Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
       fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat)
-      <img
-        width={"70%"}
-        src={cnfdMap}
-        alt="Rozmístění fytocenologických snímků do čtverců v České republice
-      podle České národní fytocenologické databáze"
-      />
-      {/* <CnfdMap /> */}
+      <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
+      podle České národní fytocenologické databáze"/>
       <p>
         Obr. 2 <br />
         <BarChart
@@ -290,7 +282,7 @@ export const en = {
         Dovolujeme si poděkovat všem, kteří dosud přispěli k tvorbě České národní fytocenologické
         databáze:
       </div>
-      <ul>
+      <ul className="phytoSocDb-thanksList">
         <li>Irena Axmanová</li>
         <li>Lucie Benediktová</li>
         <li>Denisa Blažková</li>
@@ -567,11 +559,11 @@ export const cz = {
   dbState: (
     <div>
       <p>
-        Databáze obsahuje 113 568 (červenec 2019) z celého území České republiky (obr. 1) zapsané od roku 1922 (obr. 2, dole) více než 1000
-        botaniky. Největší počet snímků byl zaznamenán ve vegetaci listnatých lesů (Querco-Fagetea),
-        luk a pastvin (Molinio-Arrhenatheretea) nebo vysokých ostřic (Phragmito-Magno-Caricetea;
-        obr. 2, nahoře). Fytocenologická bibliografie s vyznačením publikací excerpovaných v
-        centrální databázi je k dispozici{" "}
+        Databáze obsahuje 113 568 (červenec 2019) z celého území České republiky (obr. 1) zapsané od
+        roku 1922 (obr. 2, dole) více než 1000 botaniky. Největší počet snímků byl zaznamenán ve
+        vegetaci listnatých lesů (Querco-Fagetea), luk a pastvin (Molinio-Arrhenatheretea) nebo
+        vysokých ostřic (Phragmito-Magno-Caricetea; obr. 2, nahoře). Fytocenologická bibliografie s
+        vyznačením publikací excerpovaných v centrální databázi je k dispozici{" "}
         <a target="_blanc" href="http://www.sci.muni.cz/botany/tvref/">
           zde
         </a>
@@ -579,12 +571,8 @@ export const cz = {
       </p>
       Obr1. Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
       fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat)
-      <img
-        width={"70%"}
-        src={cnfdMap}
-        alt="Rozmístění fytocenologických snímků do čtverců v České republice
-      podle České národní fytocenologické databáze"
-      />
+      <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
+      podle České národní fytocenologické databáze"/>
       <p>
         Obr. 2 <br />
         <BarChart
@@ -740,7 +728,7 @@ export const cz = {
         Dovolujeme si poděkovat všem, kteří dosud přispěli k tvorbě České národní fytocenologické
         databáze:
       </div>
-      <ul>
+      <ul className="phytoSocDb-thanksList">
         <li>Irena Axmanová</li>
         <li>Lucie Benediktová</li>
         <li>Denisa Blažková</li>
