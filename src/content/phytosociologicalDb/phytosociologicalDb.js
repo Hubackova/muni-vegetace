@@ -40,9 +40,7 @@ export const en = {
         <a target="_blanc" href="https://botanospol.cz/cs/zpravy-cbs">
           Zprávy České botanické společnosti
         </a>{" "}
-        slouží Česká národní fytocenologická databáze k archivaci fytocenologických snímků
-        vztahujících se k publikovaným článkům. Fytocenologické snímky z České národní
-        fytocenologické databáze jsou součástí EVA (
+        slouží ČNFD k archivaci fytocenologických snímků vztahujících se k publikovaným článkům. Fytocenologické snímky z ČNFD jsou součástí databáze EVA (
         <a target="_blanc" href="http://euroveg.org/eva-database">
           European Vegetation Archive
         </a>
@@ -50,7 +48,7 @@ export const en = {
         <a target="_blanc" href="https://www.idiv.de/sdiv/working_groups/wg_pool/splot.html">
           the Global Vegetation Database
         </a>
-        ) Floristická data z fytocenologických snímků uložených v České národní fytocenologické
+        ). Floristická data z fytocenologických snímků uložených v České národní fytocenologické
         databázi jsou veřejně dostupná na webovém portálu{" "}
         <a target="_blanc" href="https://pladias.cz/">
           PLADIAS
@@ -69,11 +67,11 @@ export const en = {
         <MailEmoji mail="ikuzel@sci.muni.cz" />
         ),
         {/* TODO: link na koordinatory */}
-        lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
+         lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
       </p>
       <p>
-        Základní údaje o České národní fytocenologické databázi lze najít v článku v časopise
+        Základní údaje o ČNFD lze najít v článku v časopise
         Preslia (
         <a target="_blanc" href="http://www.sci.muni.cz/botany/chytry/Pre2003.pdf">
           Chytrý & Rafajová 2003
@@ -111,7 +109,7 @@ export const en = {
   dbState: (
     <div>
       <p>
-        Databáze v současné době obsahuje přibližně 113,6 tis. snímků (113 568, červenec 2019) z
+        Databáze v současné době obsahuje 113 568 snímků (červenec 2019) z
         celého území České republiky (obr. 1) zapsané od roku 1922 (obr. 2, dole) více než 1000
         botaniky. Největší počet snímků byl zaznamenán ve vegetaci listnatých lesů (Querco-Fagetea),
         luk a pastvin (Molinio-Arrhenatheretea) nebo vysokých ostřic (Phragmito-Magno-Caricetea;
@@ -488,9 +486,8 @@ export const cz = {
         <a target="_blanc" href="https://botanospol.cz/cs/zpravy-cbs">
           Zprávy České botanické společnosti
         </a>{" "}
-        slouží Česká národní fytocenologická databáze k archivaci fytocenologických snímků
-        vztahujících se k publikovaným článkům. Fytocenologické snímky z České národní
-        fytocenologické databáze jsou součástí EVA (
+        slouží ČNFD k archivaci fytocenologických snímků
+        vztahujících se k publikovaným článkům. Fytocenologické snímky z ČNFD jsou součástí databáze EVA (
         <a target="_blanc" href="http://euroveg.org/eva-database">
           European Vegetation Archive
         </a>
@@ -498,8 +495,7 @@ export const cz = {
         <a target="_blanc" href="https://www.idiv.de/sdiv/working_groups/wg_pool/splot.html">
           the Global Vegetation Database
         </a>
-        ) Floristická data z fytocenologických snímků uložených v České národní fytocenologické
-        databázi jsou veřejně dostupná na webovém portálu{" "}
+        ). Floristická data z fytocenologických snímků uložených v ČNFD jsou veřejně dostupná na webovém portálu{" "}
         <a target="_blanc" href="https://pladias.cz/">
           PLADIAS
         </a>{" "}
@@ -517,11 +513,11 @@ export const cz = {
         <MailEmoji mail="ikuzel@sci.muni.cz" />
         ),
         {/* TODO: link na koordinatory */}
-        lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
+         lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
       </p>
       <p>
-        Základní údaje o České národní fytocenologické databázi lze najít v článku v časopise
+        Základní údaje o ČNFD lze najít v článku v časopise
         Preslia (
         <a target="_blanc" href="http://www.sci.muni.cz/botany/chytry/Pre2003.pdf">
           Chytrý & Rafajová 2003
@@ -559,7 +555,7 @@ export const cz = {
   dbState: (
     <div>
       <p>
-        Databáze obsahuje 113 568 (červenec 2019) z celého území České republiky (obr. 1) zapsané od
+        Databáze obsahuje 113 568 snímků (červenec 2019) z celého území České republiky (obr. 1) zapsané od
         roku 1922 (obr. 2, dole) více než 1000 botaniky. Největší počet snímků byl zaznamenán ve
         vegetaci listnatých lesů (Querco-Fagetea), luk a pastvin (Molinio-Arrhenatheretea) nebo
         vysokých ostřic (Phragmito-Magno-Caricetea; obr. 2, nahoře). Fytocenologická bibliografie s
