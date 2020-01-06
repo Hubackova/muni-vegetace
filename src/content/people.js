@@ -65,7 +65,7 @@ export const peopleEn = {
   {
     id: `danihelka`,
     name: `Jiří Danihelka`,
-    position: `Researcher`,
+    position: `Assistant professor`,
     description: ``,
     email: `danihel@sci.muni.cz`,
     phoneNumber: `549493473`,
@@ -372,7 +372,7 @@ export const peopleCz = {
   {
     id: `chytry`,
     name: `Milan Chytrý`,
-    position: `Vedoucí skupiny`,
+    position: `Vedoucí skupiny ÚBZ`,
     description: `Milan Chytrý absolvoval doktorské studium v oboru Botanika na Masarykově univerzitě v roce 1995. Zabývá se diverzitou vegetace, klasifikací rostlinných společenstev a metodami klasifikace, makroekologií, rostlinnými invazemi a paleoekologií. Editoval Katalog biotopů České republiky (2001, 2010) a čtyřdílnou monografii Vegetace České republiky (2007-2013). V letech 2014-2018 řídil projekt Pladias, který syntetizoval informace o flóře a vegetaci České republiky a zpřístupnil je v online databázi. Zkoumal vegetaci v různých částech Evropy. V letech 2003-2015 řídil projekty terénního výzkumu ekosystémů v různých částech Sibiře, během nichž byly identifikovány současné analogie zaniklých ekosystémů posledního glaciálu v Evropě. V současné době koordinuje projekt Centrum pro evropské vegetační syntézy na Masarykově univerzitě. Je tajemníkem pracovní skupiny European Vegetation Survey Mezinárodní společnosti pro výzkum vegetace (IAVS), kustodem Evropského vegetačního archivu (EVA) a vedoucím redaktorem časopisů Journal of Vegetation Science a Applied Vegetation Science. Na Masarykově univerzitě učí Ekologii společenstev a makroekologii, Vegataci a biotopy České republiky, Vegetaci a biotopy Evropy a několik terénních cvičení a seminářů.`,
     email: `chytry@sci.muni.cz`,
     phoneNumber: `549494595`,
@@ -563,7 +563,7 @@ export const peopleCz = {
   {
     id: `smerdova`,
     name: `Eva Šmerdová (Hettenbergerová)`,
-    position: `Odborný pracovník`,
+    position: `Výzkumník`,
     description: `Eva Šmerdová získala bakalářský titul na Ostravské Univerzitě, její práce se zaměřovala na flóru a vegetaci hald. Magisterské studium botaniky ukončila v roce 2006 na PřF Masarykovy Univerzity v Brně diplomovou prací zabývající se vlivem kontaktních společenstev na druhové složení lučních pramenišť. Doktorskou práci na téma druhová bohatost a variabilita rostlin a měkkýšů na vlhkostním gradientu obhájila v roce 2013. V současné době se mimo jiné zabývá tvorbou databáze rostlinných makrozbytků České a Slovenské republiky a doplňováním vegetačních snímků a jiných údajů pro projekt PLADIAS. Ráda cestuje s kolegy po rodné vlasti i do zahraničí a sbírá terénní data k dalšímu výzkumu ekologie mokřadů i jiných biotopů.`,
     email: `eva.hette@centrum.cz`,
     phoneNumber: `549498487`,
