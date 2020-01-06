@@ -225,7 +225,7 @@ export const cz = {
         </li>
         <li>
           Fytocenologické snímky určené k analýze se exportují z databáze v programu TURBOVEG do
-          programu JUICE. Při převodu snímků do programu JUICE je potřeba použít druhový seznam
+          programu JUICE. Při převodu snímků do programu JUICE je potřeba použít druhový seznam 
           <a href="http://www.sci.muni.cz/botany/juice/kubat9.txt">KUBAT9</a> (snímky z TURBOVEGu se
           exportují ve formátu CC! a při načítání se použije soubor KUBAT9 jako importní filtr).
           Pokud je používán expertní systém pro nelesní vegetaci, měly by být do výběru zařazeny
