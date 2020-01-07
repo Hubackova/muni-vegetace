@@ -7,6 +7,7 @@ import Ul from "../atoms/Ul";
 
 const Links = ({ mediaData, popularizationData, data }) => {
   const mediaList = mediaData.map(i => {
+    if (i.resources.length === 0) return null
     const resources = i.resources.map((src, index) => {
       if (!i.links[index]) return `${src}, `;
       return (
@@ -22,6 +23,7 @@ const Links = ({ mediaData, popularizationData, data }) => {
     );
   });
   const popularizationList = popularizationData.map(i => {
+    if (i.resources.length === 0) return null
     const resources = i.resources.map((src, index) => {
       if (!i.links[index]) return `${src}, `;
       return (
