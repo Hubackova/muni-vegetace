@@ -122,18 +122,3 @@ const ResourceBox = styled(Link)`
     z-index: -1;
   }
 `;
-
-export const query = graphql`
-  query {
-    allImageSharp(filter: { fixed: { src: { regex: "/important-/" } } }) {
-      edges {
-        node {
-          id
-          fixed {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-    }
-  }
-`;

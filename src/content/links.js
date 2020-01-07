@@ -56,10 +56,7 @@ export const mediaCz = [
   }
 ];
 
-export const mediaEn = [
-   {
-    },
-];
+export const mediaEn = [];
 
 export const popularizationCz = [
   {
@@ -88,8 +85,4 @@ export const popularizationCz = [
   },
 ];
 
-export const popularizationEn = [
-  {
-   
-  },
-];
+export const popularizationEn = [];
