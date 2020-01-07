@@ -12,7 +12,7 @@ const DbDate = ({ type }) => (
       }
     `}
     render={data => {
-      if (!data && !data.dbData) return <span></span>;
+      if (!data && !data.dbData) return null;
       const dates = JSON.parse(data.dbData.dbData);
       return <span>({type === "speciesDate" ? dates.speciesDate : dates.dbaseDate})</span>;
     }}
