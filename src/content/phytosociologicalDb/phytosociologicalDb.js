@@ -17,7 +17,7 @@ export const en = {
     { name: "dbState", text: "Stav centrální databáze" },
     { name: "turboweg", text: "Turboveg for Windows" },
     { name: "data", text: "Výměna a poskytování dat" },
-    { name: "turbowegCheck", text: "Turboweg Check-Up" },
+    { name: "turbowegCheck", text: "Turboveg Check-Up" },
     { name: "literature", text: "Literatura" },
     { name: "acknowledgements", text: "Poděkování" }
   ],
@@ -157,7 +157,7 @@ export const en = {
           <li>
             Veřejná data dostupná na požádání od správce centrální databáze pro účely akademického
             výzkumu nebo aplikací v ochraně přírody, nikoliv však pro komerční využití. Žádosti o
-            poskytnutí dat vyřizuje Dana Michalcová (dočasně zastupuje Ilona Knollová,
+            poskytnutí dat vyřizuje Ilona Knollová (
             <MailEmoji mail="ikuzel@sci.muni.cz" />) nebo Milan Chytrý (
             <MailEmoji mail="chytry@sci.muni.cz" />) na základě e-mailem doručeného vysvětlení, jak
             a k čemu budou data použita, a specifikace výběru a požadovaného formátu. Kritéria
@@ -463,7 +463,7 @@ export const cz = {
     { name: "dbState", text: "Stav centrální databáze" },
     { name: "turboweg", text: "Turboveg for Windows" },
     { name: "data", text: "Výměna a poskytování dat" },
-    { name: "turbowegCheck", text: "Turboweg Check-Up" },
+    { name: "turbowegCheck", text: "Turboveg Check-Up" },
     { name: "literature", text: "Literatura" },
     { name: "acknowledgements", text: "Poděkování" }
   ],
