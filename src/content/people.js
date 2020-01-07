@@ -19,7 +19,6 @@ import chytry from "../../static/images/people/chytry.jpg";
 
 export const peopleEn = {
   employees: [
-<<<<<<< HEAD
     {
       id: `chytry`,
       name: `Milan Chytrý`,
@@ -28,10 +27,10 @@ export const peopleEn = {
       email: `chytry@sci.muni.cz`,
       phoneNumber: `549494595`,
       is: `https://www.muni.cz/en/people/871-milan-chytry`,
-	  orcid: `https://orcid.org/0000-0002-8122-3075`,
-	  publons: `https://publons.com/researcher/1609810/milan-chytry/`,
-	  scholar: `https://scholar.google.com/citations?user=scnnn1UAAAAJ&hl=cs&oi=ao`,
-	  researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
+      orcid: `https://orcid.org/0000-0002-8122-3075`,
+      publons: `https://publons.com/researcher/1609810/milan-chytry/`,
+      scholar: `https://scholar.google.com/citations?user=scnnn1UAAAAJ&hl=cs&oi=ao`,
+      researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
       personal: `https://www.sci.muni.cz/botany/chytry/index.htm`,
       img: chytry
     },
@@ -43,10 +42,10 @@ export const peopleEn = {
       email: `lososova@sci.muni.cz`,
       phoneNumber: `549498399`,
       is: `https://www.muni.cz/en/people/5767-zdenka-lososova`,
-	  orcid: `https://orcid.org/0000-0001-9152-7462`,
-	  publons: `https://publons.com/researcher/1641861/zdenka-lososova/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=E5qC_J8AAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
+      orcid: `https://orcid.org/0000-0001-9152-7462`,
+      publons: `https://publons.com/researcher/1641861/zdenka-lososova/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=E5qC_J8AAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
       img: lososova
     },
     {
@@ -57,10 +56,10 @@ export const peopleEn = {
       email: `tesitel@sci.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/en/people/116967-jakub-tesitel`,
-	  orcid: `https://orcid.org/0000-0003-3793-3704`,
-	  publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,	  
-	  researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
+      orcid: `https://orcid.org/0000-0003-3793-3704`,
+      publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
       img: tesitel
     },
     {
@@ -71,10 +70,10 @@ export const peopleEn = {
       email: `tichy@sci.muni.cz`,
       phoneNumber: `549497673`,
       is: `https://www.muni.cz/en/people/6669-lubomir-tichy`,
-	  orcid: `https://orcid.org/0000-0003-3793-3704`,
-	  publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,	  
-	  researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
+      orcid: `https://orcid.org/0000-0003-3793-3704`,
+      publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`
     },
     {
       id: `danihelka`,
@@ -83,10 +82,10 @@ export const peopleEn = {
       description: ``,
       email: `danihel@sci.muni.cz`,
       is: `https://www.muni.cz/en/people/5926-jiri-danihelka`,
-	  orcid: `https://orcid.org/0000-0002-2640-7867`,
-	  publons: `https://publons.com/researcher/2523760/jiri-danihelka/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=10pWhfkAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`,
+      orcid: `https://orcid.org/0000-0002-2640-7867`,
+      publons: `https://publons.com/researcher/2523760/jiri-danihelka/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=10pWhfkAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`
     },
     {
       id: `divisek`,
@@ -96,9 +95,9 @@ export const peopleEn = {
       email: `divisekjan@mail.muni.cz`,
       phoneNumber: `549498494`,
       is: `https://www.muni.cz/en/people/106310-jan-divisek`,
-	  orcid: `https://orcid.org/0000-0002-5127-5130`,
-	  publons: `https://publons.com/researcher/2524551/jan-divisek/`,
-	  researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
+      orcid: `https://orcid.org/0000-0002-5127-5130`,
+      publons: `https://publons.com/researcher/2524551/jan-divisek/`,
+      researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
       img: divisek
     },
     {
@@ -109,10 +108,10 @@ export const peopleEn = {
       email: `honza.rolecek@centrum.cz`,
       phoneNumber: `549498489`,
       is: `https://www.muni.cz/en/people/42706-jan-rolecek`,
-	  orcid: `https://orcid.org/0000-0002-0023-1111`,
-	  publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
-	  researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
+      orcid: `https://orcid.org/0000-0002-0023-1111`,
+      publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
       img: rolecek
     },
     {
@@ -123,9 +122,9 @@ export const peopleEn = {
       email: `axmanova@sci.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/en/people/78388-irena-axmanova`,
-	  orcid: `https://orcid.org/0000-0001-9440-7976`,
-	  publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
-	  researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`,
+      orcid: `https://orcid.org/0000-0001-9440-7976`,
+      publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
+      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`
     },
     {
       id: `ceplova`,
@@ -135,8 +134,8 @@ export const peopleEn = {
       email: `ceplova@ped.muni.cz`,
       phoneNumber: `549494992`,
       is: `https://www.muni.cz/en/people/13913-natalie-ceplova`,
-	  orcid: `https://orcid.org/0000-0002-8796-654X`,
-	  researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`,
+      orcid: `https://orcid.org/0000-0002-8796-654X`,
+      researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`
     },
     {
       id: `gotzenberger`,
@@ -146,10 +145,10 @@ export const peopleEn = {
       email: `lars.goetzenberger@gmail.com`,
       phoneNumber: ``,
       is: `https://www.muni.cz/en/people/238736-lars-goetzenberger`,
-	  orcid: `https://orcid.org/0000-0003-3040-2900`,
-	  publons: `https://publons.com/researcher/991157/lars-gotzenberger/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=VD8lvYMAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`,
+      orcid: `https://orcid.org/0000-0003-3040-2900`,
+      publons: `https://publons.com/researcher/991157/lars-gotzenberger/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=VD8lvYMAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`
     },
     {
       id: `hajek`,
@@ -159,8 +158,8 @@ export const peopleEn = {
       email: `ohajek@sci.muni.cz`,
       phoneNumber: `549494033`,
       is: `https://www.muni.cz/en/people/16845-ondrej-hajek`,
-	  researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`,
-          },
+      researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`
+    },
     {
       id: `holubova`,
       name: `Dana Holubová`,
@@ -169,7 +168,7 @@ export const peopleEn = {
       email: `danmich@mail.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/en/people/113226-dana-holubova`,
-	  researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
       img: holubova
     },
     {
@@ -180,8 +179,8 @@ export const peopleEn = {
       email: `kalveron@tiscali.cz`,
       phoneNumber: `549494992`,
       is: `https://www.muni.cz/en/people/106856-veronika-kalusova`,
-	  orcid: `https://orcid.org/0000-0002-4270-321X`,
-	  researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
+      orcid: `https://orcid.org/0000-0002-4270-321X`,
+      researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
       img: kalusova
     },
     {
@@ -192,8 +191,8 @@ export const peopleEn = {
       email: `ikuzel@sci.muni.cz`,
       phoneNumber: `549498488`,
       is: `https://www.muni.cz/en/people/10355-ilona-knollova`,
-	  orcid: `https://orcid.org/0000-0003-4074-789X`,
-	  researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
+      orcid: `https://orcid.org/0000-0003-4074-789X`,
+      researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
       img: knollova
     },
     {
@@ -204,10 +203,10 @@ export const peopleEn = {
       email: `skubesova@mzm.cz`,
       phoneNumber: `545217322`,
       is: `https://www.muni.cz/en/people/18604-svatava-kubesova`,
-	  orcid: `https://orcid.org/0000-0002-7895-6710`,
-	  publons: `https://publons.com/researcher/2339456/svatava-kubesova/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`,
+      orcid: `https://orcid.org/0000-0002-7895-6710`,
+      publons: `https://publons.com/researcher/2339456/svatava-kubesova/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`
     },
     {
       id: `landucci`,
@@ -217,10 +216,10 @@ export const peopleEn = {
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/en/people/386683-flavia-landucci`,
-	  orcid: `https://orcid.org/0000-0002-6848-0384`,
-	  publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
+      orcid: `https://orcid.org/0000-0002-6848-0384`,
+      publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`
     },
     {
       id: `preislerova`,
@@ -230,10 +229,10 @@ export const peopleEn = {
       email: `zpreislerova@gmail.com`,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/en/people/10230-zdenka-preislerova`,
-	  orcid: `https://orcid.org/0000-0002-6848-0384`,
-	  publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
+      orcid: `https://orcid.org/0000-0002-6848-0384`,
+      publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`
     },
     {
       id: `reznickova`,
@@ -243,7 +242,7 @@ export const peopleEn = {
       email: `mar.reznickova@seznam.cz`,
       phoneNumber: `549498488`,
       is: `https://www.muni.cz/en/people/19437-marcela-reznickova`,
-	  researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
+      researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
     {
@@ -258,7 +257,7 @@ export const peopleEn = {
       publons: `https://www.muni.cz/en/people/75764-eva-smerdova`,
       scholar: `https://www.muni.cz/en/people/75764-eva-smerdova`,
       personal: `https://www.muni.cz/en/people/75764-eva-smerdova`,
-	  researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
       img: smerdova
     },
     {
@@ -268,7 +267,7 @@ export const peopleEn = {
       description: ``,
       email: `pstepankova@sci.muni.cz`,
       phoneNumber: `549498389`,
-      is: `https://www.muni.cz/en/people/234942-petra-stepankova`,
+      is: `https://www.muni.cz/en/people/234942-petra-stepankova`
     },
     {
       id: `taborska`,
@@ -278,8 +277,8 @@ export const peopleEn = {
       email: `taborska.mar@gmail.com`,
       phoneNumber: `549498474`,
       is: `https://www.muni.cz/en/people/222793-marketa-taborska`,
-	  orcid: `https://orcid.org/0000-0003-3354-0284`,
-	  researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`,
+      orcid: `https://orcid.org/0000-0003-3354-0284`,
+      researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`
     },
     {
       id: `drevojan`,
@@ -289,8 +288,8 @@ export const peopleEn = {
       email: `269768@mail.muni.cz`,
       phoneNumber: `549498486`,
       is: `https://www.muni.cz/en/people/269768-pavel-drevojan`,
-	  publons: `https://publons.com/researcher/1805476/pavel-drevojan/`,
-	  researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
+      publons: `https://publons.com/researcher/1805476/pavel-drevojan/`,
+      researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
       img: drevojan
     },
     {
@@ -300,7 +299,7 @@ export const peopleEn = {
       description: ``,
       email: `357936@mail.muni.cz`,
       phoneNumber: `549494813`,
-      is: `https://www.muni.cz/en/people/357936-hana-galuskova`,
+      is: `https://www.muni.cz/en/people/357936-hana-galuskova`
     },
     {
       id: `cubino`,
@@ -310,10 +309,10 @@ export const peopleEn = {
       email: `padulles@sci.muni.cz`,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/en/people/243613-josep-padulles-cubino`,
-	  orcid: `https://orcid.org/0000-0002-2283-5004`,
-	  publons: `https://publons.com/researcher/1790367/josep-padulles-cubino/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=V-ZcDqAAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Josep_Padulles`,
+      orcid: `https://orcid.org/0000-0002-2283-5004`,
+      publons: `https://publons.com/researcher/1790367/josep-padulles-cubino/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=V-ZcDqAAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Josep_Padulles`
     },
     {
       id: `fischer`,
@@ -323,10 +322,10 @@ export const peopleEn = {
       email: `feliciafischerster@gmail.com`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/en/people/243002-felicia-miranda-fischer`,
-	  orcid: `https://orcid.org/0000-0002-2319-3648`,
-	  publons: `https://publons.com/researcher/1657863/felicia-miranda-fischer/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=0E5hLEcAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
+      orcid: `https://orcid.org/0000-0002-2319-3648`,
+      publons: `https://publons.com/researcher/1657863/felicia-miranda-fischer/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=0E5hLEcAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
       img: fisher
     },
     {
@@ -337,10 +336,10 @@ export const peopleEn = {
       email: `marcenocorrado@libero.it`,
       phoneNumber: `549498477`,
       is: `https://is.muni.cz/auth/osoba/234828?lang=en;setlang=en`,
-	  orcid: `https://orcid.org/0000-0003-4361-5200`,
-	  publons: `https://publons.com/researcher/1500373/corrado-marceno/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`,
+      orcid: `https://orcid.org/0000-0003-4361-5200`,
+      publons: `https://publons.com/researcher/1500373/corrado-marceno/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`
     }
   ],
 
@@ -353,8 +352,8 @@ export const peopleEn = {
       email: `323585@mail.muni.cz`,
       phoneNumber: `541126221`,
       is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`,
-	  orcid: `https://orcid.org/0000-0001-7845-4000`,
-	  researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
+      orcid: `https://orcid.org/0000-0001-7845-4000`,
+      researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
       img: chudomelova
     },
     {
@@ -364,8 +363,8 @@ export const peopleEn = {
       description: `Anni Jašková is a Ph.D.-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
       email: `annipyy@mail.muni.cz`,
       phoneNumber: `549498395`,
-      is: `https://www.muni.cz/en/people/452344-anni-kanerva-pyykoenen`,     
-	  researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
+      is: `https://www.muni.cz/en/people/452344-anni-kanerva-pyykoenen`,
+      researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
       img: jaskova
     },
     {
@@ -376,8 +375,8 @@ export const peopleEn = {
       email: `V.Kalnikova@seznam.cz`,
       phoneNumber: `549498486`,
       is: `https://www.muni.cz/en/people/222967-veronika-kalnikova`,
-	  orcid: `https://orcid.org/0000-0003-2361-0816`,
-	  researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
+      orcid: `https://orcid.org/0000-0003-2361-0816`,
+      researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
       img: kalnikova
     },
     {
@@ -388,7 +387,7 @@ export const peopleEn = {
       email: `269109@mail.muni.cz`,
       phoneNumber: `549498485`,
       is: `https://www.muni.cz/en/people/269109-pavel-novak`,
-	  researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
+      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
     },
     {
@@ -408,8 +407,8 @@ export const peopleEn = {
       email: `martinvec@seznam.cz`,
       phoneNumber: `549498494`,
       is: `https://www.muni.cz/en/people/357693-martin-vecera`,
-	  orcid: `https://orcid.org/0000-0001-8507-791X`,
-	  researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
+      orcid: `https://orcid.org/0000-0001-8507-791X`,
+      researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
       img: vecera
     },
     {
@@ -419,16 +418,15 @@ export const peopleEn = {
       description: ``,
       email: `375623@mail.muni.cz`,
       phoneNumber: `549498494`,
-	  is: `https://www.muni.cz/en/people/375623-dominik-zukal`,
-      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`,
+      is: `https://www.muni.cz/en/people/375623-dominik-zukal`,
+      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`
     }
   ]
 };
 
 export const peopleCz = {
   employees: [
-<<<<<<< HEAD
-   {
+    {
       id: `chytry`,
       name: `Milan Chytrý`,
       position: `Vedoucí skupiny`,
@@ -436,10 +434,10 @@ export const peopleCz = {
       email: `chytry@sci.muni.cz`,
       phoneNumber: `549494595`,
       is: `https://www.muni.cz/lide/871-milan-chytry`,
-	  orcid: `https://orcid.org/0000-0002-8122-3075`,
-	  publons: `https://publons.com/researcher/1609810/milan-chytry/`,
-	  scholar: `https://scholar.google.com/citations?user=scnnn1UAAAAJ&hl=cs&oi=ao`,
-	  researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
+      orcid: `https://orcid.org/0000-0002-8122-3075`,
+      publons: `https://publons.com/researcher/1609810/milan-chytry/`,
+      scholar: `https://scholar.google.com/citations?user=scnnn1UAAAAJ&hl=cs&oi=ao`,
+      researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
       personal: `https://www.sci.muni.cz/botany/chytry/index.htm`,
       img: chytry
     },
@@ -451,11 +449,11 @@ export const peopleCz = {
       email: `lososova@sci.muni.cz`,
       phoneNumber: `549498399`,
       is: `https://www.muni.cz/lide/5767-zdenka-lososova`,
-	  orcid: `https://orcid.org/0000-0001-9152-7462`,
-	  publons: `https://publons.com/researcher/1641861/zdenka-lososova/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=E5qC_J8AAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
-            img: lososova
+      orcid: `https://orcid.org/0000-0001-9152-7462`,
+      publons: `https://publons.com/researcher/1641861/zdenka-lososova/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=E5qC_J8AAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
+      img: lososova
     },
     {
       id: `tesitel`,
@@ -465,10 +463,10 @@ export const peopleCz = {
       email: `tesitel@sci.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/lide/116967-jakub-tesitel`,
-	  orcid: `https://orcid.org/0000-0003-3793-3704`,
-	  publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,	  
-	  researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
+      orcid: `https://orcid.org/0000-0003-3793-3704`,
+      publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
       img: tesitel
     },
     {
@@ -479,9 +477,9 @@ export const peopleCz = {
       email: `tichy@sci.muni.cz`,
       phoneNumber: `549497673`,
       is: `https://www.muni.cz/lide/6669-lubomir-tichy`,
-	  orcid: `https://orcid.org/0000-0001-8400-7741`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=EqXZ7esAAAAJ`,
-	  researchgate: `https://www.researchgate.net/scientific-contributions/14637372_Lubomir_Tichy`,
+      orcid: `https://orcid.org/0000-0001-8400-7741`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=EqXZ7esAAAAJ`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/14637372_Lubomir_Tichy`
     },
     {
       id: `danihelka`,
@@ -490,11 +488,11 @@ export const peopleCz = {
       description: ``,
       email: `danihel@sci.muni.cz`,
       phoneNumber: `549493473`,
-      is: `https://www.muni.cz/lide/5926-jiri-danihelka`, 
-	  orcid: `https://orcid.org/0000-0002-2640-7867`,
-	  publons: `https://publons.com/researcher/2523760/jiri-danihelka/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=10pWhfkAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`,
+      is: `https://www.muni.cz/lide/5926-jiri-danihelka`,
+      orcid: `https://orcid.org/0000-0002-2640-7867`,
+      publons: `https://publons.com/researcher/2523760/jiri-danihelka/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=10pWhfkAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`
     },
     {
       id: `divisek`,
@@ -504,9 +502,9 @@ export const peopleCz = {
       email: `divisekjan@mail.muni.cz`,
       phoneNumber: `549498494`,
       is: `https://www.muni.cz/lide/106310-jan-divisek`,
-	  orcid: `https://orcid.org/0000-0002-5127-5130`,
-	  publons: `https://publons.com/researcher/2524551/jan-divisek/`,
-	  researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
+      orcid: `https://orcid.org/0000-0002-5127-5130`,
+      publons: `https://publons.com/researcher/2524551/jan-divisek/`,
+      researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
       img: divisek
     },
     {
@@ -517,10 +515,10 @@ export const peopleCz = {
       email: `honza.rolecek@centrum.cz`,
       phoneNumber: `549498489`,
       is: `https://www.muni.cz/lide/42706-jan-rolecek`,
-	  orcid: `https://orcid.org/0000-0002-0023-1111`,
-	  publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
-	  researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
+      orcid: `https://orcid.org/0000-0002-0023-1111`,
+      publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
       img: rolecek
     },
     {
@@ -531,9 +529,9 @@ export const peopleCz = {
       email: `axmanova@sci.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/lide/78388-irena-axmanova`,
-	  orcid: `https://orcid.org/0000-0001-9440-7976`,
-	  publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
-	  researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`,
+      orcid: `https://orcid.org/0000-0001-9440-7976`,
+      publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
+      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`
     },
     {
       id: `ceplova`,
@@ -543,8 +541,8 @@ export const peopleCz = {
       email: `ceplova@ped.muni.cz`,
       phoneNumber: `549494992`,
       is: `https://www.muni.cz/lide/13913-natalie-ceplova`,
-	  orcid: `https://orcid.org/0000-0002-8796-654X`,
-	  researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`,
+      orcid: `https://orcid.org/0000-0002-8796-654X`,
+      researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`
     },
     {
       id: `gotzenberger`,
@@ -554,10 +552,10 @@ export const peopleCz = {
       email: `lars.goetzenberger@gmail.com`,
       phoneNumber: ``,
       is: `https://www.muni.cz/lide/238736-lars-goetzenberger`,
-	  orcid: `https://orcid.org/0000-0003-3040-2900`,
-	  publons: `https://publons.com/researcher/991157/lars-gotzenberger/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=VD8lvYMAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`,
+      orcid: `https://orcid.org/0000-0003-3040-2900`,
+      publons: `https://publons.com/researcher/991157/lars-gotzenberger/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=VD8lvYMAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`
     },
     {
       id: `hajek`,
@@ -567,7 +565,7 @@ export const peopleCz = {
       email: `ohajek@sci.muni.cz`,
       phoneNumber: `549494033`,
       is: `https://www.muni.cz/lide/16845-ondrej-hajek`,
-	  researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`,
+      researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`
     },
     {
       id: `holubova`,
@@ -577,8 +575,8 @@ export const peopleCz = {
       email: `danmich@mail.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/lide/113226-dana-holubova`,
-	  researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
-            img: holubova
+      researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
+      img: holubova
     },
     {
       id: `kalusova`,
@@ -588,8 +586,8 @@ export const peopleCz = {
       email: `kalveron@tiscali.cz`,
       phoneNumber: `549494992`,
       is: `https://www.muni.cz/lide/106856-veronika-kalusova`,
-	  orcid: `https://orcid.org/0000-0002-4270-321X`,
-	  researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
+      orcid: `https://orcid.org/0000-0002-4270-321X`,
+      researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
       img: kalusova
     },
     {
@@ -600,8 +598,8 @@ export const peopleCz = {
       email: `ikuzel@sci.muni.cz`,
       phoneNumber: `549498488`,
       is: `https://www.muni.cz/lide/10355-ilona-knollova`,
-	  orcid: `https://orcid.org/0000-0003-4074-789X`,
-	  researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
+      orcid: `https://orcid.org/0000-0003-4074-789X`,
+      researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
       img: knollova
     },
     {
@@ -612,10 +610,10 @@ export const peopleCz = {
       email: `skubesova@mzm.cz`,
       phoneNumber: `545217322`,
       is: `https://www.muni.cz/lide/18604-svatava-kubesova`,
-	  orcid: `https://orcid.org/0000-0002-7895-6710`,
-	  publons: `https://publons.com/researcher/2339456/svatava-kubesova/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`,
+      orcid: `https://orcid.org/0000-0002-7895-6710`,
+      publons: `https://publons.com/researcher/2339456/svatava-kubesova/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`
     },
     {
       id: `landucci`,
@@ -625,10 +623,10 @@ export const peopleCz = {
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/lide/386683-flavia-landucci`,
-	  orcid: `https://orcid.org/0000-0002-6848-0384`,
-	  publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
+      orcid: `https://orcid.org/0000-0002-6848-0384`,
+      publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`
     },
     {
       id: `preislerova`,
@@ -638,7 +636,7 @@ export const peopleCz = {
       email: `zpreislerova@gmail.com`,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/lide/10230-zdenka-preislerova`,
-	  researchgate: `https://www.researchgate.net/profile/Zdenka_Preislerova`,
+      researchgate: `https://www.researchgate.net/profile/Zdenka_Preislerova`
     },
     {
       id: `reznickova`,
@@ -648,7 +646,7 @@ export const peopleCz = {
       email: `mar.reznickova@seznam.cz`,
       phoneNumber: `549498488`,
       is: `https://www.muni.cz/lide/19437-marcela-reznickova`,
-	  researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
+      researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
     {
@@ -659,7 +657,7 @@ export const peopleCz = {
       email: `eva.hette@centrum.cz`,
       phoneNumber: `549498487`,
       is: `https://www.muni.cz/lide/75764-eva-smerdova`,
-	  researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
       img: smerdova
     },
     {
@@ -679,8 +677,8 @@ export const peopleCz = {
       email: `taborska.mar@gmail.com`,
       phoneNumber: `549498474`,
       is: `https://www.muni.cz/lide/222793-marketa-taborska`,
-	  orcid: `https://orcid.org/0000-0003-3354-0284`,
-	  researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`,
+      orcid: `https://orcid.org/0000-0003-3354-0284`,
+      researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`
     },
     {
       id: `drevojan`,
@@ -690,9 +688,9 @@ export const peopleCz = {
       email: `269768@mail.muni.cz`,
       phoneNumber: `549498486`,
       is: `https://www.muni.cz/lide/269768-pavel-drevojan`,
-	  orcid: `https://orcid.org/0000-0003-0802-3509`,
-	  publons: `https://publons.com/researcher/1805476/pavel-drevojan/`,
-	  researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
+      orcid: `https://orcid.org/0000-0003-0802-3509`,
+      publons: `https://publons.com/researcher/1805476/pavel-drevojan/`,
+      researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
       img: drevojan
     },
     {
@@ -702,7 +700,7 @@ export const peopleCz = {
       description: ``,
       email: `357936@mail.muni.cz`,
       phoneNumber: `549494813`,
-      is: `https://www.muni.cz/lide/357936-hana-galuskova`,
+      is: `https://www.muni.cz/lide/357936-hana-galuskova`
     },
     {
       id: `cubino`,
@@ -712,11 +710,11 @@ export const peopleCz = {
       email: `padulles@sci.muni.cz`,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/lide/243613-josep-padulles-cubino`,
-	  orcid: `https://orcid.org/0000-0002-2283-5004`,
-	  publons: `https://publons.com/researcher/1790367/josep-padulles-cubino/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=V-ZcDqAAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Josep_Padulles`,
-	},
+      orcid: `https://orcid.org/0000-0002-2283-5004`,
+      publons: `https://publons.com/researcher/1790367/josep-padulles-cubino/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=V-ZcDqAAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Josep_Padulles`
+    },
     {
       id: `fischer`,
       name: `Felícia Miranda Fischer`,
@@ -725,10 +723,10 @@ export const peopleCz = {
       email: `feliciafischerster@gmail.com`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/lide/243002-felicia-miranda-fischer`,
-	  orcid: `https://orcid.org/0000-0002-2319-3648`,
-	  publons: `https://publons.com/researcher/1657863/felicia-miranda-fischer/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=0E5hLEcAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
+      orcid: `https://orcid.org/0000-0002-2319-3648`,
+      publons: `https://publons.com/researcher/1657863/felicia-miranda-fischer/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=0E5hLEcAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
       img: fisher
     },
     {
@@ -739,10 +737,10 @@ export const peopleCz = {
       email: `marcenocorrado@libero.it`,
       phoneNumber: `549498477`,
       is: `https://is.muni.cz/auth/osoba/234828`,
-	  orcid: `https://orcid.org/0000-0003-4361-5200`,
-	  publons: `https://publons.com/researcher/1500373/corrado-marceno/`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`,
+      orcid: `https://orcid.org/0000-0003-4361-5200`,
+      publons: `https://publons.com/researcher/1500373/corrado-marceno/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`
     }
   ],
   phdStudents: [
@@ -754,8 +752,8 @@ export const peopleCz = {
       email: `323585@mail.muni.cz`,
       phoneNumber: `541126221`,
       is: `https://www.muni.cz/lide/323585-marketa-chudomelova`,
-	  orcid: `https://orcid.org/0000-0001-7845-4000`,
-	  researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
+      orcid: `https://orcid.org/0000-0001-7845-4000`,
+      researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
       img: chudomelova
     },
     {
@@ -766,7 +764,7 @@ export const peopleCz = {
       email: `annipyy@mail.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/lide/452344-anni-kanerva-pyykoenen`,
-	  researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
+      researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
       img: jaskova
     },
     {
@@ -777,8 +775,8 @@ export const peopleCz = {
       email: `V.Kalnikova@seznam.cz`,
       phoneNumber: `549498486`,
       is: `https://www.muni.cz/lide/222967-veronika-kalnikova`,
-	  orcid: `https://orcid.org/0000-0003-2361-0816`,
-	  researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
+      orcid: `https://orcid.org/0000-0003-2361-0816`,
+      researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
       img: kalnikova
     },
     {
@@ -789,7 +787,7 @@ export const peopleCz = {
       email: `269109@mail.muni.cz`,
       phoneNumber: `549498485`,
       is: `https://www.muni.cz/lide/269109-pavel-novak`,
-	  researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
+      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
     },
     {
@@ -809,9 +807,9 @@ export const peopleCz = {
       email: `martinvec@seznam.cz`,
       phoneNumber: `549498494`,
       is: `https://www.muni.cz/lide/357693-martin-vecera`,
-	  orcid: `https://orcid.org/0000-0001-8507-791X`,
-	  researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-     img: vecera
+      orcid: `https://orcid.org/0000-0001-8507-791X`,
+      researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
+      img: vecera
     },
     {
       id: `zukal`,
@@ -821,11 +819,10 @@ export const peopleCz = {
       email: `375623@mail.muni.cz`,
       phoneNumber: `549498494`,
       is: `https://www.muni.cz/lide/375623-dominik-zukal`,
-	  researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`,
-      }
+      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`
+    }
   ]
 };
-
 
 export const formerPeople = [
   {

@@ -49,7 +49,7 @@ export const en = {
       </a>
       ), který lze zdarma stáhnout{" "}
       <a target="_blanc" href="http://www.sci.muni.cz/botany/juice.htm">
-         zde
+        zde
       </a>
       .
     </p>
@@ -150,40 +150,43 @@ export const en = {
         mechorostů a lišejníků jsou v databázi sjednocena podle standardní literatury (Frey et al.
         1995, Pišút et al. 1993). Druhový seznam používaný v České národní fytocenologické databázi,
         označovaný jako Czechia_Slovakia_2015, je shodný se seznamem používaným v Centrální databázi
-        fytocenóz na Slovensku. Připomínky a návrhy k seznamu druhů prosím adresujte na Ilonu Knollovou (
-      <MailEmoji mail="ikuzel@sci.muni.cz" />). Seznam syntaxonů používaný v TURBOVEGu je vytvořen podle díla
-        Rostlinná společenstva České republiky a jejich ohrožení (Moravec et al. 1995).
+        fytocenóz na Slovensku. Připomínky a návrhy k seznamu druhů prosím adresujte na Ilonu
+        Knollovou (
+        <MailEmoji mail="ikuzel@sci.muni.cz" />
+        ). Seznam syntaxonů používaný v TURBOVEGu je vytvořen podle díla Rostlinná společenstva
+        České republiky a jejich ohrožení (Moravec et al. 1995).
       </p>
-	   <p>
+      <p>
         Literatura: <br />
         <cite>
-          <div>
-      <li>
-        Ehrendorfer F. (ed.) (1973): Liste der Gefäßpflanzen Mitteleuropas. Ed. 2. G. Fischer,
-        Stuttgart.{" "}
-      </li>
-      <li>
-        Frey W., Frahm J. P., Fischer E. & Lobin W. (1995): Die Moos- und Farnpflanzen Europas. G.
-        Fischer, Stuttgart. ⦁ Hennekens S.M. & Schaminée J.H.J. (2001): TURBOVEG, a comprehensive
-        data base management system for vegetation data. Journal of Vegetation Science, 12: 589–591.{" "}
-        <a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">
-          [pdf]
-        </a>
-      </li>
-	  <li>
-        Moravec J., Balátová-Tuláčková E., Blažková D., Hadač E., Hejný S., Husák Š., Jeník J.,
-        Kolbek J., Krahulec F., Kropáč Z., Neuhäusl R., Rybníček K., Řehořek V. & Vicherek J.
-        (1995): Rostlinná společenstva České republiky a jejich ohrožení (Red list of plant
-        communities of the Czech Republic and their endangerment). Ed. 2. Severočes. Přír., Suppl.
-        1995: 1–206.
-      </li>
-      <li>
-        Pišút I., Lackovicová A. & Lisická E. (1993): Súpis lišajníkov Slovenska. Biológia, 48,
-        Suppl. 1: 53–98. ⦁ Schaminée J.H.J., Hennekens S.M., Chytrý M. & Rodwell J.S. (2009):
-        Vegetation-plot data and databases in Europe: an overview. Preslia, 81: 173–185.
-        <a target="_blanc" href="http://www.preslia.cz/P093Schaminee.pdf">
-          [pdf]
-        </a>
+          <li>
+            Ehrendorfer F. (ed.) (1973): Liste der Gefäßpflanzen Mitteleuropas. Ed. 2. G. Fischer,
+            Stuttgart.{" "}
+          </li>
+          <li>
+            Frey W., Frahm J. P., Fischer E. & Lobin W. (1995): Die Moos- und Farnpflanzen Europas.
+            G. Fischer, Stuttgart. ⦁ Hennekens S.M. & Schaminée J.H.J. (2001): TURBOVEG, a
+            comprehensive data base management system for vegetation data. Journal of Vegetation
+            Science, 12: 589–591.{" "}
+            <a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">
+              [pdf]
+            </a>
+          </li>
+          <li>
+            Moravec J., Balátová-Tuláčková E., Blažková D., Hadač E., Hejný S., Husák Š., Jeník J.,
+            Kolbek J., Krahulec F., Kropáč Z., Neuhäusl R., Rybníček K., Řehořek V. & Vicherek J.
+            (1995): Rostlinná společenstva České republiky a jejich ohrožení (Red list of plant
+            communities of the Czech Republic and their endangerment). Ed. 2. Severočes. Přír.,
+            Suppl. 1995: 1–206.
+          </li>
+          <li>
+            Pišút I., Lackovicová A. & Lisická E. (1993): Súpis lišajníkov Slovenska. Biológia, 48,
+            Suppl. 1: 53–98. ⦁ Schaminée J.H.J., Hennekens S.M., Chytrý M. & Rodwell J.S. (2009):
+            Vegetation-plot data and databases in Europe: an overview. Preslia, 81: 173–185.
+            <a target="_blanc" href="http://www.preslia.cz/P093Schaminee.pdf">
+              [pdf]
+            </a>
+          </li>
         </cite>
       </p>
     </div>
