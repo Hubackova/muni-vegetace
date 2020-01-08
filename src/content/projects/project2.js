@@ -202,9 +202,9 @@ export const project2en = {
           (2007): Plant species richness in continental southern Siberia: effects of pH and climate
           in the context of the species pool hypothesis. Global Ecology and Biogeography 16: 668-
           678. - 
-          <a href="http://www.blackwell-synergy.com/doi/full/10.1111/j.1466-8238.2007.00320.x">
+          <a href="https://www.academia.edu/14005392/Plant_species_richness_in_continental_southern_Siberia_effects_of_pH_and_climate_in_the_context_of_the_species_pool_hypothesis">
             {" "}
-            fulltext on Blackwell Synergy
+            fulltext
           </a>
         </li>
         <li>
@@ -212,9 +212,9 @@ export const project2en = {
           L., Martynenko V.B. &amp; Baisheva E.Z. (2010): Modern analogues from the Southern Urals
           provide insights into biodiversity change in the early Holocene forests of Central
           Europe. Journal of Biogeography 37: 767-780. - 
-          <a href="http://www3.interscience.wiley.com/journal/123264262/abstract">
+          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2699.2009.02256.x">
             {" "}
-            fulltext on Wiley InterScience
+            fulltext pdf file
           </a>
         </li>
         <li>
@@ -222,7 +222,7 @@ export const project2en = {
           M., Otýpková Z., Roleček J., Řezníčková M., Šmarda P., Valachovič M., Popov D. &amp; Pišút
           I. (2008): Diversity of forest vegetation across a strong gradient of climatic
           continentality: Western Sayan Mountains, southern Siberia. Plant Ecology 196: 61-83. -  
-          <a href="http://www.springerlink.com/content/y22l371781tpp84u/?p=a16db4538a3e4981afc44672b848dc7d&pi=5">
+          <a href="https://link.springer.com/article/10.1007/s11258-007-9335-4">
             {" "}
             fulltext on SpringerLink
           </a>
@@ -291,7 +291,7 @@ export const project2en = {
           Tichý L. (2010): Snail faunas in the Southern Ural forests and their relations to
           vegetation: an analogue of the Early Holocene assemblages of Central Europe? Journal of
           Molluscan Studies 76: 1-10. - 
-          <a href="http://mollus.oxfordjournals.org/cgi/content/abstract/eyp039">
+          <a href="https://academic.oup.com/mollus/article/76/1/1/1084149">
             {" "}
             fulltext on Oxford Journals
           </a>
@@ -312,7 +312,7 @@ export const project2en = {
           M. (2010): Habitats of relict terrestrial snails in southern Siberia: lessons for the
           reconstruction of palaeoenvironments of full-glacial Europe. Journal of Biogeography 37:
           1450-1462. - 
-          <a href="http://www3.interscience.wiley.com/journal/123308137/abstract">
+          <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2699.2010.02280.x">
             {" "}
             fulltext in Wiley Online Library
           </a>
@@ -327,7 +327,7 @@ export const project2en = {
           Kuneš P., Pelánková B., Chytrý M., Jankovská V., Pokorný P. &amp; Petr L. (2008):
           Interpretation of the last-glacial vegetation of eastern-central Europe using modern
           analogues from southern Siberia. Journal of Biogeography 35: 2223-2236. -
-          <a href="http://www3.interscience.wiley.com/journal/121381203/abstract">
+          <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2008.01974.x">
             {" "}
             fulltext on Wiley InterScience
           </a>
@@ -359,13 +359,13 @@ export const project2en = {
         <li>
           Pavelková Řičánková V., Riegert J., Semančíková E., Hais M., Čejková A. &amp; Prach K.
           (2014): Habitat preferences in gray marmots (Marmota baibacina). Acta Theriologica 59:
-          317-324. - <a href="">fulltext in pdf</a>
+          317-324. - <a href="https://www.academia.edu/14618209/Habitat_preferences_in_gray_marmots_Marmota_baibacina_">fulltext in pdf</a>
         </li>
         <li>
           Pavelková Řičánková V., Robovský J. &amp; Riegert J. (2014): Ecological Structure of
           Recent and Last Glacial Mammalian Faunas in Northern Eurasia: The Case of Altai-Sayan
           Refugium. PLoS ONE 9: e85056. - 
-          <a href="http://botzool.sci.muni.cz/pubs/Pavelkova-Ricankova_etal2014_Acta-Theriol.pdf">
+          <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085056">
             {" "}
             fulltext in pdf
           </a>
@@ -383,7 +383,7 @@ export const project2en = {
           Pelánková B. &amp; Chytrý M. (2009): Surface pollen-vegetation relationships in the
           forest- steppe, taiga and tundra landscapes of the Russian Altai Mountains. Review of
           Palaeobotany and Palynology 157: 253-265. - 
-          <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V6W-4W9XDX8-1&_user=835458&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000045159&_version=1&_urlVersion=0&_userid=835458&md5=6ad09d77faec844063c82978e222ca35">
+          <a href="https://www.sciencedirect.com/science/article/pii/S0034666709000906">
             {" "}
             fulltext on ScienceDirect
           </a>
@@ -607,9 +607,9 @@ export const project2cz = {
           (2007): Plant species richness in continental southern Siberia: effects of pH and climate
           in the context of the species pool hypothesis. Global Ecology and Biogeography 16: 668-
           678. - 
-          <a href="http://www.blackwell-synergy.com/doi/full/10.1111/j.1466-8238.2007.00320.x">
+          <a href="https://www.academia.edu/14005392/Plant_species_richness_in_continental_southern_Siberia_effects_of_pH_and_climate_in_the_context_of_the_species_pool_hypothesis">
             {" "}
-            fulltext on Blackwell Synergy
+            fulltext
           </a>
         </li>
         <li>
@@ -617,9 +617,9 @@ export const project2cz = {
           L., Martynenko V.B. &amp; Baisheva E.Z. (2010): Modern analogues from the Southern Urals
           provide insights into biodiversity change in the early Holocene forests of Central
           Europe. Journal of Biogeography 37: 767-780. - 
-          <a href="http://www3.interscience.wiley.com/journal/123264262/abstract">
+          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2699.2009.02256.x">
             {" "}
-            fulltext on Wiley InterScience
+            fulltext pdf file
           </a>
         </li>
         <li>
@@ -627,7 +627,7 @@ export const project2cz = {
           M., Otýpková Z., Roleček J., Řezníčková M., Šmarda P., Valachovič M., Popov D. &amp; Pišút
           I. (2008): Diversity of forest vegetation across a strong gradient of climatic
           continentality: Western Sayan Mountains, southern Siberia. Plant Ecology 196: 61-83. -  
-          <a href="http://www.springerlink.com/content/y22l371781tpp84u/?p=a16db4538a3e4981afc44672b848dc7d&pi=5">
+          <a href="https://link.springer.com/article/10.1007/s11258-007-9335-4">
             {" "}
             fulltext on SpringerLink
           </a>
@@ -654,7 +654,7 @@ export const project2cz = {
         <li>
           Danihelka J. &amp; Soják J. (2012): Potentilla x nebulosa (Rosaceae), a new intersectional
           nothospecies from the Altai Mountains. Turczaninowia 5: 5-8.- 
-          <a href="http://is.muni.cz/repo/1090827/turcz_15_4_5-8.pdf">fulltext in pdf</a>
+          <a href="http://is.muni.cz/repo/1090827/turcz_15_4_5-8.pdf">fulltext in pdf</a>{" "}
         </li>
         <li>
           Ermakov N., Chytrý M. &amp; Valachovič M. (2006): Vegetation of the rock outcrops and
@@ -696,7 +696,7 @@ export const project2cz = {
           Tichý L. (2010): Snail faunas in the Southern Ural forests and their relations to
           vegetation: an analogue of the Early Holocene assemblages of Central Europe? Journal of
           Molluscan Studies 76: 1-10. - 
-          <a href="http://mollus.oxfordjournals.org/cgi/content/abstract/eyp039">
+          <a href="https://academic.oup.com/mollus/article/76/1/1/1084149">
             {" "}
             fulltext on Oxford Journals
           </a>
@@ -717,7 +717,7 @@ export const project2cz = {
           M. (2010): Habitats of relict terrestrial snails in southern Siberia: lessons for the
           reconstruction of palaeoenvironments of full-glacial Europe. Journal of Biogeography 37:
           1450-1462. - 
-          <a href="http://www3.interscience.wiley.com/journal/123308137/abstract">
+          <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2699.2010.02280.x">
             {" "}
             fulltext in Wiley Online Library
           </a>
@@ -732,7 +732,7 @@ export const project2cz = {
           Kuneš P., Pelánková B., Chytrý M., Jankovská V., Pokorný P. &amp; Petr L. (2008):
           Interpretation of the last-glacial vegetation of eastern-central Europe using modern
           analogues from southern Siberia. Journal of Biogeography 35: 2223-2236. -
-          <a href="http://www3.interscience.wiley.com/journal/121381203/abstract">
+          <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2008.01974.x">
             {" "}
             fulltext on Wiley InterScience
           </a>
@@ -764,13 +764,13 @@ export const project2cz = {
         <li>
           Pavelková Řičánková V., Riegert J., Semančíková E., Hais M., Čejková A. &amp; Prach K.
           (2014): Habitat preferences in gray marmots (Marmota baibacina). Acta Theriologica 59:
-          317-324. - <a href="">fulltext in pdf</a>
+          317-324. - <a href="https://www.academia.edu/14618209/Habitat_preferences_in_gray_marmots_Marmota_baibacina_">fulltext in pdf</a>
         </li>
         <li>
           Pavelková Řičánková V., Robovský J. &amp; Riegert J. (2014): Ecological Structure of
           Recent and Last Glacial Mammalian Faunas in Northern Eurasia: The Case of Altai-Sayan
           Refugium. PLoS ONE 9: e85056. - 
-          <a href="http://botzool.sci.muni.cz/pubs/Pavelkova-Ricankova_etal2014_Acta-Theriol.pdf">
+          <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085056">
             {" "}
             fulltext in pdf
           </a>
@@ -788,7 +788,7 @@ export const project2cz = {
           Pelánková B. &amp; Chytrý M. (2009): Surface pollen-vegetation relationships in the
           forest- steppe, taiga and tundra landscapes of the Russian Altai Mountains. Review of
           Palaeobotany and Palynology 157: 253-265. - 
-          <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V6W-4W9XDX8-1&_user=835458&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000045159&_version=1&_urlVersion=0&_userid=835458&md5=6ad09d77faec844063c82978e222ca35">
+          <a href="https://www.sciencedirect.com/science/article/pii/S0034666709000906">
             {" "}
             fulltext on ScienceDirect
           </a>
