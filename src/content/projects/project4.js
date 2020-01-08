@@ -37,7 +37,7 @@ export const project4en = {
           Čeplová N., Lososová Z., Zelený D., Chytrý M., Danihelka J., Fajmon K., Láníková D.,
           Preislerová Z., Řehořek V. &amp; Tichý L. (2015): Phylogenetic diversity of central-
           European urban plant communities: effects of alien species and habitat types. Preslia 87:
-          1–16.
+          1–16. -{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Ceplova_etal2015_Preslia.pdf">
             fulltext in PDF
           </a>
@@ -66,7 +66,7 @@ export const project4en = {
           Lososová Z., Čeplová N., Chytrý M., Tichý L., Danihelka J., Fajmon K., Láníková D.,
           Preislerová Z. & Řehořek V. (2016): Is phylogenetic diversity a good proxy for functional
           diversity of plant communities? A case study from urban habitats. Journal of Vegetation
-          Science 27: 1036-1046.-{" "}
+          Science 27: 1036-1046. -{" "}
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/jvs.12414/epdf">
             fulltext in Wiley Online Library
           </a>
@@ -129,7 +129,7 @@ export const project4cz = {
           Čeplová N., Lososová Z., Zelený D., Chytrý M., Danihelka J., Fajmon K., Láníková D.,
           Preislerová Z., Řehořek V. &amp; Tichý L. (2015): Phylogenetic diversity of central-
           European urban plant communities: effects of alien species and habitat types. Preslia 87:
-          1–16.
+          1–16. -{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Ceplova_etal2015_Preslia.pdf">
             fulltext in PDF
           </a>
@@ -158,7 +158,7 @@ export const project4cz = {
           Lososová Z., Čeplová N., Chytrý M., Tichý L., Danihelka J., Fajmon K., Láníková D.,
           Preislerová Z. & Řehořek V. (2016): Is phylogenetic diversity a good proxy for functional
           diversity of plant communities? A case study from urban habitats. Journal of Vegetation
-          Science 27: 1036-1046.-{" "}
+          Science 27: 1036-1046. -{" "}
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/jvs.12414/epdf">
             fulltext in Wiley Online Library
           </a>
@@ -171,7 +171,7 @@ export const project4cz = {
             fulltext in Wiley Online Library
           </a>
         </li>
-        <h4>popularizační články</h4>
+        <h4>Popularizační články</h4>
         <li>
           Lososová Z., Chytrý M. & Pyšek P. (2018): Známe odpověď na Darwinovu naturalizační
           hádanku? Živa 5: 229-230. -{" "}
