@@ -165,8 +165,10 @@ export const en = {
           </li>
           <li>
             Frey W., Frahm J. P., Fischer E. & Lobin W. (1995): Die Moos- und Farnpflanzen Europas.
-            G. Fischer, Stuttgart. ⦁ Hennekens S.M. & Schaminée J.H.J. (2001): TURBOVEG, a
-            comprehensive data base management system for vegetation data. Journal of Vegetation
+            G. Fischer, Stuttgart.
+		  </li>
+		  <li>
+			Hennekens S.M. & Schaminée J.H.J. (2001): TURBOVEG, a comprehensive data base management system for vegetation data. Journal of Vegetation
             Science, 12: 589–591.{" "}
             <a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">
               [pdf]
