@@ -45,11 +45,10 @@ export const en = {
           European Vegetation Archive
         </a>
         ) a sPlot (
-        <a target="_blanc" href="https://www.idiv.de/sdiv/working_groups/wg_pool/splot.html">
+        <a target="_blanc" href="https://www.idiv.de/en/splot.html">
           the Global Vegetation Database
         </a>
-        ). Floristická data z fytocenologických snímků uložených v České národní fytocenologické
-        databázi jsou veřejně dostupná na webovém portálu{" "}
+        ). Floristická data z fytocenologických snímků uložených v ČNFD jsou veřejně dostupná na webovém portálu{" "}
         <a target="_blanc" href="https://pladias.cz/">
           PLADIAS
         </a>{" "}
@@ -65,9 +64,9 @@ export const en = {
         centrální databázi. Hlavní koordinátoři databáze jsou Milan Chytrý (
         <MailEmoji mail="chytry@sci.muni.cz" />) a Ilona Knollová (
         <MailEmoji mail="ikuzel@sci.muni.cz" />
-        ),
+        ),  
         {/* TODO: link na koordinatory */}
-         lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
+          lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
       </p>
       <p>
@@ -100,8 +99,11 @@ export const en = {
       <p>
         Doporučená citace ČNFD: <br />
         <cite>
-          Chytrý M. & Rafajová M. (2003): Czech National Phytosociological database: basic
-          statistics of the available vegetation-plot data. Preslia 75: 1–15.
+          Chytrý M. & Rafajová M. (2003): Czech National Phytosociological Database: basic
+          statistics of the available vegetation-plot data. Preslia 75: 1–15. {" "}
+            <a target="_blanc" href="http://www.sci.muni.cz/botany/chytry/Pre2003.pdf">
+              [pdf]
+            </a>
         </cite>
       </p>
     </div>
@@ -511,7 +513,7 @@ export const cz = {
         centrální databázi. Hlavní koordinátoři databáze jsou Milan Chytrý (
         <MailEmoji mail="chytry@sci.muni.cz" />) a Ilona Knollová (
         <MailEmoji mail="ikuzel@sci.muni.cz" />
-        ),
+        ), 
         {/* TODO: link na koordinatory */}
          lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
@@ -545,9 +547,12 @@ export const cz = {
       </p>
       <p>
         Doporučená citace ČNFD: <br />
-        <cite>
-          Chytrý M. & Rafajová M. (2003): Czech National Phytosociological database: basic
-          statistics of the available vegetation-plot data. Preslia 75: 1–15.
+                <cite>
+          Chytrý M. & Rafajová M. (2003): Czech National Phytosociological Database: basic
+          statistics of the available vegetation-plot data. Preslia 75: 1–15. {" "}
+            <a target="_blanc" href="http://www.sci.muni.cz/botany/chytry/Pre2003.pdf">
+              [pdf]
+            </a>
         </cite>
       </p>
     </div>

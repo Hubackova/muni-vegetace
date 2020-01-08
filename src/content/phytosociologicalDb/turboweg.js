@@ -183,7 +183,10 @@ export const en = {
           </li>
           <li>
             Pišút I., Lackovicová A. & Lisická E. (1993): Súpis lišajníkov Slovenska. Biológia, 48,
-            Suppl. 1: 53–98. ⦁ Schaminée J.H.J., Hennekens S.M., Chytrý M. & Rodwell J.S. (2009):
+            Suppl. 1: 53–98.
+		  </li>
+		  <li>
+			Schaminée J.H.J., Hennekens S.M., Chytrý M. & Rodwell J.S. (2009):
             Vegetation-plot data and databases in Europe: an overview. Preslia, 81: 173–185.
             <a target="_blanc" href="http://www.preslia.cz/P093Schaminee.pdf">
               [pdf]

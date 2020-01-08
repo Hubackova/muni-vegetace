@@ -1,7 +1,6 @@
 import smerdova from "../../static/images/people/smerdova.jpg";
 import drevojan from "../../static/images/people/drevojan.jpg";
 import lososova from "../../static/images/people/lososova.jpg";
-import bonari from "../../static/images/people/bonari.jpg";
 import divisek from "../../static/images/people/divisek.jpg";
 import jaskova from "../../static/images/people/jaskova.jpg";
 import rolecek from "../../static/images/people/rolecek.jpg";
