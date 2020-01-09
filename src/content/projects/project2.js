@@ -52,18 +52,18 @@ export const project2en = {
         <li>University of New Mexico, Albuquerque: Jeffrey Nekola</li>
         <li>
           University of South Bohemia, České Budějovice: Martin Hais, Jan Novák, Věra Pavelková
-          Řičánková, Jan Robovský`
+          Řičánková, Jan Robovský
         </li>
       </div>
       <br />
       <div>
         <h3>Funding</h3>
         <li>
-          2003-2007: Grant Agency of the Academy of Sciences of the Czech Republic, project
+          2003–2007: Grant Agency of the Academy of Sciences of the Czech Republic, project
           IAA6163303
         </li>
-        <li>2008-2010: Ministry of Education of the Czech Republic, project MSM0021622416</li>
-        <li>2011-2015: Czech Science Foundation, project P504-11-0454`</li>
+        <li>2008–2010: Ministry of Education of the Czech Republic, project MSM0021622416</li>
+        <li>2011–2015: Czech Science Foundation, project P504-11-0454</li>
       </div>
       <br />
       <div>
@@ -171,7 +171,7 @@ export const project2en = {
         <li>
           Axmanová I., Chytrý M., Danihelka J., Lustyk P., Kočí M., Kubešová S., Horsák M., Cherosov
           M.M. &amp; Gogoleva P.A. (2013): Plant species richness-productivity relationships in a
-          low-productive boreal region. Plant Ecology 214: 207-219.- 
+          low-productive boreal region. Plant Ecology 214: 207–219. - 
           <a href="http://link.springer.com/article/10.1007%2Fs11258-012-0160-z">
             {" "}
             fulltext on SpringerLink
@@ -181,7 +181,7 @@ export const project2en = {
           Axmanová I., Chytrý M., Zelený D., Li C.-F., Vymazalová M., Danihelka J., Horsák M., Kočí
           M., Kubešová S., Lososová Z., Otýpková Z., Tichý L., Martynenko V.B., Baisheva E.Z.,
           Schuster B. &amp; Diekmann M. (2012): The species richness-productivity relationship in
-          the herb layer of European deciduous forests. Global Ecology and Biogeography 21: 657-
+          the herb layer of European deciduous forests. Global Ecology and Biogeography 21: 657–
           667. - 
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00707.x/abstract">
             {" "}
@@ -200,7 +200,7 @@ export const project2en = {
           Chytrý M., Danihelka J., Ermakov N., Hájek M., Hájková P., Kočí M., Kubešová S., Lustyk
           P., Otýpková Z., Popov D., Roleček J., Řezníčková M., Šmarda P. &amp; Valachovič M.
           (2007): Plant species richness in continental southern Siberia: effects of pH and climate
-          in the context of the species pool hypothesis. Global Ecology and Biogeography 16: 668-
+          in the context of the species pool hypothesis. Global Ecology and Biogeography 16: 668–
           678. - 
           <a href="https://www.academia.edu/14005392/Plant_species_richness_in_continental_southern_Siberia_effects_of_pH_and_climate_in_the_context_of_the_species_pool_hypothesis">
             {" "}
@@ -211,7 +211,7 @@ export const project2en = {
           Chytrý M., Danihelka J., Horsák M., Kočí M., Kubešová S., Lososová Z., Otýpková Z., Tichý
           L., Martynenko V.B. &amp; Baisheva E.Z. (2010): Modern analogues from the Southern Urals
           provide insights into biodiversity change in the early Holocene forests of Central
-          Europe. Journal of Biogeography 37: 767-780. - 
+          Europe. Journal of Biogeography 37: 767–780. - 
           <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2699.2009.02256.x">
             {" "}
             fulltext pdf file
@@ -221,7 +221,7 @@ export const project2en = {
           Chytrý M., Danihelka J., Kubešová S., Lustyk P., Ermakov N., Hájek M., Hájková P., Kočí
           M., Otýpková Z., Roleček J., Řezníčková M., Šmarda P., Valachovič M., Popov D. &amp; Pišút
           I. (2008): Diversity of forest vegetation across a strong gradient of climatic
-          continentality: Western Sayan Mountains, southern Siberia. Plant Ecology 196: 61-83. -  
+          continentality: Western Sayan Mountains, southern Siberia. Plant Ecology 196: 61–83. -  
           <a href="https://link.springer.com/article/10.1007/s11258-007-9335-4">
             {" "}
             fulltext on SpringerLink
@@ -231,7 +231,7 @@ export const project2en = {
           Chytrý M., Ermakov N., Danihelka J., Hájek M., Hájková P., Horsák M., Kočí M., Kubešová
           S., Lustyk P., Otýpková Z., Pelánková B., Valachovič M. &amp; Zelený D. (2012): High
           species richness in hemiboreal forests of the northern Russian Altai, southern
-          Siberia. Journal of Vegetation Science 23: 605-616. - 
+          Siberia. Journal of Vegetation Science 23: 605–616. - 
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1654-1103.2011.01383.x/abstract">
             {" "}
             fulltext in Wiley Online Library
@@ -240,7 +240,7 @@ export const project2en = {
         <li>
           Chytrý M., Pešout P. &amp; Anenchonov O.A. (1993): Syntaxonomy of vegetation of Svjatoj
           Nos Peninsula, Lake Baikal. 1. Non forest communities. Folia Geobotanica et
-          Phytotaxonomica. Folia Geobotanica et Phytotaxonomica 28: 337-383 - 
+          Phytotaxonomica. Folia Geobotanica et Phytotaxonomica 28: 337–383. - 
           <a href="http://www.sci.muni.cz/botany/chytry/Chytry_etal1993_Folia-Geobot.pdf">
             {" "}
             fulltex in pdf
@@ -248,13 +248,13 @@ export const project2en = {
         </li>
         <li>
           Danihelka J. &amp; Soják J. (2012): Potentilla x nebulosa (Rosaceae), a new intersectional
-          nothospecies from the Altai Mountains. Turczaninowia 5: 5-8.- 
+          nothospecies from the Altai Mountains. Turczaninowia 5: 5–8. - 
           <a href="http://is.muni.cz/repo/1090827/turcz_15_4_5-8.pdf">fulltext in pdf</a>{" "}
         </li>
         <li>
           Ermakov N., Chytrý M. &amp; Valachovič M. (2006): Vegetation of the rock outcrops and
           screes in the forest-steppe and steppe belts of the Altai and Western Sayan Mts., southern
-          Siberia. Phytocoenologia 36: 509-545. - 
+          Siberia. Phytocoenologia 36: 509–545. - 
           <a href="http://www.ingentaconnect.com/content/schweiz/phyt/2006/00000036/00000004/art00002">
             {" "}
             fulltext on IngentaConnect
@@ -263,7 +263,7 @@ export const project2en = {
         <li>
           Hais M., Komprdová K., Ermakov N. &amp; Chytrý M. (2015): Modelling the Last Glacial
           Maximum environments for a refugium of Pleistocene biota in the Russian Altai Mountains,
-          Siberia. Palaeogeography, Palaeoclimatology, Palaeoecology 438: 135-145. -
+          Siberia. Palaeogeography, Palaeoclimatology, Palaeoecology 438: 135–145. -
           <a href="http://www.sciencedirect.com/science/article/pii/S0031018215004137">
             {" "}
             fulltext on ScienceDirect
@@ -280,7 +280,7 @@ export const project2en = {
         <li>
           Horsák M., Chytrý M. &amp; Axmanová I. (2013): Exceptionally poor land snail fauna of
           central Yakutia (NE Russia): climatic and habitat determinants of species richness. Polar
-          Biology 36: 185-191. - 
+          Biology 36: 185–191. - 
           <a href="http://link.springer.com/article/10.1007%2Fs00300-012-1249-5">
             {" "}
             fulltext on SpringerLink
@@ -290,7 +290,7 @@ export const project2en = {
           Horsák M., Chytrý M., Danihelka J., Kočí M., Kubešová S., Lososová Z., Otýpková Z. &amp;
           Tichý L. (2010): Snail faunas in the Southern Ural forests and their relations to
           vegetation: an analogue of the Early Holocene assemblages of Central Europe? Journal of
-          Molluscan Studies 76: 1-10. - 
+          Molluscan Studies 76: 1–10. - 
           <a href="https://academic.oup.com/mollus/article/76/1/1/1084149">
             {" "}
             fulltext on Oxford Journals
@@ -300,7 +300,7 @@ export const project2en = {
           Horsák M., Chytrý M., Hájková P., Hájek M., Danihelka J., Horsáková V., Ermakov N., German
           D.A., Kočí M., Lustyk P., Nekola J.C., Preislerová Z. &amp; Valachovič M. (2015): European
           glacial relict snails and plants: environmental context of their modern refugial
-          occurrence in southern Siberia. Boreas 44: 638-657. - 
+          occurrence in southern Siberia. Boreas 44: 638–657. - 
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/bor.12133/abstract">
             {" "}
             fulltext on Wiley Online Library
@@ -311,7 +311,7 @@ export const project2en = {
           Kintrová K., Kočí M., Kubešová S., Lustyk P., Otýpková Z., Pelánková B. &amp; Valachovič
           M. (2010): Habitats of relict terrestrial snails in southern Siberia: lessons for the
           reconstruction of palaeoenvironments of full-glacial Europe. Journal of Biogeography 37:
-          1450-1462. - 
+          1450–1462. - 
           <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2699.2010.02280.x">
             {" "}
             fulltext in Wiley Online Library
@@ -320,13 +320,13 @@ export const project2en = {
         <li>
           Horsák M. &amp; Pokryszko B.M. (2010): Vertigo botanicorum sp. nov. (Gastropoda:
           Pulmonata: Vertiginidae)-a new whorl-snail from the Russian Altai Mountains. Zootaxa 2634:
-          57-62. - 
+          57–62. - 
           <a href="http://www.mapress.com/zootaxa/2010/f/z02634p062f.pdf">fulltext in pdf</a>{" "}
         </li>
         <li>
           Kuneš P., Pelánková B., Chytrý M., Jankovská V., Pokorný P. &amp; Petr L. (2008):
           Interpretation of the last-glacial vegetation of eastern-central Europe using modern
-          analogues from southern Siberia. Journal of Biogeography 35: 2223-2236. -
+          analogues from southern Siberia. Journal of Biogeography 35: 2223–2236. -
           <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2008.01974.x">
             {" "}
             fulltext on Wiley InterScience
@@ -335,7 +335,7 @@ export const project2en = {
         <li>
           Magyari E.K., Kuneš P., Jakab G., Sümegi P., Pelánková B., Schäbitz F., Braun M. &amp;
           Chytrý M. (2014): Late Pleniglacial vegetation in eastern-central Europe: are there modern
-          analogues in Siberia? Quaternary Science Reviews 95: 60-79. -
+          analogues in Siberia? Quaternary Science Reviews 95: 60–79. -
           <a href="http://www.sciencedirect.com/science/article/pii/S0277379114001449">
             {" "}
             fulltext in ScienceDirect
@@ -344,7 +344,7 @@ export const project2en = {
         <li>
           Nekola J.C., Coles B.F. &amp; Horsák M. (2015): Species assignment in Pupilla(Gastropoda:
           Pulmonata: Pupillidae): integration of DNA-sequence data and conchology. Journal of
-          Molluscan Studies 81: 196-216. - 
+          Molluscan Studies 81: 196–216. - 
           <a href="http://mollus.oxfordjournals.org/content/early/2014/12/20/mollus.eyu083">
             {" "}
             fulltext on Oxford Journals
@@ -353,13 +353,13 @@ export const project2en = {
         <li>
           Novák J., Trotsiuk V., Sýkora O., Svoboda M. &amp; Chytrý M. (2014): Ecology of Tilia
           sibirica in a continental hemiboreal forest, southern Siberia: An analogue of a glacial
-          refugium of broad-leaved temperate trees? The Holocene 24: 908-918. -
+          refugium of broad-leaved temperate trees? The Holocene 24: 908–918. -
           <a href="http://hol.sagepub.com/content/24/8/908">fulltext in SAGE Journals</a>
         </li>
         <li>
           Pavelková Řičánková V., Riegert J., Semančíková E., Hais M., Čejková A. &amp; Prach K.
           (2014): Habitat preferences in gray marmots (Marmota baibacina). Acta Theriologica 59:
-          317-324. - <a href="https://www.academia.edu/14618209/Habitat_preferences_in_gray_marmots_Marmota_baibacina_">fulltext in pdf</a>
+          317–324. - <a href="https://www.academia.edu/14618209/Habitat_preferences_in_gray_marmots_Marmota_baibacina_">fulltext in pdf</a>
         </li>
         <li>
           Pavelková Řičánková V., Robovský J. &amp; Riegert J. (2014): Ecological Structure of
@@ -382,7 +382,7 @@ export const project2en = {
         <li>
           Pelánková B. &amp; Chytrý M. (2009): Surface pollen-vegetation relationships in the
           forest- steppe, taiga and tundra landscapes of the Russian Altai Mountains. Review of
-          Palaeobotany and Palynology 157: 253-265. - 
+          Palaeobotany and Palynology 157: 253–265. - 
           <a href="https://www.sciencedirect.com/science/article/pii/S0034666709000906">
             {" "}
             fulltext on ScienceDirect
@@ -392,7 +392,7 @@ export const project2en = {
           Pelánková B., Kuneš P., Chytrý M., Jankovská V., Ermakov N. &amp; Svobodová-Svitavská H.
           (2008): The relationships of modern pollen spectra to vegetation and climate along a
           steppe-forest-tundra transition in southern Siberia, explored by decision trees. The
-          Holocene 18: 1259-1271. - 
+          Holocene 18: 1259–1271. - 
           <a href="http://hol.sagepub.com/cgi/content/abstract/18/8/1259">
             {" "}
             fulltext on Sage Journals Online
@@ -400,7 +400,7 @@ export const project2en = {
         </li>
         <li>
           Soják J., Danihelka J. &amp; Hájek M. (2011): Potentilla turkestanica, a rare species new
-          to the flora of Russia. Turczaninowia 14: 101-105. - 
+          to the flora of Russia. Turczaninowia 14: 101–105. - 
           <a href="http://www.sci.muni.cz/botany/vz/pdf/Sojak_Danihelka_Hajek_2011_Potentilla_turkestanica_turcz_14_2_101-105.pdf">
             {" "}
             fulltext in pdf
@@ -460,15 +460,15 @@ export const project2cz = {
         <li>University of New Mexico, Albuquerque: Jeffrey Nekola</li>
         <li>
           Jihočeská univerzita, České Budějovice: Martin Hais, Jan Novák, Věra Pavelková Řičánková,
-          Jan Robovský`
+          Jan Robovský
         </li>
       </div>
       <br />
       <div>
         <h3>Finanční podpora</h3>
-        <li>2003-2007: Grantová agentura Akademie věd ČR, projekt IAA6163303</li>
-        <li>2008-2010: MŠMT, projekt MSM0021622416</li>
-        <li>2011-2015: Grantová agentura České republiky, projekt P504-11-0454`</li>
+        <li>2003–2007: Grantová agentura Akademie věd ČR, projekt IAA6163303</li>
+        <li>2008–2010: MŠMT, projekt MSM0021622416</li>
+        <li>2011–2015: Grantová agentura České republiky, projekt P504-11-0454</li>
       </div>
       <br />
       <div>
@@ -576,7 +576,7 @@ export const project2cz = {
         <li>
           Axmanová I., Chytrý M., Danihelka J., Lustyk P., Kočí M., Kubešová S., Horsák M., Cherosov
           M.M. &amp; Gogoleva P.A. (2013): Plant species richness-productivity relationships in a
-          low-productive boreal region. Plant Ecology 214: 207-219.- 
+          low-productive boreal region. Plant Ecology 214: 207–219. - 
           <a href="http://link.springer.com/article/10.1007%2Fs11258-012-0160-z">
             {" "}
             fulltext on SpringerLink
@@ -586,7 +586,7 @@ export const project2cz = {
           Axmanová I., Chytrý M., Zelený D., Li C.-F., Vymazalová M., Danihelka J., Horsák M., Kočí
           M., Kubešová S., Lososová Z., Otýpková Z., Tichý L., Martynenko V.B., Baisheva E.Z.,
           Schuster B. &amp; Diekmann M. (2012): The species richness-productivity relationship in
-          the herb layer of European deciduous forests. Global Ecology and Biogeography 21: 657-
+          the herb layer of European deciduous forests. Global Ecology and Biogeography 21: 657–
           667. - 
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00707.x/abstract">
             {" "}
@@ -605,7 +605,7 @@ export const project2cz = {
           Chytrý M., Danihelka J., Ermakov N., Hájek M., Hájková P., Kočí M., Kubešová S., Lustyk
           P., Otýpková Z., Popov D., Roleček J., Řezníčková M., Šmarda P. &amp; Valachovič M.
           (2007): Plant species richness in continental southern Siberia: effects of pH and climate
-          in the context of the species pool hypothesis. Global Ecology and Biogeography 16: 668-
+          in the context of the species pool hypothesis. Global Ecology and Biogeography 16: 668–
           678. - 
           <a href="https://www.academia.edu/14005392/Plant_species_richness_in_continental_southern_Siberia_effects_of_pH_and_climate_in_the_context_of_the_species_pool_hypothesis">
             {" "}
@@ -616,7 +616,7 @@ export const project2cz = {
           Chytrý M., Danihelka J., Horsák M., Kočí M., Kubešová S., Lososová Z., Otýpková Z., Tichý
           L., Martynenko V.B. &amp; Baisheva E.Z. (2010): Modern analogues from the Southern Urals
           provide insights into biodiversity change in the early Holocene forests of Central
-          Europe. Journal of Biogeography 37: 767-780. - 
+          Europe. Journal of Biogeography 37: 767–780. - 
           <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2699.2009.02256.x">
             {" "}
             fulltext pdf file
@@ -626,7 +626,7 @@ export const project2cz = {
           Chytrý M., Danihelka J., Kubešová S., Lustyk P., Ermakov N., Hájek M., Hájková P., Kočí
           M., Otýpková Z., Roleček J., Řezníčková M., Šmarda P., Valachovič M., Popov D. &amp; Pišút
           I. (2008): Diversity of forest vegetation across a strong gradient of climatic
-          continentality: Western Sayan Mountains, southern Siberia. Plant Ecology 196: 61-83. -  
+          continentality: Western Sayan Mountains, southern Siberia. Plant Ecology 196: 61–83. -  
           <a href="https://link.springer.com/article/10.1007/s11258-007-9335-4">
             {" "}
             fulltext on SpringerLink
@@ -636,7 +636,7 @@ export const project2cz = {
           Chytrý M., Ermakov N., Danihelka J., Hájek M., Hájková P., Horsák M., Kočí M., Kubešová
           S., Lustyk P., Otýpková Z., Pelánková B., Valachovič M. &amp; Zelený D. (2012): High
           species richness in hemiboreal forests of the northern Russian Altai, southern
-          Siberia. Journal of Vegetation Science 23: 605-616. - 
+          Siberia. Journal of Vegetation Science 23: 605–616. - 
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1654-1103.2011.01383.x/abstract">
             {" "}
             fulltext in Wiley Online Library
@@ -645,7 +645,7 @@ export const project2cz = {
         <li>
           Chytrý M., Pešout P. &amp; Anenchonov O.A. (1993): Syntaxonomy of vegetation of Svjatoj
           Nos Peninsula, Lake Baikal. 1. Non forest communities. Folia Geobotanica et
-          Phytotaxonomica. Folia Geobotanica et Phytotaxonomica 28: 337-383 - 
+          Phytotaxonomica. Folia Geobotanica et Phytotaxonomica 28: 337–383. - 
           <a href="http://www.sci.muni.cz/botany/chytry/Chytry_etal1993_Folia-Geobot.pdf">
             {" "}
             fulltex in pdf
@@ -659,7 +659,7 @@ export const project2cz = {
         <li>
           Ermakov N., Chytrý M. &amp; Valachovič M. (2006): Vegetation of the rock outcrops and
           screes in the forest-steppe and steppe belts of the Altai and Western Sayan Mts., southern
-          Siberia. Phytocoenologia 36: 509-545. - 
+          Siberia. Phytocoenologia 36: 509–545. - 
           <a href="http://www.ingentaconnect.com/content/schweiz/phyt/2006/00000036/00000004/art00002">
             {" "}
             fulltext on IngentaConnect
@@ -668,7 +668,7 @@ export const project2cz = {
         <li>
           Hais M., Komprdová K., Ermakov N. &amp; Chytrý M. (2015): Modelling the Last Glacial
           Maximum environments for a refugium of Pleistocene biota in the Russian Altai Mountains,
-          Siberia. Palaeogeography, Palaeoclimatology, Palaeoecology 438: 135-145. -
+          Siberia. Palaeogeography, Palaeoclimatology, Palaeoecology 438: 135–145. -
           <a href="http://www.sciencedirect.com/science/article/pii/S0031018215004137">
             {" "}
             fulltext on ScienceDirect
@@ -685,7 +685,7 @@ export const project2cz = {
         <li>
           Horsák M., Chytrý M. &amp; Axmanová I. (2013): Exceptionally poor land snail fauna of
           central Yakutia (NE Russia): climatic and habitat determinants of species richness. Polar
-          Biology 36: 185-191. - 
+          Biology 36: 185–191. - 
           <a href="http://link.springer.com/article/10.1007%2Fs00300-012-1249-5">
             {" "}
             fulltext on SpringerLink
@@ -695,7 +695,7 @@ export const project2cz = {
           Horsák M., Chytrý M., Danihelka J., Kočí M., Kubešová S., Lososová Z., Otýpková Z. &amp;
           Tichý L. (2010): Snail faunas in the Southern Ural forests and their relations to
           vegetation: an analogue of the Early Holocene assemblages of Central Europe? Journal of
-          Molluscan Studies 76: 1-10. - 
+          Molluscan Studies 76: 1–10. - 
           <a href="https://academic.oup.com/mollus/article/76/1/1/1084149">
             {" "}
             fulltext on Oxford Journals
@@ -705,7 +705,7 @@ export const project2cz = {
           Horsák M., Chytrý M., Hájková P., Hájek M., Danihelka J., Horsáková V., Ermakov N., German
           D.A., Kočí M., Lustyk P., Nekola J.C., Preislerová Z. &amp; Valachovič M. (2015): European
           glacial relict snails and plants: environmental context of their modern refugial
-          occurrence in southern Siberia. Boreas 44: 638-657. - 
+          occurrence in southern Siberia. Boreas 44: 638–657. - 
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/bor.12133/abstract">
             {" "}
             fulltext on Wiley Online Library
@@ -716,7 +716,7 @@ export const project2cz = {
           Kintrová K., Kočí M., Kubešová S., Lustyk P., Otýpková Z., Pelánková B. &amp; Valachovič
           M. (2010): Habitats of relict terrestrial snails in southern Siberia: lessons for the
           reconstruction of palaeoenvironments of full-glacial Europe. Journal of Biogeography 37:
-          1450-1462. - 
+          1450–1462. - 
           <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2699.2010.02280.x">
             {" "}
             fulltext in Wiley Online Library
@@ -725,13 +725,13 @@ export const project2cz = {
         <li>
           Horsák M. &amp; Pokryszko B.M. (2010): Vertigo botanicorum sp. nov. (Gastropoda:
           Pulmonata: Vertiginidae)-a new whorl-snail from the Russian Altai Mountains. Zootaxa 2634:
-          57-62. - 
+          57–62. - 
           <a href="http://www.mapress.com/zootaxa/2010/f/z02634p062f.pdf">fulltext in pdf</a>{" "}
         </li>
         <li>
           Kuneš P., Pelánková B., Chytrý M., Jankovská V., Pokorný P. &amp; Petr L. (2008):
           Interpretation of the last-glacial vegetation of eastern-central Europe using modern
-          analogues from southern Siberia. Journal of Biogeography 35: 2223-2236. -
+          analogues from southern Siberia. Journal of Biogeography 35: 2223–2236. -
           <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2008.01974.x">
             {" "}
             fulltext on Wiley InterScience
@@ -740,7 +740,7 @@ export const project2cz = {
         <li>
           Magyari E.K., Kuneš P., Jakab G., Sümegi P., Pelánková B., Schäbitz F., Braun M. &amp;
           Chytrý M. (2014): Late Pleniglacial vegetation in eastern-central Europe: are there modern
-          analogues in Siberia? Quaternary Science Reviews 95: 60-79. -
+          analogues in Siberia? Quaternary Science Reviews 95: 60–79. -
           <a href="http://www.sciencedirect.com/science/article/pii/S0277379114001449">
             {" "}
             fulltext in ScienceDirect
@@ -749,7 +749,7 @@ export const project2cz = {
         <li>
           Nekola J.C., Coles B.F. &amp; Horsák M. (2015): Species assignment in Pupilla(Gastropoda:
           Pulmonata: Pupillidae): integration of DNA-sequence data and conchology. Journal of
-          Molluscan Studies 81: 196-216. - 
+          Molluscan Studies 81: 196–216. - 
           <a href="http://mollus.oxfordjournals.org/content/early/2014/12/20/mollus.eyu083">
             {" "}
             fulltext on Oxford Journals
@@ -758,13 +758,13 @@ export const project2cz = {
         <li>
           Novák J., Trotsiuk V., Sýkora O., Svoboda M. &amp; Chytrý M. (2014): Ecology of Tilia
           sibirica in a continental hemiboreal forest, southern Siberia: An analogue of a glacial
-          refugium of broad-leaved temperate trees? The Holocene 24: 908-918. -
+          refugium of broad-leaved temperate trees? The Holocene 24: 908–918. -
           <a href="http://hol.sagepub.com/content/24/8/908">fulltext in SAGE Journals</a>
         </li>
         <li>
           Pavelková Řičánková V., Riegert J., Semančíková E., Hais M., Čejková A. &amp; Prach K.
           (2014): Habitat preferences in gray marmots (Marmota baibacina). Acta Theriologica 59:
-          317-324. - <a href="https://www.academia.edu/14618209/Habitat_preferences_in_gray_marmots_Marmota_baibacina_">fulltext in pdf</a>
+          317–324. - <a href="https://www.academia.edu/14618209/Habitat_preferences_in_gray_marmots_Marmota_baibacina_">fulltext in pdf</a>
         </li>
         <li>
           Pavelková Řičánková V., Robovský J. &amp; Riegert J. (2014): Ecological Structure of
@@ -787,7 +787,7 @@ export const project2cz = {
         <li>
           Pelánková B. &amp; Chytrý M. (2009): Surface pollen-vegetation relationships in the
           forest- steppe, taiga and tundra landscapes of the Russian Altai Mountains. Review of
-          Palaeobotany and Palynology 157: 253-265. - 
+          Palaeobotany and Palynology 157: 253–265. - 
           <a href="https://www.sciencedirect.com/science/article/pii/S0034666709000906">
             {" "}
             fulltext on ScienceDirect
@@ -797,7 +797,7 @@ export const project2cz = {
           Pelánková B., Kuneš P., Chytrý M., Jankovská V., Ermakov N. &amp; Svobodová-Svitavská H.
           (2008): The relationships of modern pollen spectra to vegetation and climate along a
           steppe-forest-tundra transition in southern Siberia, explored by decision trees. The
-          Holocene 18: 1259-1271. - 
+          Holocene 18: 1259–1271. - 
           <a href="http://hol.sagepub.com/cgi/content/abstract/18/8/1259">
             {" "}
             fulltext on Sage Journals Online
@@ -805,7 +805,7 @@ export const project2cz = {
         </li>
         <li>
           Soják J., Danihelka J. &amp; Hájek M. (2011): Potentilla turkestanica, a rare species new
-          to the flora of Russia. Turczaninowia 14: 101-105. - 
+          to the flora of Russia. Turczaninowia 14: 101–105. - 
           <a href="http://www.sci.muni.cz/botany/vz/pdf/Sojak_Danihelka_Hajek_2011_Potentilla_turkestanica_turcz_14_2_101-105.pdf">
             {" "}
             fulltext in pdf
@@ -816,36 +816,36 @@ export const project2cz = {
           <h3>Popularizační články</h3>
         </div>
         <li>
-          Kubešová S. (2015): Kazachstánem od severu na jih. M Revue 2015(2): 62-65. -{" "}
+          Kubešová S. (2015): Kazachstánem od severu na jih. M Revue 2015(2): 62–65. -{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Kubesova2015_Kazachstan.pdf">PDF</a>{" "}
         </li>
         <li>
           Chytrý M. (2012): Ekosystémy Sibiře: analogie zaniklé přírody střední Evropy. Živa 4:
-          186-188. - <a href="">PDF</a>
+          186–188. - <a href="">PDF</a>
         </li>
         <li>
           Chytrý M., Pavelková Řičánková V. & Horsák M. (2010): Kde dnes znamená včera. Jihosibiřské
-          refugium doby ledové. Vesmír 89: 526-530. -{" "}
+          refugium doby ledové. Vesmír 89: 526–530. -{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Chytry2012_Ziva_Sibir.pdf">PDF</a>
         </li>
         <li>
           Horsák M. & Chytrý M. (2010): Krajiny zamrzlé v čase I. Jižní Sibiř - současná analogie
-          střední Evropy v době ledové. Živa 2009: 118-120. -{" "}
+          střední Evropy v době ledové. Živa 2009: 118–120. -{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Horsak-Chytry2010ab_Ziva.pdf">PDF</a>
         </li>
         <li>
           Horsák M. & Chytrý M. (2010): Krajiny zamrzlé v čase II. Jižní Ural - současná analogie
-          střední Evropy ve starém a středním holocénu. Živa 2010: 166-168. -{" "}
+          střední Evropy ve starém a středním holocénu. Živa 2010: 166–168. -{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Horsak-Chytry2010ab_Ziva.pdf">PDF</a>
         </li>
         <li>
           Kuneš P. (2008): Předneolitická krajina, vegetace a role moderního člověka ve střední
-          Evropě. Živa 2008: 146-150. -{" "}
+          Evropě. Živa 2008: 146–150. -{" "}
           <a href="http://www.sci.muni.cz/botany/vz/pdf/Kunes2008_Ziva.pdf">PDF</a>
         </li>
         <li>
           Pokorný P. (2004): Velký bratr uděluje lekci. Sibiřské řešení záhady evropských ledových
-          dob. Vesmír 83: 276-281. -{" "}
+          dob. Vesmír 83: 276–281. -{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Pokorny2004_Vesmir.pdf">PDF</a>
         </li>
         <div>
