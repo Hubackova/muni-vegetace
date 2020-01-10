@@ -1,26 +1,17 @@
 export const galleryNames = [
-  { main: "excursions", subgalleries: ["trip2009", "zahranicni2018", "2019mohelno"] },
-  { main: "others" },
-  {
-    main: "abroad",
-    subgalleries: [
-      "2019macedonia",
-      "2018corsica",
-      "2017romania",
-      "2016albania",
-      "2015serbia",
-      "2014poland",
-      "2013sardinia",
-      "2012swiss",
-      "2011turkey"
-    ]
-  }
+  { main: "mohelno_2019" },
+  { main: "macedonia_2019" },
+  { main: "corsica_2018" },
+  { main: "romania_2017" },
+  { main: "albania_2016" },
+  { main: "serbia_2015" },
+  { main: "poland_2014" },
+  { main: "sardinia_2013" },
+  { main: "swiss_2012" },
+  { main: "turkey_2011" },
 ];
 
 export const galleryNamesCz = [
-  "Terenní exkurze",
-  "Ostatní",
-  "Zahraniční exkurze",
   "2019 Mohelno",
   "2019 Makedonie",
   "2018 Korsika",
@@ -30,12 +21,9 @@ export const galleryNamesCz = [
   "2014 Polsko",
   "2013 Sardinie",
   "2012 Švýcarsko",
-  "2011 Turecko"
+  "2011 Turecko",
 ];
 export const galleryNamesEn = [
-  "Excursions",
-  "Other Photos",
-  "Excursions abroad",
   "2019 Mohelno", 
   "2019 Macedonia",
   "2018 Corsica",
