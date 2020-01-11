@@ -21,8 +21,7 @@ exports.createPages = ({ actions: { createPage } }) => {
       context: {
         slug: `gallery-${galleryItem}`,
         title: galleryItem,
-        imgsRegex: `/${galleryItem}_/`,
-        subImgsRegex: `/--${galleryItem}_/`
+        imgsRegex: `/${galleryItem}_/`
       }
     });
   });

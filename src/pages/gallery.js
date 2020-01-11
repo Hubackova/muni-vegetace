@@ -48,24 +48,13 @@ const PhotoGallery = ({ data }) => (
           i.node.fixed.src.includes(galleryName.main)
         );
 
-        const subgalleriesMainImgs =
-          galleryName.subgalleries &&
-          galleryName.subgalleries.length &&
-          galleryName.subgalleries.map(subgallery => {
-            return data.allImageSharp.edges.filter(img =>
-              img.node.fixed.src.includes(subgallery.key)
-            );
-          });
-
         return (
           <GalleryType
             key={galleryName.main}
             to={`/gallery-${pageNames[index].main}`}
             query={galleryName.main}
-            img={img[0].node.fixed}
+            img={img.length && img[0].node.fixed}
             heading={galleryNames[index]}
-            subgalleries={galleryName.subgalleries || []}
-            subgalleriesMainImgs={subgalleriesMainImgs}
           />
         );
       });
