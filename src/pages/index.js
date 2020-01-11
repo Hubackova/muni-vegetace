@@ -125,10 +125,13 @@ a {
 
 .phytoSocDb-thanksList {
   display: grid;
-  grid-template-columns: repeat(auto-fill, max-content) 30%;
+  grid-template-columns: 1fr  1fr 1fr;
   grid-column-gap: 2rem;
   li {
     white-space: nowrap;
+  }
+  @media (max-width: 780px) {
+    grid-template-columns: 1fr 1fr;
   }
   @media (max-width: 480px) {
     grid-template-columns: 1fr;
