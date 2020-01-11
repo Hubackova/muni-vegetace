@@ -47,13 +47,13 @@ const PhotoGallery = ({ data }) => (
         const img = data.allImageSharp.edges.filter(i =>
           i.node.fixed.src.includes(galleryName.main)
         );
-
+        if (img.length === 0) return null  
         return (
           <GalleryType
             key={galleryName.main}
             to={`/gallery-${pageNames[index].main}`}
             query={galleryName.main}
-            img={img.length && img[0].node.fixed}
+            img={img[0].node.fixed}
             heading={galleryNames[index]}
           />
         );
