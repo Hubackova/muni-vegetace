@@ -40,14 +40,14 @@ export const galleryLabelsCz = {
   excursions: ["popisek k první fotce", "popisek k druhé fotce"],
   others: ["první fotka", "další popisek", "třeté popisek"],
   zahranicni2018: ["první fotka 2018"],
-  corsica2018: ["Korsika01"],
-  macedonia2019: ["Makedonie01"]
+  corsica_2018: ["Korsika01"],
+  macedonia_2019: ["Makedonie01"]
 };
 
 export const galleryLabelsEn = {
   excursions: ["first photo label", "another one"],
   others: ["first", "next", "3rd"],
   zahranicni2018: ["first photo 2018"],
-  corsica2018: ["Korsika01"],
-  macedonia2019: ["Makedonie01"]
+  corsica_2018: ["Korsika01"],
+  macedonia_2019: ["Makedonie01"]
 };
