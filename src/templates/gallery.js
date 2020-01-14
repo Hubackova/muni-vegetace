@@ -60,7 +60,7 @@ const gallery = ({ data: { allImageSharp }, location }) => {
             );
           });
         const captions = int === "en" ? galleryLabelsEn : galleryLabelsCz;
-        console.log(captions, galleryName)
+
         const imgs =
           allImageSharp && allImageSharp.edges.map(i => i.node.fluid);
         const PHOTO_SET = imgs.map((i, index) => {

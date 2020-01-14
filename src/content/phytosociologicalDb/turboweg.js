@@ -166,10 +166,10 @@ export const en = {
           <li>
             Frey W., Frahm J. P., Fischer E. & Lobin W. (1995): Die Moos- und Farnpflanzen Europas.
             G. Fischer, Stuttgart.
-		  </li>
-		  <li>
-			Hennekens S.M. & Schaminée J.H.J. (2001): TURBOVEG, a comprehensive data base management system for vegetation data. Journal of Vegetation
-            Science, 12: 589–591.{" "}
+          </li>
+          <li>
+            Hennekens S.M. & Schaminée J.H.J. (2001): TURBOVEG, a comprehensive data base management
+            system for vegetation data. Journal of Vegetation Science, 12: 589–591.{" "}
             <a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">
               [pdf]
             </a>
@@ -184,10 +184,10 @@ export const en = {
           <li>
             Pišút I., Lackovicová A. & Lisická E. (1993): Súpis lišajníkov Slovenska. Biológia, 48,
             Suppl. 1: 53–98.
-		  </li>
-		  <li>
-			Schaminée J.H.J., Hennekens S.M., Chytrý M. & Rodwell J.S. (2009):
-            Vegetation-plot data and databases in Europe: an overview. Preslia, 81: 173–185.
+          </li>
+          <li>
+            Schaminée J.H.J., Hennekens S.M., Chytrý M. & Rodwell J.S. (2009): Vegetation-plot data
+            and databases in Europe: an overview. Preslia, 81: 173–185.
             <a target="_blanc" href="http://www.preslia.cz/P093Schaminee.pdf">
               [pdf]
             </a>

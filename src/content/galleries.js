@@ -37,17 +37,20 @@ export const galleryNamesEn = [
 ];
 
 export const galleryLabelsCz = {
-  excursions: ["popisek k první fotce", "popisek k druhé fotce"],
-  others: ["první fotka", "další popisek", "třeté popisek"],
-  zahranicni2018: ["první fotka 2018"],
-  corsica_2018: ["Korsika01"],
-  macedonia_2019: ["Makedonie01"]
+ macedonia_2019: ["01", "NP Fruška Gora", "", "Nemoptera sinuata, stuholetka jižní", "kaňon Matka", "kaňon Matka", "kaňon Matka", "kaňon Matka", "Popova Shapka", "Popova Shapka", "", "Popova Shapka", "", "", "", "Popova Shapka", "", "Popova Shapka", "Popova Shapka", "", "Mavrovo", "Mavrovo", "Mavrovo", "Krani", "Krani", "NP Galičica", "NP Galičica", "NP Galičica", "NP Galičica, Dactylorhiza sambucina", "NP Galičica", "NP Galičica", "", "NP Pelister", "NP Pelister", "Demir Kapija", "Demir Kapija", "Demir Kapija", "Demir Kapija", "Demir Kapija", "Ovče Pole", "Ovče Pole", "Ovče Pole", "Ovče Pole", "Ovče Pole", ],
+  corsica_2018: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+  romania_2017: ["Rodna, Manastrirea Sfanta Treime", "Rodna","Rodna","Rodna","Rodna", "Rodna, Stiol lake", "Rodna, Stiol lake","Rodna","Ceahlau", "Ceahlau, Cușma Dorobanțului",  "Ceahlau", "Ceahlau", "Lathyrus laevigatus", "Ceahlau", "Ceahlau", "Ceahlau", "Voslabeni", "Bucin", "", "Muntele de Sare", "Muntele de Sare", "Sovata", "Vlahita", "Vlahita", "Vlahita", "Lacul Sfanta Ana", "Salamandra salamandra", "Cheile Rasnoavei", "Cheile Rasnoavei", "Saline Turda", "Saline Turda", "Saline Turda", "Fanatele Clujului, Clematis integrifolia", "Fanatele Clujului", "Fanatele Clujului, Carex secalina", "Fanatele Clujului","Cheile Turzii", "Cheile Turzii", "Cheile Turzii", "Cheile Turzii", "Cheile Turzii"],
+  albania_2016: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", "", "", "", ],
+  serbia_2015: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", "", ],
+  poland_2014: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "",],
+  sardinia_2013: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", "", ],
+  swiss_2012: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ],
+  turkey_2011: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ],
+  
 };
 
 export const galleryLabelsEn = {
-  excursions: ["first photo label", "another one"],
-  others: ["first", "next", "3rd"],
-  zahranicni2018: ["first photo 2018"],
+  
+  macedonia_2019: ["Makedonie01"],
   corsica_2018: ["Korsika01"],
-  macedonia_2019: ["Makedonie01"]
 };

@@ -47,16 +47,7 @@ const PhotoGallery = ({ data }) => (
         const img = data.allImageSharp.edges.filter(i =>
           i.node.fixed.src.includes(galleryName.main)
         );
-
-        const subgalleriesMainImgs =
-          galleryName.subgalleries &&
-          galleryName.subgalleries.length &&
-          galleryName.subgalleries.map(subgallery => {
-            return data.allImageSharp.edges.filter(img =>
-              img.node.fixed.src.includes(subgallery.key)
-            );
-          });
-
+        if (img.length === 0) return null  
         return (
           <GalleryType
             key={galleryName.main}
@@ -64,8 +55,6 @@ const PhotoGallery = ({ data }) => (
             query={galleryName.main}
             img={img[0].node.fixed}
             heading={galleryNames[index]}
-            subgalleries={galleryName.subgalleries || []}
-            subgalleriesMainImgs={subgalleriesMainImgs}
           />
         );
       });
