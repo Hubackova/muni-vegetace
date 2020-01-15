@@ -1,6 +1,5 @@
 ﻿/* eslint-disable no-irregular-whitespace */
 export const mediaCz = [
- 
 {
     date: `22/8/2019`,
     name: `Botanici zmapovali druhové bohatství evropských lesů`,
@@ -59,6 +58,12 @@ export const mediaCz = [
 export const mediaEn = [];
 
 export const popularizationCz = [
+ {
+    date: `3/12/2019`,
+    name: `Botanici připravili nový klíč k určování rostlin. Minulý rychle zastaral`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/12300-botanici-pripravili-novy-klic-k-urcovani-rostlin?utm_source=fb_em&utm_medium=link&utm_campaign=facebook&fbclid=IwAR1--TWGjN1AddSnfvrM0w0geju_Yv_mkdOGzkKbLuhH3uMSn2yECESz45A`]
+  },
   {
     date: `1/4/2018`,
     name: `Každý druh má v ekosystému svou roli`,
