@@ -15,7 +15,7 @@ export const project4en = {
       </div>
       <div>
         <h3>Funding</h3>
-        <li>2018–2020 Czech Science Foundation, project 18-02773S</li>
+        <li>2018–2020 Czech Science Foundation, project nr. 18-02773S</li>
       </div>
       <div>
         <h3>Project Aims</h3>
@@ -48,7 +48,7 @@ export const project4en = {
           signals in community assembly. Methods in Ecology and Evolution 8: 1200–1211.
         </li>
         <li>
-          Divíšek J., Chytrý M. Beckage B., Gotelli N.J., Lososová Z., Pyšek P., Richardson D.M. &
+          Divíšek J., Chytrý M., Beckage B., Gotelli N.J., Lososová Z., Pyšek P., Richardson D.M. &
           Molofsky J.(2018): Similarity of introduced plant species to native ones facilitates
           naturalization, but differences enhance invasion success. Nature Communications 9: 4631. -{" "}
           <a href="https://www.nature.com/articles/s41467-018-06995-4.pdf">fulltext in pdf</a>
@@ -107,10 +107,10 @@ export const project4cz = {
       </div>
       <div>
         <h3>Finanční podpora</h3>
-        <li>2018–2020 Czech Science Foundation, project 18-02773S</li>
+        <li>2018–2020 Grantová agentura České republiky, projekt č. 18-02773S</li>
       </div>
       <div>
-        <h3>Project Aims</h3>
+        <h3>Cíle</h3>
         <div>
           We aim to identify current centres of phylogenetic (PD) and functional diversity (FD) in
           Europe and to provide insights into ecological and evolutionary processes that shape plant
@@ -140,7 +140,7 @@ export const project4cz = {
           signals in community assembly. Methods in Ecology and Evolution 8: 1200–1211.
         </li>
         <li>
-          Divíšek J., Chytrý M. Beckage B., Gotelli N.J., Lososová Z., Pyšek P., Richardson D.M. &
+          Divíšek J., Chytrý M., Beckage B., Gotelli N.J., Lososová Z., Pyšek P., Richardson D.M. &
           Molofsky J.(2018): Similarity of introduced plant species to native ones facilitates
           naturalization, but differences enhance invasion success. Nature Communications 9: 4631. -{" "}
           <a href="https://www.nature.com/articles/s41467-018-06995-4.pdf">fulltext in pdf</a>

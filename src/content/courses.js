@@ -80,7 +80,7 @@ export const coursesCz = [
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi8300`
   },
     {
-    name: `Speciální botanicko-zoologické cvičení v terénu`,
+    name: `(Speciální botanicko-zoologické cvičení v terénu)`,
     link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8160`
   },
    {
@@ -136,7 +136,7 @@ export const coursesCz = [
 
 export const coursesEn = [
    {
-    name: `Botany & ecology bachelor thesis`,
+    name: `Botany and ecology bachelor thesis`,
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi5200?lang=en`
   },
   {
@@ -192,7 +192,7 @@ export const coursesEn = [
 	link: `https://is.muni.cz/predmet/sci/podzim2019/Bi9980?lang=en`
   },
   {
-    name: `Introduction to Biostatistics in English`,
+    name: `Introduction to biostatistics in English`,
 	link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6050?lang=en`
   },
   {
@@ -200,7 +200,7 @@ export const coursesEn = [
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi7113?lang=en`
   },
    {
-    name: `Plant Ecology Lab Meeting`,
+    name: `Plant ecology lab meeting`,
     link: `https://is.muni.cz/predmet/sci/podzim2019/BI9666?lang=en`
   },
   {
@@ -208,7 +208,7 @@ export const coursesEn = [
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi5210?lang=en`
   },
   {
-    name: `Nature Conservation and Environmental Legislation`,
+    name: `Nature conservation and environmental legislation`,
     link: `https://is.muni.cz/predmet/sci/podzim2019/Bi7710?lang=en`
   },
   {

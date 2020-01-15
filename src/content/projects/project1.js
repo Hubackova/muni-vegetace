@@ -6,11 +6,11 @@ export const project1cz = {
   body: (
     <div>
       <div>
-        <h3>Coordination</h3> Milan Chytrý (chytry@sci.muni.cz)
+        <h3>Koordinátor</h3> Milan Chytrý (chytry@sci.muni.cz)
       </div>
       <br />
       <div>
-        <h3>Participants at Masaryk University</h3> Irena Axmanová, Gianmaria Bonari, Jiří
+        <h3>Spolupracovníci (Masarykova univerzita)</h3> Irena Axmanová, Gianmaria Bonari, Jiří
         Danihelka, Jan Divíšek, Pavel Dřevojan, Michal Hájek, Ondřej Hájek, Dana Holubová, Anni
         Jašková, Borja Jiménez-Alfaro, Martin Jiroušek, Veronika Kalníková, Veronika Kalusová, Ilona
         Knollová, Anna Kuzemko, Flavia Landucci, Zdeňka Lososová, Corrado Marcenò, Pavel Novák,
@@ -21,28 +21,28 @@ export const project1cz = {
       <br />
 
       <div>
-        <h3>International collaboration</h3> Members of the IAVS Working Group European Vegetation
+        <h3>Další spolupracovníci</h3> Členové IAVS Working Group European Vegetation
         Survey
       </div>
 
       <br />
       <div>
-        <h3>Funding</h3>
+        <h3>Finanční podpora</h3>
         <li>
-          2014–2018: Czech Science Foundation, Centre of Excellence Pladias, grant no. 14-36079G
+          2014–2018: Grantová agentura České republiky, Centrum excelence Pladias, grant č. 14-36079G
         </li>
         <li>
-          2017–2019: Czech Science Foundation, Standard Project Next generation expert systems for
-          vegetation classification on a continental scale, grant no. 17-15168S
+          2017–2019: Grantová agentura České republiky, Standard Project Next generation expert systems for
+          vegetation classification on a continental scale, grant č. 17-15168S
         </li>
         <li>
-          2019–2023: Czech Science Foundation, EXPRO Centre for European Vegetation Syntheses, grant
-          no. 19-28491X
+          2019–2023: Grantová agentura České republiky, EXPRO Centre for European Vegetation Syntheses, grant
+          č. 19-28491X
         </li>
       </div>
       <br />
       <div>
-        <h3>Project Aims</h3>
+        <h3>Cíle projektu</h3>
         <div>
           Our group manages the{" "}
           <a href="http://euroveg.org/eva-database">European Vegetation Archive (EVA)</a>, an
@@ -67,7 +67,7 @@ export const project1cz = {
       </div>
       <br />
       <div className="main-results">
-        <h3>Main results</h3>
+        <h3>Hlavní výsledky</h3>
         <div>
           <b>Vegetation databases</b>
         </div>
@@ -122,7 +122,7 @@ export const project1cz = {
       </div>
       <div className="project-publication">
         <div>
-          <h3>Selected research papers</h3>
+          <h3>Odborné publikace (výběr)</h3>
         </div>
         <b>2020</b>
         <li>

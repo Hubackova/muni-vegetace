@@ -221,7 +221,7 @@ export const project3cz = {
       </div>
       <div>
         <h3>Finanční podpora</h3>
-        <li>Grantová agentura České republiky 14-10723S</li>
+        <li>Grantová agentura České republiky, projekt č. 14-10723S</li>
         <li>Grantová agentura Akademie věd České republiky, projekt č. IAA601630803</li>
         <li>
           Výzkumný záměr MSM 0021622416 Ministerstva školství, mládeže a tělovýchovy České republiky
