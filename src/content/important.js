@@ -4,11 +4,12 @@ export const en = {
     {
       name: "European Vegetation Syntheses",
       linkTo: "/project1",
-      img: "main-project1"
+      img: "important-main-project1"
     },
     {
       name: "Biodiversity of European cities",
-      linkTo: "/project3"
+      linkTo: "/project3",
+	  img: "mesta"
     },
     {
       name: "Česká národní fytocenologická databáze",
@@ -28,7 +29,7 @@ export const en = {
     {
       name: "European Vegetation Archive",
       linkTo: "/eva",
-      img: "resources-eva"
+      img: "resources-eva_en"
     }
   ]
 };
@@ -62,7 +63,7 @@ export const cz = {
     {
       name: "European Vegetation Archive",
       linkTo: "/eva",
-      img: "resources-eva"
+      img: "resources-eva_cz"
     }
   ]
 };

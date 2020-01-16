@@ -413,7 +413,7 @@ export const project2en = {
 
 export const project2cz = {
   name: "project2",
-  title: `Ecosystems of Siberia Diversity and palaeoecological interpretation`,
+  title: `Ekosystémy Sibiře a jejich paleoekologická interpretace`,
   body: (
     <div>
       <div>

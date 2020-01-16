@@ -55,10 +55,11 @@ export const en = {
     </p>
   ),
   installation: (
-    <div style={{ fontWeight: "bold", color: "#94962C" }}>
-      <a target="_blanc" href="http://www.sci.muni.cz/botany/tv/index.html">
-        Instalace
-      </a>
+   <div>
+   <div style={{ fontWeight: "bold", color: "#94962C" }}>Instalace</div>
+      <p>
+        Pro instalaci programu klikněte <a href="http://www.sci.muni.cz/botany/tv/index.html">ZDE</a>.
+      </p>
     </div>
   ),
   actualization: (

@@ -122,12 +122,12 @@ export const en = {
         </a>
         .
       </p>
-      Obr1. Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
-      fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat)
+      Obr. 1: Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
+      fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat).
       <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
       podle České národní fytocenologické databáze"/>
       <p>
-        Obr. 2 <br />
+        Obr. 2: Počty snímků <br />
         <BarChart
           data={samplesData}
           labels={samplesYears}
@@ -141,7 +141,7 @@ export const en = {
           title="Počet snímků  v různých vegetačních třídách"
         />
       </p>
-      Obr.3 Interaktivní mapa
+      Obr. 3: Interaktivní mapa (coming soon)
     </div>
   ),
 

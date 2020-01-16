@@ -2,7 +2,7 @@ import React from "react";
 
 export const project1cz = {
   name: "project1",
-  title: `European Vegetation Syntheses`,
+  title: `Evropské vegetační syntézy`,
   body: (
     <div>
       <div>
