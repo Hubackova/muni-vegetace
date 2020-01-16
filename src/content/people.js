@@ -15,6 +15,8 @@ import fisher from "../../static/images/people/fisher.jpg";
 import knollova from "../../static/images/people/knollova.jpg";
 import vecera from "../../static/images/people/vecera.jpg";
 import chytry from "../../static/images/people/chytry.jpg";
+import galuskova from "../../static/images/people/galuskova.jpg";
+import preislerova from "../../static/images/people/preislerova.jpg";
 
 export const peopleEn = {
   employees: [
@@ -231,7 +233,8 @@ export const peopleEn = {
       orcid: `https://orcid.org/0000-0002-6848-0384`,
       publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`
+      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`, 
+	  img: preislerova
     },
     {
       id: `reznickova`,
@@ -295,10 +298,10 @@ export const peopleEn = {
       id: `galuskova`,
       name: `Hana Galušková`,
       position: `Researcher`,
-      description: ``,
+      description: `Hana Galušková graduated in Upper Secondary School Teacher Training in Biology from the Faculty of Science, Masaryk University, Brno in the year 2014. Her master thesis focused on floristic diversity around Uherský Ostroh. She works in the Herbarium of the Department of botany and zoology.`,
       email: `357936@mail.muni.cz`,
-      phoneNumber: `549494813`,
-      is: `https://www.muni.cz/en/people/357936-hana-galuskova`
+      phoneNumber: `549494813`, 
+	  img: galuskova
     },
     {
       id: `cubino`,
@@ -635,7 +638,8 @@ export const peopleCz = {
       email: `zpreislerova@gmail.com`,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/lide/10230-zdenka-preislerova`,
-      researchgate: `https://www.researchgate.net/profile/Zdenka_Preislerova`
+      researchgate: `https://www.researchgate.net/profile/Zdenka_Preislerova`,
+	  img: preislerova
     },
     {
       id: `reznickova`,
@@ -696,10 +700,13 @@ export const peopleCz = {
       id: `galuskova`,
       name: `Hana Galušková`,
       position: `Technik`,
-      description: ``,
+      description: `Hana Galušková vystudovala dvojobor Učitelství biologie a matematiky pro
+střední školy v programu Ekologická a evoluční biologie na Přírodovědecké
+fakultě Masarykovy univerzity v Brně. Floristicky zaměřenou diplomovou práci obhájila v roce 2014. Nyní pracuje v herbáři Ústavu botaniky a zoologie PřF Masarykovy univerzity.`,
       email: `357936@mail.muni.cz`,
       phoneNumber: `549494813`,
-      is: `https://www.muni.cz/lide/357936-hana-galuskova`
+      is: `https://www.muni.cz/lide/357936-hana-galuskova`,
+	  img: galuskova
     },
     {
       id: `cubino`,
