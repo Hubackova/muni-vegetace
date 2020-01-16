@@ -8,7 +8,7 @@ export const en = {
     {
       name: "Vegetace ČR (monografie)",
       linkTo: "/vegetationCR",
-      img: "resources-monography"
+      img: "resources-monography_en"
     },
     {
       name: "JUICE",
@@ -17,7 +17,8 @@ export const en = {
     },
     {
       name: "Expertní systém",
-      linkTo: "/expertSystem"
+      linkTo: "/expertSystem",
+	  img: "resources-expertSystem_en"
     },
     {
       name: "Pladias",
@@ -27,17 +28,17 @@ export const en = {
     {
       name: "Botanická fotogalerie",
       linkTo: "/botanicPhotogallery",
-      img: "resources-photogallery"
+      img: "resources-photogallery_en"
     },
     {
       name: "European Vegetation Archive",
       linkTo: "/eva",
-      img: "resources-eva"
+      img: "resources-eva_en"
     },
     {
       name: "Bibliografie vegetace ČR",
       linkTo: "/bibliography",
-      img: "resources-bibliography"
+      img: "resources-bibliography_en"
     }
   ]
 };
@@ -61,7 +62,8 @@ export const cz = {
       },
       {
         name: "Expertní systém",
-        linkTo: "/expertSystem"
+        linkTo: "/expertSystem",
+		img: "resources-expertSystem_cz"
       },
       {
         name: "Pladias",
@@ -71,17 +73,17 @@ export const cz = {
       {
         name: "Botanická fotogalerie",
         linkTo: "/botanicPhotogallery",
-        img: "resources-photogallery"
+        img: "resources-photogallery_cz"
       },
       {
         name: "European Vegetation Archive",
         linkTo: "/eva",
-        img: "resources-eva"
+        img: "resources-eva_cz"
       },
       {
         name: "Bibliografie vegetace ČR",
         linkTo: "/bibliography",
-        img: "resources-bibliography"
+        img: "resources-bibliography_cz"
       }
     ]
   };
