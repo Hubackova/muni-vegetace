@@ -17,6 +17,7 @@ import vecera from "../../static/images/people/vecera.jpg";
 import chytry from "../../static/images/people/chytry.jpg";
 import galuskova from "../../static/images/people/galuskova.jpg";
 import preislerova from "../../static/images/people/preislerova.jpg";
+import marceno from "../../static/images/people/marceno.jpg";
 
 export const peopleEn = {
   employees: [
@@ -334,14 +335,15 @@ export const peopleEn = {
       id: `marceno`,
       name: `Corrado Marcenò`,
       position: `Postdoc`,
-      description: ``,
+      description: `Corrado Marcenò is a PhD in environmental science. He worked at the University of Catania doing a thesis on "The Classification of East Mediterranean Dune Vegetation at Associations Level". After PhD, he had the opportunity to work in several departments and research centres in Europe: University of Bilbao (Spain), National Research Council of Palermo (Italy), National Institute of Agricultural Economics of Pisa (Italy), Muséum National d'Histoire Naturelle of Paris (France) and University of Oviedo (Spain). He is specialized in storing and managing of big databases, vegetation classification, biogeography of plant communities and habitats monitoring and conservation.`,
       email: `marcenocorrado@libero.it`,
       phoneNumber: `549498477`,
       is: `https://is.muni.cz/auth/osoba/234828?lang=en;setlang=en`,
       orcid: `https://orcid.org/0000-0003-4361-5200`,
       publons: `https://publons.com/researcher/1500373/corrado-marceno/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`
+      researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`, 
+	  img: marceno
     }
   ],
 
@@ -739,14 +741,15 @@ fakultě Masarykovy univerzity v Brně. Floristicky zaměřenou diplomovou prác
       id: `marceno`,
       name: `Corrado Marcenò`,
       position: `Postdoc`,
-      description: ``,
+      description: `Corrado Marcenò is a PhD in environmental science. He worked at the University of Catania doing a thesis on "The Classification of East Mediterranean Dune Vegetation at Associations Level". After PhD, he had the opportunity to work in several departments and research centres in Europe: University of Bilbao (Spain), National Research Council of Palermo (Italy), National Institute of Agricultural Economics of Pisa (Italy), Muséum National d'Histoire Naturelle of Paris (France) and University of Oviedo (Spain). He is specialized in storing and managing of big databases, vegetation classification, biogeography of plant communities and habitats monitoring and conservation.`,
       email: `marcenocorrado@libero.it`,
       phoneNumber: `549498477`,
       is: `https://is.muni.cz/auth/osoba/234828`,
       orcid: `https://orcid.org/0000-0003-4361-5200`,
       publons: `https://publons.com/researcher/1500373/corrado-marceno/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`
+      researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`,
+	  img: marceno
     }
   ],
   phdStudents: [
