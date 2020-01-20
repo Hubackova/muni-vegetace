@@ -18,6 +18,7 @@ import chytry from "../../static/images/people/chytry.jpg";
 import galuskova from "../../static/images/people/galuskova.jpg";
 import preislerova from "../../static/images/people/preislerova.jpg";
 import marceno from "../../static/images/people/marceno.jpg";
+import tichy from "../../static/images/people/tichy.jpg";
 
 export const peopleEn = {
   employees: [
@@ -75,7 +76,8 @@ export const peopleEn = {
       orcid: `https://orcid.org/0000-0003-3793-3704`,
       publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,
-      researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`
+      researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
+	  img: tichy
     },
     {
       id: `danihelka`,
@@ -477,13 +479,14 @@ export const peopleCz = {
       id: `tichy`,
       name: `Lubomír Tichý`,
       position: `Docent`,
-      description: ``,
+      description: `Lubomír Tichý absolvoval doktorský studijní program v oboru Botanika na Masarykově univerzitě v roce 1999 s tématem dizertační práce „Vliv stanovištních podmínek na diverzitu vegetace“. Zabývá se metodami a teoretickými aspekty sběru vegetačních dat a klasifikací rostlinných společenstev. Od roku 1988 souběžně také realizuje a řídí praktickou ochranou přírody v několika zvláště chráněných územích. Je autorem programů JUICE, GLAMA, Probabilistic Vegetation Key a dalších, které slouží pro sběr a zpracování terénních vegetačních dat. Podílí se na výuce v předmětech Populační ekologie rostlin,  Management ohrožených ekosystémů, Zpracování základních botanických dat, Terénní cvičení z geobotaniky, Terénní exkurze k environmentálním problémům a  Botanický seminář - Vegetace střední Evropy. Je garantem magisterského studijního programu Ochrana přírody.`,
       email: `tichy@sci.muni.cz`,
       phoneNumber: `549497673`,
       is: `https://www.muni.cz/lide/6669-lubomir-tichy`,
       orcid: `https://orcid.org/0000-0001-8400-7741`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=EqXZ7esAAAAJ`,
-      researchgate: `https://www.researchgate.net/scientific-contributions/14637372_Lubomir_Tichy`
+      researchgate: `https://www.researchgate.net/scientific-contributions/14637372_Lubomir_Tichy`,
+	  img: tichy
     },
     {
       id: `danihelka`,
