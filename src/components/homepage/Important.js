@@ -30,7 +30,6 @@ const Important = () => (
               return (
                 <GridWrapper>
                   {links.resourcesList.map(resource => {
-                    console.log(data);
                     const img = data.allImageSharp.edges.filter(i =>
                       i.node.fixed.src.includes(resource.img)
                     );
