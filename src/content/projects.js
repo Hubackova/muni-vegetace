@@ -2,7 +2,6 @@
 import {project2en, project2cz} from "./projects/project2"
 import {project3en, project3cz} from "./projects/project3"
 import {project4en, project4cz} from "./projects/project4"
-import {project5en, project5cz} from "./projects/project5"
 
 export const en = {
   projectsList: {
@@ -10,7 +9,6 @@ export const en = {
     project2en,
     project3en,
     project4en,
-    project5en,
   },
   general: {
     title: "Title",
@@ -30,7 +28,6 @@ export const cz = {
     project2cz,
     project3cz,
     project4cz,
-    project5cz,
   },
   general: {
     title: "Název",
