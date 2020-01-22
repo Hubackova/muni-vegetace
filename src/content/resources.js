@@ -53,7 +53,7 @@ export const cz = {
       {
         name: "Vegetace ČR (monografie)",
         linkTo: "/vegetationCR",
-        img: "resources-monography"
+        img: "resources-monography_cz"
       },
       {
         name: "JUICE",
