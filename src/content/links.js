@@ -27,8 +27,8 @@ export const mediaCz = [
   {
     date: `20/3/2018`,
     name: `Botanici spustili nejrozsáhlejší online databázi české flóry a vegetace`,
-    resources: [`Česká televize`, `České noviny`, `MUNI`, `Radio.cz`, `Sciencemag`, `Ekolist`, `Enviweb`, `21. století`, `Týden.cz"],
-    links: ["http://www.ceskatelevize.cz/ct24/veda/2424340-cela-kvetena-na-jednom-miste-botanici-spustili-nejrozsahlejsi-online-databazi-ceske`,
+    resources: [`Česká televize`, `České noviny`, `MUNI`, `Radio.cz`, `Sciencemag`, `Ekolist`, `Enviweb`, `21. století`, `Týden.cz`],
+    links: [`http://www.ceskatelevize.cz/ct24/veda/2424340-cela-kvetena-na-jednom-miste-botanici-spustili-nejrozsahlejsi-online-databazi-ceske`,
 	`http://www.ceskenoviny.cz/zpravy/webova-databaze-shrnuje-informace-o-rostlinnych-druzich-v-cesku/1599651`,
 	`https://www.online.muni.cz/veda-a-vyzkum/10368-botanici-spustili-nejrozsahlejsi-online-databazi-ceske-flory-a-vegetace`,
 	`http://www.radio.cz/ru/rubrika/radiogazeta/vsya-flora-chexii-na-odnom-sajte`,
@@ -52,7 +52,8 @@ export const mediaCz = [
     name: `Aktuální soupis naší flóry (Jiří Danihelka)`,
     resources: [`Český rozhlas Leonardo`, `Natura`],
     links: [`https://hledani.rozhlas.cz/iRadio/?query=danihelka&reader=&stanice%5B%5D=%C4%8CRo+Leonardo&porad%5B%5D=`, `https://podtail.nl/podcast/natura-1/aktualni-soupis-na-i-flory-ji-i-danihelka-mok-ady-/`]
-  }
+  },
+
 ];
 
 export const mediaEn = [];
@@ -87,6 +88,48 @@ export const popularizationCz = [
     name: `První úplný přehled typů evropské vegetace`,
     resources: [`Online.muni.cz`, `Novinky.cz (7/12)`],
     links: [`https://www.online.muni.cz/veda-a-vyzkum/8576-botanici-muni-pomohli-s-popisem-evropske-vegetace-pomuze-chranit-prirodu?utm_source=fb_milujeme&utm_medium=link&utm_campaign=facebook`, `https://www.novinky.cz/veda-skoly/422968-brnensti-botanici-prispeli-k-popisu-evropske-vegetace-ktery-pomuze-chranit-prirodu.html`]
+  },
+  {
+    date: `13/7/2014`,
+    name: `Aplikace určí rostlinu na počkání`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/4532-aplikace-urci-rostlinu-na-pockani#.VBhSt_l_sn4`]
+  },
+  {
+    date: `11/3/2013`,
+    name: `Studentka vrací přírodu do lomu`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/student/3343-studentka-vraci-prirodu-do-lomu#.VBhUqPl_sn4`]
+  },
+  {
+    date: `26/11/2012`,
+    name: `Na Sibiři zkoumají českou dobu ledovou`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/3267-na-sibiri-zkoumaji-ceskou-dobu-ledovou#.VBhSzvl_sn4`]
+  },
+      {
+    date: `6/6/2012`,
+    name: `Invaze cizokrajných rostlin v hledáčku botaniků`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/3001-invaze-cizokrajnych-rostlin-v-hledacku-botaniku#.VBhS3fl_sn4`]
+  },
+   {
+    date: `2012`,
+    name: `Ekosystémy Sibiře: analogie zaniklé přírody střední Evropy`,
+    resources: [`Živa`],
+    links: [`http://ziva.avcr.cz/2012-4/ekosystemy-sibire-analogie-zanikle-prirody-stredni-evropy.html`]
+  },
+  {
+    date: `2012`,
+    name: `Rodinné stříbro české vegetace: máme u nás něco, co jinde nemají?`,
+    resources: [`Živa`],
+    links: [`http://ziva.avcr.cz/2012-4/rodinne-stribro-ceske-vegetace-mame-u-nas-neco-co-jinde-nemaji.html`]
+  },
+   {
+    date: `9/2010`,
+    name: `Kde dnes znamená včera. Jihosibiřské refugium doby ledové`,
+    resources: [`Vesmír`],
+    links: [`https://vesmir.cz/cz/casopis/archiv-casopisu/2010/cislo-9/kde-dnes-znamena-vcera.html`]
   },
 ];
 

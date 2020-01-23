@@ -19,6 +19,7 @@ import galuskova from "../../static/images/people/galuskova.jpg";
 import preislerova from "../../static/images/people/preislerova.jpg";
 import marceno from "../../static/images/people/marceno.jpg";
 import tichy from "../../static/images/people/tichy.jpg";
+import landucci from "../../static/images/people/landucci.jpg";
 
 export const peopleEn = {
   employees: [
@@ -216,14 +217,15 @@ export const peopleEn = {
       id: `landucci`,
       name: `Flavia Landucci`,
       position: `Researcher`,
-      description: ``,
+      description: `Flavia Landucci studied Natural Science in Italy at the University of Perugia, where she graduated and obtained her PhD degree in botany and vegetation science. During her bachelor and master degree she focuses her study on the distribution, ecology and phytochemistry of the exotic specie Senecio inaequidens in Italy. During this time she realized that her favorite part of botany is the study of plant and community ecology. During the PhD she started to develop her interest for aquatic and wetland vegetation. She came in Brno the first time for an Erasmus stay in 2010, during her PhD. At Masaryk University she found a very positive and stimulating environment with cooperative people that encouraged her to continue her research after the PhD. She got the PhD degree in 2011 with a thesis about the classification of aquatic and wetland vegetation of Central Italy. After that, in 2013 she successfully applied for a SoMoPro project (co-funded by the Marie Curie actions and the South Moravian Region) and since that time she has worked in the Vegetation Science Group at the Department of botany and Zoology of Masaryk University. Her research is currently mainly focused on classification of aquatic and wetland vegetation of Europe.`,
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/en/people/386683-flavia-landucci`,
       orcid: `https://orcid.org/0000-0002-6848-0384`,
       publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`
+      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
+	  img: landucci
     },
     {
       id: `preislerova`,
@@ -626,14 +628,16 @@ export const peopleCz = {
       id: `landucci`,
       name: `Flavia Landucci`,
       position: `Výzkumník (mateřská dovolená)`,
-      description: ``,
+      description: `
+Flavia Landucci studied Natural Science in Italy at the University of Perugia, where she graduated and obtained her PhD degree in botany and vegetation science. During her bachelor and master degree she focuses her study on the distribution, ecology and phytochemistry of the exotic specie Senecio inaequidens in Italy. During this time she realized that her favorite part of botany is the study of plant and community ecology. During the PhD she started to develop her interest for aquatic and wetland vegetation. She came in Brno the first time for an Erasmus stay in 2010, during her PhD. At Masaryk University she found a very positive and stimulating environment with cooperative people that encouraged her to continue her research after the PhD. She got the PhD degree in 2011 with a thesis about the classification of aquatic and wetland vegetation of Central Italy. After that, in 2013 she successfully applied for a SoMoPro project (co-funded by the Marie Curie actions and the South Moravian Region) and since that time she has worked in the Vegetation Science Group at the Department of botany and Zoology of Masaryk University. Her research is currently mainly focused on classification of aquatic and wetland vegetation of Europe.`,
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/lide/386683-flavia-landucci`,
       orcid: `https://orcid.org/0000-0002-6848-0384`,
       publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`
+      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
+	  img: landucci
     },
     {
       id: `preislerova`,
