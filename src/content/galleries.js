@@ -11,6 +11,8 @@ export const galleryNames = [
   { main: "swiss_2012" },
   { main: "turkey_2011" },
   { main: "france_2009" },
+  { main: "ukraine_2008" },
+  { main: "italy_2007" },
 ];
 
 export const galleryNamesCz = [
@@ -26,6 +28,8 @@ export const galleryNamesCz = [
   "2012 Švýcarsko",
   "2011 Turecko",
   "2009 Francie",
+  "2008 Ukraina",
+  "2007 Itálie",
 ];
 export const galleryNamesEn = [
   "2019 Bohunice, permanent plots",
@@ -40,6 +44,8 @@ export const galleryNamesEn = [
   "2012 Switzerland",
   "2011 Turkey",
   "2009 France",
+  "2008 Ukraine",
+  "2007 Italy"
 ];
 
 export const galleryLabelsCz = {
@@ -53,6 +59,7 @@ export const galleryLabelsCz = {
   swiss_2012: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ],
   turkey_2011: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ],
   france_2009: ["01", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ],
+  italy_2007: ["Amelanchier ovalis", "Bougenvillea speciosa", "Calystegia soldanella", "Doronicum columnae", "Eryngium maritimum", "Hesperis laciniata", "", "", "", "", "", "", "", "", "", "", "Calystegia soldanella", "", "Punica granatum", "Sedum hispanicum"],
   
 };
 
