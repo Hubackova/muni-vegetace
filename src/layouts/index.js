@@ -19,6 +19,7 @@ const blueTheme = {
   grey: "#969696",
   white: "white",
   black: "black",
+  smallDevice: "480px",
   mediumDevice: "768px",
   largeDevice: "1024px",
   extraLargeDevice: "1600px"

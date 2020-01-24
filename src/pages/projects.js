@@ -4,7 +4,6 @@ import { Consumer } from "../layouts/Context";
 import styled from "styled-components";
 import { Link, graphql } from "gatsby";
 import { cz, en } from "../content/projects";
-import project3 from "../../static/images/projects/project3.jpg";
 
 const Projects = ({ data: imgData }) => (
   <Consumer>
@@ -19,7 +18,7 @@ const Projects = ({ data: imgData }) => (
               );
               const imgSrc = img.length ? img[0].node.fixed.src : null;
               return (
-                <ResourceBox to={project.name} key={project.name} img={imgSrc || project3 }>
+                <ResourceBox to={project.name} key={project.name} img={imgSrc }>
                   <span>{project.title}</span>
                 </ResourceBox>
               );
@@ -38,6 +37,10 @@ const GridWrapper = styled.div`
   grid-template-columns: repeat(4, 20vw);
   grid-template-rows: repeat(2, 20vw);
   grid-gap: 1vw;
+  @media (max-width: ${props => props.theme.largeDevice}) {
+    grid-template-columns: repeat(2, 40vw);
+    grid-template-rows: repeat(4, 40vw);
+  }
 `;
 
 const Container = styled.div`
@@ -70,6 +73,9 @@ const ResourceBox = styled(Link)`
     background-repeat: no-repeat;
     background-position: 50% 0%;
     background-size: 20vw;
+    @media (max-width: ${props => props.theme.largeDevice}) {
+      background-size: 40vw;
+  }
     opacity: 0.5;
     top: 0;
     left: 0;

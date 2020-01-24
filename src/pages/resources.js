@@ -44,6 +44,14 @@ const GridWrapper = styled.div`
   grid-template-columns: repeat(4, 20vw);
   grid-template-rows: repeat(2, 20vw);
   grid-gap: 1vw;
+  @media (max-width: ${props => props.theme.mediumDevice}) {
+    grid-template-columns: repeat(3, 28vw);
+    grid-template-rows: repeat(3, 28vw);
+  }
+  @media (max-width: ${props => props.theme.smallDevice}) {
+    grid-template-columns: repeat(2, 40vw);
+    grid-template-rows: repeat(4, 40vw);
+  }
 `;
 
 const Container = styled.div`

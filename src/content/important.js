@@ -8,7 +8,7 @@ export const en = {
     {
       name: "Biodiversity of European cities",
       linkTo: "/project3",
-      img: "important-mesta"
+      img: "important-main-project3"
     },
     {
       name: "Česká národní fytocenologická databáze",
@@ -36,14 +36,14 @@ export const en = {
 export const cz = {
   resourcesList: [
     {
-      name: "European Vegetation Syntheses",
+      name: "Evropské vegetační syntézy",
       linkTo: "/project1",
       img: "important-main-project1"
     },
     {
-      name: "Biodiversity of European cities",
+      name: "Biodiverzita měst",
       linkTo: "/project3",
-      img: "important-mesta"
+      img: "important-main-project3"
     },
     {
       name: "Česká národní fytocenologická databáze",
