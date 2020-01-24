@@ -121,7 +121,7 @@ export const project3en = {
         <li>
           Čeplová N., Lososová Z. &amp; Kalusová V. (2017): Urban ornamental trees: a source of
           current invaders; a case study from a European City. Urban Ecosystems 20: 1135–1140. -
-          fulltext on SpringerLink
+           <a href="https://link.springer.com/content/pdf/10.1007%2Fs11252-017-0665-2.pdf">fulltext on SpringerLink</a>
         </li>
         <li>
           Horsák M., Čejka T., Juřičková L., Wiese V., Horsáková L. &amp; Lososová Z. (2016):
@@ -132,25 +132,23 @@ export const project3en = {
         <li>
           Horsák M., Lososová Z., Čejka T., Juřičková L. &amp; Chytrý M. (2013): Diversity and
           biotic homogenization of urban land-snail faunas in relation to habitat types and
-          macroclimate in 32 Central European cities. PLoS ONE 8: e71783. fulltext in pdf
+          macroclimate in 32 Central European cities. PLoS ONE 8: e71783. <a href="http://www.sci.muni.cz/botany/chytry/Horsak_etal2013_PLOS-ONE.pdf">fulltext in pdf</a>
         </li>
         <li>
           Chytrý M., Lososová Z., Horsák M., Uher B., Čejka T., Danihelka J., Fajmon K., Hájek O.,
           Juřičková L., Kintrová K., Láníková D., Otýpková Z., Řehořek V. &amp; Tichý L. (2012):
           Dispersal limitation is stronger in communities of microorganisms than macroorganisms
-          across Central European cities. Journal of Biogeography 39: 1101–1111. fulltext in Wiley
-          Online Library
+          across Central European cities. Journal of Biogeography 39: 1101–1111. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02664.x/abstract">fulltext in Wiley Online Library</a>
         </li>
         <li>
           Kalusová V., Čeplová N. &amp; Lososová Z. (2017): Which traits influence the frequency of
-          plant species occurrence in urban habitat types? Urban Ecosystems 20: 65–75. fulltext on
-          SpringerLink
+          plant species occurrence in urban habitat types? Urban Ecosystems 20: 65–75. <a href="http://download.springer.com/static/pdf/530/art%253A10.1007%252Fs11252-016-0588-3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11252-016-0588-3&token2=exp=1487941980~acl=%2Fstatic%2Fpdf%2F530%2Fart%25253A10.1007%25252Fs11252-016-0588-3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11252-016-0588-3*~hmac=1d22a442a78c8b981a15fdc6bfa0e0a7d89cfbb25e0f56f3b17c81083fb1316c">fulltext on SpringerLink</a>
         </li>
         <li>
           Lososová Z., Chytrý M., Tichý L., Danihelka J., Fajmon K., Hájek O., Kintrová K., Kühn I.,
           Láníková D., Otýpková Z. &amp; Řehořek V. (2012): Native and alien floras in urban
           habitats: a comparison across 32 cities of central Europe. Global Ecology and Biogeography
-          21: 545–555. fulltext in Wiley Online Library
+          21: 545–555. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00704.x/abstract">fulltext in Wiley Online Library</a>
         </li>
         <li>
           Lososová Z., Chytrý M., Tichý L., Danihelka J., Fajmon K., Hájek O., Kintrová K., Láníková
@@ -173,7 +171,7 @@ export const project3en = {
           Lososová Z., Tichý L., Divíšek J., Čeplová N., Danihelka J., Dřevojan P., Fajmon K.,
           Kalníková V., Kalusová V., Novák P., Řehořek V., Wirth T. &amp; Chytrý M. (2018):
           Projecting potential future shifts in species composition of European urban plant
-          communities. Diversity and Distributions 24: 765–775. fulltext in Wiley Online Library
+          communities. Diversity and Distributions 24: 765–775. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.12725">fulltext in Wiley Online Library</a>
         </li>
         <h4>Dissertation</h4>
         <li>
@@ -271,7 +269,7 @@ export const project3cz = {
         <li>
           Čeplová N., Lososová Z. &amp; Kalusová V. (2017): Urban ornamental trees: a source of
           current invaders; a case study from a European City. Urban Ecosystems 20: 1135–1140. -
-          fulltext on SpringerLink
+           <a href="https://link.springer.com/content/pdf/10.1007%2Fs11252-017-0665-2.pdf">fulltext on SpringerLink</a>
         </li>
         <li>
           Horsák M., Čejka T., Juřičková L., Wiese V., Horsáková L. &amp; Lososová Z. (2016):
@@ -282,25 +280,23 @@ export const project3cz = {
         <li>
           Horsák M., Lososová Z., Čejka T., Juřičková L. &amp; Chytrý M. (2013): Diversity and
           biotic homogenization of urban land-snail faunas in relation to habitat types and
-          macroclimate in 32 Central European cities. PLoS ONE 8: e71783. fulltext in pdf
+          macroclimate in 32 Central European cities. PLoS ONE 8: e71783. <a href="http://www.sci.muni.cz/botany/chytry/Horsak_etal2013_PLOS-ONE.pdf">fulltext in pdf</a>
         </li>
         <li>
           Chytrý M., Lososová Z., Horsák M., Uher B., Čejka T., Danihelka J., Fajmon K., Hájek O.,
           Juřičková L., Kintrová K., Láníková D., Otýpková Z., Řehořek V. &amp; Tichý L. (2012):
           Dispersal limitation is stronger in communities of microorganisms than macroorganisms
-          across Central European cities. Journal of Biogeography 39: 1101–1111. fulltext in Wiley
-          Online Library
+          across Central European cities. Journal of Biogeography 39: 1101–1111. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02664.x/abstract">fulltext in Wiley Online Library</a>
         </li>
         <li>
           Kalusová V., Čeplová N. &amp; Lososová Z. (2017): Which traits influence the frequency of
-          plant species occurrence in urban habitat types? Urban Ecosystems 20: 65–75. fulltext on
-          SpringerLink
+          plant species occurrence in urban habitat types? Urban Ecosystems 20: 65–75. <a href="http://download.springer.com/static/pdf/530/art%253A10.1007%252Fs11252-016-0588-3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11252-016-0588-3&token2=exp=1487941980~acl=%2Fstatic%2Fpdf%2F530%2Fart%25253A10.1007%25252Fs11252-016-0588-3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11252-016-0588-3*~hmac=1d22a442a78c8b981a15fdc6bfa0e0a7d89cfbb25e0f56f3b17c81083fb1316c">fulltext on SpringerLink</a>
         </li>
         <li>
           Lososová Z., Chytrý M., Tichý L., Danihelka J., Fajmon K., Hájek O., Kintrová K., Kühn I.,
           Láníková D., Otýpková Z. &amp; Řehořek V. (2012): Native and alien floras in urban
           habitats: a comparison across 32 cities of central Europe. Global Ecology and Biogeography
-          21: 545–555. fulltext in Wiley Online Library
+          21: 545–555. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00704.x/abstract">fulltext in Wiley Online Library</a>
         </li>
         <li>
           Lososová Z., Chytrý M., Tichý L., Danihelka J., Fajmon K., Hájek O., Kintrová K., Láníková
@@ -323,7 +319,7 @@ export const project3cz = {
           Lososová Z., Tichý L., Divíšek J., Čeplová N., Danihelka J., Dřevojan P., Fajmon K.,
           Kalníková V., Kalusová V., Novák P., Řehořek V., Wirth T. &amp; Chytrý M. (2018):
           Projecting potential future shifts in species composition of European urban plant
-          communities. Diversity and Distributions 24: 765–775. fulltext in Wiley Online Library
+          communities. Diversity and Distributions 24: 765–775. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.12725">fulltext in Wiley Online Library</a>
         </li>
         <h4>Desertační práce</h4>
         <li>

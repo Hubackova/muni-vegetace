@@ -103,10 +103,9 @@ export const en = {
         </p>
 
         <p>
-          Soubor species.zip rozbalte a složku Czechia_Slovakia_2015 vložte do složky species
-          (C:/Program Files/TURBOWIN/species). V Turbovegu připojte seznam druhů (species list)
-          pomocí modify database attributes ke konkrétní databázi. Soubor popup.zip rozbalte a obsah
-          vložte do složky popup (C:/Program Files/TURBOWIN/popup), při vkládání přepište všechny
+          Soubor <i>species.zip</i> rozbalte a složku <i>Czechia_Slovakia_2015</i> vložte do složky <i>species</i> {" "} (C:/Program Files/TURBOWIN/species). V Turbovegu připojte seznam druhů (species list)
+          pomocí <i>modify database attributes</i> ke konkrétní databázi. Soubor <i>popup.zip</i> rozbalte a obsah
+          vložte do složky <i>popup</i> (C:/Program Files/TURBOWIN/popup), při vkládání přepište všechny
           staré soubory.
         </p>
       </div>

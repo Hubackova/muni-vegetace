@@ -845,38 +845,38 @@ export const formerPeople = [
     name: `Gianmaria Bonari (2017–2019)`,
     email: `gianmaria.bonari@gmail.com`
   },
+   {
+    name: `Salza Palpurina (2010–2017)`,
+    email: `salza.palpurina@gmail.com`
+  },
+    {
+    name: `Viktoria Wagner (2013–2016)`,
+    email: `viktoria.wagner@ualberta.ca`
+  },
   {
     name: `Borja Jiménez-Alfaro (2013–2016)`,
     email: `jimenezalfaro.borja@gmail.com`
+  },
+    {
+    name: `David Zelený (2005-2015)`,
+    email: `zeleny.david@gmail.com`
   },
   {
     name: `Ching-Feng Li (2006–2015)`,
     email: `chingfeng.li@gmail.com`
   },
-  {
-    name: `Kristína Merunková (2006–2013)`,
-    email: `KristinaMerunkova@seznam.cz`
-  },
-  {
-    name: `Salza Palpurina (2010–2017)`,
-    email: `salza.palpurina@gmail.com`
-  },
-  {
-    name: `Barbora Pelánková (2004–2009)`,
-    email: `bpelankova@gmail.com`
-  },
-  {
+    {
     name: `Marie Vymazalová (2007–2014)`,
     email: `meri@seznam.cz`
   },
   {
-    name: `Viktoria Wagner (2013–2016)`,
-    email: `viktoria.wagner@ualberta.ca`
+    name: `Kristína Merunková (2006–2013)`,
+    email: `KristinaMerunkova@seznam.cz`
   },
-  {
-    name: `David Zelený (2005-2015)`,
-    email: `zeleny.david@gmail.com`
-  }
+   {
+    name: `Barbora Pelánková (2004–2009)`,
+    email: `bpelankova@gmail.com`
+  },
 ];
 
 export const visitingScientists = [

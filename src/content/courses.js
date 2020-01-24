@@ -43,13 +43,13 @@ export const coursesCz = [
     name: `Ekologie společenstev a makroekologie`,
 	link: `https://is.muni.cz/predmet/sci/podzim2019/Bi6340`
   },
+    {
+    name: `Geobotanický projekt`,
+	link: `https://is.muni.cz/predmet/sci/jaro2020/BI6662`
+  },
   {
     name: `Geobotanický seminář`,
 	link: `https://is.muni.cz/predmet/sci/podzim2019/BI5659`
-  },
-  {
-    name: `Geobotanický projekt`,
-	link: `https://is.muni.cz/predmet/sci/jaro2020/BI6662`
   },
   {
     name: `Chráněná území střední Evropy`,
@@ -179,13 +179,13 @@ export const coursesEn = [
     name: `Community ecology and macroecology`,
 	link: `https://is.muni.cz/predmet/sci/podzim2019/Bi6340?lang=en`
   },
+   {
+    name: `Geobotany project`,
+	link: `https://is.muni.cz/predmet/sci/jaro2020/BI6662?lang=en`
+  },
   {
     name: `Geobotany seminar `,
 	link: `https://is.muni.cz/predmet/sci/podzim2019/BI5659?lang=en`
-  },
-  {
-    name: `Geobotany project`,
-	link: `https://is.muni.cz/predmet/sci/jaro2020/BI6662?lang=en`
   },
   {
     name: `Protected areas of Central Europe`,

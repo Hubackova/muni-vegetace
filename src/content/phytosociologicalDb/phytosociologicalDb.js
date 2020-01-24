@@ -111,9 +111,8 @@ export const en = {
     <div>
       <p>
         Databáze v současné době obsahuje 113 568 snímků (červenec 2019) z
-        celého území České republiky (obr. 1) zapsané od roku 1922 (obr. 2, dole) více než 1000
-        botaniky. Největší počet snímků byl zaznamenán ve vegetaci listnatých lesů (Querco-Fagetea),
-        luk a pastvin (Molinio-Arrhenatheretea) nebo vysokých ostřic (Phragmito-Magno-Caricetea;
+        celého území České republiky (obr. 1) zapsané od roku 1922 (obr. 2, dole) více než tisícem botaniků. Největší počet snímků byl zaznamenán ve vegetaci listnatých lesů (<i>Querco-Fagetea</i>),
+        luk a pastvin (<i>Molinio-Arrhenatheretea</i>) nebo vysokých ostřic (<i>Phragmito-Magno-Caricetea</i>;
         obr. 2, nahoře). Fytocenologická bibliografie s vyznačením publikací excerpovaných v
         centrální databázi je k dispozici{" "}
         <a target="_blanc" href="http://www.sci.muni.cz/botany/tvref/">
@@ -225,7 +224,7 @@ export const en = {
         <li>Lucie Benediktová</li>
         <li>Denisa Blažková</li>
         <li>Karel Boublík</li>
-        <li>Jana Božková</li>
+        <li>Jana Božková (Jiroušková)</li>
         <li>Kateřina Bubíková</li>
         <li>Lucia Cachovanová</li>
         <li>Jaroslava Cieslarová</li>
@@ -248,7 +247,7 @@ export const en = {
         <li>Martin Duchoslav</li>
         <li>Helena Dušková</li>
         <li>Jana Dvořáková</li>
-        <li>Jitka Effmertová</li>
+        <li>Jitka Effmertová (Štěrbová)</li>
         <li>Libor Ekrt</li>
         <li>Viktoria Eltsova</li>
         <li>Martina Fabšičová</li>
@@ -268,9 +267,10 @@ export const en = {
         <li>Helena Havránková</li>
         <li>Radim Hédl</li>
         <li>Monika Hejdová</li>
+		<li>Eva Hettenbergerová (Šmerdová)</li>
         <li>Aleš Hoffmann</li>
         <li>Viera Horáková</li>
-        <li>Eliška Horodyská</li>
+        <li>Eliška Horodyská (Blažejová)</li>
         <li>Lucie Hradilová</li>
         <li>Richard Hrivnák</li>
         <li>Zdenka Hroudová</li>
@@ -295,7 +295,7 @@ export const en = {
         <li>Leoš Klimeš</li>
         <li>Ilona Knollová</li>
         <li>Martin Kočí</li>
-        <li>Tereza Koubková</li>
+        <li>Tereza Koubková (Juřenová)</li>
         <li>František Krahulec</li>
         <li>Lucie Kratochvílová</li>
         <li>Zdeněk Kropáč</li>
@@ -315,12 +315,12 @@ export const en = {
         <li>Samuel Lvončík</li>
         <li>Michal Mazák</li>
         <li>Kristina Merunková</li>
-        <li>Dana Michalcová</li>
+        <li>Dana Michalcová (Holubová)</li>
         <li>Zuzana Myšková</li>
         <li>Tereza Náhlíková</li>
         <li>Jana Navrátilová</li>
-        <li>Lydie Navrátilová</li>
-        <li>Martina Nejezchlebová</li>
+        <li>Lydie Navrátilová (Dudová)</li>
+        <li>Martina Nejezchlebová (Macků)</li>
         <li>Jiří Němec</li>
         <li>Zdenka Neuhäuslová</li>
         <li>Jana Nová</li>
@@ -346,7 +346,7 @@ export const en = {
         <li>Ludmila Rivolová</li>
         <li>Jan Roleček</li>
         <li>Romana Roučková</li>
-        <li>Zuzana Rozbrojová</li>
+        <li>Zuzana Rozbrojová (Fajmonová)</li>
         <li>Jiří Rozehnal</li>
         <li>Eva Rozehnalová</li>
         <li>Marcela Řezníčková</li>
@@ -363,7 +363,6 @@ export const en = {
         <li>Milan Šenkýř</li>
         <li>Anna Šímová</li>
         <li>Petr Šmarda</li>
-        <li>Eva Šmerdová (Hettenbergerová)</li>
         <li>Markéta Špelinová</li>
         <li>Petra Štěpánková</li>
         <li>Kateřina Šumberová</li>
@@ -372,7 +371,7 @@ export const en = {
         <li>Lubomír Tichý</li>
         <li>Jana Tkačíková</li>
         <li>Adam Trčka</li>
-        <li>Jarmila Urbánková</li>
+        <li>Jarmila Urbánková (Lorencová)</li>
         <li>Martin Večeřa</li>
         <li>Adam Veleba</li>
         <li>Jiří Velebil</li>
@@ -498,21 +497,21 @@ export const cz = {
     <div>
       <p>
         Databáze obsahuje 113 568 snímků (červenec 2019) z celého území České republiky (obr. 1) zapsané od
-        roku 1922 (obr. 2, dole) více než 1000 botaniky. Největší počet snímků byl zaznamenán ve
-        vegetaci listnatých lesů (Querco-Fagetea), luk a pastvin (Molinio-Arrhenatheretea) nebo
-        vysokých ostřic (Phragmito-Magno-Caricetea; obr. 2, nahoře). Fytocenologická bibliografie s
+        roku 1922 (obr. 2, dole) více než tisícem botaniků. Největší počet snímků byl zaznamenán ve
+        vegetaci listnatých lesů (<i>Querco-Fagetea</i>), luk a pastvin (<i>Molinio-Arrhenatheretea</i>) nebo
+        vysokých ostřic (<i>Phragmito-Magno-Caricetea</i>; obr. 2, nahoře). Fytocenologická bibliografie s
         vyznačením publikací excerpovaných v centrální databázi je k dispozici{" "}
         <a target="_blanc" href="http://www.sci.muni.cz/botany/tvref/">
           zde
         </a>
         .
       </p>
-      Obr1. Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
+      Obr. 1: Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
       fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat)
       <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
       podle České národní fytocenologické databáze"/>
       <p>
-        Obr. 2 <br />
+        Obr. 2: <br />
         <BarChart
           data={samplesData}
           labels={samplesYears}
@@ -526,7 +525,7 @@ export const cz = {
           title="Počet snímků  v různých vegetačních třídách"
         />
       </p>
-      Obr.3 Interaktivní mapa
+      Obr.3: Interaktivní mapa (coming soon)
     </div>
   ),
   data: (
@@ -543,8 +542,8 @@ export const cz = {
           <li>
             Veřejná data dostupná na požádání od správce centrální databáze pro účely akademického
             výzkumu nebo aplikací v ochraně přírody, nikoliv však pro komerční využití. Žádosti o
-            poskytnutí dat vyřizuje Dana Michalcová (dočasně zastupuje Ilona Knollová,
-            <MailEmoji mail="ikuzel@sci.muni.cz" />) nebo Milan Chytrý (
+            poskytnutí dat vyřizuje Ilona Knollová
+            (<MailEmoji mail="ikuzel@sci.muni.cz" />) nebo Milan Chytrý (
             <MailEmoji mail="chytry@sci.muni.cz" />) na základě e-mailem doručeného vysvětlení, jak
             a k čemu budou data použita, a specifikace výběru a požadovaného formátu. Kritéria
             výběru fytocenologických snímků z databáze a formáty exportovaných snímků najdete{" "}
@@ -610,7 +609,7 @@ export const cz = {
         <li>Lucie Benediktová</li>
         <li>Denisa Blažková</li>
         <li>Karel Boublík</li>
-        <li>Jana Božková</li>
+        <li>Jana Božková (Jiroušková)</li>
         <li>Kateřina Bubíková</li>
         <li>Lucia Cachovanová</li>
         <li>Jaroslava Cieslarová</li>
@@ -633,7 +632,7 @@ export const cz = {
         <li>Martin Duchoslav</li>
         <li>Helena Dušková</li>
         <li>Jana Dvořáková</li>
-        <li>Jitka Effmertová</li>
+        <li>Jitka Effmertová (Štěrbová)</li>
         <li>Libor Ekrt</li>
         <li>Viktoria Eltsova</li>
         <li>Martina Fabšičová</li>
@@ -653,9 +652,10 @@ export const cz = {
         <li>Helena Havránková</li>
         <li>Radim Hédl</li>
         <li>Monika Hejdová</li>
+		<li>Eva Hettenbergerová (Šmerdová)</li>
         <li>Aleš Hoffmann</li>
         <li>Viera Horáková</li>
-        <li>Eliška Horodyská</li>
+        <li>Eliška Horodyská (Blažejová)</li>
         <li>Lucie Hradilová</li>
         <li>Richard Hrivnák</li>
         <li>Zdenka Hroudová</li>
@@ -680,7 +680,7 @@ export const cz = {
         <li>Leoš Klimeš</li>
         <li>Ilona Knollová</li>
         <li>Martin Kočí</li>
-        <li>Tereza Koubková</li>
+        <li>Tereza Koubková (Juřenová)</li>
         <li>František Krahulec</li>
         <li>Lucie Kratochvílová</li>
         <li>Zdeněk Kropáč</li>
@@ -700,12 +700,12 @@ export const cz = {
         <li>Samuel Lvončík</li>
         <li>Michal Mazák</li>
         <li>Kristina Merunková</li>
-        <li>Dana Michalcová</li>
+        <li>Dana Michalcová (Holubová)</li>
         <li>Zuzana Myšková</li>
         <li>Tereza Náhlíková</li>
         <li>Jana Navrátilová</li>
-        <li>Lydie Navrátilová</li>
-        <li>Martina Nejezchlebová</li>
+        <li>Lydie Navrátilová (Dudová)</li>
+        <li>Martina Nejezchlebová (Macků)</li>
         <li>Jiří Němec</li>
         <li>Zdenka Neuhäuslová</li>
         <li>Jana Nová</li>
@@ -731,7 +731,7 @@ export const cz = {
         <li>Ludmila Rivolová</li>
         <li>Jan Roleček</li>
         <li>Romana Roučková</li>
-        <li>Zuzana Rozbrojová</li>
+        <li>Zuzana Rozbrojová (Fajmonová)</li>
         <li>Jiří Rozehnal</li>
         <li>Eva Rozehnalová</li>
         <li>Marcela Řezníčková</li>
@@ -748,7 +748,6 @@ export const cz = {
         <li>Milan Šenkýř</li>
         <li>Anna Šímová</li>
         <li>Petr Šmarda</li>
-        <li>Eva Šmerdová (Hettenbergerová)</li>
         <li>Markéta Špelinová</li>
         <li>Petra Štěpánková</li>
         <li>Kateřina Šumberová</li>
@@ -757,7 +756,7 @@ export const cz = {
         <li>Lubomír Tichý</li>
         <li>Jana Tkačíková</li>
         <li>Adam Trčka</li>
-        <li>Jarmila Urbánková</li>
+        <li>Jarmila Urbánková (Lorencová)</li>
         <li>Martin Večeřa</li>
         <li>Adam Veleba</li>
         <li>Jiří Velebil</li>
@@ -779,5 +778,6 @@ export const cz = {
         <li>Kristýna Žáková</li>
       </ul>
     </div>
+	
   )
 };

@@ -239,8 +239,7 @@ export const project2en = {
         </li>
         <li>
           Chytrý M., Pešout P. &amp; Anenchonov O.A. (1993): Syntaxonomy of vegetation of Svjatoj
-          Nos Peninsula, Lake Baikal. 1. Non forest communities. Folia Geobotanica et
-          Phytotaxonomica. Folia Geobotanica et Phytotaxonomica 28: 337–383. - 
+          Nos Peninsula, Lake Baikal. 1. Non forest communities. Folia Geobotanica et Phytotaxonomica 28: 337–383. - 
           <a href="http://www.sci.muni.cz/botany/chytry/Chytry_etal1993_Folia-Geobot.pdf">
             {" "}
             fulltex in pdf
@@ -644,8 +643,7 @@ export const project2cz = {
         </li>
         <li>
           Chytrý M., Pešout P. &amp; Anenchonov O.A. (1993): Syntaxonomy of vegetation of Svjatoj
-          Nos Peninsula, Lake Baikal. 1. Non forest communities. Folia Geobotanica et
-          Phytotaxonomica. Folia Geobotanica et Phytotaxonomica 28: 337–383. - 
+          Nos Peninsula, Lake Baikal. 1. Non forest communities. Folia Geobotanica et Phytotaxonomica 28: 337–383. - 
           <a href="http://www.sci.muni.cz/botany/chytry/Chytry_etal1993_Folia-Geobot.pdf">
             {" "}
             fulltex in pdf
@@ -653,7 +651,7 @@ export const project2cz = {
         </li>
         <li>
           Danihelka J. &amp; Soják J. (2012): Potentilla x nebulosa (Rosaceae), a new intersectional
-          nothospecies from the Altai Mountains. Turczaninowia 5: 5-8.- 
+          nothospecies from the Altai Mountains. Turczaninowia 5: 5–8. - 
           <a href="http://is.muni.cz/repo/1090827/turcz_15_4_5-8.pdf">fulltext in pdf</a>{" "}
         </li>
         <li>
@@ -875,9 +873,9 @@ export const project2cz = {
         <li>
           27/11/2012{" "}
           <a href="http://www.ceskatelevize.cz/ivysilani/10095690193-pred-pulnoci/312281381940091/">
-            Vegetace doby ledové na dosah?
-          </a>
-          Česká televize, Před půlnocí, iVysílání
+            Vegetace doby ledové na dosah? 
+          </a>{" "} 
+            Česká televize, Před půlnocí, iVysílání
         </li>
         <li>
           05/08/2012{" "}

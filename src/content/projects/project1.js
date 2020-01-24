@@ -128,7 +128,10 @@ export const project1cz = {
         <li>
           Gholizadeh H., Naqinezhad A. &amp; Chytrý M. (2020): Classification of the Hyrcanian
           forest vegetation, northern Iran. Applied Vegetation Science 23. –
-          https://doi.org/10.1111/avsc.12469 Jašková A., Braslavskaya T.Yu., Tikhonova E., Paal J.,
+          https://doi.org/10.1111/avsc.12469 
+		  </li>
+		  <li>
+		  Jašková A., Braslavskaya T.Yu., Tikhonova E., Paal J.,
           Rūsiņa S., Laiviņš M., Kucherov I.B., Genikova N.V., Knollová I., Chernenkova T.V.,
           Churakova E.Yu., Diekmann M., Halvorsen R., Kirichok E.I., Korotkov V.N., Kryshen A.M.,
           Lugovaya D.L., Morozova O.V., Potapov P.V., Prokazina T.S., Schei F.H., Semenishchenkov
@@ -708,7 +711,10 @@ export const project1en = {
         <li>
           Gholizadeh H., Naqinezhad A. &amp; Chytrý M. (2020): Classification of the Hyrcanian
           forest vegetation, northern Iran. Applied Vegetation Science 23. –
-          https://doi.org/10.1111/avsc.12469 Jašková A., Braslavskaya T.Yu., Tikhonova E., Paal J.,
+          https://doi.org/10.1111/avsc.12469 
+		  </li>
+		  <li>
+		  Jašková A., Braslavskaya T.Yu., Tikhonova E., Paal J.,
           Rūsiņa S., Laiviņš M., Kucherov I.B., Genikova N.V., Knollová I., Chernenkova T.V.,
           Churakova E.Yu., Diekmann M., Halvorsen R., Kirichok E.I., Korotkov V.N., Kryshen A.M.,
           Lugovaya D.L., Morozova O.V., Potapov P.V., Prokazina T.S., Schei F.H., Semenishchenkov
