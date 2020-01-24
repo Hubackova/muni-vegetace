@@ -22,8 +22,8 @@ export const cz = {
       <h3>Botanická fotogalerie</h3>
       Botanická fotogalerie (
       <a href="http://www.botanickafotogalerie.cz/">http://www.botanickafotogalerie.cz/</a>) je
-      fotografickou databázi cévnatých rostlin a rostlinných společenstev, kterou v pracovní skupině
-      Výzkum vegetace koordinuje Dana Holubová. Databáze bsahuje především plané a zplanělé druhy
+      fotografickou databází cévnatých rostlin a rostlinných společenstev, kterou v pracovní skupině
+      Výzkum vegetace koordinuje Dana Holubová. Databáze obsahuje především plané a zplanělé druhy
       České republiky. Kromě běžného prohlížení fotografií umožňuje i určování druhů na základě 28
       parametrů. Galerie obsahuje fotografie celkových habitů i detailů rostlin z přírody, řadu
       mikrofotografií, obrázky pořízené pomocí scanneru a kresby, na nichž jsou často zachyceny

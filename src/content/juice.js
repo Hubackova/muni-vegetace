@@ -24,7 +24,7 @@ export const cz = {
       Program JUICE (
       <a href="https://www.sci.muni.cz/botany/juice/">https://www.sci.muni.cz/botany/juice/</a>) je
       široce používaný nekomerční software pro editaci a analýzu vegetačních dat. Napsal jej Lubomír
-      Tichý z pracovní skupině Výzkum vegetace v roce 1998 a od té doby jej průběžně aktualizuje.
+      Tichý z pracovní skupiny Výzkum vegetace v roce 1998 a od té doby jej průběžně aktualizuje.
       Mezi různé analytické možnosti patří klasifikace divizivními a aglomerativními metodami a
       expertními systémy, určování diagnostických druhů pomocí indexů fidelity, automatické třídění
       fytocenologických tabulek, příprava synoptických tabulek, výpočet průměrných indikačních

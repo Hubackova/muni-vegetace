@@ -21,7 +21,7 @@ export const cz = {
       Bibliografická databáze vegetace České republiky (
       <a href="https://www.sci.muni.cz/botany/tvref/">https://www.sci.muni.cz/botany/tvref/</a>)
       byla vytvořena v souvislosti s přípravou České národní fytocenologické databáze a projektem
-      Vegetace České republiky. Databáze obsahuje publikace, které obsahují fytocenologické snímky z
+      Vegetace České republiky. Databáze obsahuje publikace, ve kterých jsou fytocenologické snímky z
       území České republiky nebo syntaxonomické poznámky k české vegetaci.
     </div>
   )
