@@ -68,35 +68,40 @@ export const project1cz = {
       <br />
       <div className="main-results">
         <h3>Hlavní výsledky</h3>
-        <div>
+        <p>
           <b>Vegetation databases</b>
-        </div>
+		 <div> 
         We established the European Vegetation Archive (EVA; Chytrý et al. 2016) and created several
         thematic databases of European vegetation (e.g. Landucci et al. 2015, Peterka et al. 2015,
         Marcenò &amp; Jiménez-Alfaro 2017, Kalníková &amp; Kudrnovsky 2017, Bonari et al. 2018,
         Jašková et al. 2020). We are also contributing data to sPlot – the global vegetation-plot
         database (Bruelheide et al. 2019).
-        <div>
+		  </div>
+		</p>
+        <p>
           <b>Methods of vegetation analysis and software tools</b>
-        </div>
-        We developed various methods for statistical analysis of large vegetation-plot databases,
-        which are available in the JUICE program by L. Tichý (
-        <a href="https://www.sci.muni.cz/botany/juice/">https://www.sci.muni.cz/botany/juice/</a>).
+        <div>
+		We developed various methods for statistical analysis of large vegetation-plot databases,
+        which are available in the <a href="https://www.sci.muni.cz/botany/juice/">JUICE</a> program by L. Tichý .
         Recently we focused especially on the development of new functions for the expert systems
         for vegetation classification (Landucci et al. 2015, Tichý et al. 2019) and other tools for
         automatic identification of vegetation types (Tichý &amp; Chytrý 2019).
-        <div>
-          <b>Classification of European vegetation</b>
         </div>
+		</p>
+		<p>
+          <b>Classification of European vegetation</b>
+        <div>
         We participated in the compilation of the standard list of European vegetation types
         (EuroVegChecklist, Mucina et al. 2016). Using the data from the European Vegetation Archive,
         we participated in several studies based on vegetation plots that provided formalized
         vegetation classification across the whole of Europe or a large part of the continent (e.g.
         Douda et al. 2016, Rodríguez-Rojo et al. 2017, Willner et al. 2017, 2019); some of these
         studies were coordinated by our team (e.g. Peterka et al. 2017, Marcenò et al. 2018).
-        <div>
-          <b>European habitat types</b>
         </div>
+		</p>
+		<p>
+          <b>European habitat types</b>
+        <div>
         We work for the European Environment Agency on the revision and parameterization of the
         EUNIS habitat classification (Schaminée et al. 2012, 2013, 2014, 2016a, 2016b, 2018, 2019).
         An early version of the revised EUNIS classification was used in the European Red List of
@@ -104,22 +109,28 @@ export const project1cz = {
         habitat types, lists of indicator species and distribution maps, which are essential for the
         application of the EUNIS habitat classification in nature conservation planning, monitoring
         and decision-making in the European Union and beyond.
-        <div>
-          <b>Fine-scale diversity of vegetation types</b>
         </div>
+		</p>
+		<p>
+          <b>Fine-scale diversity of vegetation types</b>
+        <div>
         We developed a technique for mapping fine-scale species richness of vegetation types using
         vegetation-plot data (Divíšek &amp; Chytrý 2018), mapped species richness of European
         forests (Večeřa et al. 2019) and modelled species richness of European beech forests
         (Jiménez-Alfaro et al. 2018). We also documented extremely species-rich grasslands in the
         Carpathians and adjacent areas (Chytrý et al. 2015, Roleček et al. 2019).
-        <div>
-          <b>Alien plant invasions in European vegetation types</b>
         </div>
+		</p>
+		<p>
+          <b>Alien plant invasions in European vegetation types</b>
+        <div>
         We performed a detailed assessment of alien plant invasions across European forest types
         (Wagner et al. 2017). We also studied alien species pools and exchanges of alien species
         between Europe and other continents in the context of habitat types (Kalusová et al. 2014,
         2015, 2017).
       </div>
+	  </p>
+	  </div>
       <div className="project-publication">
         <div>
           <h3>Odborné publikace (výběr)</h3>
@@ -186,18 +197,18 @@ export const project1cz = {
         <li>
           <b>Chytrý K.</b>, <b>Novák P.</b>, <b>Kalníková V.</b>, <b>Večeřa M.</b>, <b>Prokešová H.</b>, <b>Dřevojan P.</b> &amp; <b>Chytrý M.</b>
           (2019): Dry grassland vegetation in the Transcarpathian Lowland (western Ukraine).
-          <i> Tuexenia</i> 39: 335–355. – 
+          <i> Tuexenia</i> 39: 335–355. – {" "}
 		  <a href="https://doi.org/10.14471/2019.39.009">https://doi.org/10.14471/2019.39.009</a> 
         </li>
         <li>
           Gholizadeh H., Naqinezhad A. &amp; <b>Chytrý M.</b> (2019): Hyrcanian Forest Vegetation Database.
-          <i> Phytocoenologia</i> 49: 209–210. – 
+          <i> Phytocoenologia</i> 49: 209–210. – {" "}
 		  <a href="https://doi.org/10.1127/phyto/2018/0315">https://doi.org/10.1127/phyto/2018/0315</a> 
         </li>
         <li>
           Mastrogianni A., Kallimanis A.S., <b>Chytrý M.</b> &amp; Tsiripidis I. (2019): Phylogenetic
           diversity patterns in forests of a putative refugial area in Greece: A community level
-          analysis. <i>Forest Ecology and Management</i> 446: 226–237. – 
+          analysis. <i>Forest Ecology and Management</i> 446: 226–237. – {" "}
 		  <a href="https://doi.org/10.1016/j.foreco.2019.05.044">https://doi.org/10.1016/j.foreco.2019.05.044</a>
           
         </li>
@@ -210,7 +221,7 @@ export const project1cz = {
           Pätsch R., <b>Jašková A.</b>, <b>Chytrý M.</b>, Kucherov I.B., Schaminée J.H.J., Bergmeier E. &amp;
           Janssen J.A.M. (2019): Making them visible and usable – vegetation‐plot observations from
           Fennoscandia based on historical species‐quantity scales. <i>Applied Vegetation Science</i> 22:
-          465–473. – 
+          465–473. – {" "}
 		  <a href="https://doi.org/10.1111/avsc.12452">https://doi.org/10.1111/avsc.12452</a>
         </li>
         <li>
@@ -233,7 +244,7 @@ export const project1cz = {
           J.-A., Indreica A., Jansen F., <b>Jiroušek M.</b>, Lenoir J., Luoto M., Marcenò C., Moeslund J.
           E., Pérez‐Haase A., Rūsiņa S., Vandvik V., Vassilev K. &amp; Welk E. (2019): Assessing
           sampling coverage of species distribution in biodiversity databases. <i>Journal of Vegetation
-          Science</i> 30: 620–632. – 
+          Science</i> 30: 620–632. – {" "}
 		  <a href="https://doi.org/10.1111/jvs.12763">https://doi.org/10.1111/jvs.12763</a> 
         </li>
         <li>
@@ -244,7 +255,7 @@ export const project1cz = {
         <li>
           <b>Tichý L.</b>, <b>Chytrý M.</b> &amp; <b>Landucci F.</b> (2019): GRIMP: A machine-learning method for
           improving groups of discriminating species in expert systems for vegetation
-          classification. <i>Journal of Vegetation Science</i> 30: 5–17. – 
+          classification. <i>Journal of Vegetation Science</i> 30: 5–17. – {" "}
 		  <a href="https://doi.org/10.1111/jvs.12696">https://doi.org/10.1111/jvs.12696</a>
           
         </li>
@@ -255,7 +266,7 @@ export const project1cz = {
           Rašomavičius V., <b>Řezníčková M.</b>, Rodwell J. S., Schaminée J. H. J., Šilc U., Svenning
           J.-C., Swacha G., Vassilev K., Venanzoni R., Willner W., Wohlgemuth T. &amp; <b>Chytrý M.</b>
           (2019): Alpha diversity of vascular plants in European forests. <i>Journal of Biogeography</i>
-          46: 1919–1935. – 
+          46: 1919–1935. – {" "}
 		  <a href="https://doi.org/10.1111/jbi.13624">https://doi.org/10.1111/jbi.13624</a> 
         </li>
         <li>
@@ -263,7 +274,7 @@ export const project1cz = {
           S., Becker T., Ćuk M., Demina O., Jandt U., Kącki Z., Kuzemko A., Kropf M., Lebedeva M.,
           Semenishchenkov Y., Šilc U., Stančić Z., Staudinger M., Vassilev K. &amp; Yamalov S.
           (2019): Formalized classification of semi-dry grasslands in central and eastern Europe.
-          <i> Preslia</i> 91: 25–49. – 
+          <i> Preslia</i> 91: 25–49. – {" "}
 		  <a href="https://doi.org/10.23855/preslia.2019.025">https://doi.org/10.23855/preslia.2019.025</a> 
         </li>
         <b>2018</b>
@@ -284,7 +295,7 @@ export const project1cz = {
           Espejo J.E., Silveira M., Smyth A., Sporbert M., Svenning J.-C., Tang Z., Thomas R.,
           Tsiripidis I., Vassilev K., Violle C., Virtanen R., Weiher E., Welk E., Wesche K., Winter
           M., Wirth C. &amp; Jandt U. (2018): Global trait–environment relationships of plant
-          communities. <i><i>Nature Ecology &amp; Evolution</i></i> 2: 1906–1917. – 
+          communities. <i><i>Nature Ecology &amp; Evolution</i></i> 2: 1906–1917. – {" "}
 		  <a href="https://www.nature.com/articles/s41559-018-0699-8">https://www.nature.com/articles/s41559-018-0699-8</a>
           
         </li>
@@ -295,7 +306,7 @@ export const project1cz = {
         </li>
         <li>
           <b>Divíšek J.</b> &amp; <b>Chytrý M.</b> (2018): High-resolution and large-extent mapping of plant
-          species richness using vegetation-plot databases. <i>Ecological Indicators</i> 89: 840–851. – 
+          species richness using vegetation-plot databases. <i>Ecological Indicators</i> 89: 840–851. – {" "}
 		  <a href="https://doi.org/10.1016/j.ecolind.2017.11.005">https://doi.org/10.1016/j.ecolind.2017.11.005</a>
           
         </li>
@@ -304,7 +315,7 @@ export const project1cz = {
           Agrillo E., Campos J.A., Jandt U., Kącki Z., Šilc U., Slezák M., <b>Tichý L.</b>, Tsiripidis I.,
           Turtureanu P.D., Ujházyová M. &amp; Wohlgemuth T. (2018): History and environment shape
           species pools and community diversity in European beech forests. <i>Nature Ecology &amp;
-          Evolution</i> 2: 483–490. – 
+          Evolution</i> 2: 483–490. – {" "}
 		  <a href="http://dx.doi.org/10.1038/s41559-017-0462-6">http://dx.doi.org/10.1038/s41559-017-0462-6</a> 
         </li>
         <li>
@@ -313,7 +324,7 @@ export const project1cz = {
           D., Font X., Gillet F., <b>Hájková P.</b>, Jansen F., Jandt U., Kącki Z., Lenoir J., Rodwell
           J.S., Schaminée J.H.J., <b>Sekulová L.</b>, Šibík J., Škvorc Ž. &amp; Tsiripidis I. (2018):
           Modelling the distribution and compositional variation of plant communities at the
-          continental scale. <i>Diversity and Distributions</i> 24: 978–990. – 
+          continental scale. <i>Diversity and Distributions</i> 24: 978–990. – {" "}
 		  <a href="https://doi.org/10.1111/ddi.12736">https://doi.org/10.1111/ddi.12736</a>
           
         </li>
@@ -322,19 +333,19 @@ export const project1cz = {
           R.T., Acosta A.T.R., FitzPatrick Ú., Iakushenko D., Janssen J.A.M., Jiménez-Alfaro B.,
           Kącki Z., Keizer-Sedláková I., Kolomiychuk V., Rodwell J.S., Schaminée J.H.J., Šilc U.
           &amp; <b>Chytrý M.</b> (2018): Classification of European and Mediterranean coastal dune
-          vegetation. <i>Applied Vegetation Science</i> 21: 533–559. – 
+          vegetation. <i>Applied Vegetation Science</i> 21: 533–559. – {" "}
 		  <a href="https://doi.org/10.1111/avsc.12379">https://doi.org/10.1111/avsc.12379</a>
         </li>
         <li>
           Roces-Díaz J.V., Jiménez-Alfaro B., <b>Chytrý M.</b>, Díaz-Varela E.R. &amp; Álvarez-Álvarez P.
           (2018): Glacial refugia and mid-Holocene expansion delineate the current distribution of
-          Castanea sativa in Europe. <i>Palaeogeography, Palaeoclimatology, Palaeoecology</i> 491: 152–160. –
+          Castanea sativa in Europe. <i>Palaeogeography, Palaeoclimatology, Palaeoecology</i> 491: 152–160. –{" "}
 		  <a href="https://doi.org/10.1016/j.palaeo.2017.12.004">https://doi.org/10.1016/j.palaeo.2017.12.004</a> 
         </li>
         <li>
           Sabatini F.M., Jiménez-Alfaro B., Burrascano S., Lora A. &amp; <b>Chytrý M.</b> (2018):
           Beta-diversity of Central European forests decreases along an elevational gradient due to
-          the variation in local community assembly processes. <i>Ecography</i> 41: 1038–1048. – 
+          the variation in local community assembly processes. <i>Ecography</i> 41: 1038–1048. – {" "}
 		  <a href="http://dx.doi.org/10.1111/ecog.02809">http://dx.doi.org/10.1111/ecog.02809</a>
           
         </li>
@@ -354,7 +365,7 @@ export const project1cz = {
           <b>Kalusová V.</b>, <b>Chytrý M.</b>, van Kleunen M., Mucina L., Dawson W., Essl F., Kreft H., Pergl J.,
           Weigelt P., Winter M. &amp; Pyšek P. (2017): Naturalization of European plants on other
           continents: The role of donor habitats. <i>Proceedings of the National Academy of Sciences of
-          the USA</i> 114: 13756–13761. – 
+          the USA</i> 114: 13756–13761. – {" "}
 		  <a href="http://dx.doi.org/10.1073/pnas.1705487114">http://dx.doi.org/10.1073/pnas.1705487114</a> 
         </li>
         <li>
@@ -375,14 +386,14 @@ export const project1cz = {
           Kącki Z., Kuzemko A., <b>Landucci F.</b>, Moeslund J.E., Pérez-Haase A., Rašomavičius V., Rodwell
           J.S., Schaminée J.H.J., Šilc U., Stančić Z. &amp; <b>Chytrý M.</b> (2017): Formalized
           classification of European fen vegetation at the alliance level. <i>Applied Vegetation
-          Science</i> 20: 124–142. – 
+          Science</i> 20: 124–142. – {" "}
 		  <a href="http://dx.doi.org/10.1111/avsc.12271">http://dx.doi.org/10.1111/avsc.12271</a> 
         </li>
         <li>
           Rodríguez-Rojo M.P., Jiménez-Alfaro B., Jandt U., Bruelheide H., Rodwell J.S., Schaminée
           J.H.J., Perrin P.M., Kącki Z., Willner W., Fernández-González F. &amp; <b>Chytrý M.</b> (2017):
           Diversity of lowland hay meadows and pastures in Western and Central Europe. <i>Applied
-          Vegetation Science</i> 20: 702–719. – 
+          Vegetation Science</i> 20: 702–719. – {" "}
 		  <a href="http://dx.doi.org/10.1111/avsc.12326">http://dx.doi.org/10.1111/avsc.12326</a> 
         </li>
         <li>
@@ -392,7 +403,7 @@ export const project1cz = {
           J.H.J., Brunet J., Lenoir J., Svenning J.-C., Kącki Z., Petrášová-Šibíková M., Šilc U.,
           García-Mijangos I., Campos J.A., Fernández-González F., Wohlgemuth T., Onyshchenko V.
           &amp; Pyšek P. (2017): Alien plant invasions in European woodlands. <i>Diversity and
-          Distributions</i> 23: 969–981. –
+          Distributions</i> 23: 969–981. –{" "}
 		  <a href="http://dx.doi.org/10.1111/ddi.12592">http://dx.doi.org/10.1111/ddi.12592</a> 
         </li>
         <li>
@@ -401,7 +412,7 @@ export const project1cz = {
           A., Lenoir J., Marinšek A., Onyshchenko V., Rodwell J., Schaminée J., Šibík J., Škvorc Ž.,
           Svenning J.-C., Tsiripidis J., Turtureanu P.D., Tzonev R., Vassilev K., Venanzoni R.,
           Wohlgemuth T. &amp; <b>Chytrý M.</b> (2017): Classification of European beech forests: a Gordian
-          Knot? <i>Applied Vegetation Science</i> 20: 494–512. – 
+          Knot? <i>Applied Vegetation Science</i> 20: 494–512. – {" "}
 		  <a href="http://dx.doi.org/10.1111/avsc.12299">http://dx.doi.org/10.1111/avsc.12299</a>
         </li>
         <li>
@@ -410,7 +421,7 @@ export const project1cz = {
           Krstivojević-Ćuk M., Krstonošić D., Rédei T., Ruprecht E., Schratt-Ehrendorfer L.,
           Semenishchenkov Y., Stančić Z., Vashenyak Y., Vynokurov D. &amp; Janišová M. (2017): A
           higher-level classification of the Pannonian and western Pontic steppe grasslands (Central
-          and Eastern Europe). <i>Applied Vegetation Science</i> 20: 143–158. –
+          and Eastern Europe). <i>Applied Vegetation Science</i> 20: 143–158. –{" "}
 		  <a href="http://dx.doi.org/10.1111/avsc.12265">http://dx.doi.org/10.1111/avsc.12265</a>
           
         </li>
@@ -672,35 +683,40 @@ export const project1en = {
       <br />
       <div className="main-results">
         <h3>Main results</h3>
-        <div>
+                <p>
           <b>Vegetation databases</b>
-        </div>
+		 <div> 
         We established the European Vegetation Archive (EVA; Chytrý et al. 2016) and created several
         thematic databases of European vegetation (e.g. Landucci et al. 2015, Peterka et al. 2015,
         Marcenò &amp; Jiménez-Alfaro 2017, Kalníková &amp; Kudrnovsky 2017, Bonari et al. 2018,
         Jašková et al. 2020). We are also contributing data to sPlot – the global vegetation-plot
         database (Bruelheide et al. 2019).
-        <div>
+		  </div>
+		</p>
+        <p>
           <b>Methods of vegetation analysis and software tools</b>
-        </div>
-        We developed various methods for statistical analysis of large vegetation-plot databases,
-        which are available in the JUICE program by L. Tichý (
-        <a href="https://www.sci.muni.cz/botany/juice/">https://www.sci.muni.cz/botany/juice/</a>).
+        <div>
+		We developed various methods for statistical analysis of large vegetation-plot databases,
+        which are available in the <a href="https://www.sci.muni.cz/botany/juice/">JUICE</a> program by L. Tichý .
         Recently we focused especially on the development of new functions for the expert systems
         for vegetation classification (Landucci et al. 2015, Tichý et al. 2019) and other tools for
         automatic identification of vegetation types (Tichý &amp; Chytrý 2019).
-        <div>
-          <b>Classification of European vegetation</b>
         </div>
+		</p>
+		<p>
+          <b>Classification of European vegetation</b>
+        <div>
         We participated in the compilation of the standard list of European vegetation types
         (EuroVegChecklist, Mucina et al. 2016). Using the data from the European Vegetation Archive,
         we participated in several studies based on vegetation plots that provided formalized
         vegetation classification across the whole of Europe or a large part of the continent (e.g.
         Douda et al. 2016, Rodríguez-Rojo et al. 2017, Willner et al. 2017, 2019); some of these
         studies were coordinated by our team (e.g. Peterka et al. 2017, Marcenò et al. 2018).
-        <div>
-          <b>European habitat types</b>
         </div>
+		</p>
+		<p>
+          <b>European habitat types</b>
+        <div>
         We work for the European Environment Agency on the revision and parameterization of the
         EUNIS habitat classification (Schaminée et al. 2012, 2013, 2014, 2016a, 2016b, 2018, 2019).
         An early version of the revised EUNIS classification was used in the European Red List of
@@ -708,31 +724,37 @@ export const project1en = {
         habitat types, lists of indicator species and distribution maps, which are essential for the
         application of the EUNIS habitat classification in nature conservation planning, monitoring
         and decision-making in the European Union and beyond.
-        <div>
-          <b>Fine-scale diversity of vegetation types</b>
         </div>
+		</p>
+		<p>
+          <b>Fine-scale diversity of vegetation types</b>
+        <div>
         We developed a technique for mapping fine-scale species richness of vegetation types using
         vegetation-plot data (Divíšek &amp; Chytrý 2018), mapped species richness of European
         forests (Večeřa et al. 2019) and modelled species richness of European beech forests
         (Jiménez-Alfaro et al. 2018). We also documented extremely species-rich grasslands in the
         Carpathians and adjacent areas (Chytrý et al. 2015, Roleček et al. 2019).
-        <div>
-          <b>Alien plant invasions in European vegetation types</b>
         </div>
+		</p>
+		<p>
+          <b>Alien plant invasions in European vegetation types</b>
+        <div>
         We performed a detailed assessment of alien plant invasions across European forest types
         (Wagner et al. 2017). We also studied alien species pools and exchanges of alien species
         between Europe and other continents in the context of habitat types (Kalusová et al. 2014,
         2015, 2017).
       </div>
+	  </p>
+	  </div>
       <div className="project-publication">
         <div>
           <h3>Selected research papers</h3>
         </div>
         <b>2020</b>
-              <li>
+        <li>
           Gholizadeh H., Naqinezhad A. &amp; <b>Chytrý M.</b> (2020): Classification of the Hyrcanian
           forest vegetation, northern Iran. <i>Applied Vegetation Science</i> 23. –
-          https://doi.org/10.1111/avsc.12469 
+		  <a href="https://doi.org/10.1111/avsc.12469">https://doi.org/10.1111/avsc.12469</a>          
 		  </li>
 		  <li>
 		  <b>Jašková A.</b>, Braslavskaya T.Yu., Tikhonova E., Paal J.,
@@ -753,8 +775,8 @@ export const project1en = {
           Fanfarillo E., Gigante D., Guarino R., Landi M., Neto C.S., Pesaresi S., Rosati L., Selvi
           F., Sotiriou A., Stinca A., Turcato C., Tzonev R., Viciani D. &amp; <b>Chytrý M.</b> (2019):
           CircumMed Pine Forest Database: an electronic archive for Mediterranean and
-          Submediterranean pine forest vegetation data. <i>Phytocoenologia</i> 49: 311–318. –
-          https://doi.org/10.1127/phyto/2019/0311
+          Submediterranean pine forest vegetation data. <i>Phytocoenologia</i> 49: 311–318. – {" "}
+		  <a href="https://doi.org/10.1127/phyto/2019/0311">https://doi.org/10.1127/phyto/2019/0311</a>
         </li>
         <li>
           Bruelheide H., Dengler J., Jiménez‐Alfaro B., Purschke O., Hennekens S. M., <b>Chytrý M.</b>,
@@ -783,40 +805,45 @@ export const project1en = {
           Vassilev K., Vélez‐Martin E., Venanzoni R., Vibrans A. C., Violle C., Virtanen R., von
           Wehrden H., Wagner V., Walker D. A., Wana D., Weiher E., Wesche K., Whitfeld T., Willner
           W., Wiser S., Wohlgemuth T., Yamalov S., Zizka G. &amp; Zverev A. 2019. sPlot – a new tool
-          for global vegetation analyses. <i>Journal of Vegetation Science</i> 30: 161–186. –
-          https://doi.org/10.1111/jvs.12710
+          for global vegetation analyses. <i>Journal of Vegetation Science</i> 30: 161–186. – {" "}
+		  <a href="https://doi.org/10.1111/jvs.12710">https://doi.org/10.1111/jvs.12710</a>
+          
         </li>
         <li>
           <b>Chytrý K.</b>, <b>Novák P.</b>, <b>Kalníková V.</b>, <b>Večeřa M.</b>, <b>Prokešová H.</b>, <b>Dřevojan P.</b> &amp; <b>Chytrý M.</b>
           (2019): Dry grassland vegetation in the Transcarpathian Lowland (western Ukraine).
-          <i>Tuexenia</i> 39: 335–355. – https://doi.org/10.14471/2019.39.009
+          <i> Tuexenia</i> 39: 335–355. – {" "}
+		  <a href="https://doi.org/10.14471/2019.39.009">https://doi.org/10.14471/2019.39.009</a> 
         </li>
         <li>
           Gholizadeh H., Naqinezhad A. &amp; <b>Chytrý M.</b> (2019): Hyrcanian Forest Vegetation Database.
-          <i>Phytocoenologia</i> 49: 209–210. – https://doi.org/10.1127/phyto/2018/0315
+          <i> Phytocoenologia</i> 49: 209–210. – {" "}
+		  <a href="https://doi.org/10.1127/phyto/2018/0315">https://doi.org/10.1127/phyto/2018/0315</a> 
         </li>
         <li>
           Mastrogianni A., Kallimanis A.S., <b>Chytrý M.</b> &amp; Tsiripidis I. (2019): Phylogenetic
           diversity patterns in forests of a putative refugial area in Greece: A community level
-          analysis. <i>Forest Ecology and Management</i> 446: 226–237. –
-          https://doi.org/10.1016/j.foreco.2019.05.044
+          analysis. <i>Forest Ecology and Management</i> 446: 226–237. – {" "}
+		  <a href="https://doi.org/10.1016/j.foreco.2019.05.044">https://doi.org/10.1016/j.foreco.2019.05.044</a>
+          
         </li>
         <li>
           <b>Novák P.</b>, <b>Zukal D.</b>, <b>Kalníková V.</b>, <b>Chytrý K.</b>, &amp; Kavgacı A. (2019): Ecology and
-          syntaxonomy of Colchic forests in south-western Georgia (Caucasus region). <i>Phytocoenologia</i>
+          syntaxonomy of Colchic forests in south-western Georgia (Caucasus region). <i>Phytocoenologia </i>
           49: 231–248.
         </li>
         <li>
           Pätsch R., <b>Jašková A.</b>, <b>Chytrý M.</b>, Kucherov I.B., Schaminée J.H.J., Bergmeier E. &amp;
           Janssen J.A.M. (2019): Making them visible and usable – vegetation‐plot observations from
           Fennoscandia based on historical species‐quantity scales. <i>Applied Vegetation Science</i> 22:
-          465–473. – https://doi.org/10.1111/avsc.12452
+          465–473. – {" "}
+		  <a href="https://doi.org/10.1111/avsc.12452">https://doi.org/10.1111/avsc.12452</a>
         </li>
         <li>
           <b>Roleček J.</b>, <b>Hájek M.</b>, <b>Dřevojan P.</b>, <b>Prokešová H.</b>, Fajmon K., <b>Těšitel J.</b>, <b>Daněk P.</b>, <b>Hájková
           P.</b>, Jongepierová I., <b>Novák P.</b>, Poluyanov A. V., Shumska N. V., &amp; Chorney I. I. (2019):
           Gradients, species richness and biogeographical links of steppe grasslands in Western
-          Podolia (Ukraine). – <i>Phytocoenologia</i> 49: 349–367.
+          Podolia (Ukraine). <i>Phytocoenologia</i> 49: 349–367.
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>,
@@ -832,18 +859,20 @@ export const project1en = {
           J.-A., Indreica A., Jansen F., <b>Jiroušek M.</b>, Lenoir J., Luoto M., Marcenò C., Moeslund J.
           E., Pérez‐Haase A., Rūsiņa S., Vandvik V., Vassilev K. &amp; Welk E. (2019): Assessing
           sampling coverage of species distribution in biodiversity databases. <i>Journal of Vegetation
-          Science</i> 30: 620–632. – https://doi.org/10.1111/jvs.12763
+          Science</i> 30: 620–632. – {" "}
+		  <a href="https://doi.org/10.1111/jvs.12763">https://doi.org/10.1111/jvs.12763</a> 
         </li>
         <li>
           <b>Tichý L.</b> &amp; <b>Chytrý M.</b> (2019): Probabilistic key for identifying vegetation types in the
           field: a new method and Android application. <i>Journal of Vegetation Science</i> 30: 1035–1038.
-          – https://doi.org/10.1111/jvs.12799
+          – <a href="https://doi.org/10.1111/jvs.12799">https://doi.org/10.1111/jvs.12799</a> 
         </li>
         <li>
           <b>Tichý L.</b>, <b>Chytrý M.</b> &amp; <b>Landucci F.</b> (2019): GRIMP: A machine-learning method for
           improving groups of discriminating species in expert systems for vegetation
-          classification. <i>Journal of Vegetation Science</i> 30: 5–17. –
-          https://doi.org/10.1111/jvs.12696
+          classification. <i>Journal of Vegetation Science</i> 30: 5–17. – {" "}
+		  <a href="https://doi.org/10.1111/jvs.12696">https://doi.org/10.1111/jvs.12696</a>
+          
         </li>
         <li>
           <b>Večeřa M.</b>, <b>Divíšek J.</b>, Lenoir J., Jiménez-Alfaro B., Biurrun I., <b>Knollová I.</b>, Agrillo E.,
@@ -852,14 +881,16 @@ export const project1en = {
           Rašomavičius V., <b>Řezníčková M.</b>, Rodwell J. S., Schaminée J. H. J., Šilc U., Svenning
           J.-C., Swacha G., Vassilev K., Venanzoni R., Willner W., Wohlgemuth T. &amp; <b>Chytrý M.</b>
           (2019): Alpha diversity of vascular plants in European forests. <i>Journal of Biogeography</i>
-          46: 1919–1935. – https://doi.org/10.1111/jbi.13624
+          46: 1919–1935. – {" "}
+		  <a href="https://doi.org/10.1111/jbi.13624">https://doi.org/10.1111/jbi.13624</a> 
         </li>
         <li>
           Willner W., <b>Roleček J.</b>, Korolyuk A., Dengler J., <b>Chytrý M.</b>, Janišová M., Lengyel A., Aćić
           S., Becker T., Ćuk M., Demina O., Jandt U., Kącki Z., Kuzemko A., Kropf M., Lebedeva M.,
           Semenishchenkov Y., Šilc U., Stančić Z., Staudinger M., Vassilev K. &amp; Yamalov S.
           (2019): Formalized classification of semi-dry grasslands in central and eastern Europe.
-          <i>Preslia</i> 91: 25–49. – https://doi.org/10.23855/preslia.2019.025
+          <i> Preslia</i> 91: 25–49. – {" "}
+		  <a href="https://doi.org/10.23855/preslia.2019.025">https://doi.org/10.23855/preslia.2019.025</a> 
         </li>
         <b>2018</b>
         <li>
@@ -879,25 +910,28 @@ export const project1en = {
           Espejo J.E., Silveira M., Smyth A., Sporbert M., Svenning J.-C., Tang Z., Thomas R.,
           Tsiripidis I., Vassilev K., Violle C., Virtanen R., Weiher E., Welk E., Wesche K., Winter
           M., Wirth C. &amp; Jandt U. (2018): Global trait–environment relationships of plant
-          communities. <i><i>Nature Ecology &amp; Evolution</i></i> 2: 1906–1917. –
-          https://www.nature.com/articles/s41559-018-0699-8
+          communities. <i><i>Nature Ecology &amp; Evolution</i></i> 2: 1906–1917. – {" "}
+		  <a href="https://www.nature.com/articles/s41559-018-0699-8">https://www.nature.com/articles/s41559-018-0699-8</a>
+          
         </li>
         <li>
           Del Vecchio S., Fantinato E., Janssen J. A. M., Bioret F., Acosta A., Prisco I., Tzonev
           R., Marcenò C., Rodwell J., &amp; Buffa G. (2018): Biogeographic variability of coastal
-          perennial grasslands at the European scale. – <i>Applied Vegetation Science</i> 21: 312–321.
+          perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321.
         </li>
         <li>
           <b>Divíšek J.</b> &amp; <b>Chytrý M.</b> (2018): High-resolution and large-extent mapping of plant
-          species richness using vegetation-plot databases. <i>Ecological Indicators</i> 89: 840–851. –
-          https://doi.org/10.1016/j.ecolind.2017.11.005
+          species richness using vegetation-plot databases. <i>Ecological Indicators</i> 89: 840–851. – {" "}
+		  <a href="https://doi.org/10.1016/j.ecolind.2017.11.005">https://doi.org/10.1016/j.ecolind.2017.11.005</a>
+          
         </li>
         <li>
           Jiménez-Alfaro B., Girardello M., <b>Chytrý M.</b>, Svenning J.-C., Willner W., Gégout J.-C.,
           Agrillo E., Campos J.A., Jandt U., Kącki Z., Šilc U., Slezák M., <b>Tichý L.</b>, Tsiripidis I.,
           Turtureanu P.D., Ujházyová M. &amp; Wohlgemuth T. (2018): History and environment shape
           species pools and community diversity in European beech forests. <i>Nature Ecology &amp;
-          Evolution</i> 2: 483–490. – http://dx.doi.org/10.1038/s41559-017-0462-6
+          Evolution</i> 2: 483–490. – {" "}
+		  <a href="http://dx.doi.org/10.1038/s41559-017-0462-6">http://dx.doi.org/10.1038/s41559-017-0462-6</a> 
         </li>
         <li>
           Jiménez-Alfaro B., Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájkek M.</b>,
@@ -905,27 +939,30 @@ export const project1en = {
           D., Font X., Gillet F., <b>Hájková P.</b>, Jansen F., Jandt U., Kącki Z., Lenoir J., Rodwell
           J.S., Schaminée J.H.J., <b>Sekulová L.</b>, Šibík J., Škvorc Ž. &amp; Tsiripidis I. (2018):
           Modelling the distribution and compositional variation of plant communities at the
-          continental scale. <i>Diversity and Distributions</i> 24: 978–990. –
-          https://doi.org/10.1111/ddi.12736
+          continental scale. <i>Diversity and Distributions</i> 24: 978–990. – {" "}
+		  <a href="https://doi.org/10.1111/ddi.12736">https://doi.org/10.1111/ddi.12736</a>
+          
         </li>
         <li>
           Marcenò C., Guarino R., Loidi J., Herrera M., Isermann M., <b>Knollová I.</b>, <b>Tichý L.</b>, Tzonev
           R.T., Acosta A.T.R., FitzPatrick Ú., Iakushenko D., Janssen J.A.M., Jiménez-Alfaro B.,
           Kącki Z., Keizer-Sedláková I., Kolomiychuk V., Rodwell J.S., Schaminée J.H.J., Šilc U.
           &amp; <b>Chytrý M.</b> (2018): Classification of European and Mediterranean coastal dune
-          vegetation. <i>Applied Vegetation Science</i> 21: 533–559. – https://doi.org/10.1111/avsc.12379
+          vegetation. <i>Applied Vegetation Science</i> 21: 533–559. – {" "}
+		  <a href="https://doi.org/10.1111/avsc.12379">https://doi.org/10.1111/avsc.12379</a>
         </li>
         <li>
           Roces-Díaz J.V., Jiménez-Alfaro B., <b>Chytrý M.</b>, Díaz-Varela E.R. &amp; Álvarez-Álvarez P.
           (2018): Glacial refugia and mid-Holocene expansion delineate the current distribution of
-          Castanea sativa in Europe. <i>Palaeogeography, Palaeoclimatology, Palaeoecology</i> 491: 152–160.
-          – https://doi.org/10.1016/j.palaeo.2017.12.004
+          Castanea sativa in Europe. <i>Palaeogeography, Palaeoclimatology, Palaeoecology</i> 491: 152–160. –{" "}
+		  <a href="https://doi.org/10.1016/j.palaeo.2017.12.004">https://doi.org/10.1016/j.palaeo.2017.12.004</a> 
         </li>
         <li>
           Sabatini F.M., Jiménez-Alfaro B., Burrascano S., Lora A. &amp; <b>Chytrý M.</b> (2018):
           Beta-diversity of Central European forests decreases along an elevational gradient due to
-          the variation in local community assembly processes. <i>Ecography</i> 41: 1038–1048. –
-          http://dx.doi.org/10.1111/ecog.02809
+          the variation in local community assembly processes. <i>Ecography</i> 41: 1038–1048. – {" "}
+		  <a href="http://dx.doi.org/10.1111/ecog.02809">http://dx.doi.org/10.1111/ecog.02809</a>
+          
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Knollová I.</b>, Rodwell J.S.,
@@ -936,14 +973,15 @@ export const project1en = {
         </li>
         <b>2017</b>
         <li>
-          <b>Kalníková V.</b> &amp; Kudrnovsky H. (2017): Gravel Bar Vegetation Database. <i>Phytocoenologia</i>
+          <b>Kalníková V.</b> &amp; Kudrnovsky H. (2017): Gravel Bar Vegetation Database. <i>Phytocoenologia </i>
           47: 109–110.
         </li>
         <li>
           <b>Kalusová V.</b>, <b>Chytrý M.</b>, van Kleunen M., Mucina L., Dawson W., Essl F., Kreft H., Pergl J.,
           Weigelt P., Winter M. &amp; Pyšek P. (2017): Naturalization of European plants on other
           continents: The role of donor habitats. <i>Proceedings of the National Academy of Sciences of
-          the USA</i> 114: 13756–13761. – http://dx.doi.org/10.1073/pnas.1705487114
+          the USA</i> 114: 13756–13761. – {" "}
+		  <a href="http://dx.doi.org/10.1073/pnas.1705487114">http://dx.doi.org/10.1073/pnas.1705487114</a> 
         </li>
         <li>
           Marcenò C. &amp; Jiménez-Alfaro B. (2017): The Mediterranean Ammophiletea Database: a
@@ -963,13 +1001,15 @@ export const project1en = {
           Kącki Z., Kuzemko A., <b>Landucci F.</b>, Moeslund J.E., Pérez-Haase A., Rašomavičius V., Rodwell
           J.S., Schaminée J.H.J., Šilc U., Stančić Z. &amp; <b>Chytrý M.</b> (2017): Formalized
           classification of European fen vegetation at the alliance level. <i>Applied Vegetation
-          Science</i> 20: 124–142. – http://dx.doi.org/10.1111/avsc.12271
+          Science</i> 20: 124–142. – {" "}
+		  <a href="http://dx.doi.org/10.1111/avsc.12271">http://dx.doi.org/10.1111/avsc.12271</a> 
         </li>
         <li>
           Rodríguez-Rojo M.P., Jiménez-Alfaro B., Jandt U., Bruelheide H., Rodwell J.S., Schaminée
           J.H.J., Perrin P.M., Kącki Z., Willner W., Fernández-González F. &amp; <b>Chytrý M.</b> (2017):
           Diversity of lowland hay meadows and pastures in Western and Central Europe. <i>Applied
-          Vegetation Science</i> 20: 702–719. – http://dx.doi.org/10.1111/avsc.12326
+          Vegetation Science</i> 20: 702–719. – {" "}
+		  <a href="http://dx.doi.org/10.1111/avsc.12326">http://dx.doi.org/10.1111/avsc.12326</a> 
         </li>
         <li>
           Wagner V., <b>Chytrý M.</b>, Jiménez-Alfaro B., Pergl J., Hennekens S., Biurrun I., <b>Knollová I.</b>,
@@ -978,7 +1018,8 @@ export const project1en = {
           J.H.J., Brunet J., Lenoir J., Svenning J.-C., Kącki Z., Petrášová-Šibíková M., Šilc U.,
           García-Mijangos I., Campos J.A., Fernández-González F., Wohlgemuth T., Onyshchenko V.
           &amp; Pyšek P. (2017): Alien plant invasions in European woodlands. <i>Diversity and
-          Distributions</i> 23: 969–981. – http://dx.doi.org/10.1111/ddi.12592
+          Distributions</i> 23: 969–981. –{" "}
+		  <a href="http://dx.doi.org/10.1111/ddi.12592">http://dx.doi.org/10.1111/ddi.12592</a> 
         </li>
         <li>
           Willner W., Jiménez-Alfaro B., Agrillo E., Biurrun I., Campos J.A., Čarni A., Casella L.,
@@ -986,7 +1027,8 @@ export const project1en = {
           A., Lenoir J., Marinšek A., Onyshchenko V., Rodwell J., Schaminée J., Šibík J., Škvorc Ž.,
           Svenning J.-C., Tsiripidis J., Turtureanu P.D., Tzonev R., Vassilev K., Venanzoni R.,
           Wohlgemuth T. &amp; <b>Chytrý M.</b> (2017): Classification of European beech forests: a Gordian
-          Knot? <i>Applied Vegetation Science</i> 20: 494–512. – http://dx.doi.org/10.1111/avsc.12299
+          Knot? <i>Applied Vegetation Science</i> 20: 494–512. – {" "}
+		  <a href="http://dx.doi.org/10.1111/avsc.12299">http://dx.doi.org/10.1111/avsc.12299</a>
         </li>
         <li>
           Willner W., Kuzemko A., Dengler J., <b>Chytrý M.</b>, Bauer N., Becker T., Biţă-Nicolae C.,
@@ -994,8 +1036,9 @@ export const project1en = {
           Krstivojević-Ćuk M., Krstonošić D., Rédei T., Ruprecht E., Schratt-Ehrendorfer L.,
           Semenishchenkov Y., Stančić Z., Vashenyak Y., Vynokurov D. &amp; Janišová M. (2017): A
           higher-level classification of the Pannonian and western Pontic steppe grasslands (Central
-          and Eastern Europe). <i>Applied Vegetation Science</i> 20: 143–158. –
-          http://dx.doi.org/10.1111/avsc.12265
+          and Eastern Europe). <i>Applied Vegetation Science</i> 20: 143–158. –{" "}
+		  <a href="http://dx.doi.org/10.1111/avsc.12265">http://dx.doi.org/10.1111/avsc.12265</a>
+          
         </li>
         <b>2016</b>
         <li>
@@ -1024,7 +1067,7 @@ export const project1en = {
           Kevey B., <b>Landucci F.</b>, Lecomte H., Lenoir J., Paal J., Paternoster D., Pauli H., Pielech
           R., Rodwell J.S., Roelandt B., Svenning J.-C., Šibík J., Šilc U., Škvorc Ž., Tsiripidis
           I., Tzonev R.T., Wohlgemuth T. &amp; Zimmermann N.E. (2016): Vegetation classification and
-          biogeography of European floodplain forests and alder carrs. <i>Applied Vegetation Science</i>
+          biogeography of European floodplain forests and alder carrs. <i>Applied Vegetation Science </i>
           19: 147–163.
         </li>
         <li>
@@ -1081,7 +1124,7 @@ export const project1en = {
           Jansen F., Jiménez-Alfaro B., Krestov P., <b>Landucci F.</b>, Lengyel A., Loidi J., Mucina L.,
           Peet R.K., Roberts D.W., <b>Roleček J.</b>, Schaminée J.H.J., Schmidtlein S., Theurillat J.-P.,
           <b>Tichý L.</b>, Walker D.A., Wildi O., Willner W. &amp; Wiser S.K. (2015): A comparative
-          framework for broad-scale plot-based vegetation classification. <i>Applied Vegetation Science</i>
+          framework for broad-scale plot-based vegetation classification. <i>Applied Vegetation Science </i>
           18: 543–560.
         </li>
         <li>
@@ -1103,12 +1146,12 @@ export const project1en = {
           Properzi A., Radulović S., Rodwell J.S., Schaminée J.H.J., Šilc U., Sinkevičienė Z.,
           Stančić Z., Stepanovich J., Teteryuk B., Tzonev R., Venanzoni R., Weekes L. &amp; Willner
           W. (2015): WetVegEurope: a database of aquatic and wetland vegetation of Europe.
-          <i>Phytocoenologia</i> 45: 187–194.
+          <i> Phytocoenologia</i> 45: 187–194.
         </li>
         <li>
           <b>Landucci F.</b>, <b>Tichý L.</b>, Šumberová K. &amp; <b>Chytrý M.</b> (2015): Formalized classification of
           species-poor vegetation: a proposal of a consistent protocol for aquatic vegetation.
-          <i>Journal of Vegetation Science</i> 26: 791–803.
+          <i> Journal of Vegetation Science</i> 26: 791–803.
         </li>
         <li>
           <b>Palpurina S.</b>, <b>Chytrý M.</b>, Tzonev R., <b>Danihelka J.</b>, <b>Axmanová I.</b>, <b>Merunková K.</b>, <b>Duchoň M.</b>
@@ -1123,12 +1166,12 @@ export const project1en = {
         <li>
           Jiménez-Alfaro B., <b>Chytrý M.</b>, Rejmánek M. &amp; Mucina L. (2014): The number of vegetation
           types in European countries: major determinants and extrapolation to other regions.
-          <i>Journal of Vegetation Science</i> 25: 863–872.
+          <i> Journal of Vegetation Science</i> 25: 863–872.
         </li>
         <li>
           <b>Kalusová V.</b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2014): Alien species pool
           influences the level of habitat invasion in intercontinental exchange of alien plants.
-          <i>Global Ecology and Biogeography</i> 23: 1366-1375.
+          <i> Global Ecology and Biogeography</i> 23: 1366-1375.
         </li>
         <li>
           Rodríguez-Rojo M.P., Fernández-González F., <b>Tichý L.</b> &amp; <b>Chytrý M.</b> (2014): Vegetation
