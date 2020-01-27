@@ -71,7 +71,7 @@ export const en = {
         <a target="_blanc" href="https://www.synbiosys.alterra.nl/turboveg/">
           zde
         </a>
-        , vždy stahovat vaiantu „International, single user version“).
+        , vždy stahovat variantu „International, single user version“).
       </div>
       <div>
         <p>

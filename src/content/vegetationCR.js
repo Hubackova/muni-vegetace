@@ -17,7 +17,7 @@ export const en = {
         conservation value, including distribution maps and synoptic tables of species composition.
         Associations were delimited by formal definitions and tested using a set of approximately
         100,000 vegetation plots contained in the Czech National Phytosociological Database.
-        National vegetation classification is accompanied by a computer expert system for
+        National vegetation classification is accompanied by a computer <a href="http://doi.org/10.5281/zenodo.3605561">expert system</a> for
         identification of associations. The monograph was elaborated by a team of botanists from the
         Department of Botany and Zoology, Masaryk University in cooperation with experts from the
         Institute of Botany, Academy of Sciences of the Czech Republic, and other institutions. The
@@ -69,7 +69,7 @@ export const en = {
       img: vegetace1,
       review: (
         <div>
-          <b>Reviews:</b>
+          <b>Reviews of Volume 1:</b>
           <li>
             Iva Apostolova in{" "}
             <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Apostolova2008_Phytol-Balc.pdf">
@@ -168,7 +168,7 @@ export const en = {
       img: vegetace2,
       review: (
         <div>
-          <b>Reviews:</b>
+          <b>Reviews of Volume 2:</b>
           <li>
             Iva Apostolova in{" "}
             <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Apostolova2010_Phytol-Balc.pdf">
@@ -246,7 +246,7 @@ export const en = {
       img: vegetace3,
       review: (
         <div>
-          <b>Reviews:</b>
+          <b>Reviews of Volume 3:</b>
           <li>
             Anonymous in{" "}
             <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Anonymus2012_Ziva.pdf">
@@ -359,7 +359,7 @@ export const en = {
       img: vegetace4,
       review: (
         <div>
-          <b>Reviews:</b>
+          <b>Reviews of Volume 4:</b>
           <li>
             Hartmut Dierschke in{" "}
             <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Dierschke2014_Tuexenia.pdf">
@@ -399,7 +399,7 @@ export const cz = {
         rozšíření a významu včetně map rozšíření a srovnávacích tabulek druhového složení. Asociace
         byly přesně vymezeny pomocí formálních definic a testovány na souboru asi 100 000
         fytocenologických snímků obsažených v České národní fytocenologické databázi. Klasifikaci
-        vegetace doprovází počítačový expertní systém pro určování asociací. Monografii zpracoval
+        vegetace doprovází počítačový <a href="http://doi.org/10.5281/zenodo.3605561">expertní systém</a> pro určování asociací. Monografii zpracoval
         tým botaniků z Ústavu botaniky a zoologie Přírodovědecké fakulty Masarykovy univerzity ve
         spolupráci s odborníky z Botanického ústavu AV ČR a dalších institucí. Projekt byl
         financován Grantovou agenturou České republiky (projekty 206/02/0957, 206/05/0200,
@@ -446,7 +446,7 @@ export const cz = {
       img: vegetace1,
       review: (
         <div>
-          <b>Recenze:</b>
+          <b>Recenze 1. dílu:</b>
           <li>
             Iva Apostolova in{" "}
             <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-1_Apostolova2008_Phytol-Balc.pdf">
@@ -545,7 +545,7 @@ export const cz = {
       img: vegetace2,
       review: (
         <div>
-          <b>Recenze:</b>
+          <b>Recenze 2. dílu:</b>
           <li>
             Iva Apostolova in{" "}
             <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-2_Apostolova2010_Phytol-Balc.pdf">
@@ -623,7 +623,7 @@ export const cz = {
       img: vegetace3,
       review: (
         <div>
-          <b>Recenze:</b>
+          <b>Recenze 3. dílu:</b>
           <li>
             Anonymous in{" "}
             <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-3_Anonymus2012_Ziva.pdf">
@@ -736,7 +736,7 @@ export const cz = {
       img: vegetace4,
       review: (
         <div>
-          <b>Recenze:</b>
+          <b>Recenze 4. dílu:</b>
           <li>
             Hartmut Dierschke in{" "}
             <a href="https://www.sci.muni.cz/botany/vegsci/include/review/Book-review_Vegetace-CR-4_Dierschke2014_Tuexenia.pdf">

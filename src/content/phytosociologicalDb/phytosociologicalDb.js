@@ -46,9 +46,9 @@ export const en = {
         </a>
         ) a sPlot (
         <a target="_blanc" href="https://www.idiv.de/en/splot.html">
-          the Global Vegetation Database
+          Global Vegetation Database
         </a>
-        ). Floristická data z fytocenologických snímků uložených v ČNFD jsou veřejně dostupná na webovém portálu{" "}
+        ). Floristická data z fytocenologických snímků uložených v ČNFD jsou dostupná na webovém portálu{" "}
         <a target="_blanc" href="https://pladias.cz/">
           PLADIAS
         </a>{" "}
@@ -59,14 +59,14 @@ export const en = {
         .
       </p>
       <p>
-        Česká národní fytocenologická databáze je spravována na Ústavu botaniky a zoologie
+        Česká národní fytocenologická databáze je spravována pracovní skupinou Výzkum vegetace na Ústavu botaniky a zoologie
         Masarykovy univerzity v Brně, kde jsou také data z lokálních databází shromažďována v tzv.
         centrální databázi. Hlavní koordinátoři databáze jsou Milan Chytrý (
         <MailEmoji mail="chytry@sci.muni.cz" />) a Ilona Knollová (
         <MailEmoji mail="ikuzel@sci.muni.cz" />
         ),  
         {/* TODO: link na koordinatory */}
-          lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
+         {" "} lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
       </p>
       <p>
@@ -221,11 +221,11 @@ export const en = {
         databáze:
       </div>
       <ul className="phytoSocDb-thanksList">
-        <li>Irena Axmanová</li>
+        <li>Irena Axmanová (Veselá)</li>
         <li>Lucie Benediktová</li>
+		<li>Eliška Blažejová (Horodyská)</li>
         <li>Denisa Blažková</li>
         <li>Karel Boublík</li>
-        <li>Jana Božková (Jiroušková)</li>
         <li>Kateřina Bubíková</li>
         <li>Lucia Cachovanová</li>
         <li>Jaroslava Cieslarová</li>
@@ -245,14 +245,15 @@ export const en = {
         <li>Jana Ďoubalová</li>
         <li>Jan Douda</li>
         <li>Pavel Dřevojan</li>
+		<li>Lydie Dudová (Navrátilová)</li>
         <li>Martin Duchoslav</li>
         <li>Helena Dušková</li>
         <li>Jana Dvořáková</li>
-        <li>Jitka Effmertová (Štěrbová)</li>
         <li>Libor Ekrt</li>
         <li>Viktoria Eltsova</li>
         <li>Martina Fabšičová</li>
         <li>Karel Fajmon</li>
+		<li>Zuzana Fajmonová (Rozbrojová)</li>
         <li>Petr Filippov</li>
         <li>Jarmila Filippovová</li>
         <li>Zuzana Fronková</li>
@@ -268,21 +269,22 @@ export const en = {
         <li>Helena Havránková</li>
         <li>Radim Hédl</li>
         <li>Monika Hejdová</li>
-		<li>Eva Hettenbergerová (Šmerdová)</li>
         <li>Aleš Hoffmann</li>
+		<li>Dana Holubová (Michalcová)</li>
         <li>Viera Horáková</li>
-        <li>Eliška Horodyská (Blažejová)</li>
         <li>Lucie Hradilová</li>
         <li>Richard Hrivnák</li>
         <li>Zdenka Hroudová</li>
         <li>Jaroslav Hruban</li>
-        <li>Monika Hrubanová</li>
+        <li>Monika Hrubanová (Dršková)</li>
         <li>Jindřich Chlapek</li>
         <li>Markéta Chudomelová</li>
         <li>Kryštof Chytrý</li>
         <li>Ivan Jindra</li>
         <li>Martin Jiroušek</li>
+		<li>Jana Jiroušková (Božková)</li>
         <li>Blanka Jírů</li>
+		<li>Tereza Juřenová (Koubková)</li>
         <li>Jan Juřica</li>
         <li>Michal Juříček</li>
         <li>Jiří Juřička</li>
@@ -294,9 +296,8 @@ export const en = {
         <li>Petr Karlík</li>
         <li>Alexandra Klaudisová</li>
         <li>Leoš Klimeš</li>
-        <li>Ilona Knollová</li>
+        <li>Ilona Knollová (Kuželová)</li>
         <li>Martin Kočí</li>
-        <li>Tereza Koubková (Juřenová)</li>
         <li>František Krahulec</li>
         <li>Lucie Kratochvílová</li>
         <li>Zdeněk Kropáč</li>
@@ -310,25 +311,23 @@ export const en = {
         <li>Flavia Landucci</li>
         <li>Deana Láníková</li>
         <li>Martin Lepší</li>
+		<li>Jarmila Lorencová (Urbánková)</li>
         <li>Zdeňka Lososová</li>
         <li>Hana Lukšíková</li>
         <li>Pavel Lustyk</li>
         <li>Samuel Lvončík</li>
+		<li>Martina Macků (Nejezchlebová)</li>
         <li>Michal Mazák</li>
         <li>Kristina Merunková</li>
-        <li>Dana Michalcová (Holubová)</li>
         <li>Zuzana Myšková</li>
         <li>Tereza Náhlíková</li>
         <li>Jana Navrátilová</li>
-        <li>Lydie Navrátilová (Dudová)</li>
-        <li>Martina Nejezchlebová (Macků)</li>
         <li>Jiří Němec</li>
         <li>Zdenka Neuhäuslová</li>
         <li>Jana Nová</li>
         <li>Jan Novák</li>
         <li>Pavel Novák</li>
         <li>Ivan Ostrý</li>
-        <li>Zdenka Otýpková</li>
         <li>Marcela Paloudová</li>
         <li>Petra Pavlíčková</li>
         <li>Sylvie Pecháčková</li>
@@ -340,6 +339,7 @@ export const en = {
         <li>Zuzana Plesková</li>
         <li>Marie Popelářová</li>
         <li>Jan Prančl</li>
+		<li>Zdenka Preislerová (Otýpková)</li>
         <li>Helena Prokešová</li>
         <li>Petr Pyšek</li>
         <li>Marie Rafajová</li>
@@ -347,7 +347,6 @@ export const en = {
         <li>Ludmila Rivolová</li>
         <li>Jan Roleček</li>
         <li>Romana Roučková</li>
-        <li>Zuzana Rozbrojová (Fajmonová)</li>
         <li>Jiří Rozehnal</li>
         <li>Eva Rozehnalová</li>
         <li>Marcela Řezníčková</li>
@@ -364,15 +363,16 @@ export const en = {
         <li>Milan Šenkýř</li>
         <li>Anna Šímová</li>
         <li>Petr Šmarda</li>
+		<li>Eva Šmerdová (Hettenbergerová)</li>
         <li>Markéta Špelinová</li>
         <li>Petra Štěpánková</li>
+		<li>Jitka Štěrbová (Effmertová)</li>
         <li>Kateřina Šumberová</li>
         <li>Markéta Táborská</li>
         <li>Přemysl Tajek</li>
         <li>Lubomír Tichý</li>
         <li>Jana Tkačíková</li>
         <li>Adam Trčka</li>
-        <li>Jarmila Urbánková (Lorencová)</li>
         <li>Martin Večeřa</li>
         <li>Adam Veleba</li>
         <li>Jiří Velebil</li>
@@ -433,9 +433,9 @@ export const cz = {
         </a>
         ) a sPlot (
         <a target="_blanc" href="https://www.idiv.de/sdiv/working_groups/wg_pool/splot.html">
-          the Global Vegetation Database
+          Global Vegetation Database
         </a>
-        ). Floristická data z fytocenologických snímků uložených v ČNFD jsou veřejně dostupná na webovém portálu{" "}
+        ). Floristická data z fytocenologických snímků uložených v ČNFD jsou dostupná na webovém portálu{" "}
         <a target="_blanc" href="https://pladias.cz/">
           PLADIAS
         </a>{" "}
@@ -446,14 +446,14 @@ export const cz = {
         .
       </p>
       <p>
-        Česká národní fytocenologická databáze je spravována na Ústavu botaniky a zoologie
+        Česká národní fytocenologická databáze je spravována pracovní skupinou Výzkum vegetace na Ústavu botaniky a zoologie
         Masarykovy univerzity v Brně, kde jsou také data z lokálních databází shromažďována v tzv.
         centrální databázi. Hlavní koordinátoři databáze jsou Milan Chytrý (
         <MailEmoji mail="chytry@sci.muni.cz" />) a Ilona Knollová (
         <MailEmoji mail="ikuzel@sci.muni.cz" />
         ), 
         {/* TODO: link na koordinatory */}
-         lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
+         {" "}lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
       </p>
       <p>
@@ -607,11 +607,11 @@ export const cz = {
         databáze:
       </div>
       <ul className="phytoSocDb-thanksList">
-        <li>Irena Axmanová</li>
+        <li>Irena Axmanová (Veselá)</li>
         <li>Lucie Benediktová</li>
+		<li>Eliška Blažejová (Horodyská)</li>
         <li>Denisa Blažková</li>
         <li>Karel Boublík</li>
-        <li>Jana Božková (Jiroušková)</li>
         <li>Kateřina Bubíková</li>
         <li>Lucia Cachovanová</li>
         <li>Jaroslava Cieslarová</li>
@@ -631,14 +631,15 @@ export const cz = {
         <li>Jana Ďoubalová</li>
         <li>Jan Douda</li>
         <li>Pavel Dřevojan</li>
+		<li>Lydie Dudová (Navrátilová)</li>
         <li>Martin Duchoslav</li>
         <li>Helena Dušková</li>
         <li>Jana Dvořáková</li>
-        <li>Jitka Effmertová (Štěrbová)</li>
         <li>Libor Ekrt</li>
         <li>Viktoria Eltsova</li>
         <li>Martina Fabšičová</li>
         <li>Karel Fajmon</li>
+		<li>Zuzana Fajmonová (Rozbrojová)</li>
         <li>Petr Filippov</li>
         <li>Jarmila Filippovová</li>
         <li>Zuzana Fronková</li>
@@ -654,21 +655,22 @@ export const cz = {
         <li>Helena Havránková</li>
         <li>Radim Hédl</li>
         <li>Monika Hejdová</li>
-		<li>Eva Hettenbergerová (Šmerdová)</li>
         <li>Aleš Hoffmann</li>
+		<li>Dana Holubová (Michalcová)</li>
         <li>Viera Horáková</li>
-        <li>Eliška Horodyská (Blažejová)</li>
         <li>Lucie Hradilová</li>
         <li>Richard Hrivnák</li>
         <li>Zdenka Hroudová</li>
         <li>Jaroslav Hruban</li>
-        <li>Monika Hrubanová</li>
+        <li>Monika Hrubanová (Dršková)</li>
         <li>Jindřich Chlapek</li>
         <li>Markéta Chudomelová</li>
         <li>Kryštof Chytrý</li>
         <li>Ivan Jindra</li>
         <li>Martin Jiroušek</li>
+		<li>Jana Jiroušková (Božková)</li>
         <li>Blanka Jírů</li>
+		<li>Tereza Juřenová (Koubková)</li>
         <li>Jan Juřica</li>
         <li>Michal Juříček</li>
         <li>Jiří Juřička</li>
@@ -680,9 +682,8 @@ export const cz = {
         <li>Petr Karlík</li>
         <li>Alexandra Klaudisová</li>
         <li>Leoš Klimeš</li>
-        <li>Ilona Knollová</li>
+        <li>Ilona Knollová (Kuželová)</li>
         <li>Martin Kočí</li>
-        <li>Tereza Koubková (Juřenová)</li>
         <li>František Krahulec</li>
         <li>Lucie Kratochvílová</li>
         <li>Zdeněk Kropáč</li>
@@ -696,25 +697,23 @@ export const cz = {
         <li>Flavia Landucci</li>
         <li>Deana Láníková</li>
         <li>Martin Lepší</li>
+		<li>Jarmila Lorencová (Urbánková)</li>
         <li>Zdeňka Lososová</li>
         <li>Hana Lukšíková</li>
         <li>Pavel Lustyk</li>
         <li>Samuel Lvončík</li>
+		<li>Martina Macků (Nejezchlebová)</li>
         <li>Michal Mazák</li>
         <li>Kristina Merunková</li>
-        <li>Dana Michalcová (Holubová)</li>
         <li>Zuzana Myšková</li>
         <li>Tereza Náhlíková</li>
         <li>Jana Navrátilová</li>
-        <li>Lydie Navrátilová (Dudová)</li>
-        <li>Martina Nejezchlebová (Macků)</li>
         <li>Jiří Němec</li>
         <li>Zdenka Neuhäuslová</li>
         <li>Jana Nová</li>
         <li>Jan Novák</li>
         <li>Pavel Novák</li>
         <li>Ivan Ostrý</li>
-        <li>Zdenka Otýpková</li>
         <li>Marcela Paloudová</li>
         <li>Petra Pavlíčková</li>
         <li>Sylvie Pecháčková</li>
@@ -726,6 +725,7 @@ export const cz = {
         <li>Zuzana Plesková</li>
         <li>Marie Popelářová</li>
         <li>Jan Prančl</li>
+		<li>Zdenka Preislerová (Otýpková)</li>
         <li>Helena Prokešová</li>
         <li>Petr Pyšek</li>
         <li>Marie Rafajová</li>
@@ -733,7 +733,6 @@ export const cz = {
         <li>Ludmila Rivolová</li>
         <li>Jan Roleček</li>
         <li>Romana Roučková</li>
-        <li>Zuzana Rozbrojová (Fajmonová)</li>
         <li>Jiří Rozehnal</li>
         <li>Eva Rozehnalová</li>
         <li>Marcela Řezníčková</li>
@@ -750,15 +749,16 @@ export const cz = {
         <li>Milan Šenkýř</li>
         <li>Anna Šímová</li>
         <li>Petr Šmarda</li>
+		<li>Eva Šmerdová (Hettenbergerová)</li>
         <li>Markéta Špelinová</li>
         <li>Petra Štěpánková</li>
+		<li>Jitka Štěrbová (Effmertová)</li>
         <li>Kateřina Šumberová</li>
         <li>Markéta Táborská</li>
         <li>Přemysl Tajek</li>
         <li>Lubomír Tichý</li>
         <li>Jana Tkačíková</li>
         <li>Adam Trčka</li>
-        <li>Jarmila Urbánková (Lorencová)</li>
         <li>Martin Večeřa</li>
         <li>Adam Veleba</li>
         <li>Jiří Velebil</li>

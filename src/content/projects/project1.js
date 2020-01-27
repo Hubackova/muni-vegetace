@@ -76,7 +76,7 @@ export const project1cz = {
         Marcenò &amp; Jiménez-Alfaro 2017, Kalníková &amp; Kudrnovsky 2017, Bonari et al. 2018,
         Jašková et al. 2020). We are also contributing data to sPlot – the global vegetation-plot
         database (Bruelheide et al. 2019).
-		  </div>
+		</div>
 		</p>
         <p>
           <b>Methods of vegetation analysis and software tools</b>
@@ -362,7 +362,7 @@ export const project1cz = {
           47: 109–110.
         </li>
         <li>
-          <b>Kalusová V.</b>, <b>Chytrý M.</b>, van Kleunen M., Mucina L., Dawson W., Essl F., Kreft H., Pergl J.,
+          <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, van Kleunen M., Mucina L., Dawson W., Essl F., Kreft H., Pergl J.,
           Weigelt P., Winter M. &amp; Pyšek P. (2017): Naturalization of European plants on other
           continents: The role of donor habitats. <i>Proceedings of the National Academy of Sciences of
           the USA</i> 114: 13756–13761. – {" "}
@@ -518,7 +518,7 @@ export const project1cz = {
           Biogeography</i> 42: 452–462.
         </li>
         <li>
-          <b>Kalusová V.</b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2015): Intercontinental comparison
+          <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2015): Intercontinental comparison
           of habitat levels of invasion between temperate North America and Europe. <i>Ecology</i> 96:
           3363-3373.
         </li>
@@ -554,7 +554,7 @@ export const project1cz = {
           <i> Journal of Vegetation Science</i> 25: 863–872.
         </li>
         <li>
-          <b>Kalusová V.</b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2014): Alien species pool
+          <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2014): Alien species pool
           influences the level of habitat invasion in intercontinental exchange of alien plants.
           <i> Global Ecology and Biogeography</i> 23: 1366-1375.
         </li>
@@ -977,7 +977,7 @@ export const project1en = {
           47: 109–110.
         </li>
         <li>
-          <b>Kalusová V.</b>, <b>Chytrý M.</b>, van Kleunen M., Mucina L., Dawson W., Essl F., Kreft H., Pergl J.,
+          <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, van Kleunen M., Mucina L., Dawson W., Essl F., Kreft H., Pergl J.,
           Weigelt P., Winter M. &amp; Pyšek P. (2017): Naturalization of European plants on other
           continents: The role of donor habitats. <i>Proceedings of the National Academy of Sciences of
           the USA</i> 114: 13756–13761. – {" "}
@@ -1133,7 +1133,7 @@ export const project1en = {
           Biogeography</i> 42: 452–462.
         </li>
         <li>
-          <b>Kalusová V.</b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2015): Intercontinental comparison
+          <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2015): Intercontinental comparison
           of habitat levels of invasion between temperate North America and Europe. <i>Ecology</i> 96:
           3363-3373.
         </li>
@@ -1169,7 +1169,7 @@ export const project1en = {
           <i> Journal of Vegetation Science</i> 25: 863–872.
         </li>
         <li>
-          <b>Kalusová V.</b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2014): Alien species pool
+          <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2014): Alien species pool
           influences the level of habitat invasion in intercontinental exchange of alien plants.
           <i> Global Ecology and Biogeography</i> 23: 1366-1375.
         </li>
