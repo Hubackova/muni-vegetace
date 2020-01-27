@@ -437,7 +437,7 @@ export const peopleCz = {
     {
       id: `chytry`,
       name: `Milan Chytrý`,
-      position: `Vedoucí skupiny`,
+      position: `Profesor, Vedoucí skupiny`,
       description: `Milan Chytrý absolvoval doktorské studium v oboru Botanika na Masarykově univerzitě v roce 1995. Zabývá se diverzitou vegetace, klasifikací rostlinných společenstev a metodami klasifikace, makroekologií, rostlinnými invazemi a paleoekologií. Editoval Katalog biotopů České republiky (2001, 2010) a čtyřdílnou monografii Vegetace České republiky (2007–2013). V letech 2014–2018 řídil projekt Pladias, který syntetizoval informace o flóře a vegetaci České republiky a zpřístupnil je v online databázi. Zkoumal vegetaci v různých částech Evropy. V letech 2003–2015 řídil projekty terénního výzkumu ekosystémů v různých částech Sibiře, během nichž byly identifikovány současné analogie zaniklých ekosystémů posledního glaciálu v Evropě. V současné době koordinuje projekt Centrum pro evropské vegetační syntézy na Masarykově univerzitě. Je tajemníkem pracovní skupiny European Vegetation Survey Mezinárodní společnosti pro výzkum vegetace (IAVS), kustodem Evropského vegetačního archivu (EVA) a vedoucím redaktorem časopisů Journal of Vegetation Science a Applied Vegetation Science. Na Masarykově univerzitě učí Ekologii společenstev a makroekologii, Vegataci a biotopy České republiky, Vegetaci a biotopy Evropy a několik terénních cvičení a seminářů.`,
       email: `chytry@sci.muni.cz`,
       phoneNumber: `549494595`,
@@ -863,7 +863,7 @@ export const formerPeople = [
   },
   {
     name: `Ching-Feng Li (2006–2015)`,
-    email: `chingfeng.li@gmail.com`
+    email: ``
   },
     {
     name: `Marie Vymazalová (2007–2014)`,
@@ -876,6 +876,10 @@ export const formerPeople = [
    {
     name: `Barbora Pelánková (2004–2009)`,
     email: `bpelankova@gmail.com`
+  },
+  {
+    name: `Deana Láníková (2004–2009)`,
+    email: `deanas@seznam.cz`
   },
 ];
 

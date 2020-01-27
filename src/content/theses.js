@@ -137,13 +137,56 @@
       link: `https://is.muni.cz/th/g64sa/?lang=cs`,
       author: "Irena Axmanová",
       year: "2012"
-    }
+    },
+	{
+      name: `Segetal vegetation of northern and central Moravia`,
+      link: `https://is.muni.cz/th/go9pc/?lang=en`,
+      author: "Šárka Cimalová",
+      year: "2009"
+    },
+	 {
+      name: `Diversity of perennial ruderal and trampled vegetation of the Czech Repulic`,
+      link: `https://is.muni.cz/th/w6som/?lang=en`,
+      author: "Deana Láníková",
+      year: "2009"
+    },
+	 {
+      name: `Vegetation of subcontinental oak forests in Central and Eastern Europe`,
+      link: `https://is.muni.cz/th/flx1t/?lang=en`,
+      author: "Jan Roleček",
+      year: "2007"
+    },
+	 {
+      name: `Variability of the Molinion meadows in the Czech and Slovak Republics`,
+      link: `https://is.muni.cz/th/tp2ys/?lang=en`,
+      author: "Marcela Řezníčková",
+      year: "2007"
+    },
+	 {
+      name: `Plant communities of periodically flooded eulittoral of standing and running waters in the Czech Republic`,
+      link: `https://is.muni.cz/th/egg4f/?lang=en`,
+      author: "Kateřina Šumberová",
+      year: "2006"
+    },
+	{
+      name: `The influence of the sample plot size on the analyses of vegetation diversity`,
+      link: `https://is.muni.cz/th/ish7j/?lang=en`,
+      author: "Zdenka Otýpková (Preislerová)",
+      year: "2006"
+    }, 
+	{
+      name: `Local and large-scale data sets and their use for vegetation classification`,
+      link: `https://is.muni.cz/th/h5dbe/?lang=en`,
+      author: "Ilona Knollová",
+      year: "2006"
+    }, 
+	
   ],
 
   thesesTitle: "Theses topics",
   bachelorTheses: "Bachelor Theses (examples)",
   masterTheses: "Master Theses (examples)",
-  phdTheses: "PhD Theses (since 2010)"
+  phdTheses: "PhD Theses"
 };
 
 export const thesesCz = {
@@ -285,11 +328,54 @@ export const thesesCz = {
       link: `https://is.muni.cz/th/g64sa/?lang=cs`,
       author: "Irena Axmanová",
       year: "2012"
-    }
+    },
+	{
+      name: `Segetální vegetace severní a střední Moravy`,
+      link: `https://is.muni.cz/th/go9pc/`,
+      author: "Šárka Cimalová",
+      year: "2009"
+    },
+	 {
+      name: `Diverzita vytrvalé ruderální a sešlapávané vegetace České republiky`,
+      link: `https://is.muni.cz/th/w6som/`,
+      author: "Deana Láníková",
+      year: "2009"
+    },
+	 {
+      name: `Vegetace subkontinentálních doubrav ve střední a východní Evropě`,
+      link: `https://is.muni.cz/th/flx1t/`,
+      author: "Jan Roleček",
+      year: "2007"
+    },
+	 {
+      name: `Variabilita luk svazu Molinion v České a Slovenské republice
+`,
+      link: `https://is.muni.cz/th/tp2ys/`,
+      author: "Marcela Řezníčková",
+      year: "2007"
+    },
+	 {
+      name: `Rostlinná společenstva dočasně zaplavovaného eulitorálu stojatých a tekoucích vod v ČR`,
+      link: `https://is.muni.cz/th/egg4f/`,
+      author: "Kateřina Šumberová",
+      year: "2006"
+    },
+	{
+      name: `Vliv velikosti ploch pro sběr dat na fytocenologickou klasifikaci vegetace`,
+      link: `https://is.muni.cz/th/ish7j/`,
+      author: "Zdenka Otýpková (Preislerová)",
+      year: "2006"
+    }, 
+	{
+      name: `Lokální a velkoplošné datové soubory a jejich využití pro klasifikaci vegetace`,
+      link: `https://is.muni.cz/th/h5dbe/`,
+      author: "Ilona Knollová",
+      year: "2006"
+    }, 
   ],
 
   thesesTitle: "Témata prací",
   bachelorTheses: "Balakářské práce (výběr)",
   masterTheses: "Magisterské práce (výběr)",
-  phdTheses: "Disertační práce (po roce 2010)"
+  phdTheses: "Disertační práce"
 };

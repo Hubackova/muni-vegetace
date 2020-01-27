@@ -22,6 +22,7 @@ export const en = {
   ],
   introduction: (
     <div>
+	<h3>Česká národní fytocenologické databáze</h3>
       <p>
         <b>Česká národní fytocenologické databáze (ČNFD)</b> je úložiště pro digitalizované
         fytocenologické snímky zaznamenané v České republice, které jsou používány pro účely
@@ -407,6 +408,7 @@ export const cz = {
   ],
   introduction: (
     <div>
+	<h3>Česká národní fytocenologické databáze</h3>
       <p>
         <b>Česká národní fytocenologické databáze (ČNFD)</b> je úložiště pro digitalizované
         fytocenologické snímky zaznamenané v České republice, které jsou používány pro účely
