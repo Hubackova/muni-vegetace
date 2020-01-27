@@ -186,6 +186,13 @@ export const project2en = {
         <div>
           <h3>Research papers</h3>
         </div>
+		<li>
+          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 1–11. – 
+          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04940">
+            {" "}
+            fulltext in Wiley Online Library
+          </a>
+        </li>
         <li>
           <b>Axmanová I.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Lustyk P., Kočí M., <b>Kubešová S.</b>, <b>Horsák M.</b>, Cherosov
           M.M. &amp; Gogoleva P.A. (2013): Plant species richness-productivity relationships in a
@@ -598,6 +605,13 @@ export const project2cz = {
         <div>
           <h3>Odborné publikace</h3>
         </div>
+		<li>
+          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 1–11. – 
+          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04940">
+            {" "}
+            fulltext in Wiley Online Library
+          </a>
+        </li>
         <li>
           <b>Axmanová I.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Lustyk P., Kočí M., <b>Kubešová S.</b>, <b>Horsák M.</b>, Cherosov
           M.M. &amp; Gogoleva P.A. (2013): Plant species richness-productivity relationships in a
