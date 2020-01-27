@@ -903,22 +903,7 @@ export const project2cz = {
           . Český rozhlas Leonardo, Planetárium
         </li>
       </div>
-      <h3>Odkazy</h3>
-      <div>
-        <li>
-          <a href="http://www-sbras.nsc.ru/win/elbib/atlas/list.dhtml?flora">
-            Electronic catalogue of Siberian plants
-          </a>{" "}
-          (in Russian, with pictures)
-        </li>
-        <li>
-          <a href="http://www-sbras.nsc.ru/win/elbib/bio/green/">
-            Green Data Book of Siberia (rare and endangered plant communities)
-          </a>{" "}
-          (in Russian)
-        </li>
-        <li>Biodiversity of the Altai-Sayan Ecoregion (in Russian)</li>
-      </div>
+      
     </div>
   )
 };

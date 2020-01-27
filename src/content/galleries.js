@@ -18,7 +18,7 @@ export const galleryNames = [
 export const galleryNamesCz = [
   "2019 Bohunice, pokusné plochy",
   "2019 Mohelno",
-  "2019 Makedonie",
+  "2019 Severní Makedonie",
   "2018 Korsika",
   "2017 Rumunsko",
   "2016 Albánie + Černá Hora",
@@ -34,7 +34,7 @@ export const galleryNamesCz = [
 export const galleryNamesEn = [
   "2019 Bohunice, permanent plots",
   "2019 Mohelno", 
-  "2019 Macedonia",
+  "2019 North Macedonia",
   "2018 Corsica",
   "2017 Romania",
   "2016 Albania + Montenegro",
