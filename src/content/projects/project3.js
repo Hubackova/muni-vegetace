@@ -108,7 +108,7 @@ export const project3en = {
         <h3>Publications</h3>
         <h4>Research papers</h4>
         <li>
-          Čeplová N., Lososová Z., Zelený D., Chytrý M., Danihelka J., Fajmon K., Láníková D.,
+          Čeplová N., Lososová Z., Zelený D., <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., Láníková D.,
           Preislerová Z., Řehořek V. &amp; Tichý L. (2015): Phylogenetic diversity of central-
           European urban plant communities: effects of alien species and habitat types. Preslia 87:
           1–16.
@@ -130,46 +130,46 @@ export const project3en = {
           3547–3560.
         </li>
         <li>
-          Horsák M., Lososová Z., Čejka T., Juřičková L. &amp; Chytrý M. (2013): Diversity and
+          Horsák M., Lososová Z., Čejka T., Juřičková L. &amp; <b>Chytrý M.</b> (2013): Diversity and
           biotic homogenization of urban land-snail faunas in relation to habitat types and
-          macroclimate in 32 Central European cities. PLoS ONE 8: e71783. <a href="http://www.sci.muni.cz/botany/chytry/Horsak_etal2013_PLOS-ONE.pdf">fulltext in pdf</a>
+          macroclimate in 32 Central European cities. <i>PLoS ONE</i> 8: e71783. <a href="http://www.sci.muni.cz/botany/chytry/Horsak_etal2013_PLOS-ONE.pdf">fulltext in pdf</a>
         </li>
         <li>
-          Chytrý M., Lososová Z., Horsák M., Uher B., Čejka T., Danihelka J., Fajmon K., Hájek O.,
+          <b>Chytrý M.</b>, Lososová Z., Horsák M., Uher B., Čejka T., <b>Danihelka J.</b>, Fajmon K., Hájek O.,
           Juřičková L., Kintrová K., Láníková D., Otýpková Z., Řehořek V. &amp; Tichý L. (2012):
           Dispersal limitation is stronger in communities of microorganisms than macroorganisms
-          across Central European cities. Journal of Biogeography 39: 1101–1111. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02664.x/abstract">fulltext in Wiley Online Library</a>
+          across Central European cities. <i>Journal of Biogeography</i> 39: 1101–1111. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02664.x/abstract">fulltext in Wiley Online Library</a>
         </li>
         <li>
           Kalusová V., Čeplová N. &amp; Lososová Z. (2017): Which traits influence the frequency of
           plant species occurrence in urban habitat types? Urban Ecosystems 20: 65–75. <a href="http://download.springer.com/static/pdf/530/art%253A10.1007%252Fs11252-016-0588-3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11252-016-0588-3&token2=exp=1487941980~acl=%2Fstatic%2Fpdf%2F530%2Fart%25253A10.1007%25252Fs11252-016-0588-3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11252-016-0588-3*~hmac=1d22a442a78c8b981a15fdc6bfa0e0a7d89cfbb25e0f56f3b17c81083fb1316c">fulltext on SpringerLink</a>
         </li>
         <li>
-          Lososová Z., Chytrý M., Tichý L., Danihelka J., Fajmon K., Hájek O., Kintrová K., Kühn I.,
+          Lososová Z., <b>Chytrý M.</b>, Tichý L., <b>Danihelka J.</b>, Fajmon K., Hájek O., Kintrová K., Kühn I.,
           Láníková D., Otýpková Z. &amp; Řehořek V. (2012): Native and alien floras in urban
-          habitats: a comparison across 32 cities of central Europe. Global Ecology and Biogeography
+          habitats: a comparison across 32 cities of central Europe. <i>Global Ecology and Biogeography</i>
           21: 545–555. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00704.x/abstract">fulltext in Wiley Online Library</a>
         </li>
         <li>
-          Lososová Z., Chytrý M., Tichý L., Danihelka J., Fajmon K., Hájek O., Kintrová K., Láníková
+          Lososová Z., <b>Chytrý M.</b>, Tichý L., <b>Danihelka J.</b>, Fajmon K., Hájek O., Kintrová K., Láníková
           D., Otýpková Z. &amp; Řehořek V. (2012): Biotic homogenization of Central European urban
           floras depends on residence time of alien species and habitat types. Biological
           Conservation 145: 179–184.
         </li>
         <li>
-          Lososová Z., Chytrý M., Danihelka J., Tichý L. &amp; Ricotta C. (2016a): Biotic
+          Lososová Z., <b>Chytrý M.</b>, <b>Danihelka J.</b>, Tichý L. &amp; Ricotta C. (2016a): Biotic
           homogenization of urban floras by alien species: the role of species turnover and richness
-          differences. Journal of Vegetation Science 27: 452–459.
+          differences. <i>Journal of Vegetation Science</i> 27: 452–459.
         </li>
         <li>
-          Lososová Z., Čeplová N., Chytrý M., Tichý L., Danihelka J., Fajmon K., Láníková D.,
+          Lososová Z., Čeplová N., <b>Chytrý M.</b>, Tichý L., <b>Danihelka J.</b>, Fajmon K., Láníková D.,
           Preislerová Z. &amp; Řehořek V. (2016b): Is phylogenetic diversity a good proxy for
           functional diversity of plant communities? A case study from urban habitats. Journal of
           Vegetation Science 27: 1036–1046.
         </li>
         <li>
-          Lososová Z., Tichý L., Divíšek J., Čeplová N., Danihelka J., Dřevojan P., Fajmon K.,
-          Kalníková V., Kalusová V., Novák P., Řehořek V., Wirth T. &amp; Chytrý M. (2018):
+          Lososová Z., Tichý L., Divíšek J., Čeplová N., <b>Danihelka J.</b>, Dřevojan P., Fajmon K.,
+          Kalníková V., Kalusová V., Novák P., Řehořek V., Wirth T. &amp; <b>Chytrý M.</b> (2018):
           Projecting potential future shifts in species composition of European urban plant
           communities. Diversity and Distributions 24: 765–775. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.12725">fulltext in Wiley Online Library</a>
         </li>
@@ -188,16 +188,16 @@ export const project3en = {
           botanické společnosti 53: 207–216.
         </li>
         <li>
-          Lososová Z. &amp; Danihelka J. (2014): Proč je flóra velkoměst pestrá. Živa 2014/6:
+          Lososová Z. &amp; <b>Danihelka J.</b> (2014): Proč je flóra velkoměst pestrá. <i>Živa</i> 2014/6:
           278–281.
         </li>
         <li>
-          Lososová Z., Šumberová K., Tichý L., Vymazalová M. &amp; Danihelka J. (2015): Květena Brna
-          – současný stav poznání. Živa 2015/6: 289–292.
+          Lososová Z., Šumberová K., Tichý L., Vymazalová M. &amp; <b>Danihelka J.</b> (2015): Květena Brna
+          – současný stav poznání. <i>Živa</i> 2015/6: 289–292.
         </li>
         <li>
           Pergl J., Lososová Z., Sádlo J. &amp; Štajerová K. (2018): Rostlinné invaze na
-          antropogenních stanovištích. Živa 5: 233–234.
+          antropogenních stanovištích. <i>Živa</i> 5: 233–234.
         </li>
       </div>
     </div>
@@ -256,7 +256,7 @@ export const project3cz = {
         <h3>Publikace</h3>
         <h4>Odborné články</h4>
         <li>
-          Čeplová N., Lososová Z., Zelený D., Chytrý M., Danihelka J., Fajmon K., Láníková D.,
+          Čeplová N., Lososová Z., Zelený D., <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., Láníková D.,
           Preislerová Z., Řehořek V. &amp; Tichý L. (2015): Phylogenetic diversity of central-
           European urban plant communities: effects of alien species and habitat types. Preslia 87:
           1–16.
@@ -278,46 +278,46 @@ export const project3cz = {
           3547–3560.
         </li>
         <li>
-          Horsák M., Lososová Z., Čejka T., Juřičková L. &amp; Chytrý M. (2013): Diversity and
+          Horsák M., Lososová Z., Čejka T., Juřičková L. &amp; <b>Chytrý M.</b> (2013): Diversity and
           biotic homogenization of urban land-snail faunas in relation to habitat types and
-          macroclimate in 32 Central European cities. PLoS ONE 8: e71783. <a href="http://www.sci.muni.cz/botany/chytry/Horsak_etal2013_PLOS-ONE.pdf">fulltext in pdf</a>
+          macroclimate in 32 Central European cities. <i>PLoS ONE</i> 8: e71783. <a href="http://www.sci.muni.cz/botany/chytry/Horsak_etal2013_PLOS-ONE.pdf">fulltext in pdf</a>
         </li>
         <li>
-          Chytrý M., Lososová Z., Horsák M., Uher B., Čejka T., Danihelka J., Fajmon K., Hájek O.,
+          <b>Chytrý M.</b>, Lososová Z., Horsák M., Uher B., Čejka T., <b>Danihelka J.</b>, Fajmon K., Hájek O.,
           Juřičková L., Kintrová K., Láníková D., Otýpková Z., Řehořek V. &amp; Tichý L. (2012):
           Dispersal limitation is stronger in communities of microorganisms than macroorganisms
-          across Central European cities. Journal of Biogeography 39: 1101–1111. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02664.x/abstract">fulltext in Wiley Online Library</a>
+          across Central European cities. <i>Journal of Biogeography</i> 39: 1101–1111. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02664.x/abstract">fulltext in Wiley Online Library</a>
         </li>
         <li>
           Kalusová V., Čeplová N. &amp; Lososová Z. (2017): Which traits influence the frequency of
           plant species occurrence in urban habitat types? Urban Ecosystems 20: 65–75. <a href="http://download.springer.com/static/pdf/530/art%253A10.1007%252Fs11252-016-0588-3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11252-016-0588-3&token2=exp=1487941980~acl=%2Fstatic%2Fpdf%2F530%2Fart%25253A10.1007%25252Fs11252-016-0588-3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11252-016-0588-3*~hmac=1d22a442a78c8b981a15fdc6bfa0e0a7d89cfbb25e0f56f3b17c81083fb1316c">fulltext on SpringerLink</a>
         </li>
         <li>
-          Lososová Z., Chytrý M., Tichý L., Danihelka J., Fajmon K., Hájek O., Kintrová K., Kühn I.,
+          Lososová Z., <b>Chytrý M.</b>, Tichý L., <b>Danihelka J.</b>, Fajmon K., Hájek O., Kintrová K., Kühn I.,
           Láníková D., Otýpková Z. &amp; Řehořek V. (2012): Native and alien floras in urban
-          habitats: a comparison across 32 cities of central Europe. Global Ecology and Biogeography
+          habitats: a comparison across 32 cities of central Europe. <i>Global Ecology and Biogeography</i>
           21: 545–555. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00704.x/abstract">fulltext in Wiley Online Library</a>
         </li>
         <li>
-          Lososová Z., Chytrý M., Tichý L., Danihelka J., Fajmon K., Hájek O., Kintrová K., Láníková
+          Lososová Z., <b>Chytrý M.</b>, Tichý L., <b>Danihelka J.</b>, Fajmon K., Hájek O., Kintrová K., Láníková
           D., Otýpková Z. &amp; Řehořek V. (2012): Biotic homogenization of Central European urban
           floras depends on residence time of alien species and habitat types. Biological
           Conservation 145: 179–184.
         </li>
         <li>
-          Lososová Z., Chytrý M., Danihelka J., Tichý L. &amp; Ricotta C. (2016a): Biotic
+          Lososová Z., <b>Chytrý M.</b>, <b>Danihelka J.</b>, Tichý L. &amp; Ricotta C. (2016a): Biotic
           homogenization of urban floras by alien species: the role of species turnover and richness
-          differences. Journal of Vegetation Science 27: 452–459.
+          differences. <i>Journal of Vegetation Science</i> 27: 452–459.
         </li>
         <li>
-          Lososová Z., Čeplová N., Chytrý M., Tichý L., Danihelka J., Fajmon K., Láníková D.,
+          Lososová Z., Čeplová N., <b>Chytrý M.</b>, Tichý L., <b>Danihelka J.</b>, Fajmon K., Láníková D.,
           Preislerová Z. &amp; Řehořek V. (2016b): Is phylogenetic diversity a good proxy for
           functional diversity of plant communities? A case study from urban habitats. Journal of
           Vegetation Science 27: 1036–1046.
         </li>
         <li>
-          Lososová Z., Tichý L., Divíšek J., Čeplová N., Danihelka J., Dřevojan P., Fajmon K.,
-          Kalníková V., Kalusová V., Novák P., Řehořek V., Wirth T. &amp; Chytrý M. (2018):
+          Lososová Z., Tichý L., Divíšek J., Čeplová N., <b>Danihelka J.</b>, Dřevojan P., Fajmon K.,
+          Kalníková V., Kalusová V., Novák P., Řehořek V., Wirth T. &amp; <b>Chytrý M.</b> (2018):
           Projecting potential future shifts in species composition of European urban plant
           communities. Diversity and Distributions 24: 765–775. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.12725">fulltext in Wiley Online Library</a>
         </li>
@@ -336,16 +336,16 @@ export const project3cz = {
           botanické společnosti 53: 207–216.
         </li>
         <li>
-          Lososová Z. &amp; Danihelka J. (2014): Proč je flóra velkoměst pestrá. Živa 2014/6:
+          Lososová Z. &amp; <b>Danihelka J.</b> (2014): Proč je flóra velkoměst pestrá. <i>Živa</i> 2014/6:
           278–281.
         </li>
         <li>
-          Lososová Z., Šumberová K., Tichý L., Vymazalová M. &amp; Danihelka J. (2015): Květena Brna
-          – současný stav poznání. Živa 2015/6: 289–292.
+          Lososová Z., Šumberová K., Tichý L., Vymazalová M. &amp; <b>Danihelka J.</b> (2015): Květena Brna
+          – současný stav poznání. <i>Živa</i> 2015/6: 289–292.
         </li>
         <li>
           Pergl J., Lososová Z., Sádlo J. &amp; Štajerová K. (2018): Rostlinné invaze na
-          antropogenních stanovištích. Živa 5: 233–234.
+          antropogenních stanovištích. <i>Živa</i> 5: 233–234.
         </li>
       </div>
     </div>
