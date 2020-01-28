@@ -189,7 +189,7 @@ export const project1cz = {
           Turtureanu P. D., Ugurlu E., Uogintas D., Valachovič M., Vanselow K. A., Vashenyak Y.,
           Vassilev K., Vélez‐Martin E., Venanzoni R., Vibrans A. C., Violle C., Virtanen R., von
           Wehrden H., Wagner V., Walker D. A., Wana D., Weiher E., Wesche K., Whitfeld T., Willner
-          W., Wiser S., Wohlgemuth T., Yamalov S., Zizka G. &amp; Zverev A. 2019. sPlot – a new tool
+          W., Wiser S., Wohlgemuth T., Yamalov S., Zizka G. &amp; Zverev A. (2019): sPlot – a new tool
           for global vegetation analyses. <i>Journal of Vegetation Science</i> 30: 161–186. – {" "}
 		  <a href="https://doi.org/10.1111/jvs.12710">https://doi.org/10.1111/jvs.12710</a>
           
@@ -232,7 +232,7 @@ export const project1cz = {
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>,
-          <b>Knollová I.</b>, Marcenò C., <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
+          <b> Knollová I.</b>, Marcenò C., <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
           Updated crosswalks of the revised EUNIS Habitat Classification with the European
           Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats
           and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1.
@@ -261,10 +261,10 @@ export const project1cz = {
         </li>
         <li>
           <b>Večeřa M.</b>, <b>Divíšek J.</b>, Lenoir J., Jiménez-Alfaro B., Biurrun I., <b>Knollová I.</b>, Agrillo E.,
-          Campos J. A., Čarni A., Crespo Jiménez G., Ćuk M., Dimopoulos P., Ewald J.,
+          Campos J.A., Čarni A., Crespo Jiménez G., Ćuk M., Dimopoulos P., Ewald J.,
           Fernández-González F., Gégout J.-C., Indreica A., Jandt U., Jansen F., Kącki Z.,
-          Rašomavičius V., <b>Řezníčková M.</b>, Rodwell J. S., Schaminée J. H. J., Šilc U., Svenning
-          J.-C., Swacha G., Vassilev K., Venanzoni R., Willner W., Wohlgemuth T. &amp; <b>Chytrý M.</b>
+          Rašomavičius V., <b>Řezníčková M.</b>, Rodwell J.S., Schaminée J.H.J., Šilc U., Svenning
+          J.-C., Swacha G., Vassilev K., Venanzoni R., Willner W., Wohlgemuth T. &amp; <b>Chytrý M. </b>
           (2019): Alpha diversity of vascular plants in European forests. <i>Journal of Biogeography</i>
           46: 1919–1935. – {" "}
 		  <a href="https://doi.org/10.1111/jbi.13624">https://doi.org/10.1111/jbi.13624</a> 
@@ -301,7 +301,7 @@ export const project1cz = {
         </li>
         <li>
           Del Vecchio S., Fantinato E., Janssen J. A. M., Bioret F., Acosta A., Prisco I., Tzonev
-          R., Marcenò C., Rodwell J., &amp; Buffa G. (2018): Biogeographic variability of coastal
+          R.,<b> Marcenò C.</b>, Rodwell J. &amp; Buffa G. (2018): Biogeographic variability of coastal
           perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321.
         </li>
         <li>
@@ -804,7 +804,7 @@ export const project1en = {
           Turtureanu P. D., Ugurlu E., Uogintas D., Valachovič M., Vanselow K. A., Vashenyak Y.,
           Vassilev K., Vélez‐Martin E., Venanzoni R., Vibrans A. C., Violle C., Virtanen R., von
           Wehrden H., Wagner V., Walker D. A., Wana D., Weiher E., Wesche K., Whitfeld T., Willner
-          W., Wiser S., Wohlgemuth T., Yamalov S., Zizka G. &amp; Zverev A. 2019. sPlot – a new tool
+          W., Wiser S., Wohlgemuth T., Yamalov S., Zizka G. &amp; Zverev A. (2019): sPlot – a new tool
           for global vegetation analyses. <i>Journal of Vegetation Science</i> 30: 161–186. – {" "}
 		  <a href="https://doi.org/10.1111/jvs.12710">https://doi.org/10.1111/jvs.12710</a>
           
@@ -847,7 +847,7 @@ export const project1en = {
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>,
-          <b>Knollová I.</b>, Marcenò C., <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
+          <b> Knollová I.</b>, Marcenò C., <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
           Updated crosswalks of the revised EUNIS Habitat Classification with the European
           Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats
           and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1.
@@ -876,10 +876,10 @@ export const project1en = {
         </li>
         <li>
           <b>Večeřa M.</b>, <b>Divíšek J.</b>, Lenoir J., Jiménez-Alfaro B., Biurrun I., <b>Knollová I.</b>, Agrillo E.,
-          Campos J. A., Čarni A., Crespo Jiménez G., Ćuk M., Dimopoulos P., Ewald J.,
+          Campos J.A., Čarni A., Crespo Jiménez G., Ćuk M., Dimopoulos P., Ewald J.,
           Fernández-González F., Gégout J.-C., Indreica A., Jandt U., Jansen F., Kącki Z.,
-          Rašomavičius V., <b>Řezníčková M.</b>, Rodwell J. S., Schaminée J. H. J., Šilc U., Svenning
-          J.-C., Swacha G., Vassilev K., Venanzoni R., Willner W., Wohlgemuth T. &amp; <b>Chytrý M.</b>
+          Rašomavičius V., <b>Řezníčková M.</b>, Rodwell J.S., Schaminée J.H.J., Šilc U., Svenning
+          J.-C., Swacha G., Vassilev K., Venanzoni R., Willner W., Wohlgemuth T. &amp; <b>Chytrý M. </b>
           (2019): Alpha diversity of vascular plants in European forests. <i>Journal of Biogeography</i>
           46: 1919–1935. – {" "}
 		  <a href="https://doi.org/10.1111/jbi.13624">https://doi.org/10.1111/jbi.13624</a> 
@@ -916,7 +916,7 @@ export const project1en = {
         </li>
         <li>
           Del Vecchio S., Fantinato E., Janssen J. A. M., Bioret F., Acosta A., Prisco I., Tzonev
-          R., Marcenò C., Rodwell J., &amp; Buffa G. (2018): Biogeographic variability of coastal
+          R.,<b> Marcenò C.</b>, Rodwell J. &amp; Buffa G. (2018): Biogeographic variability of coastal
           perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321.
         </li>
         <li>

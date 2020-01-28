@@ -231,6 +231,12 @@ export const popularizationCz = [
   },
   {
     date: `2019`,
+    name: `Comeback středoevropské lesostepi`,
+    resources: [`Vesmír`],
+    links: [`https://vesmir.cz/cz/casopis/archiv-casopisu/2019/cislo-7/comeback-stredoevropske-lesostepi.html`]
+  },
+  {
+    date: `2019`,
     name: `Podpěrovské inspirace v botanice`,
     resources: [`Živa`],
     links: [`http://ziva.avcr.cz/files/ziva/pdf/podperovske-inspirace-v-botanice.pdf`]
@@ -272,10 +278,28 @@ export const popularizationCz = [
     links: [`http://ziva.avcr.cz/files/ziva/pdf/zname-odpoved-na-darwinovu-naturalizacni-hadanku.pdf`]
   },
   {
+    date: `2017`,
+    name: `Za botanickými krásami jižní Kolchidy I.`,
+    resources: [`Živa`],
+    links: [`http://ziva.avcr.cz/files/ziva/pdf/za-botanickymi-krasami-jizni-kolchidy-i.pdf`]
+  },
+  {
+    date: `2017`,
+    name: `Za botanickými krásami jižní Kolchidy II.`,
+    resources: [`Živa`],
+    links: [`http://ziva.avcr.cz/files/ziva/pdf/za-botanickymi-krasami-jizni-kolchidy-ii.pdf`]
+  },
+  {
     date: `2016`,
     name: `Vliv akumulace dusíku na vřesoviště a suché trávníky v Národním parku Podyjí`,
     resources: [`Životné prostredie`],
     links: [`https://www.sci.muni.cz/botany/chytry/Zahora_etal2016_Zivotne-prostredie.pdf`]
+  },
+    {
+    date: `2016`,
+    name: `Hádecké lomy – 15 let záchrany`,
+    resources: [`Ochrana přírody`],
+    links: [`http://www.casopis.ochranaprirody.cz/pece-o-prirodu-a-krajinu/hadecke-lomy-15-let-zachrany/`]
   },
     {
     date: `2015`,
@@ -384,6 +408,12 @@ export const popularizationCz = [
     name: `Sveřep stoklasa - starobylý plevel obilných polí`,
     resources: [`Živa`],
     links: [`http://ziva.avcr.cz/files/ziva/pdf/sverep-stoklasa-starobyly-plevel-obilnych-poli.pdf`]
+  },
+     {
+    date: `2004`,
+    name: `Rekultivace vápencových lomů`,
+    resources: [`Vesmír`],
+    links: [`https://vesmir.cz/cz/casopis/archiv-casopisu/2004/cislo-6/rekultivace-vapencovych-lomu.html`]
   },
 ];
 
