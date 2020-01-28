@@ -109,38 +109,45 @@ export const en = {
     </div>
   ),
   dbState: (
-    <div>
+        <div>
       <p>
-        Databáze v současné době obsahuje 113 568 snímků (červenec 2019) z
-        celého území České republiky (obr. 1) zapsané od roku 1922 (obr. 2, dole) více než tisícem botaniků. Největší počet snímků byl zaznamenán ve vegetaci listnatých lesů (<i>Querco-Fagetea</i>),
-        luk a pastvin (<i>Molinio-Arrhenatheretea</i>) nebo vysokých ostřic (<i>Phragmito-Magno-Caricetea</i>;
-        obr. 2, nahoře). Fytocenologická bibliografie s vyznačením publikací excerpovaných v
-        centrální databázi je k dispozici{" "}
+        Databáze obsahuje 113 568 snímků (červenec 2019) z celého území České republiky (obr. 1) zapsané od
+        roku 1922 (obr. 2, dole) více než tisícem botaniků. Největší počet snímků byl zaznamenán ve
+        vegetaci listnatých lesů (<i>Querco-Fagetea</i>), luk a pastvin (<i>Molinio-Arrhenatheretea</i>) nebo
+        vysokých ostřic (<i>Phragmito-Magno-Caricetea</i>; obr. 2, nahoře). Fytocenologická bibliografie s
+        vyznačením publikací excerpovaných v centrální databázi je k dispozici{" "}
         <a target="_blanc" href="http://www.sci.muni.cz/botany/tvref/">
           zde
         </a>
         .
       </p>
+	  <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
+      podle České národní fytocenologické databáze"/>
       Obr. 1: Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
       fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat).
-      <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
-      podle České národní fytocenologické databáze"/>
       <p>
-        Obr. 2: Počty snímků <br />
+        
         <BarChart
           data={samplesData}
           labels={samplesYears}
           tooltipLabel="počet snímků"
           title="Počet snímků z různých let"
         />
-        <BarChart
+		Obr. 2: Počet fytocenologických snímků v jednotlivých letech.<br />
+		</p>
+		<p>
+		<BarChart
           data={vegetationClassesSamples}
           labels={vegetationClasses}
           tooltipLabel="počet snímků"
           title="Počet snímků  v různých vegetačních třídách"
         />
+		Obr. 3: Počty snímků v jednotlivých vegetačních třídách.<br />
       </p>
-      Obr. 3: Interaktivní mapa (coming soon)
+		<p>
+		Obr. 4: Interaktivní mapa (coming soon)
+		</p>
+      
     </div>
   ),
 
@@ -508,26 +515,33 @@ export const cz = {
         </a>
         .
       </p>
-      Obr. 1: Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
-      fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat)
-      <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
+	  <CnfdMap altText="Rozmístění fytocenologických snímků do čtverců v České republice
       podle České národní fytocenologické databáze"/>
+      Obr. 1: Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
+      fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat).
       <p>
-        Obr. 2: <br />
+        
         <BarChart
           data={samplesData}
           labels={samplesYears}
           tooltipLabel="počet snímků"
           title="Počet snímků z různých let"
         />
-        <BarChart
+		Obr. 2: Počet fytocenologických snímků v jednotlivých letech.<br />
+		</p>
+		<p>
+		<BarChart
           data={vegetationClassesSamples}
           labels={vegetationClasses}
           tooltipLabel="počet snímků"
           title="Počet snímků  v různých vegetačních třídách"
         />
+		Obr. 3: Počty snímků v jednotlivých vegetačních třídách.<br />
       </p>
-      Obr.3: Interaktivní mapa (coming soon)
+		<p>
+		Obr. 4: Interaktivní mapa (coming soon)
+		</p>
+      
     </div>
   ),
   data: (

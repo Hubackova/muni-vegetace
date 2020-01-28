@@ -21,8 +21,8 @@ const DbDate = ({ type }) => (
 
 export const en = {
   menu: [
-    { name: "installation", text: "Instalace" },
-    { name: "actualization", text: "Aktualizace" },
+    /* { name: "installation", text: "Instalace" },*/
+    { name: "actualization", text: "Instalace a aktualizace" },
     { name: "workPrincipals", text: "Zásady práce" },
     { name: "coordinators", text: "Koordinátoři" }
   ],
@@ -54,17 +54,21 @@ export const en = {
       .
     </p>
   ),
-  installation: (
+  /* installation: (
    <div>
    <div style={{ fontWeight: "bold", color: "#94962C" }}>Instalace</div>
       <p>
         Pro instalaci programu klikněte <a href="http://www.sci.muni.cz/botany/tv/index.html">ZDE</a>.
       </p>
     </div>
-  ),
+  ),*/
   actualization: (
     <div>
-      <div style={{ fontWeight: "bold", color: "#94962C" }}>Aktualizace</div>
+   <div style={{ fontWeight: "bold", color: "#94962C" }}>Instalace</div>
+      <p>
+        Pro instalaci programu klikněte <a href="http://www.sci.muni.cz/botany/tv/index.html">ZDE</a>.
+      </p>
+         <div style={{ fontWeight: "bold", color: "#94962C" }}>Aktualizace</div>
       <div>
         Pro optimální funkci programu TURBOVEG doporučujeme pravidelně kontrolovat dostupné
         aktualizace programu (

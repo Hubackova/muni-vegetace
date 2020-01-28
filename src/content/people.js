@@ -387,6 +387,15 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
       img: kalnikova
     },
+	 {
+      id: `knotkova`,
+      name: `Kateřina Knotková`,
+      position: `PhD student, Researcher`,
+      description: ``,
+      email: `501016@mail.muni.cz`,
+      phoneNumber: `549496974`,
+      is: `https://www.muni.cz/en/people/501016-katerina-knotkova`,
+      },
     {
       id: `novak`,
       name: `Pavel Novák`,
@@ -795,6 +804,15 @@ fakultě Masarykovy univerzity v Brně. Floristicky zaměřenou diplomovou prác
       researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
       img: kalnikova
     },
+	{
+      id: `knotkova`,
+      name: `Kateřina Knotková`,
+      position: `Doktrorand, výzkumník`,
+      description: ``,
+      email: `501016@mail.muni.cz`,
+      phoneNumber: `549496974`,
+      is: `https://www.muni.cz/lide/501016-katerina-knotkova`,
+      },
     {
       id: `novak`,
       name: `Pavel Novák`,
