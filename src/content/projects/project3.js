@@ -149,7 +149,7 @@ export const project3en = {
         </li>
         <li>
           <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Hájek O.</b>, <b>Kintrová K.</b>, Kühn I.,
-          <b>Láníková D.</b>, <b>Otýpková Z.</b> &amp; <b>Řehořek V.</b> (2012): Native and alien floras in urban
+          <b> Láníková D.</b>, <b>Otýpková Z.</b> &amp; <b>Řehořek V.</b> (2012): Native and alien floras in urban
           habitats: a comparison across 32 cities of central Europe. <i>Global Ecology and Biogeography </i>
           21: 545–555. – 
 		  {" "}<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00704.x/abstract">fulltext in Wiley Online Library</a>
@@ -172,7 +172,7 @@ export const project3en = {
           Vegetation Science</i> 27: 1036–1046.
         </li>
         <li>
-          <b>Lososová Z.</b>, <b>Tichý L.</b>, Divíšek J., <b>Čeplová N.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K.,
+          <b>Lososová Z.</b>, <b>Tichý L.</b>, <b>Divíšek J.</b>, <b>Čeplová N.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K.,
           <b> Kalníková V.</b>, <b>Kalusová V.</b>, <b>Novák P.</b>, <b>Řehořek V.</b>, Wirth T. &amp; <b>Chytrý M.</b> (2018):
           Projecting potential future shifts in species composition of European urban plant
           communities. <i>Diversity and Distributions</i> 24: 765–775. –
@@ -302,7 +302,7 @@ export const project3cz = {
         </li>
         <li>
           <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Hájek O.</b>, <b>Kintrová K.</b>, Kühn I.,
-          <b>Láníková D.</b>, <b>Otýpková Z.</b> &amp; <b>Řehořek V.</b> (2012): Native and alien floras in urban
+          <b> Láníková D.</b>, <b>Otýpková Z.</b> &amp; <b>Řehořek V.</b> (2012): Native and alien floras in urban
           habitats: a comparison across 32 cities of central Europe. <i>Global Ecology and Biogeography </i>
           21: 545–555. – 
 		  {" "}<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00704.x/abstract">fulltext in Wiley Online Library</a>
@@ -325,7 +325,7 @@ export const project3cz = {
           Vegetation Science</i> 27: 1036–1046.
         </li>
         <li>
-          <b>Lososová Z.</b>, <b>Tichý L.</b>, Divíšek J., <b>Čeplová N.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K.,
+          <b>Lososová Z.</b>, <b>Tichý L.</b>, <b>Divíšek J.</b>, <b>Čeplová N.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K.,
           <b> Kalníková V.</b>, <b>Kalusová V.</b>, <b>Novák P.</b>, <b>Řehořek V.</b>, Wirth T. &amp; <b>Chytrý M.</b> (2018):
           Projecting potential future shifts in species composition of European urban plant
           communities. <i>Diversity and Distributions</i> 24: 765–775. –

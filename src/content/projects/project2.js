@@ -302,7 +302,7 @@ export const project2en = {
         </li>
         <li>
           <b>Horsák M.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Kočí M., <b>Kubešová S.</b>, <b>Lososová Z.</b>, <b>Otýpková Z.</b> &amp;
-          <b>Tichý L.</b> (2010): Snail faunas in the Southern Ural forests and their relations to
+          <b> Tichý L.</b> (2010): Snail faunas in the Southern Ural forests and their relations to
           vegetation: an analogue of the Early Holocene assemblages of Central Europe? <i>Journal of
           Molluscan Studies</i> 76: 1–10. –
           <a href="https://academic.oup.com/mollus/article/76/1/1/1084149">
@@ -387,7 +387,7 @@ export const project2en = {
         <li>
           Pavelková Řičánková V., Robovský J., Riegert J. &amp; Zrzavý J. (2015): Regional patterns
           of postglacial changes in the Palearctic mammalian diversity indicate retreat to Siberian
-          steppes rather than extinction. <i>Scientific Reports</i> 5:12682. –
+          steppes rather than extinction. <i>Scientific Reports</i> 5: 12682. –
           <a href="http://botzool.sci.muni.cz/pubs/Pavelkova-Ricankova_etal2015_Sci-Rep.pdf">
             {" "}
             fulltext in pdf
@@ -721,7 +721,7 @@ export const project2cz = {
         </li>
         <li>
           <b>Horsák M.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Kočí M., <b>Kubešová S.</b>, <b>Lososová Z.</b>, <b>Otýpková Z.</b> &amp;
-          <b>Tichý L.</b> (2010): Snail faunas in the Southern Ural forests and their relations to
+          <b> Tichý L.</b> (2010): Snail faunas in the Southern Ural forests and their relations to
           vegetation: an analogue of the Early Holocene assemblages of Central Europe? <i>Journal of
           Molluscan Studies</i> 76: 1–10. –
           <a href="https://academic.oup.com/mollus/article/76/1/1/1084149">
@@ -806,7 +806,7 @@ export const project2cz = {
         <li>
           Pavelková Řičánková V., Robovský J., Riegert J. &amp; Zrzavý J. (2015): Regional patterns
           of postglacial changes in the Palearctic mammalian diversity indicate retreat to Siberian
-          steppes rather than extinction. <i>Scientific Reports</i> 5:12682. –
+          steppes rather than extinction. <i>Scientific Reports</i> 5: 12682. –
           <a href="http://botzool.sci.muni.cz/pubs/Pavelkova-Ricankova_etal2015_Sci-Rep.pdf">
             {" "}
             fulltext in pdf

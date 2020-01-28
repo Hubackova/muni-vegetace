@@ -319,7 +319,7 @@ export const project1cz = {
 		  <a href="http://dx.doi.org/10.1038/s41559-017-0462-6">http://dx.doi.org/10.1038/s41559-017-0462-6</a> 
         </li>
         <li>
-          Jiménez-Alfaro B., Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájkek M.</b>,
+          Jiménez-Alfaro B., Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájek M.</b>,
           Agrillo E., Álvarez-Martínez J.M., Bergamini A., Brisse H., Brunet J., Casella L., Dítě
           D., Font X., Gillet F., <b>Hájková P.</b>, Jansen F., Jandt U., Kącki Z., Lenoir J., Rodwell
           J.S., Schaminée J.H.J., <b>Sekulová L.</b>, Šibík J., Škvorc Ž. &amp; Tsiripidis I. (2018):
@@ -351,7 +351,7 @@ export const project1cz = {
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Knollová I.</b>, Rodwell J.S.,
-          <b>Tichý L.</b> &amp; data providers (2018): Updated crosswalk of the revised EUNIS Habitat
+          <b> Tichý L.</b> &amp; data providers (2018): Updated crosswalk of the revised EUNIS Habitat
           Classification with the European vegetation classification and indicator species for the
           EUNIS grassland, shrubland and forest types. Report EEA/NSS/17/002/Lot 1. European
           Environment Agency, Copenhagen.
@@ -369,7 +369,7 @@ export const project1cz = {
 		  <a href="http://dx.doi.org/10.1073/pnas.1705487114">http://dx.doi.org/10.1073/pnas.1705487114</a> 
         </li>
         <li>
-          Marcenò C. &amp; Jiménez-Alfaro B. (2017): The Mediterranean Ammophiletea Database: a
+          <b>Marcenò C.</b> &amp; Jiménez-Alfaro B. (2017): The Mediterranean Ammophiletea Database: a
           comprehensive dataset of coastal dune vegetation. <i>Phytocoenologia</i> 47: 95–105.
         </li>
         <li>
@@ -378,10 +378,10 @@ export const project1cz = {
           47–63.
         </li>
         <li>
-          <b>Peterka T.</b>, <b>Hájkek M.</b>, <b>Jiroušek M.</b>, Jiménez-Alfaro B., Aunina L., Bergamini A., Dítě D.,
+          <b>Peterka T.</b>, <b>Hájek M.</b>, <b>Jiroušek M.</b>, Jiménez-Alfaro B., Aunina L., Bergamini A., Dítě D.,
           Felbaba- Klushyna L., Graf U., <b>Hájková P.</b>, <b>Hettenbergerová E.</b>, Ivchenko T.G., Jansen F.,
           Koroleva N.E., Lapshina E.D., Lazarević P.M., Moen A., Napreenko M.G., Pawlikowski P.,
-          <b>Plesková Z.</b>, <b>Sekulová L.</b>, Smagin V.A., Tahvanainen T., Thiele A., Biţă-Nicolae C., Biurrun
+          <b> Plesková Z.</b>, <b>Sekulová L.</b>, Smagin V.A., Tahvanainen T., Thiele A., Biţă-Nicolae C., Biurrun
           I., Brisse H., Ćušterevska R., De Bie E., Ewald J., FitzPatrick Ú., Font X., Jandt U.,
           Kącki Z., Kuzemko A., <b>Landucci F.</b>, Moeslund J.E., Pérez-Haase A., Rašomavičius V., Rodwell
           J.S., Schaminée J.H.J., Šilc U., Stančić Z. &amp; <b>Chytrý M.</b> (2017): Formalized
@@ -460,7 +460,7 @@ export const project1cz = {
           N., <b>Landucci F.</b>, Loidi J., Ssymank A., Tahvanainen T., Valderrabano M., Acosta A.,
           Aronsson M., Arts G., Attorre F., Bergmeier E., Bijlsma R.-J., Bioret F., Biţă-Nicolae C.,
           Biurrun I., Calix M., Capelo J., Čarni A., <b>Chytrý M.</b>, Dengler J., Dimopoulos P., Essl F.,
-          Gardfjell H., Gigante D., Giusso del Galdo G., <b>Hájkek M.</b>, Jansen F., Jansen J., Kapfer J.,
+          Gardfjell H., Gigante D., Giusso del Galdo G., <b>Hájek M.</b>, Jansen F., Jansen J., Kapfer J.,
           Mickolajczak A., Molina J.A., Molnár Z., Paternoster D., Piernik A., Poulin B., Renaux B.,
           Schaminée J.H.J., Šumberová K., Toivonen H., Tonteri T., Tsiripidis I., Tzonev R. &amp;
           Valachovič M. (2016): European Red List of Habitats - Part 2. Terrestrial and freshwater
@@ -468,7 +468,7 @@ export const project1cz = {
         </li>
         <li>
           Mucina L., Bültmann H., Dierßen K., Theurillat J.-P., Raus T., Čarni A., Šumberová K.,
-          Willner W., Dengler J., Gavilán García R., <b>Chytrý M.</b>, <b>Hájkek M.</b>, Di Pietro R., Iakushenko
+          Willner W., Dengler J., Gavilán García R., <b>Chytrý M.</b>, <b>Hájek M.</b>, Di Pietro R., Iakushenko
           D., Pallas J., Daniëls F.J.A., Bergmeier E., Santos Guerra A., Ermakov N., Valachovič M.,
           Schaminée J.H.J., Lysenko T., Didukh Ya.P., Pignatti S., Rodwell J.S., Capelo J., Weber
           H.E., Solomeshch A., Dimopoulos P., Aguiar C., Hennekens S.M. &amp; <b>Tichý L.</b> (2016):
@@ -495,9 +495,9 @@ export const project1cz = {
         </li>
         <b>2015</b>
         <li>
-          <b>Chytrý M.</b>, Dražil T., <b>Hájkek M.</b>, <b>Kalníková V.</b>, <b>Preislerová Z.</b>, Šibík J., Ujházy K.,
-          <b>Axmanová I.</b>, Bernátová D., Blanár D., Dančák M., <b>Dřevojan P.</b>, Fajmon K., Galvánek D.,
-          <b>Hájková P.</b>, Herben T., Hrivnák R., Janeček Š., Janišová M., Jiráská Š., Kliment J.,
+          <b>Chytrý M.</b>, Dražil T., <b>Hájek M.</b>, <b>Kalníková V.</b>, <b>Preislerová Z.</b>, Šibík J., Ujházy K.,
+          <b> Axmanová I.</b>, Bernátová D., Blanár D., Dančák M., <b>Dřevojan P.</b>, Fajmon K., Galvánek D.,
+          <b> Hájková P.</b>, Herben T., Hrivnák R., Janeček Š., Janišová M., Jiráská Š., Kliment J.,
           Kochjarová J., Lepš J., Leskovjanská A., <b>Merunková K.</b>, Mládek J., Slezák M., Šeffer J.,
           Šefferová V., Škodová I., Uhlířová J., Ujházyová M. &amp; <b>Vymazalová M.</b> (2015): The most
           species-rich plant communities in the Czech Republic and Slovakia (with new world
@@ -508,7 +508,7 @@ export const project1cz = {
           Dengler J., Ewald J., Faber-Langendoen D., Feoli E., Franklin S.B., Gavilán R., Gillet F.,
           Jansen F., Jiménez-Alfaro B., Krestov P., <b>Landucci F.</b>, Lengyel A., Loidi J., Mucina L.,
           Peet R.K., Roberts D.W., <b>Roleček J.</b>, Schaminée J.H.J., Schmidtlein S., Theurillat J.-P.,
-          <b>Tichý L.</b>, Walker D.A., Wildi O., Willner W. &amp; Wiser S.K. (2015): A comparative
+          <b> Tichý L.</b>, Walker D.A., Wildi O., Willner W. &amp; Wiser S.K. (2015): A comparative
           framework for broad-scale plot-based vegetation classification. <i>Applied Vegetation Science </i>
           18: 543–560.
         </li>
@@ -520,7 +520,7 @@ export const project1cz = {
         <li>
           <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2015): Intercontinental comparison
           of habitat levels of invasion between temperate North America and Europe. <i>Ecology</i> 96:
-          3363-3373.
+          3363–3373.
         </li>
         <li>
           <b>Landucci F.</b>, <b>Řezníčková M.</b>, Šumberová K., <b>Chytrý M.</b>, Aunina L., Biţă-Nicolae C., Bobrov
@@ -539,7 +539,7 @@ export const project1cz = {
           <i> Journal of Vegetation Science</i> 26: 791–803.
         </li>
         <li>
-          <b>Palpurina S.</b>, <b>Chytrý M.</b>, Tzonev R., <b>Danihelka J.</b>, <b>Axmanová I.</b>, <b>Merunková K.</b>, <b>Duchoň M.</b>
+          <b>Palpurina S.</b>, <b>Chytrý M.</b>, Tzonev R., <b>Danihelka J.</b>, <b>Axmanová I.</b>, <b>Merunková K.</b>, <b>Duchoň M. </b>
           &amp; Karakiev T. (2015): Patterns of fine-scale plant species richness in dry grasslands
           across the eastern Balkan Peninsula. <i>Acta Oecologica</i> 63: 36–46.
         </li>
@@ -556,7 +556,7 @@ export const project1cz = {
         <li>
           <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2014): Alien species pool
           influences the level of habitat invasion in intercontinental exchange of alien plants.
-          <i> Global Ecology and Biogeography</i> 23: 1366-1375.
+          <i> Global Ecology and Biogeography</i> 23: 1366–1375.
         </li>
         <li>
           Rodríguez-Rojo M.P., Fernández-González F., <b>Tichý L.</b> &amp; <b>Chytrý M.</b> (2014): Vegetation
@@ -593,7 +593,7 @@ export const project1cz = {
         <b>2011</b>
         <li>
           Dengler J., Jansen F., Glöckler F., Peet R.K., De Cáceres M., <b>Chytrý M.</b>, Ewald J.,
-          Oldeland J., Lopez- Gonzalez G., Finckh M., Mucina L., Rodwell J.S., Schaminée J.H.J.
+          Oldeland J., Lopez-Gonzalez G., Finckh M., Mucina L., Rodwell J.S., Schaminée J.H.J.
           &amp; Spencer N. (2011): The Global Index of Vegetation-Plot Databases (GIVD): a new
           resource for vegetation science. <i>Journal of Vegetation Science</i> 22: 582–597.
         </li>
@@ -934,7 +934,7 @@ export const project1en = {
 		  <a href="http://dx.doi.org/10.1038/s41559-017-0462-6">http://dx.doi.org/10.1038/s41559-017-0462-6</a> 
         </li>
         <li>
-          Jiménez-Alfaro B., Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájkek M.</b>,
+          Jiménez-Alfaro B., Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájek M.</b>,
           Agrillo E., Álvarez-Martínez J.M., Bergamini A., Brisse H., Brunet J., Casella L., Dítě
           D., Font X., Gillet F., <b>Hájková P.</b>, Jansen F., Jandt U., Kącki Z., Lenoir J., Rodwell
           J.S., Schaminée J.H.J., <b>Sekulová L.</b>, Šibík J., Škvorc Ž. &amp; Tsiripidis I. (2018):
@@ -966,7 +966,7 @@ export const project1en = {
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Knollová I.</b>, Rodwell J.S.,
-          <b>Tichý L.</b> &amp; data providers (2018): Updated crosswalk of the revised EUNIS Habitat
+          <b> Tichý L.</b> &amp; data providers (2018): Updated crosswalk of the revised EUNIS Habitat
           Classification with the European vegetation classification and indicator species for the
           EUNIS grassland, shrubland and forest types. Report EEA/NSS/17/002/Lot 1. European
           Environment Agency, Copenhagen.
@@ -984,7 +984,7 @@ export const project1en = {
 		  <a href="http://dx.doi.org/10.1073/pnas.1705487114">http://dx.doi.org/10.1073/pnas.1705487114</a> 
         </li>
         <li>
-          Marcenò C. &amp; Jiménez-Alfaro B. (2017): The Mediterranean Ammophiletea Database: a
+          <b>Marcenò C.</b> &amp; Jiménez-Alfaro B. (2017): The Mediterranean Ammophiletea Database: a
           comprehensive dataset of coastal dune vegetation. <i>Phytocoenologia</i> 47: 95–105.
         </li>
         <li>
@@ -993,10 +993,10 @@ export const project1en = {
           47–63.
         </li>
         <li>
-          <b>Peterka T.</b>, <b>Hájkek M.</b>, <b>Jiroušek M.</b>, Jiménez-Alfaro B., Aunina L., Bergamini A., Dítě D.,
+          <b>Peterka T.</b>, <b>Hájek M.</b>, <b>Jiroušek M.</b>, Jiménez-Alfaro B., Aunina L., Bergamini A., Dítě D.,
           Felbaba- Klushyna L., Graf U., <b>Hájková P.</b>, <b>Hettenbergerová E.</b>, Ivchenko T.G., Jansen F.,
           Koroleva N.E., Lapshina E.D., Lazarević P.M., Moen A., Napreenko M.G., Pawlikowski P.,
-          <b>Plesková Z.</b>, <b>Sekulová L.</b>, Smagin V.A., Tahvanainen T., Thiele A., Biţă-Nicolae C., Biurrun
+          <b> Plesková Z.</b>, <b>Sekulová L.</b>, Smagin V.A., Tahvanainen T., Thiele A., Biţă-Nicolae C., Biurrun
           I., Brisse H., Ćušterevska R., De Bie E., Ewald J., FitzPatrick Ú., Font X., Jandt U.,
           Kącki Z., Kuzemko A., <b>Landucci F.</b>, Moeslund J.E., Pérez-Haase A., Rašomavičius V., Rodwell
           J.S., Schaminée J.H.J., Šilc U., Stančić Z. &amp; <b>Chytrý M.</b> (2017): Formalized
@@ -1075,7 +1075,7 @@ export const project1en = {
           N., <b>Landucci F.</b>, Loidi J., Ssymank A., Tahvanainen T., Valderrabano M., Acosta A.,
           Aronsson M., Arts G., Attorre F., Bergmeier E., Bijlsma R.-J., Bioret F., Biţă-Nicolae C.,
           Biurrun I., Calix M., Capelo J., Čarni A., <b>Chytrý M.</b>, Dengler J., Dimopoulos P., Essl F.,
-          Gardfjell H., Gigante D., Giusso del Galdo G., <b>Hájkek M.</b>, Jansen F., Jansen J., Kapfer J.,
+          Gardfjell H., Gigante D., Giusso del Galdo G., <b>Hájek M.</b>, Jansen F., Jansen J., Kapfer J.,
           Mickolajczak A., Molina J.A., Molnár Z., Paternoster D., Piernik A., Poulin B., Renaux B.,
           Schaminée J.H.J., Šumberová K., Toivonen H., Tonteri T., Tsiripidis I., Tzonev R. &amp;
           Valachovič M. (2016): European Red List of Habitats - Part 2. Terrestrial and freshwater
@@ -1083,7 +1083,7 @@ export const project1en = {
         </li>
         <li>
           Mucina L., Bültmann H., Dierßen K., Theurillat J.-P., Raus T., Čarni A., Šumberová K.,
-          Willner W., Dengler J., Gavilán García R., <b>Chytrý M.</b>, <b>Hájkek M.</b>, Di Pietro R., Iakushenko
+          Willner W., Dengler J., Gavilán García R., <b>Chytrý M.</b>, <b>Hájek M.</b>, Di Pietro R., Iakushenko
           D., Pallas J., Daniëls F.J.A., Bergmeier E., Santos Guerra A., Ermakov N., Valachovič M.,
           Schaminée J.H.J., Lysenko T., Didukh Ya.P., Pignatti S., Rodwell J.S., Capelo J., Weber
           H.E., Solomeshch A., Dimopoulos P., Aguiar C., Hennekens S.M. &amp; <b>Tichý L.</b> (2016):
@@ -1110,9 +1110,9 @@ export const project1en = {
         </li>
         <b>2015</b>
         <li>
-          <b>Chytrý M.</b>, Dražil T., <b>Hájkek M.</b>, <b>Kalníková V.</b>, <b>Preislerová Z.</b>, Šibík J., Ujházy K.,
-          <b>Axmanová I.</b>, Bernátová D., Blanár D., Dančák M., <b>Dřevojan P.</b>, Fajmon K., Galvánek D.,
-          <b>Hájková P.</b>, Herben T., Hrivnák R., Janeček Š., Janišová M., Jiráská Š., Kliment J.,
+          <b>Chytrý M.</b>, Dražil T., <b>Hájek M.</b>, <b>Kalníková V.</b>, <b>Preislerová Z.</b>, Šibík J., Ujházy K.,
+          <b> Axmanová I.</b>, Bernátová D., Blanár D., Dančák M., <b>Dřevojan P.</b>, Fajmon K., Galvánek D.,
+          <b> Hájková P.</b>, Herben T., Hrivnák R., Janeček Š., Janišová M., Jiráská Š., Kliment J.,
           Kochjarová J., Lepš J., Leskovjanská A., <b>Merunková K.</b>, Mládek J., Slezák M., Šeffer J.,
           Šefferová V., Škodová I., Uhlířová J., Ujházyová M. &amp; <b>Vymazalová M.</b> (2015): The most
           species-rich plant communities in the Czech Republic and Slovakia (with new world
@@ -1123,7 +1123,7 @@ export const project1en = {
           Dengler J., Ewald J., Faber-Langendoen D., Feoli E., Franklin S.B., Gavilán R., Gillet F.,
           Jansen F., Jiménez-Alfaro B., Krestov P., <b>Landucci F.</b>, Lengyel A., Loidi J., Mucina L.,
           Peet R.K., Roberts D.W., <b>Roleček J.</b>, Schaminée J.H.J., Schmidtlein S., Theurillat J.-P.,
-          <b>Tichý L.</b>, Walker D.A., Wildi O., Willner W. &amp; Wiser S.K. (2015): A comparative
+          <b> Tichý L.</b>, Walker D.A., Wildi O., Willner W. &amp; Wiser S.K. (2015): A comparative
           framework for broad-scale plot-based vegetation classification. <i>Applied Vegetation Science </i>
           18: 543–560.
         </li>
@@ -1135,7 +1135,7 @@ export const project1en = {
         <li>
           <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2015): Intercontinental comparison
           of habitat levels of invasion between temperate North America and Europe. <i>Ecology</i> 96:
-          3363-3373.
+          3363–3373.
         </li>
         <li>
           <b>Landucci F.</b>, <b>Řezníčková M.</b>, Šumberová K., <b>Chytrý M.</b>, Aunina L., Biţă-Nicolae C., Bobrov
@@ -1154,7 +1154,7 @@ export const project1en = {
           <i> Journal of Vegetation Science</i> 26: 791–803.
         </li>
         <li>
-          <b>Palpurina S.</b>, <b>Chytrý M.</b>, Tzonev R., <b>Danihelka J.</b>, <b>Axmanová I.</b>, <b>Merunková K.</b>, <b>Duchoň M.</b>
+          <b>Palpurina S.</b>, <b>Chytrý M.</b>, Tzonev R., <b>Danihelka J.</b>, <b>Axmanová I.</b>, <b>Merunková K.</b>, <b>Duchoň M. </b>
           &amp; Karakiev T. (2015): Patterns of fine-scale plant species richness in dry grasslands
           across the eastern Balkan Peninsula. <i>Acta Oecologica</i> 63: 36–46.
         </li>
@@ -1171,7 +1171,7 @@ export const project1en = {
         <li>
           <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2014): Alien species pool
           influences the level of habitat invasion in intercontinental exchange of alien plants.
-          <i> Global Ecology and Biogeography</i> 23: 1366-1375.
+          <i> Global Ecology and Biogeography</i> 23: 1366–1375.
         </li>
         <li>
           Rodríguez-Rojo M.P., Fernández-González F., <b>Tichý L.</b> &amp; <b>Chytrý M.</b> (2014): Vegetation
@@ -1208,7 +1208,7 @@ export const project1en = {
         <b>2011</b>
         <li>
           Dengler J., Jansen F., Glöckler F., Peet R.K., De Cáceres M., <b>Chytrý M.</b>, Ewald J.,
-          Oldeland J., Lopez- Gonzalez G., Finckh M., Mucina L., Rodwell J.S., Schaminée J.H.J.
+          Oldeland J., Lopez-Gonzalez G., Finckh M., Mucina L., Rodwell J.S., Schaminée J.H.J.
           &amp; Spencer N. (2011): The Global Index of Vegetation-Plot Databases (GIVD): a new
           resource for vegetation science. <i>Journal of Vegetation Science</i> 22: 582–597.
         </li>

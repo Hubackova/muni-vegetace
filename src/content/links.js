@@ -267,15 +267,15 @@ export const popularizationCz = [
   },
 {
     date: `2018`,
-    name: `Známe odpověď na Darwinovu naturalizační hádanku? `,
+    name: `Známe odpověď na Darwinovu naturalizační hádanku?`,
     resources: [`Živa`],
     links: [`http://ziva.avcr.cz/files/ziva/pdf/zname-odpoved-na-darwinovu-naturalizacni-hadanku.pdf`]
   },
   {
     date: `2018`,
-    name: `Známe odpověď na Darwinovu naturalizační hádanku?`,
+    name: `Rostlinné invaze na antropogenních stanovištích`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/zname-odpoved-na-darwinovu-naturalizacni-hadanku.pdf`]
+    links: [`http://ziva.avcr.cz/files/ziva/pdf/rostlinne-invaze-na-antropogennich-stanovistich.pdf`]
   },
   {
     date: `2017`,
@@ -294,6 +294,12 @@ export const popularizationCz = [
     name: `Vliv akumulace dusíku na vřesoviště a suché trávníky v Národním parku Podyjí`,
     resources: [`Životné prostredie`],
     links: [`https://www.sci.muni.cz/botany/chytry/Zahora_etal2016_Zivotne-prostredie.pdf`]
+  },
+  {
+    date: `2016`,
+    name: `Jak velikost města ovlivňuje druhové složení vegetace?`,
+    resources: [`Fórum ochrany přírody`],
+    links: [`http://www.casopis.forumochranyprirody.cz/magazin/analyzy-komentare/jak-velikost-mesta-ovlivnuje-druhove-slozeni-vegetace`]
   },
     {
     date: `2016`,

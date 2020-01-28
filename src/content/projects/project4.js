@@ -34,8 +34,7 @@ export const project4en = {
         <h3>Publications</h3>
         <h4>Research papers</h4>
         <li>
-          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>,
-          <b>Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
+          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b> Láníková D.</b>, <b>Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
           European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
           1–16. –{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Ceplova_etal2015_Preslia.pdf">
@@ -126,8 +125,7 @@ export const project4cz = {
         <h3>Publikace</h3>
         <h4>Odborné články</h4>
         <li>
-          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>,
-          <b>Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
+          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b> Láníková D.</b>, <b>Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
           European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
           1–16. –{" "}
           <a href="http://www.sci.muni.cz/botany/chytry/Ceplova_etal2015_Preslia.pdf">
@@ -174,7 +172,7 @@ export const project4cz = {
         <h4>Popularizační články</h4>
         <li>
           <b>Lososová Z.</b>, <b>Chytrý M.</b> & Pyšek P. (2018): Známe odpověď na Darwinovu naturalizační
-          hádanku? <i>Živa</i> 5: 229–230. -{" "}
+          hádanku? <i>Živa</i> 5: 229–230. –{" "}
           <a href="http://www.ziva.avcr.cz/files/ziva/pdf/zname-odpoved-na-darwinovu-naturalizacni-hadanku.pdf">
             fulltext in pdf
           </a>
