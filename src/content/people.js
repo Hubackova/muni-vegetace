@@ -20,6 +20,9 @@ import preislerova from "../../static/images/people/preislerova.jpg";
 import marceno from "../../static/images/people/marceno.jpg";
 import tichy from "../../static/images/people/tichy.jpg";
 import landucci from "../../static/images/people/landucci.jpg";
+import danihelka from "../../static/images/people/danihelka.jpg";
+import taborska from "../../static/images/people/taborska.jpg";
+import hajek from "../../static/images/people/hajek.jpg";
 
 export const peopleEn = {
   employees: [
@@ -90,7 +93,8 @@ export const peopleEn = {
       orcid: `https://orcid.org/0000-0002-2640-7867`,
       publons: `https://publons.com/researcher/2523760/jiri-danihelka/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=10pWhfkAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`
+      researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`, 
+	  img: danihelka
     },
     {
       id: `divisek`,
@@ -163,7 +167,8 @@ export const peopleEn = {
       email: `ohajek@sci.muni.cz`,
       phoneNumber: `549494033`,
       is: `https://www.muni.cz/en/people/16845-ondrej-hajek`,
-      researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`
+      researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`,
+	  img: hajek
     },
     {
       id: `holubova`,
@@ -285,7 +290,8 @@ export const peopleEn = {
       phoneNumber: `549498474`,
       is: `https://www.muni.cz/en/people/222793-marketa-taborska`,
       orcid: `https://orcid.org/0000-0003-3354-0284`,
-      researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`
+      researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`,
+	  img: taborska
     },
     {
       id: `drevojan`,
@@ -510,7 +516,8 @@ export const peopleCz = {
       orcid: `https://orcid.org/0000-0002-2640-7867`,
       publons: `https://publons.com/researcher/2523760/jiri-danihelka/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=10pWhfkAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`
+      researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`,
+	  img: danihelka
     },
     {
       id: `divisek`,
@@ -583,7 +590,8 @@ export const peopleCz = {
       email: `ohajek@sci.muni.cz`,
       phoneNumber: `549494033`,
       is: `https://www.muni.cz/lide/16845-ondrej-hajek`,
-      researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`
+      researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`, 
+	  img: hajek
     },
     {
       id: `holubova`,
@@ -699,7 +707,8 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       phoneNumber: `549498474`,
       is: `https://www.muni.cz/lide/222793-marketa-taborska`,
       orcid: `https://orcid.org/0000-0003-3354-0284`,
-      researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`
+      researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`, 
+	  img: taborska
     },
     {
       id: `drevojan`,
@@ -718,9 +727,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       id: `galuskova`,
       name: `Hana Galušková`,
       position: `Technik`,
-      description: `Hana Galušková vystudovala dvojobor Učitelství biologie a matematiky pro
-střední školy v programu Ekologická a evoluční biologie na Přírodovědecké
-fakultě Masarykovy univerzity v Brně. Floristicky zaměřenou diplomovou práci obhájila v roce 2014. Nyní pracuje v herbáři Ústavu botaniky a zoologie PřF Masarykovy univerzity.`,
+      description: `Hana Galušková vystudovala dvojobor Učitelství biologie a matematiky pro střední školy v programu Ekologická a evoluční biologie na Přírodovědecké fakultě Masarykovy univerzity v Brně. Floristicky zaměřenou diplomovou práci obhájila v roce 2014. Nyní pracuje v herbáři Ústavu botaniky a zoologie PřF Masarykovy univerzity.`,
       email: `357936@mail.muni.cz`,
       phoneNumber: `549494813`,
       is: `https://www.muni.cz/lide/357936-hana-galuskova`,
