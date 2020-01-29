@@ -23,6 +23,7 @@ import landucci from "../../static/images/people/landucci.jpg";
 import danihelka from "../../static/images/people/danihelka.jpg";
 import taborska from "../../static/images/people/taborska.jpg";
 import hajek from "../../static/images/people/hajek.jpg";
+import zukal from "../../static/images/people/zukal.jpg";
 
 export const peopleEn = {
   employees: [
@@ -438,11 +439,12 @@ export const peopleEn = {
       id: `zukal`,
       name: `Dominik Zukal`,
       position: `PhD student, Researcher`,
-      description: ``,
+      description: `Dominik Zukal studied the Bachelor's and Master's degree program Ecological and Evolutionary Biology at the Faculty of Science, Masaryk University in Brno in 2010–2015. During this time he studied forest vegetation, among others an alternative way of assessing its species diversity. Desiring to get a deeper insight into mechanisms driving the occurrence and functioning of forest communities, he decided to continue his studies, and so he started his PhD studies at the same institution. In his PhD thesis he focuses on the variability of European scree and ravine forests vegetation.`,
       email: `375623@mail.muni.cz`,
       phoneNumber: `549498494`,
       is: `https://www.muni.cz/en/people/375623-dominik-zukal`,
-      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`
+      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`, 
+	  img: zukal
     }
   ]
 };
@@ -856,11 +858,12 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       id: `zukal`,
       name: `Dominik Zukal`,
       position: `Doktrorand, výzkumník`,
-      description: ``,
+      description: `Dominik Zukal studoval v letech 2010–2015 bakalářský a magisterský studijní program Ekologická a evoluční biologie na Přírodovědecké fakultě Masarykovy univerzity v Brně. V rámci svého studia se zabýval lesní vegetací, mj. alternativním způsobem hodnocení její druhové rozmanitosti. S touhou poznat hlubší souvislosti řídící vznik a fungování lesních společenstev se rozhodl pokračovat ve studiu, a tak na téže instituci nastoupil na doktorské studium. V rámci své dizertační práce se věnuje variabilitě vegetace evropských suťových a roklinových lesů.`,
       email: `375623@mail.muni.cz`,
       phoneNumber: `549498494`,
       is: `https://www.muni.cz/lide/375623-dominik-zukal`,
-      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`
+      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`, 
+	  img: zukal
     }
   ]
 };
