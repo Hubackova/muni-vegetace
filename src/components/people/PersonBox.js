@@ -33,7 +33,7 @@ const PersonBox = ({ personInfo, msg }) => {
           <div style={{ fontSize: "0.7em", color: "#778899" }}>{personInfo.position}</div>
         </Name>
         <Info>
-          <div>
+          <div style={{minWidth: "17%"}}>
             <P>
               <MailEmoji mail={personInfo.email} />
             </P>

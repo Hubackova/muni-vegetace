@@ -160,8 +160,7 @@ export const en = {
         z centrální databáze mohou být podle přání jejich autora nebo dodavatele poskytována
         ostatním uživatelům ve třech režimech:
         <ul>
-          <li>Veřejná data volně dostupná online z veřejné části databáze</li>
-          {/* TODO: (odkaz nefunguje, takže ani nevím, co tam původně bylo, zeptat Dany) */}
+          <li>Veřejná data volně dostupná <a href="/phytosociologicalDb-fytoonline">online z veřejné části databáze</a></li>
           <li>
             Veřejná data dostupná na požádání od správce centrální databáze pro účely akademického
             výzkumu nebo aplikací v ochraně přírody, nikoliv však pro komerční využití. Žádosti o
@@ -553,8 +552,7 @@ export const cz = {
         z centrální databáze mohou být podle přání jejich autora nebo dodavatele poskytována
         ostatním uživatelům ve třech režimech:
         <ul>
-          <li>Veřejná data volně dostupná online z veřejné části databáze</li>
-          {/* TODO: (odkaz nefunguje, takže ani nevím, co tam původně bylo, zeptat Dany) */}
+          <li>Veřejná data volně dostupná <a href="/phytosociologicalDb-fytoonline">online z veřejné části databáze</a></li>
           <li>
             Veřejná data dostupná na požádání od správce centrální databáze pro účely akademického
             výzkumu nebo aplikací v ochraně přírody, nikoliv však pro komerční využití. Žádosti o

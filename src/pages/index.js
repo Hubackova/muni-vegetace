@@ -124,17 +124,24 @@ a {
 }
 
 .phytoSocDb-thanksList {
-  display: grid;
-  grid-template-columns: 1fr  1fr 1fr;
-  grid-column-gap: 2rem;
+  columns: 3;
   li {
     white-space: nowrap;
   }
   @media (max-width: 780px) {
-    grid-template-columns: 1fr 1fr;
+    columns: 2;
   }
   @media (max-width: 480px) {
-    grid-template-columns: 1fr;
+    columns: 1;
+  }
+}
+
+.fyto-item {
+  display: grid;
+  grid-template-columns: 1fr 5rem 5rem 5rem;
+  border-bottom: 1px solid gray;
+  a {
+    padding: 0 1rem;
   }
 }
 `;

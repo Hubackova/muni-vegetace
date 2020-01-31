@@ -5,7 +5,7 @@ import MainContainer from "../MainContainer";
 import H2 from "../atoms/H2";
 import Ul from "../atoms/Ul";
 
-const Links = ({ mediaData, popularizationData, data }) => {
+const Links = ({ mediaData, popularizationData, data, lang }) => {
   const mediaList = mediaData.map(i => {
     const resources = i.resources.map((src, index) => {
       if (!i.links || !i.links[index]) return `${src}, `;
@@ -44,7 +44,7 @@ const Links = ({ mediaData, popularizationData, data }) => {
           <a href="http://botzool.sci.muni.cz/publikace/c">
             http://botzool.sci.muni.cz/publikace/c
           </a>
-          <H2> {data.links.popularization} </H2>
+          {lang === "cz" && <H2> {data.links.popularization} </H2>}
           <Ul>{popularizationList}</Ul>
         </div>
         <div>
@@ -59,7 +59,8 @@ const Links = ({ mediaData, popularizationData, data }) => {
 Links.propTypes = {
   popularizationData: PropTypes.object,
   mediaData: PropTypes.object,
-  data: PropTypes.object
+  data: PropTypes.object,
+  lang: PropTypes.string
 };
 
 export default Links;

@@ -6,12 +6,6 @@ import { Consumer } from "../layouts/Context";
 import { cz, en } from "../content/phytosociologicalDb/phytosociologicalDb";
 import { en as turbowegEn } from "../content/phytosociologicalDb/turboweg";
 
-function useTurbowegOpen() {
-  const [turbowegOpened, setTurbowegOpened] = useState("installation");
-
-  return [turbowegOpened, setTurbowegOpened];
-}
-
 const PhytosociologicalDbPage = () => {
   const [opened, setOpened] = useState("introduction");
   const [turbowegOpened, setTurbowegOpened] = useState("installation");
