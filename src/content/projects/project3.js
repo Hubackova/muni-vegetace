@@ -17,12 +17,11 @@ export const project3en = {
       </div>
       <div>
         <h3>Funding</h3>
+        <li>2014–2016: Czech Science Foundation, project 14-10723S</li>
+        <li>2008–2010: Grant Agency of the Academy of Sciences of the Czech Republic, project IAA601630803</li>
         <li>2008–2010: Ministry of Education of the Czech Republic, project MSM0021622416</li>
-        <li>
-          2008–2010 Grant Agency of the Academy of Sciences of the Czech Republic, project
-          IAA601630803
-        </li>
-        <li>2014–2016 Czech Science Foundation, project 14-10723S</li>
+
+
       </div>
       <div>
         <h3>Project Aims</h3>
@@ -224,11 +223,9 @@ export const project3cz = {
       </div>
       <div>
         <h3>Finanční podpora</h3>
-        <li>Grantová agentura České republiky, projekt č. 14-10723S</li>
-        <li>Grantová agentura Akademie věd České republiky, projekt č. IAA601630803</li>
-        <li>
-          Výzkumný záměr MSM 0021622416 Ministerstva školství, mládeže a tělovýchovy České republiky
-        </li>
+         <li>2014–2016: Grantová agentura České republiky, projekt č. 14-10723S</li>
+         <li>2008–2010: Výzkumný záměr MSM 0021622416 Ministerstva školství, mládeže a tělovýchovy České republiky</li>
+         <li>2008–2010: Grantová agentura Akademie věd České republiky, projekt č. IAA601630803</li>
       </div>
       <div>
         <h3>Cíle</h3>

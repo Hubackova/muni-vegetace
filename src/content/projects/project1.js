@@ -29,16 +29,18 @@ export const project1cz = {
       <div>
         <h3>Finanční podpora</h3>
         <li>
-          2014–2018: Grantová agentura České republiky, Centrum excelence Pladias, grant č. 14-36079G
-        </li>
-        <li>
-          2017–2019: Grantová agentura České republiky, Standard Project Next generation expert systems for
-          vegetation classification on a continental scale, grant č. 17-15168S
-        </li>
-        <li>
           2019–2023: Grantová agentura České republiky, EXPRO Centre for European Vegetation Syntheses, grant
           č. 19-28491X
         </li>
+		<li>
+          2017–2019: Grantová agentura České republiky, Standard Project Next generation expert systems for
+          vegetation classification on a continental scale, grant č. 17-15168S
+        </li>
+		<li>
+          2014–2018: Grantová agentura České republiky, Centrum excelence Pladias, grant č. 14-36079G
+        </li>
+        
+        
       </div>
       <br />
       <div>
@@ -644,15 +646,15 @@ export const project1en = {
       <div>
         <h3>Funding</h3>
         <li>
-          2014–2018: Czech Science Foundation, Centre of Excellence Pladias, grant no. 14-36079G
+          2019–2023: Czech Science Foundation, EXPRO Centre for European Vegetation Syntheses, grant
+          no. 19-28491X
         </li>
-        <li>
+		<li>
           2017–2019: Czech Science Foundation, Standard Project Next generation expert systems for
           vegetation classification on a continental scale, grant no. 17-15168S
         </li>
-        <li>
-          2019–2023: Czech Science Foundation, EXPRO Centre for European Vegetation Syntheses, grant
-          no. 19-28491X
+		<li>
+          2014–2018: Czech Science Foundation, Centre of Excellence Pladias, grant no. 14-36079G
         </li>
       </div>
       <br />

@@ -58,12 +58,12 @@ export const project2en = {
       <br />
       <div>
         <h3>Funding</h3>
-        <li>
+        <li>2011–2015: Czech Science Foundation, project P504-11-0454</li>        
+        <li>2008–2010: Ministry of Education of the Czech Republic, project MSM0021622416</li>
+		<li>
           2003–2007: Grant Agency of the Academy of Sciences of the Czech Republic, project
           IAA6163303
         </li>
-        <li>2008–2010: Ministry of Education of the Czech Republic, project MSM0021622416</li>
-        <li>2011–2015: Czech Science Foundation, project P504-11-0454</li>
       </div>
       <br />
       <div>
@@ -480,9 +480,9 @@ export const project2cz = {
       <br />
       <div>
         <h3>Finanční podpora</h3>
-        <li>2003–2007: Grantová agentura Akademie věd ČR, projekt IAA6163303</li>
-        <li>2008–2010: MŠMT, projekt MSM0021622416</li>
         <li>2011–2015: Grantová agentura České republiky, projekt P504-11-0454</li>
+        <li>2008–2010: MŠMT, projekt MSM0021622416</li>
+        <li>2003–2007: Grantová agentura Akademie věd ČR, projekt IAA6163303</li>
       </div>
       <br />
       <div>
