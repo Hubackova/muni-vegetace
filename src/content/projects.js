@@ -5,8 +5,8 @@ import {project4en, project4cz} from "./projects/project4"
 
 export const en = {
   projectsList: {
-    project4en,
     project1en,
+    project4en,
     project3en,
     project2en,
   },
@@ -24,8 +24,8 @@ export const en = {
 
 export const cz = {
   projectsList: {
-    project4cz,
     project1cz,
+    project4cz,
     project3cz,
     project2cz,
   },
