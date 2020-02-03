@@ -23,7 +23,7 @@ export const en = {
     {
       name: "Pladias",
       linkTo: "/pladias",
-      img: "resources-pladias"
+      img: "resources-pladias_en"
     },
     {
       name: "Botanická fotogalerie",
@@ -68,7 +68,7 @@ export const cz = {
       {
         name: "Pladias",
         linkTo: "/pladias",
-        img: "resources-pladias"
+        img: "resources-pladias_cz"
       },
       {
         name: "Botanická fotogalerie",
