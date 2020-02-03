@@ -209,7 +209,7 @@ export const en = {
 
         
         <div className="fyto-item"><span>
-            Velebil J. (2012): <i>Sorbus omissa</i>, a new endemic hybridogenous species from the lower Vltava river - <i>Preslia</i> 84: 375–390.</span>
+            Velebil J. (2012): <i>Sorbus omissa</i>, a new endemic hybridogenous species from the lower Vltava river. <i>Preslia</i> 84: 375–390.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.txt">TXT</a></div>        
 
         
@@ -440,7 +440,7 @@ export const cz = {
 
         
         <div className="fyto-item"><span>
-            Velebil J. (2012): <i>Sorbus omissa</i>, a new endemic hybridogenous species from the lower Vltava river - <i>Preslia</i> 84: 375–390.</span>
+            Velebil J. (2012): <i>Sorbus omissa</i>, a new endemic hybridogenous species from the lower Vltava river .<i>Preslia</i> 84: 375–390.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.txt">TXT</a></div>        
 
         
