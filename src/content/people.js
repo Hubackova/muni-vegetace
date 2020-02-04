@@ -24,6 +24,11 @@ import danihelka from "../../static/images/people/danihelka.jpg";
 import taborska from "../../static/images/people/taborska.jpg";
 import hajek from "../../static/images/people/hajek.jpg";
 import zukal from "../../static/images/people/zukal.jpg";
+import knotkova from "../../static/images/people/knotkova.jpg";
+import stepankova from "../../static/images/people/stepankova.jpg";
+import axmanova from "../../static/images/people/axmanova.jpg";
+import kubesova from "../../static/images/people/kubesova.jpg";
+
 
 export const peopleEn = {
   employees: [
@@ -134,7 +139,8 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/78388-irena-axmanova`,
       orcid: `https://orcid.org/0000-0001-9440-7976`,
       publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
-      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`
+      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`, 
+	  img: axmanova
     },
     {
       id: `ceplova`,
@@ -217,7 +223,8 @@ export const peopleEn = {
       orcid: `https://orcid.org/0000-0002-7895-6710`,
       publons: `https://publons.com/researcher/2339456/svatava-kubesova/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`
+      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`, 
+	  img: kubesova
     },
     {
       id: `landucci`,
@@ -280,7 +287,8 @@ export const peopleEn = {
       description: ``,
       email: `pstepankova@sci.muni.cz`,
       phoneNumber: `549498389`,
-      is: `https://www.muni.cz/en/people/234942-petra-stepankova`
+      is: `https://www.muni.cz/en/people/234942-petra-stepankova`,
+	  img: stepankova
     },
     {
       id: `taborska`,
@@ -398,10 +406,12 @@ export const peopleEn = {
       id: `knotkova`,
       name: `Kateřina Knotková`,
       position: `PhD student, Researcher`,
-      description: ``,
+      description: `
+Kateřina Knotková studied Landscape architecture in Faculty of Horticulture, Mendel University in Brno. Her interests were focused mainly on plants. Bachelor thesis was aimed on creation of botanical garden in National park Podyjí made of natural plant societies that occur in the aforementioned national park. In her diploma thesis she tested plant species that could be cultivated in cities by direct sowing and also addressed problematics of rain gardens, which is much discussed topic today. Now she is continuing in her doctoral studies at the Department of botany and zoology, Faculty of Science, Masaryk University. The topic of her PhD thesis is focused on hemiparasitic plants and their influence on biodiversity and ecosystem services. In her works she combines knowledge and approaches of applied horticultural praxis and basic botanical research.   `,
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/en/people/501016-katerina-knotkova`,
+	  img: knotkova
       },
     {
       id: `novak`,
@@ -558,7 +568,8 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/78388-irena-axmanova`,
       orcid: `https://orcid.org/0000-0001-9440-7976`,
       publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
-      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`
+      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`, 
+	  img: axmanova
     },
     {
       id: `ceplova`,
@@ -641,7 +652,9 @@ export const peopleCz = {
       orcid: `https://orcid.org/0000-0002-7895-6710`,
       publons: `https://publons.com/researcher/2339456/svatava-kubesova/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`
+      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`, 
+	  img: kubesova
+	  
     },
     {
       id: `landucci`,
@@ -695,10 +708,11 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       id: `stepankova`,
       name: `Petra Štěpánková`,
       position: `Výzkumník`,
-      description: ``,
+      description: `Petra Štěpánková absolvovala v roce 1997 inženýrské studium na Zahradnické fakultě Mendelovy univerzity v Lednici, obor Zahradnictví, v roce 2003 ukončila doktorské studium v oboru Anatomie a fyziologie rostlin na Agronomické fakultě Mendelovy univerzity. V letech 2001–2014 působila na Ústavu biologie rostlin AF Mendelu v Brně jako odborná asistentka, vyučovala obecnou i systematickou botaniku, vedla terénní botanické exkurze a botanické praktikum, vytvořila dva multimediální výukové texty a množství e-learningových opor pro studenty. Od roku 2014 pracuje jako odborná pracovnice na Ústavu botaniky a zoologie PřF Masarykovy Univerzity v Brně, kde se podílí na přípravě dat a databází pro tvorbu map v rámci projektu PLADIAS a databází herbářové sbírky BRNU. V současnosti pracuje pro Centrum pro evropské vegetační syntézy (CEVS). `,
       email: `pstepankova@sci.muni.cz`,
       phoneNumber: `549498389`,
-      is: `https://www.muni.cz/lide/234942-petra-stepankova`
+      is: `https://www.muni.cz/lide/234942-petra-stepankova`, 
+	  img: stepankova
     },
     {
       id: `taborska`,
@@ -817,10 +831,11 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       id: `knotkova`,
       name: `Kateřina Knotková`,
       position: `Doktrorand, výzkumník`,
-      description: ``,
+      description: `Kateřina Knotková je absolventem Zahradní a krajinářské architektury na Zahradnické fakultě Mendelovy univerzity v Brně. Svou práci vždy soustředila především na rostliny. V bakalářské práci se zaměřila, na to, jak lze vytvořit botanickou zahradu ze společenstev Národního parku Podyjí. V diplomové práci se pak zaměřila na testování rostlin, které by bylo možné pěstovat ve městech z přímého výsevu a také na dnes velmi diskutované téma dešťových záhonů. Nyní pokračuje ve svých studiích na Ústavu botaniky a zoologie, kde v rámci svého doktorátu řeší použití poloparazitických rostlin v ochraně přírody, jejich vliv na biodiverzitu a ekosystémové služby. Ve své práci se snaží kombinovat vědomosti a přístupy aplikované zahradnické praxe a základního botanického výzkumu.`,
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/lide/501016-katerina-knotkova`,
+	  img: knotkova
       },
     {
       id: `novak`,
