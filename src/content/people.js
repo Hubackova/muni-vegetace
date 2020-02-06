@@ -148,7 +148,7 @@ export const peopleEn = {
       id: `ceplova`,
       name: `Natálie Čeplová`,
       position: `Researcher`,
-      description: `Natálie Čeplová studied Systematic biology and ecology at Masaryk University, Faculty of Science (1997–2002). Her master thesis was devoted to expansion of Arrhenatherum elatius in acidophilous dry grasslands. She completed her doctoral studies at the same institution in 2017 and defended Ph.D. thesis focused on diversity of European urban vegetation. Since 2011 she works as a researcher at the Department of Botany and Zoology (Faculty of Science, MU). She is mainly interested in different aspects of man-made habitats (vegetation, phylogeny, plant traits). She is also employed as a research assistant at Department of Biology, Faculty of education, MU.`,
+      description: `Natálie Čeplová studied Systematic biology and ecology at Masaryk University, Faculty of Science (1997–2002). Her master thesis was devoted to expansion of Arrhenatherum elatius in acidophilous dry grasslands. She completed her doctoral studies at the same institution in 2017 and defended Ph.D. thesis focused on diversity of European urban vegetation. Since 2011 she works as a researcher at the Department of Botany and Zoology (Faculty of Science, MU). She is mainly interested in different aspects of man-made habitats (vegetation, phylogeny, plant traits). She is also employed as a research assistant at Department of Biology, Faculty of Education, MU.`,
       email: `ceplova@ped.muni.cz`,
       phoneNumber: `549494992`,
       is: `https://www.muni.cz/en/people/13913-natalie-ceplova`,
