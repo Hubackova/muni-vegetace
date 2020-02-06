@@ -28,6 +28,8 @@ import knotkova from "../../static/images/people/knotkova.jpg";
 import stepankova from "../../static/images/people/stepankova.jpg";
 import axmanova from "../../static/images/people/axmanova.jpg";
 import kubesova from "../../static/images/people/kubesova.jpg";
+import ceplova from "../../static/images/people/ceplova.jpg";
+
 
 
 export const peopleEn = {
@@ -146,12 +148,13 @@ export const peopleEn = {
       id: `ceplova`,
       name: `Natálie Čeplová`,
       position: `Researcher`,
-      description: ``,
+      description: `Natálie Čeplová studied Systematic biology and ecology at Masaryk University, Faculty of Science (1997–2002). Her master thesis was devoted to expansion of Arrhenatherum elatius in acidophilous dry grasslands. She completed her doctoral studies at the same institution in 2017 and defended Ph.D. thesis focused on diversity of European urban vegetation. Since 2011 she works as a researcher at the Department of Botany and Zoology (Faculty of Science, MU). She is mainly interested in different aspects of man-made habitats (vegetation, phylogeny, plant traits). She is also employed as a research assistant at Department of Biology, Faculty of education, MU.`,
       email: `ceplova@ped.muni.cz`,
       phoneNumber: `549494992`,
       is: `https://www.muni.cz/en/people/13913-natalie-ceplova`,
       orcid: `https://orcid.org/0000-0002-8796-654X`,
-      researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`
+      researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`, 
+	  img: ceplova
     },
     {
       id: `gotzenberger`,
@@ -575,12 +578,13 @@ export const peopleCz = {
       id: `ceplova`,
       name: `Natálie Čeplová`,
       position: `Výzkumník`,
-      description: ``,
+      description: `Natálie Čeplová studovala obor Systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy univerzity v Brně (1997–2002). V diplomové práci se zabývala studiem expanze ovsíku vyvýšeného (Arrhenatherum elatius) v suchých trávnících. Doktorské studium absolvovala na téže instituci (2011–2017). V disertační práci se zabývala různými aspekty diverzity vegetace evropských sídel. Od roku 2011 pracuje jako odborný pracovník Ústavu botaniky a zoologie PřF MU a dále se zabývá vegetací na člověkem vytvořených stanovištích, především její fylogenetickou diverzitou a vlastnostmi rostlin. Mimo skupinu pro výzkum vegetace pracuje jako odborná asistentka na Katedře Biologie Pedagogické fakulty MU.`,
       email: `ceplova@ped.muni.cz`,
       phoneNumber: `549494992`,
       is: `https://www.muni.cz/lide/13913-natalie-ceplova`,
       orcid: `https://orcid.org/0000-0002-8796-654X`,
-      researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`
+      researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`,
+	  img: ceplova
     },
     {
       id: `gotzenberger`,
@@ -901,7 +905,7 @@ export const formerPeople = [
     email: `jimenezalfaro.borja@gmail.com`
   },
     {
-    name: `David Zelený (2005-2015)`,
+    name: `David Zelený (2005–2015)`,
     email: `zeleny.david@gmail.com`
   },
   {
@@ -928,16 +932,16 @@ export const formerPeople = [
 
 export const visitingScientists = [
   {
-    name: `Silvia Cannucci (Italy, 2019)`
-  },
-  {
     name: `Tiina Kolari (Finland, 2019)`
   },
   {
     name: `Teemu Tahvanainen (Finland, 2019)`
   },
+    {
+    name: `Silvia Cannucci (Italy, 2019)`
+  },
   {
-    name: `Charlotte Ndiribe (Nigeria, 2018-2019)`
+    name: `Charlotte Ndiribe (Nigeria, 2018–2019)`
   },
   {
     name: `Hamid Gholizadeh (Iran, 2018)`
@@ -946,7 +950,7 @@ export const visitingScientists = [
     name: `Filip Küzmič (Slovenia, 2018)`
   },
   {
-    name: `Ekaterina Petrunenko (Russia, 2017-2018)`
+    name: `Ekaterina Petrunenko (Russia, 2017–2018)`
   },
   {
     name: `Nicola Alessi (Italy, 2017)`
@@ -958,7 +962,7 @@ export const visitingScientists = [
     name: `Martina Vanini (Italy, 2017)`
   },
   {
-    name: `Katarína Mikulová (Slovakia, 2016-2017)`
+    name: `Katarína Mikulová (Slovakia, 2016–2017)`
   },
   {
     name: `Elisa Belmonte (Italy, 2016)`
@@ -982,7 +986,7 @@ export const visitingScientists = [
     name: `José Valentín Roces Díaz (Spain, 2015)`
   },
   {
-    name: `Yi-Shin Chian (Taiwan, 2014-2015)`
+    name: `Yi-Shin Chian (Taiwan, 2014–2015)`
   },
   {
     name: `Corrado Marcenò (Italy, 2014)`
@@ -1009,7 +1013,7 @@ export const visitingScientists = [
     name: `Donald A. (Skip) Walker (USA, 2011)`
   },
   {
-    name: `Flavia Landucci (Italy, 2010-2011)`
+    name: `Flavia Landucci (Italy, 2010–2011)`
   },
   {
     name: `Cheng-Tao Lin (Taiwan, 2010)`
