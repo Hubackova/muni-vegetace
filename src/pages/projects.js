@@ -19,7 +19,6 @@ const Projects = ({ data: imgData }) => (
               const imgSrc = img.length ? img[0].node.fixed.src : null;
               return (
                 <ResourceBox to={project.name} key={project.name} img={imgSrc }>
-                  <span>{project.title}</span>
                 </ResourceBox>
               );
             })}
@@ -59,14 +58,7 @@ const ResourceBox = styled(Link)`
   padding: 10px;
   cursor: pointer;
   text-decoration: none;
-  border: 1px solid grey;
-  &:hover,
-  &:focus,
-  &.active {
-    ::after {
-      opacity: 0.9;
-    }
-  }
+
   ::after {
     content: "";
     background-image: url(${props => props.img});
@@ -76,7 +68,6 @@ const ResourceBox = styled(Link)`
     @media (max-width: ${props => props.theme.largeDevice}) {
       background-size: 40vw;
   }
-    opacity: 0.5;
     top: 0;
     left: 0;
     bottom: 0;
