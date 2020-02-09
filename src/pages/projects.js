@@ -58,6 +58,9 @@ const ResourceBox = styled(Link)`
   padding: 10px;
   cursor: pointer;
   text-decoration: none;
+  &:hover:after {
+    box-shadow: 2px 2px 3px grey;
+  }
 
   ::after {
     content: "";
@@ -74,6 +77,9 @@ const ResourceBox = styled(Link)`
     right: 0;
     position: absolute;
     z-index: -1;
+    border: 0.5px solid gray;
+    border-radius: 12%;
+    box-shadow: 5px 5px 5px grey;
   }
 `;
 
