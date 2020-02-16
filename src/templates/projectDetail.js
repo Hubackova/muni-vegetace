@@ -72,7 +72,7 @@ class ProjectDetail extends Component {
                 >
                   <Img fluid={i.node.fluid} alt={captionsArray[index]} />
                 </div>
-              ));
+              )).slice(2);
             const imgs2 = imgs && imgs.splice(0, Math.ceil(imgs.length / 2));
             const photos =
               allImageSharp &&
