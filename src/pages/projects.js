@@ -14,7 +14,7 @@ const Projects = ({ data: imgData }) => (
           <GridWrapper>
             {Object.values(projects.projectsList).map(project => {
               const img = imgData.allImageSharp.edges.filter(i =>
-                i.node.fixed.src.includes(project.name)
+                i.node.fixed.src.includes(`${project.name}_${int}`)
               );
               const imgSrc = img.length ? img[0].node.fixed.src : null;
               return (

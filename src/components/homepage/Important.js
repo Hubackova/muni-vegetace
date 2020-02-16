@@ -56,17 +56,6 @@ Important.propTypes = {
   data: PropTypes.object
 };
 
-const ImportantTitle = styled.div`
-display: flex;
-align-self: flex-end;
-text-align: center;
-justify-content: center;
-font-size: 1rem;
-background-color: white;
-width: 100%;
-padding: 0 1rem;
-`
-
 const RightPanel = styled.div`
   flex: 1;
   border-left: 1px solid ${props => props.theme.grey};
