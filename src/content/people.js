@@ -29,7 +29,7 @@ import stepankova from "../../static/images/people/stepankova.jpg";
 import axmanova from "../../static/images/people/axmanova.jpg";
 import kubesova from "../../static/images/people/kubesova.jpg";
 import ceplova from "../../static/images/people/ceplova.jpg";
-
+import spanikova from "../../static/images/people/spanikova.jpg";
 
 
 export const peopleEn = {
@@ -434,7 +434,8 @@ Kateřina Knotková studied Landscape architecture in Faculty of Horticulture, M
       description: ``,
       email: `408322@mail.muni.cz`,
       phoneNumber: ``,
-      is: `https://www.muni.cz/en/people/408322-sarka-spanikova`
+      is: `https://www.muni.cz/en/people/408322-sarka-spanikova`,
+	  img: spanikova
     },
     {
       id: `vecera`,
@@ -859,7 +860,8 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       description: ``,
       email: `408322@mail.muni.cz`,
       phoneNumber: ``,
-      is: `https://www.muni.cz/lide/408322-sarka-spanikova`
+      is: `https://www.muni.cz/lide/408322-sarka-spanikova`, 
+	  img: spanikova
     },
     {
       id: `vecera`,

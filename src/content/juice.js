@@ -37,7 +37,7 @@ export const cz = {
       fytocenologických tabulek, příprava synoptických tabulek, výpočet průměrných indikačních
       hodnot pro snímky a export analyzovaných dat do různých formátů.
     <p>
-        Doporučená citace programu Juice: <br />
+        Doporučená citace programu JUICE: <br />
         <cite>
           Tichý L. (2002): JUICE - software for vegetation classification. Journal of Vegetation Science 13: 451–453. – {" "}
             <a target="_blanc" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1654-1103.2002.tb02069.x">fulltext in Wiley Online Library</a>

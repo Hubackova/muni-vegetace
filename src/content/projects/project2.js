@@ -186,14 +186,7 @@ export const project2en = {
         <div>
           <h3>Research papers</h3>
         </div>
-		<li>
-          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 1–11. – 
-          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04940">
-            {" "}
-            fulltext in Wiley Online Library
-          </a>
-        </li>
-        <li>
+		        <li>
           <b>Axmanová I.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Lustyk P., Kočí M., <b>Kubešová S.</b>, <b>Horsák M.</b>, Cherosov
           M.M. &amp; Gogoleva P.A. (2013): Plant species richness-productivity relationships in a
           low-productive boreal region. <i>Plant Ecology</i> 214: 207–219. – 
@@ -208,6 +201,13 @@ export const project2en = {
           Schuster B. &amp; Diekmann M. (2012): The species richness-productivity relationship in
           the herb layer of European deciduous forests. <i>Global Ecology and Biogeography</i> 21: 657–667. – 
 		  <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00707.x/abstract">{" "}fulltext in Wiley Online Library
+          </a>
+        </li>
+		<li>
+          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 1–11. – 
+          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04940">
+            {" "}
+            fulltext in Wiley Online Library
           </a>
         </li>
         <li>
@@ -606,13 +606,6 @@ export const project2cz = {
           <h3>Odborné publikace</h3>
         </div>
 		<li>
-          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 1–11. – 
-          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04940">
-            {" "}
-            fulltext in Wiley Online Library
-          </a>
-        </li>
-        <li>
           <b>Axmanová I.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Lustyk P., Kočí M., <b>Kubešová S.</b>, <b>Horsák M.</b>, Cherosov
           M.M. &amp; Gogoleva P.A. (2013): Plant species richness-productivity relationships in a
           low-productive boreal region. <i>Plant Ecology</i> 214: 207–219. – 
@@ -627,6 +620,13 @@ export const project2cz = {
           Schuster B. &amp; Diekmann M. (2012): The species richness-productivity relationship in
           the herb layer of European deciduous forests. <i>Global Ecology and Biogeography</i> 21: 657–667. – 
 		  <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00707.x/abstract">{" "}fulltext in Wiley Online Library
+          </a>
+        </li>
+		<li>
+          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 1–11. – 
+          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04940">
+            {" "}
+            fulltext in Wiley Online Library
           </a>
         </li>
         <li>

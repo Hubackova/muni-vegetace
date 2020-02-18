@@ -99,7 +99,7 @@
     {
       name: `Spatial distribution of small scale vegetation diversity in the landscape`,
       link: `https://is.muni.cz/th/qh9b3/?lang=cs`,
-      author: "Dana Holubová",
+      author: "Dana Michalcová (Holubová)",
       year: "2016"
     },
     {
@@ -290,7 +290,7 @@ export const thesesCz = {
     {
       name: `Prostorové rozmístění maloplošné diverzity vegetace v krajině`,
       link: `https://is.muni.cz/th/qh9b3/?lang=cs`,
-      author: "Dana Holubová",
+      author: "Dana Michalcová (Holubová)",
       year: "2016"
     },
     {

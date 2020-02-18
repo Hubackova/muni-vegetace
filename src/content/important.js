@@ -3,12 +3,12 @@ export const en = {
     {
       name: "European Vegetation Syntheses",
       linkTo: "/project1",
-      img: "important-main-project1"
+      img: "important-main-project1_en"
     },
     {
       name: "Biodiversity of European cities",
       linkTo: "/project3",
-      img: "important-main-project3"
+      img: "important-main-project3_en"
     },
     {
       name: "Česká národní fytocenologická databáze",
@@ -23,7 +23,7 @@ export const en = {
     {
       name: "Pladias",
       linkTo: "/pladias",
-      img: "resources-pladias"
+      img: "resources-pladias_en"
     },
     {
       name: "European Vegetation Archive",
@@ -38,12 +38,12 @@ export const cz = {
     {
       name: "Evropské vegetační syntézy",
       linkTo: "/project1",
-      img: "important-main-project1"
+      img: "important-main-project1_cz"
     },
     {
       name: "Biodiverzita měst",
       linkTo: "/project3",
-      img: "important-main-project3"
+      img: "important-main-project3_cz"
     },
     {
       name: "Česká národní fytocenologická databáze",
@@ -58,7 +58,7 @@ export const cz = {
     {
       name: "Pladias",
       linkTo: "/pladias",
-      img: "resources-pladias"
+      img: "resources-pladias_cz"
     },
     {
       name: "European Vegetation Archive",
