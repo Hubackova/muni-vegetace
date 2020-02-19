@@ -79,10 +79,6 @@ export const coursesCz = [
     name: `Příroda ve čtvrtohorách`,
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi8300`
   },
-    {
-    name: `(Speciální botanicko-zoologické cvičení v terénu)`,
-    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8160`
-  },
    {
     name: `Terénní cvičení k systematické botanice`,
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi2130`
@@ -214,10 +210,6 @@ export const coursesEn = [
   {
     name: `Quaternary environments`,
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi8300?lang=en`
-  },
-    {
-    name: `(Special field practice in zoology)`,
-    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8160?lang=en`
   },
    {
     name: `Field course of systematic botany`,

@@ -181,7 +181,7 @@ export const project1cz = {
           Jürgens N., Kącki Z., Kavgacı A., Kearsley E., Kessler M., <b>Knollová I.</b>, Kolomiychuk V.,
           Korolyuk A., Kozhevnikova M., Kozub Ł., Krstonošić D., Kühl H., Kühn I., Kuzemko A.,
           Küzmič F., <b>Landucci F.</b>, Lee M. T., Levesley A., <b>Li C.-F.</b>, Liu H., Lopez‐Gonzalez G.,
-          Lysenko T., Macanović A., Mahdavi P., Manning P., Marcenò C., Martynenko V., Mencuccini
+          Lysenko T., Macanović A., Mahdavi P., Manning P., <b>Marcenò C.</b>, Martynenko V., Mencuccini
           M., Minden V., Moeslund J. E., Moretti M., Müller J. V., Munzinger J., Niinemets Ü., Nobis
           M., Noroozi J., Nowak A., Onyshchenko V., Overbeck G. E., Ozinga W. A., Pauchard A.,
           Pedashenko H., Peñuelas J., Pérez‐Haase A., <b>Peterka T.</b>, Petřík P., Phillips O. L.,
@@ -234,7 +234,7 @@ export const project1cz = {
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>,
-          <b> Knollová I.</b>, Marcenò C., <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
+          <b> Knollová I.</b>, <b>Marcenò C.</b>, <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
           Updated crosswalks of the revised EUNIS Habitat Classification with the European
           Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats
           and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1.
@@ -243,7 +243,7 @@ export const project1cz = {
         <li>
           Sporbert M., Bruelheide H., Seidler G., Keil P., Jandt U., Austrheim G., Biurrun I.,
           Campos J. A., Čarni A., <b>Chytrý M.</b>, Csiky J., Bie E. D., Dengler J., Golub V., Grytnes
-          J.-A., Indreica A., Jansen F., <b>Jiroušek M.</b>, Lenoir J., Luoto M., Marcenò C., Moeslund J.
+          J.-A., Indreica A., Jansen F., <b>Jiroušek M.</b>, Lenoir J., Luoto M., <b>Marcenò C.</b>, Moeslund J.
           E., Pérez‐Haase A., Rūsiņa S., Vandvik V., Vassilev K. &amp; Welk E. (2019): Assessing
           sampling coverage of species distribution in biodiversity databases. <i>Journal of Vegetation
           Science</i> 30: 620–632. – {" "}
@@ -262,7 +262,7 @@ export const project1cz = {
           
         </li>
         <li>
-          <b>Večeřa M.</b>, <b>Divíšek J.</b>, Lenoir J., Jiménez-Alfaro B., Biurrun I., <b>Knollová I.</b>, Agrillo E.,
+          <b>Večeřa M.</b>, <b>Divíšek J.</b>, Lenoir J., <b>Jiménez-Alfaro B.</b>, Biurrun I., <b>Knollová I.</b>, Agrillo E.,
           Campos J.A., Čarni A., Crespo Jiménez G., Ćuk M., Dimopoulos P., Ewald J.,
           Fernández-González F., Gégout J.-C., Indreica A., Jandt U., Jansen F., Kącki Z.,
           Rašomavičius V., <b>Řezníčková M.</b>, Rodwell J.S., Schaminée J.H.J., Šilc U., Svenning
@@ -281,7 +281,7 @@ export const project1cz = {
         </li>
         <b>2018</b>
         <li>
-          Bruelheide H., Dengler J., Purschke O., Lenoir J., Jiménez-Alfaro B., Hennekens S.M.,
+          Bruelheide H., Dengler J., Purschke O., Lenoir J., <b>Jiménez-Alfaro B.</b>, Hennekens S.M.,
           Botta-Dukát Z., <b>Chytrý M.</b>, Field R., Jansen F., Kattge J., Pillar V.D., Schrodt F.,
           Mahecha M.D., Peet R.K., Sandel B., van Bodegom P., Altman J., Alvarez-Dávila E., Arfin
           Khan M.A.S., Attorre F., Aubin I., Baraloto C., Barroso J.G., Bauters M., Bergmeier E.,
@@ -290,7 +290,7 @@ export const project1cz = {
           Feldpausch T.R., Fenton N.J., Garnier E., Guerin G.R., Gutiérrez A.G., Haider S., Hattab
           T., Henry G., Hérault B., Higuchi P., Hölzel N., Homeier J., Jentsch A., Jürgens N., Kącki
           Z., Karger D.N., Kessler M., Kleyer M., <b>Knollová I.</b>, Korolyuk A.Y., Kühn I., Laughlin
-          D.C., Lens F., Loos J., Louault F., Lyubenova M.I., Malhi Y., Marcenò C., Mencuccini M.,
+          D.C., Lens F., Loos J., Louault F., Lyubenova M.I., Malhi Y., <b>Marcenò C.</b>, Mencuccini M.,
           Müller J.V., Munzinger J., Myers-Smith I.H., Neill D.A., Niinemets Ü., Orwin K.H., Ozinga
           W.A., Penuelas J., Pérez-Haase A., Petřík P., Phillips O.L., Pärtel M., Reich P.B.,
           Römermann C., Rodrigues A.V., Sabatini F.M., Sardans J., Schmidt M., Seidler G., Silva
@@ -303,7 +303,7 @@ export const project1cz = {
         </li>
         <li>
           Del Vecchio S., Fantinato E., Janssen J. A. M., Bioret F., Acosta A., Prisco I., Tzonev
-          R.,<b> Marcenò C.</b>, Rodwell J. &amp; Buffa G. (2018): Biogeographic variability of coastal
+          R.,<b> <b>Marcenò C.</b></b>, Rodwell J. &amp; Buffa G. (2018): Biogeographic variability of coastal
           perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321.
         </li>
         <li>
@@ -313,7 +313,7 @@ export const project1cz = {
           
         </li>
         <li>
-          Jiménez-Alfaro B., Girardello M., <b>Chytrý M.</b>, Svenning J.-C., Willner W., Gégout J.-C.,
+          <b>Jiménez-Alfaro B.</b>, Girardello M., <b>Chytrý M.</b>, Svenning J.-C., Willner W., Gégout J.-C.,
           Agrillo E., Campos J.A., Jandt U., Kącki Z., Šilc U., Slezák M., <b>Tichý L.</b>, Tsiripidis I.,
           Turtureanu P.D., Ujházyová M. &amp; Wohlgemuth T. (2018): History and environment shape
           species pools and community diversity in European beech forests. <i>Nature Ecology &amp;
@@ -321,7 +321,7 @@ export const project1cz = {
 		  <a href="http://dx.doi.org/10.1038/s41559-017-0462-6">http://dx.doi.org/10.1038/s41559-017-0462-6</a> 
         </li>
         <li>
-          Jiménez-Alfaro B., Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájek M.</b>,
+          <b>Jiménez-Alfaro B.</b>, Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájek M.</b>,
           Agrillo E., Álvarez-Martínez J.M., Bergamini A., Brisse H., Brunet J., Casella L., Dítě
           D., Font X., Gillet F., <b>Hájková P.</b>, Jansen F., Jandt U., Kącki Z., Lenoir J., Rodwell
           J.S., Schaminée J.H.J., <b>Sekulová L.</b>, Šibík J., Škvorc Ž. &amp; Tsiripidis I. (2018):
@@ -331,21 +331,21 @@ export const project1cz = {
           
         </li>
         <li>
-          Marcenò C., Guarino R., Loidi J., Herrera M., Isermann M., <b>Knollová I.</b>, <b>Tichý L.</b>, Tzonev
-          R.T., Acosta A.T.R., FitzPatrick Ú., Iakushenko D., Janssen J.A.M., Jiménez-Alfaro B.,
+          <b>Marcenò C.</b>, Guarino R., Loidi J., Herrera M., Isermann M., <b>Knollová I.</b>, <b>Tichý L.</b>, Tzonev
+          R.T., Acosta A.T.R., FitzPatrick Ú., Iakushenko D., Janssen J.A.M., <b>Jiménez-Alfaro B.</b>,
           Kącki Z., Keizer-Sedláková I., Kolomiychuk V., Rodwell J.S., Schaminée J.H.J., Šilc U.
           &amp; <b>Chytrý M.</b> (2018): Classification of European and Mediterranean coastal dune
           vegetation. <i>Applied Vegetation Science</i> 21: 533–559. – {" "}
 		  <a href="https://doi.org/10.1111/avsc.12379">https://doi.org/10.1111/avsc.12379</a>
         </li>
         <li>
-          Roces-Díaz J.V., Jiménez-Alfaro B., <b>Chytrý M.</b>, Díaz-Varela E.R. &amp; Álvarez-Álvarez P.
+          Roces-Díaz J.V., <b>Jiménez-Alfaro B.</b>, <b>Chytrý M.</b>, Díaz-Varela E.R. &amp; Álvarez-Álvarez P.
           (2018): Glacial refugia and mid-Holocene expansion delineate the current distribution of
           Castanea sativa in Europe. <i>Palaeogeography, Palaeoclimatology, Palaeoecology</i> 491: 152–160. –{" "}
 		  <a href="https://doi.org/10.1016/j.palaeo.2017.12.004">https://doi.org/10.1016/j.palaeo.2017.12.004</a> 
         </li>
         <li>
-          Sabatini F.M., Jiménez-Alfaro B., Burrascano S., Lora A. &amp; <b>Chytrý M.</b> (2018):
+          Sabatini F.M., <b>Jiménez-Alfaro B.</b>, Burrascano S., Lora A. &amp; <b>Chytrý M.</b> (2018):
           Beta-diversity of Central European forests decreases along an elevational gradient due to
           the variation in local community assembly processes. <i>Ecography</i> 41: 1038–1048. – {" "}
 		  <a href="http://dx.doi.org/10.1111/ecog.02809">http://dx.doi.org/10.1111/ecog.02809</a>
@@ -371,7 +371,7 @@ export const project1cz = {
 		  <a href="http://dx.doi.org/10.1073/pnas.1705487114">http://dx.doi.org/10.1073/pnas.1705487114</a> 
         </li>
         <li>
-          <b>Marcenò C.</b> &amp; Jiménez-Alfaro B. (2017): The Mediterranean Ammophiletea Database: a
+          <b><b>Marcenò C.</b></b> &amp; <b>Jiménez-Alfaro B.</b> (2017): The Mediterranean Ammophiletea Database: a
           comprehensive dataset of coastal dune vegetation. <i>Phytocoenologia</i> 47: 95–105.
         </li>
         <li>
@@ -380,7 +380,7 @@ export const project1cz = {
           47–63.
         </li>
         <li>
-          <b>Peterka T.</b>, <b>Hájek M.</b>, <b>Jiroušek M.</b>, Jiménez-Alfaro B., Aunina L., Bergamini A., Dítě D.,
+          <b>Peterka T.</b>, <b>Hájek M.</b>, <b>Jiroušek M.</b>, <b>Jiménez-Alfaro B.</b>, Aunina L., Bergamini A., Dítě D.,
           Felbaba- Klushyna L., Graf U., <b>Hájková P.</b>, <b>Hettenbergerová E.</b>, Ivchenko T.G., Jansen F.,
           Koroleva N.E., Lapshina E.D., Lazarević P.M., Moen A., Napreenko M.G., Pawlikowski P.,
           <b> Plesková Z.</b>, <b>Sekulová L.</b>, Smagin V.A., Tahvanainen T., Thiele A., Biţă-Nicolae C., Biurrun
@@ -392,14 +392,14 @@ export const project1cz = {
 		  <a href="http://dx.doi.org/10.1111/avsc.12271">http://dx.doi.org/10.1111/avsc.12271</a> 
         </li>
         <li>
-          Rodríguez-Rojo M.P., Jiménez-Alfaro B., Jandt U., Bruelheide H., Rodwell J.S., Schaminée
+          Rodríguez-Rojo M.P., <b>Jiménez-Alfaro B.</b>, Jandt U., Bruelheide H., Rodwell J.S., Schaminée
           J.H.J., Perrin P.M., Kącki Z., Willner W., Fernández-González F. &amp; <b>Chytrý M.</b> (2017):
           Diversity of lowland hay meadows and pastures in Western and Central Europe. <i>Applied
           Vegetation Science</i> 20: 702–719. – {" "}
 		  <a href="http://dx.doi.org/10.1111/avsc.12326">http://dx.doi.org/10.1111/avsc.12326</a> 
         </li>
         <li>
-          Wagner V., <b>Chytrý M.</b>, Jiménez-Alfaro B., Pergl J., Hennekens S., Biurrun I., <b>Knollová I.</b>,
+          Wagner V., <b>Chytrý M.</b>, <b>Jiménez-Alfaro B.</b>, Pergl J., Hennekens S., Biurrun I., <b>Knollová I.</b>,
           Berg C., Vassilev K., Rodwell J.S., Škvorc Ž., Jandt U., Ewald J., Jansen F., Tsiripidis
           I., Botta-Dukát Z., Casella L., Attorre F., Rašomavičius V., Ćušterevska R., Schaminée
           J.H.J., Brunet J., Lenoir J., Svenning J.-C., Kącki Z., Petrášová-Šibíková M., Šilc U.,
@@ -409,7 +409,7 @@ export const project1cz = {
 		  <a href="http://dx.doi.org/10.1111/ddi.12592">http://dx.doi.org/10.1111/ddi.12592</a> 
         </li>
         <li>
-          Willner W., Jiménez-Alfaro B., Agrillo E., Biurrun I., Campos J.A., Čarni A., Casella L.,
+          Willner W., <b>Jiménez-Alfaro B.</b>, Agrillo E., Biurrun I., Campos J.A., Čarni A., Casella L.,
           Csiky J., Ćušterevska R., Didukh Ya.P., Ewald J., Jandt U., Jansen F., Kącki Z., Kavgacı
           A., Lenoir J., Marinšek A., Onyshchenko V., Rodwell J., Schaminée J., Šibík J., Škvorc Ž.,
           Svenning J.-C., Tsiripidis J., Turtureanu P.D., Tzonev R., Vassilev K., Venanzoni R.,
@@ -429,7 +429,7 @@ export const project1cz = {
         </li>
         <b>2016</b>
         <li>
-          <b>Chytrý M.</b>, Hennekens S.M., Jiménez-Alfaro B., <b>Knollová I.</b>, Dengler J., Jansen F., <b>Landucci
+          <b>Chytrý M.</b>, Hennekens S.M., <b>Jiménez-Alfaro B.</b>, <b>Knollová I.</b>, Dengler J., Jansen F., <b>Landucci
           F.</b>, Schaminée J.H.J., Aćić S., Agrillo E., Ambarlı D., Angelini P., Apostolova I., Attorre
           F., Berg C., Bergmeier E., Biurrun I., Botta-Dukát Z., Brisse H., Campos J.A., Carlón L.,
           Čarni A., Casella L., Csiky J., Ćušterevska R., Dajić Stevanović Z., <b>Danihelka J.</b>, De Bie
@@ -438,7 +438,7 @@ export const project1cz = {
           X., García-Mijangos I., Gavilán R.G., Golub V., Guarino R., Haveman R., Indreica A., Işık
           Gürsoy D., Jandt U., Janssen J.A.M., <b>Jiroušek M.</b>, Kącki Z., Kavgacı A., Kleikamp M.,
           Kolomiychuk V., Krstivojević Ćuk M., Krstonošić D., Kuzemko A., Lenoir J., Lysenko T.,
-          Marcenò C., Martynenko V., <b>Michalcová D.</b>, Moeslund J.E., Onyshchenko V., Pedashenko H.,
+          <b> Marcenò C.</b>, Martynenko V., <b>Michalcová D.</b>, Moeslund J.E., Onyshchenko V., Pedashenko H.,
           Pérez-Haase A., <b>Peterka T.</b>, Prokhorov V., Rašomavičius V., Rodríguez-Rojo M.P., Rodwell
           J.S., Rogova T., Ruprecht E., Rūsiņa S., Seidler G., Šibík J., Šilc U., Škvorc Ž.,
           Sopotlieva D., Stančić Z., Svenning J.-C., Swacha G., Tsiripidis I., Turtureanu P.D.,
@@ -478,15 +478,15 @@ export const project1cz = {
           bryophyte, lichen, and algal communities. <i>Applied Vegetation Science</i> 19, Suppl. 1: 3–264.
         </li>
         <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., Jiménez-Alfaro B., <b>Knollová
-          I.</b>, Marceno C., Mucina L., Rodwell J.S., <b>Tichý L.</b> &amp; data-providers (2016a): Review of
+          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiménez-Alfaro B.</b>, <b>Knollová
+          I.</b>, <b>Marceno C.</b>, Mucina L., Rodwell J.S., <b>Tichý L.</b> &amp; data-providers (2016a): Review of
           grassland habitats and development of distribution maps of heathland, scrub and tundra
           habitats of EUNIS habitats classification. Report EEA/NSV/15/005. European Environment
           Agency, Copenhagen.
         </li>
         <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, Dengler J., Hennekens S.M., Janssen J.A.M., Jiménez-Alfaro
-          B., <b>Knollová I.</b>, <b>Landucci F.</b>, Marcenò C., Rodwell J.S., <b>Tichý L.</b> &amp; data-providers
+          Schaminée J.H.J., <b>Chytrý M.</b>, Dengler J., Hennekens S.M., Janssen J.A.M., <b>Jiménez-Alfaro
+          B.</b>, <b>Knollová I.</b>, <b>Landucci F.</b>, <b>Marcenò C.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data-providers
           (2016b): Development of distribution maps of grassland habitats of EUNIS habitat
           classification. Report EEA/NSV/16/005. European Environment Agency, Copenhagen.
         </li>
@@ -508,14 +508,14 @@ export const project1cz = {
         <li>
           De Cáceres M., <b>Chytrý M.</b>, Agrillo E., Attorre F., Botta-Dukát Z., Capelo J., Czúcz B.,
           Dengler J., Ewald J., Faber-Langendoen D., Feoli E., Franklin S.B., Gavilán R., Gillet F.,
-          Jansen F., Jiménez-Alfaro B., Krestov P., <b>Landucci F.</b>, Lengyel A., Loidi J., Mucina L.,
+          Jansen F., <b>Jiménez-Alfaro B.</b>, Krestov P., <b>Landucci F.</b>, Lengyel A., Loidi J., Mucina L.,
           Peet R.K., Roberts D.W., <b>Roleček J.</b>, Schaminée J.H.J., Schmidtlein S., Theurillat J.-P.,
           <b> Tichý L.</b>, Walker D.A., Wildi O., Willner W. &amp; Wiser S.K. (2015): A comparative
           framework for broad-scale plot-based vegetation classification. <i>Applied Vegetation Science </i>
           18: 543–560.
         </li>
         <li>
-          Jiménez-Alfaro B., Marcenò C., Guarino R. &amp; <b>Chytrý M.</b> (2015): Regional metacommunities
+          <b>Jiménez-Alfaro B.</b>, <b>Marcenò C.</b>, Guarino R. &amp; <b>Chytrý M.</b> (2015): Regional metacommunities
           in two coastal systems: spatial structure and drivers of plant assemblages. <i>Journal of
           Biogeography</i> 42: 452–462.
         </li>
@@ -546,12 +546,12 @@ export const project1cz = {
           across the eastern Balkan Peninsula. <i>Acta Oecologica</i> 63: 36–46.
         </li>
         <li>
-          <b>Peterka T.</b>, <b>Jiroušek M.</b>, <b>Hájek M.</b> &amp; Jiménez-Alfaro B. (2015): European Mire Vegetation
+          <b>Peterka T.</b>, <b>Jiroušek M.</b>, <b>Hájek M.</b> &amp; <b>Jiménez-Alfaro B.</b> (2015): European Mire Vegetation
           Database: a gap-oriented database for European fens and bogs. <i>Phytocoenologia</i> 45: 291–298.
         </li>
         <b>2014</b>
         <li>
-          Jiménez-Alfaro B., <b>Chytrý M.</b>, Rejmánek M. &amp; Mucina L. (2014): The number of vegetation
+          <b>Jiménez-Alfaro B.</b>, <b>Chytrý M.</b>, Rejmánek M. &amp; Mucina L. (2014): The number of vegetation
           types in European countries: major determinants and extrapolation to other regions.
           <i> Journal of Vegetation Science</i> 25: 863–872.
         </li>
@@ -566,7 +566,7 @@ export const project1cz = {
           Vegetation Science</i> 17: 780–796.
         </li>
         <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., Jiménez-Alfaro B., <b>Knollová
+          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiménez-Alfaro B.</b>, <b>Knollová
           I.</b>, Mucina L., Rodwell J.S., <b>Tichý L.</b> &amp; data-providers (2014): Vegetation analysis and
           distribution maps for EUNIS habitats. Report EEA/NSV/14/006. European Environment Agency,
           Copenhagen.
@@ -582,7 +582,7 @@ export const project1cz = {
           class Phragmito- Magno-Caricetea in central Italy. <i>Phytocoenologia</i> 43: 67–100.
         </li>
         <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Jiménez-Alfaro B., Mucina L., Rodwell J.S.
+          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., <b>Jiménez-Alfaro B.</b>, Mucina L., Rodwell J.S.
           &amp; Data Contributors (2013): Review of EUNIS forest habitat classification. Report
           EEA/NSV/13/005. European Environment Agency, Copenhagen.
         </li>
@@ -781,7 +781,7 @@ export const project1en = {
 		  <a href="https://doi.org/10.1127/phyto/2019/0311">https://doi.org/10.1127/phyto/2019/0311</a>
         </li>
         <li>
-          Bruelheide H., Dengler J., Jiménez‐Alfaro B., Purschke O., Hennekens S. M., <b>Chytrý M.</b>,
+          Bruelheide H., Dengler J., <b>Jiménez-Alfaro B.</b>, Purschke O., Hennekens S. M., <b>Chytrý M.</b>,
           Pillar V. D., Jansen F., Kattge J., Sandel B., Aubin I., Biurrun I., Field R., Haider S.,
           Jandt U., Lenoir J., Peet R. K., Peyre G., Sabatini F. M., Schmidt M., Schrodt F., Winter
           M., Aćić S., Agrillo E., Alvarez M., Ambarlı D., Angelini P., Apostolova I., Arfin Khan M.
@@ -796,7 +796,7 @@ export const project1en = {
           Jürgens N., Kącki Z., Kavgacı A., Kearsley E., Kessler M., <b>Knollová I.</b>, Kolomiychuk V.,
           Korolyuk A., Kozhevnikova M., Kozub Ł., Krstonošić D., Kühl H., Kühn I., Kuzemko A.,
           Küzmič F., <b>Landucci F.</b>, Lee M. T., Levesley A., <b>Li C.-F.</b>, Liu H., Lopez‐Gonzalez G.,
-          Lysenko T., Macanović A., Mahdavi P., Manning P., Marcenò C., Martynenko V., Mencuccini
+          Lysenko T., Macanović A., Mahdavi P., Manning P., <b>Marcenò C.</b>, Martynenko V., Mencuccini
           M., Minden V., Moeslund J. E., Moretti M., Müller J. V., Munzinger J., Niinemets Ü., Nobis
           M., Noroozi J., Nowak A., Onyshchenko V., Overbeck G. E., Ozinga W. A., Pauchard A.,
           Pedashenko H., Peñuelas J., Pérez‐Haase A., <b>Peterka T.</b>, Petřík P., Phillips O. L.,
@@ -849,7 +849,7 @@ export const project1en = {
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>,
-          <b> Knollová I.</b>, Marcenò C., <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
+          <b> Knollová I.</b>, <b>Marcenò C.</b>, <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
           Updated crosswalks of the revised EUNIS Habitat Classification with the European
           Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats
           and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1.
@@ -858,7 +858,7 @@ export const project1en = {
         <li>
           Sporbert M., Bruelheide H., Seidler G., Keil P., Jandt U., Austrheim G., Biurrun I.,
           Campos J. A., Čarni A., <b>Chytrý M.</b>, Csiky J., Bie E. D., Dengler J., Golub V., Grytnes
-          J.-A., Indreica A., Jansen F., <b>Jiroušek M.</b>, Lenoir J., Luoto M., Marcenò C., Moeslund J.
+          J.-A., Indreica A., Jansen F., <b>Jiroušek M.</b>, Lenoir J., Luoto M., <b>Marcenò C.</b>, Moeslund J.
           E., Pérez‐Haase A., Rūsiņa S., Vandvik V., Vassilev K. &amp; Welk E. (2019): Assessing
           sampling coverage of species distribution in biodiversity databases. <i>Journal of Vegetation
           Science</i> 30: 620–632. – {" "}
@@ -877,7 +877,7 @@ export const project1en = {
           
         </li>
         <li>
-          <b>Večeřa M.</b>, <b>Divíšek J.</b>, Lenoir J., Jiménez-Alfaro B., Biurrun I., <b>Knollová I.</b>, Agrillo E.,
+          <b>Večeřa M.</b>, <b>Divíšek J.</b>, Lenoir J., <b>Jiménez-Alfaro B.</b>, Biurrun I., <b>Knollová I.</b>, Agrillo E.,
           Campos J.A., Čarni A., Crespo Jiménez G., Ćuk M., Dimopoulos P., Ewald J.,
           Fernández-González F., Gégout J.-C., Indreica A., Jandt U., Jansen F., Kącki Z.,
           Rašomavičius V., <b>Řezníčková M.</b>, Rodwell J.S., Schaminée J.H.J., Šilc U., Svenning
@@ -896,7 +896,7 @@ export const project1en = {
         </li>
         <b>2018</b>
         <li>
-          Bruelheide H., Dengler J., Purschke O., Lenoir J., Jiménez-Alfaro B., Hennekens S.M.,
+          Bruelheide H., Dengler J., Purschke O., Lenoir J., <b>Jiménez-Alfaro B.</b>, Hennekens S.M.,
           Botta-Dukát Z., <b>Chytrý M.</b>, Field R., Jansen F., Kattge J., Pillar V.D., Schrodt F.,
           Mahecha M.D., Peet R.K., Sandel B., van Bodegom P., Altman J., Alvarez-Dávila E., Arfin
           Khan M.A.S., Attorre F., Aubin I., Baraloto C., Barroso J.G., Bauters M., Bergmeier E.,
@@ -905,7 +905,7 @@ export const project1en = {
           Feldpausch T.R., Fenton N.J., Garnier E., Guerin G.R., Gutiérrez A.G., Haider S., Hattab
           T., Henry G., Hérault B., Higuchi P., Hölzel N., Homeier J., Jentsch A., Jürgens N., Kącki
           Z., Karger D.N., Kessler M., Kleyer M., <b>Knollová I.</b>, Korolyuk A.Y., Kühn I., Laughlin
-          D.C., Lens F., Loos J., Louault F., Lyubenova M.I., Malhi Y., Marcenò C., Mencuccini M.,
+          D.C., Lens F., Loos J., Louault F., Lyubenova M.I., Malhi Y., <b>Marcenò C.</b>, Mencuccini M.,
           Müller J.V., Munzinger J., Myers-Smith I.H., Neill D.A., Niinemets Ü., Orwin K.H., Ozinga
           W.A., Penuelas J., Pérez-Haase A., Petřík P., Phillips O.L., Pärtel M., Reich P.B.,
           Römermann C., Rodrigues A.V., Sabatini F.M., Sardans J., Schmidt M., Seidler G., Silva
@@ -918,7 +918,7 @@ export const project1en = {
         </li>
         <li>
           Del Vecchio S., Fantinato E., Janssen J. A. M., Bioret F., Acosta A., Prisco I., Tzonev
-          R.,<b> Marcenò C.</b>, Rodwell J. &amp; Buffa G. (2018): Biogeographic variability of coastal
+          R.,<b> <b>Marcenò C.</b></b>, Rodwell J. &amp; Buffa G. (2018): Biogeographic variability of coastal
           perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321.
         </li>
         <li>
@@ -928,7 +928,7 @@ export const project1en = {
           
         </li>
         <li>
-          Jiménez-Alfaro B., Girardello M., <b>Chytrý M.</b>, Svenning J.-C., Willner W., Gégout J.-C.,
+          <b>Jiménez-Alfaro B.</b>, Girardello M., <b>Chytrý M.</b>, Svenning J.-C., Willner W., Gégout J.-C.,
           Agrillo E., Campos J.A., Jandt U., Kącki Z., Šilc U., Slezák M., <b>Tichý L.</b>, Tsiripidis I.,
           Turtureanu P.D., Ujházyová M. &amp; Wohlgemuth T. (2018): History and environment shape
           species pools and community diversity in European beech forests. <i>Nature Ecology &amp;
@@ -936,7 +936,7 @@ export const project1en = {
 		  <a href="http://dx.doi.org/10.1038/s41559-017-0462-6">http://dx.doi.org/10.1038/s41559-017-0462-6</a> 
         </li>
         <li>
-          Jiménez-Alfaro B., Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájek M.</b>,
+          <b>Jiménez-Alfaro B.</b>, Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájek M.</b>,
           Agrillo E., Álvarez-Martínez J.M., Bergamini A., Brisse H., Brunet J., Casella L., Dítě
           D., Font X., Gillet F., <b>Hájková P.</b>, Jansen F., Jandt U., Kącki Z., Lenoir J., Rodwell
           J.S., Schaminée J.H.J., <b>Sekulová L.</b>, Šibík J., Škvorc Ž. &amp; Tsiripidis I. (2018):
@@ -946,21 +946,21 @@ export const project1en = {
           
         </li>
         <li>
-          Marcenò C., Guarino R., Loidi J., Herrera M., Isermann M., <b>Knollová I.</b>, <b>Tichý L.</b>, Tzonev
-          R.T., Acosta A.T.R., FitzPatrick Ú., Iakushenko D., Janssen J.A.M., Jiménez-Alfaro B.,
+          <b>Marcenò C.</b>, Guarino R., Loidi J., Herrera M., Isermann M., <b>Knollová I.</b>, <b>Tichý L.</b>, Tzonev
+          R.T., Acosta A.T.R., FitzPatrick Ú., Iakushenko D., Janssen J.A.M., <b>Jiménez-Alfaro B.</b>,
           Kącki Z., Keizer-Sedláková I., Kolomiychuk V., Rodwell J.S., Schaminée J.H.J., Šilc U.
           &amp; <b>Chytrý M.</b> (2018): Classification of European and Mediterranean coastal dune
           vegetation. <i>Applied Vegetation Science</i> 21: 533–559. – {" "}
 		  <a href="https://doi.org/10.1111/avsc.12379">https://doi.org/10.1111/avsc.12379</a>
         </li>
         <li>
-          Roces-Díaz J.V., Jiménez-Alfaro B., <b>Chytrý M.</b>, Díaz-Varela E.R. &amp; Álvarez-Álvarez P.
+          Roces-Díaz J.V., <b>Jiménez-Alfaro B.</b>, <b>Chytrý M.</b>, Díaz-Varela E.R. &amp; Álvarez-Álvarez P.
           (2018): Glacial refugia and mid-Holocene expansion delineate the current distribution of
           Castanea sativa in Europe. <i>Palaeogeography, Palaeoclimatology, Palaeoecology</i> 491: 152–160. –{" "}
 		  <a href="https://doi.org/10.1016/j.palaeo.2017.12.004">https://doi.org/10.1016/j.palaeo.2017.12.004</a> 
         </li>
         <li>
-          Sabatini F.M., Jiménez-Alfaro B., Burrascano S., Lora A. &amp; <b>Chytrý M.</b> (2018):
+          Sabatini F.M., <b>Jiménez-Alfaro B.</b>, Burrascano S., Lora A. &amp; <b>Chytrý M.</b> (2018):
           Beta-diversity of Central European forests decreases along an elevational gradient due to
           the variation in local community assembly processes. <i>Ecography</i> 41: 1038–1048. – {" "}
 		  <a href="http://dx.doi.org/10.1111/ecog.02809">http://dx.doi.org/10.1111/ecog.02809</a>
@@ -986,7 +986,7 @@ export const project1en = {
 		  <a href="http://dx.doi.org/10.1073/pnas.1705487114">http://dx.doi.org/10.1073/pnas.1705487114</a> 
         </li>
         <li>
-          <b>Marcenò C.</b> &amp; Jiménez-Alfaro B. (2017): The Mediterranean Ammophiletea Database: a
+          <b><b>Marcenò C.</b></b> &amp; <b>Jiménez-Alfaro B.</b> (2017): The Mediterranean Ammophiletea Database: a
           comprehensive dataset of coastal dune vegetation. <i>Phytocoenologia</i> 47: 95–105.
         </li>
         <li>
@@ -995,7 +995,7 @@ export const project1en = {
           47–63.
         </li>
         <li>
-          <b>Peterka T.</b>, <b>Hájek M.</b>, <b>Jiroušek M.</b>, Jiménez-Alfaro B., Aunina L., Bergamini A., Dítě D.,
+          <b>Peterka T.</b>, <b>Hájek M.</b>, <b>Jiroušek M.</b>, <b>Jiménez-Alfaro B.</b>, Aunina L., Bergamini A., Dítě D.,
           Felbaba- Klushyna L., Graf U., <b>Hájková P.</b>, <b>Hettenbergerová E.</b>, Ivchenko T.G., Jansen F.,
           Koroleva N.E., Lapshina E.D., Lazarević P.M., Moen A., Napreenko M.G., Pawlikowski P.,
           <b> Plesková Z.</b>, <b>Sekulová L.</b>, Smagin V.A., Tahvanainen T., Thiele A., Biţă-Nicolae C., Biurrun
@@ -1007,14 +1007,14 @@ export const project1en = {
 		  <a href="http://dx.doi.org/10.1111/avsc.12271">http://dx.doi.org/10.1111/avsc.12271</a> 
         </li>
         <li>
-          Rodríguez-Rojo M.P., Jiménez-Alfaro B., Jandt U., Bruelheide H., Rodwell J.S., Schaminée
+          Rodríguez-Rojo M.P., <b>Jiménez-Alfaro B.</b>, Jandt U., Bruelheide H., Rodwell J.S., Schaminée
           J.H.J., Perrin P.M., Kącki Z., Willner W., Fernández-González F. &amp; <b>Chytrý M.</b> (2017):
           Diversity of lowland hay meadows and pastures in Western and Central Europe. <i>Applied
           Vegetation Science</i> 20: 702–719. – {" "}
 		  <a href="http://dx.doi.org/10.1111/avsc.12326">http://dx.doi.org/10.1111/avsc.12326</a> 
         </li>
         <li>
-          Wagner V., <b>Chytrý M.</b>, Jiménez-Alfaro B., Pergl J., Hennekens S., Biurrun I., <b>Knollová I.</b>,
+          Wagner V., <b>Chytrý M.</b>, <b>Jiménez-Alfaro B.</b>, Pergl J., Hennekens S., Biurrun I., <b>Knollová I.</b>,
           Berg C., Vassilev K., Rodwell J.S., Škvorc Ž., Jandt U., Ewald J., Jansen F., Tsiripidis
           I., Botta-Dukát Z., Casella L., Attorre F., Rašomavičius V., Ćušterevska R., Schaminée
           J.H.J., Brunet J., Lenoir J., Svenning J.-C., Kącki Z., Petrášová-Šibíková M., Šilc U.,
@@ -1024,7 +1024,7 @@ export const project1en = {
 		  <a href="http://dx.doi.org/10.1111/ddi.12592">http://dx.doi.org/10.1111/ddi.12592</a> 
         </li>
         <li>
-          Willner W., Jiménez-Alfaro B., Agrillo E., Biurrun I., Campos J.A., Čarni A., Casella L.,
+          Willner W., <b>Jiménez-Alfaro B.</b>, Agrillo E., Biurrun I., Campos J.A., Čarni A., Casella L.,
           Csiky J., Ćušterevska R., Didukh Ya.P., Ewald J., Jandt U., Jansen F., Kącki Z., Kavgacı
           A., Lenoir J., Marinšek A., Onyshchenko V., Rodwell J., Schaminée J., Šibík J., Škvorc Ž.,
           Svenning J.-C., Tsiripidis J., Turtureanu P.D., Tzonev R., Vassilev K., Venanzoni R.,
@@ -1044,7 +1044,7 @@ export const project1en = {
         </li>
         <b>2016</b>
         <li>
-          <b>Chytrý M.</b>, Hennekens S.M., Jiménez-Alfaro B., <b>Knollová I.</b>, Dengler J., Jansen F., <b>Landucci
+          <b>Chytrý M.</b>, Hennekens S.M., <b>Jiménez-Alfaro B.</b>, <b>Knollová I.</b>, Dengler J., Jansen F., <b>Landucci
           F.</b>, Schaminée J.H.J., Aćić S., Agrillo E., Ambarlı D., Angelini P., Apostolova I., Attorre
           F., Berg C., Bergmeier E., Biurrun I., Botta-Dukát Z., Brisse H., Campos J.A., Carlón L.,
           Čarni A., Casella L., Csiky J., Ćušterevska R., Dajić Stevanović Z., <b>Danihelka J.</b>, De Bie
@@ -1053,7 +1053,7 @@ export const project1en = {
           X., García-Mijangos I., Gavilán R.G., Golub V., Guarino R., Haveman R., Indreica A., Işık
           Gürsoy D., Jandt U., Janssen J.A.M., <b>Jiroušek M.</b>, Kącki Z., Kavgacı A., Kleikamp M.,
           Kolomiychuk V., Krstivojević Ćuk M., Krstonošić D., Kuzemko A., Lenoir J., Lysenko T.,
-          Marcenò C., Martynenko V., <b>Michalcová D.</b>, Moeslund J.E., Onyshchenko V., Pedashenko H.,
+          <b> Marcenò C.</b>, Martynenko V., <b>Michalcová D.</b>, Moeslund J.E., Onyshchenko V., Pedashenko H.,
           Pérez-Haase A., <b>Peterka T.</b>, Prokhorov V., Rašomavičius V., Rodríguez-Rojo M.P., Rodwell
           J.S., Rogova T., Ruprecht E., Rūsiņa S., Seidler G., Šibík J., Šilc U., Škvorc Ž.,
           Sopotlieva D., Stančić Z., Svenning J.-C., Swacha G., Tsiripidis I., Turtureanu P.D.,
@@ -1093,15 +1093,15 @@ export const project1en = {
           bryophyte, lichen, and algal communities. <i>Applied Vegetation Science</i> 19, Suppl. 1: 3–264.
         </li>
         <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., Jiménez-Alfaro B., <b>Knollová
-          I.</b>, Marceno C., Mucina L., Rodwell J.S., <b>Tichý L.</b> &amp; data-providers (2016a): Review of
+          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiménez-Alfaro B.</b>, <b>Knollová
+          I.</b>, <b>Marceno C.</b>, Mucina L., Rodwell J.S., <b>Tichý L.</b> &amp; data-providers (2016a): Review of
           grassland habitats and development of distribution maps of heathland, scrub and tundra
           habitats of EUNIS habitats classification. Report EEA/NSV/15/005. European Environment
           Agency, Copenhagen.
         </li>
         <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, Dengler J., Hennekens S.M., Janssen J.A.M., Jiménez-Alfaro
-          B., <b>Knollová I.</b>, <b>Landucci F.</b>, Marcenò C., Rodwell J.S., <b>Tichý L.</b> &amp; data-providers
+          Schaminée J.H.J., <b>Chytrý M.</b>, Dengler J., Hennekens S.M., Janssen J.A.M., <b>Jiménez-Alfaro
+          B.</b>, <b>Knollová I.</b>, <b>Landucci F.</b>, <b>Marcenò C.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data-providers
           (2016b): Development of distribution maps of grassland habitats of EUNIS habitat
           classification. Report EEA/NSV/16/005. European Environment Agency, Copenhagen.
         </li>
@@ -1123,14 +1123,14 @@ export const project1en = {
         <li>
           De Cáceres M., <b>Chytrý M.</b>, Agrillo E., Attorre F., Botta-Dukát Z., Capelo J., Czúcz B.,
           Dengler J., Ewald J., Faber-Langendoen D., Feoli E., Franklin S.B., Gavilán R., Gillet F.,
-          Jansen F., Jiménez-Alfaro B., Krestov P., <b>Landucci F.</b>, Lengyel A., Loidi J., Mucina L.,
+          Jansen F., <b>Jiménez-Alfaro B.</b>, Krestov P., <b>Landucci F.</b>, Lengyel A., Loidi J., Mucina L.,
           Peet R.K., Roberts D.W., <b>Roleček J.</b>, Schaminée J.H.J., Schmidtlein S., Theurillat J.-P.,
           <b> Tichý L.</b>, Walker D.A., Wildi O., Willner W. &amp; Wiser S.K. (2015): A comparative
           framework for broad-scale plot-based vegetation classification. <i>Applied Vegetation Science </i>
           18: 543–560.
         </li>
         <li>
-          Jiménez-Alfaro B., Marcenò C., Guarino R. &amp; <b>Chytrý M.</b> (2015): Regional metacommunities
+          <b>Jiménez-Alfaro B.</b>, <b>Marcenò C.</b>, Guarino R. &amp; <b>Chytrý M.</b> (2015): Regional metacommunities
           in two coastal systems: spatial structure and drivers of plant assemblages. <i>Journal of
           Biogeography</i> 42: 452–462.
         </li>
@@ -1161,12 +1161,12 @@ export const project1en = {
           across the eastern Balkan Peninsula. <i>Acta Oecologica</i> 63: 36–46.
         </li>
         <li>
-          <b>Peterka T.</b>, <b>Jiroušek M.</b>, <b>Hájek M.</b> &amp; Jiménez-Alfaro B. (2015): European Mire Vegetation
+          <b>Peterka T.</b>, <b>Jiroušek M.</b>, <b>Hájek M.</b> &amp; <b>Jiménez-Alfaro B.</b> (2015): European Mire Vegetation
           Database: a gap-oriented database for European fens and bogs. <i>Phytocoenologia</i> 45: 291–298.
         </li>
         <b>2014</b>
         <li>
-          Jiménez-Alfaro B., <b>Chytrý M.</b>, Rejmánek M. &amp; Mucina L. (2014): The number of vegetation
+          <b>Jiménez-Alfaro B.</b>, <b>Chytrý M.</b>, Rejmánek M. &amp; Mucina L. (2014): The number of vegetation
           types in European countries: major determinants and extrapolation to other regions.
           <i> Journal of Vegetation Science</i> 25: 863–872.
         </li>
@@ -1181,7 +1181,7 @@ export const project1en = {
           Vegetation Science</i> 17: 780–796.
         </li>
         <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., Jiménez-Alfaro B., <b>Knollová
+          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiménez-Alfaro B.</b>, <b>Knollová
           I.</b>, Mucina L., Rodwell J.S., <b>Tichý L.</b> &amp; data-providers (2014): Vegetation analysis and
           distribution maps for EUNIS habitats. Report EEA/NSV/14/006. European Environment Agency,
           Copenhagen.
@@ -1197,7 +1197,7 @@ export const project1en = {
           class Phragmito- Magno-Caricetea in central Italy. <i>Phytocoenologia</i> 43: 67–100.
         </li>
         <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Jiménez-Alfaro B., Mucina L., Rodwell J.S.
+          Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., <b>Jiménez-Alfaro B.</b>, Mucina L., Rodwell J.S.
           &amp; Data Contributors (2013): Review of EUNIS forest habitat classification. Report
           EEA/NSV/13/005. European Environment Agency, Copenhagen.
         </li>

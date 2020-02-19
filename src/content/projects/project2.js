@@ -243,8 +243,8 @@ export const project2en = {
           </a>
         </li>
         <li>
-          <b>Chytrý M.</b>, Ermakov N., <b>Danihelka J.</b>, <b>Hájek M.</b>, <b>Hájková P.</b>, <b>Horsák M.</b>, Kočí M., Kubešová
-          S., Lustyk P., <b>Otýpková Z.</b>, <b>Pelánková B.</b>, Valachovič M. &amp; <b>Zelený D.</b> (2012): High
+          <b>Chytrý M.</b>, Ermakov N., <b>Danihelka J.</b>, <b>Hájek M.</b>, <b>Hájková P.</b>, <b>Horsák M.</b>, Kočí M., <b>Kubešová
+          S.</b>, Lustyk P., <b>Otýpková Z.</b>, <b>Pelánková B.</b>, Valachovič M. &amp; <b>Zelený D.</b> (2012): High
           species richness in hemiboreal forests of the northern Russian Altai, southern
           Siberia. <i>Journal of Vegetation Science</i> 23: 605–616. – 
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1654-1103.2011.01383.x/abstract">
@@ -420,7 +420,25 @@ export const project2en = {
             fulltext in pdf
           </a>
         </li>
-      </div>
+      
+	  <div>
+	   <h3>Media</h3>
+        </div>
+       <li>
+          30/01/2014{" "}
+          <a href="http://www.rferl.org/content/russia-mongolia-altai-ice-age-species/25247802.html">
+            Ice age thrives in Southern Siberia
+          </a>
+          , Radio Free Europe
+        </li>
+        <li>
+          23/01/2014{" "}
+          <a href="http://www.newscientist.com/article/mg22129533.800-iceage-animals-live-on-in-eurasian-mountain-range.html#.UygwyNtIw8E">
+            Ice-age animals live on in Eurasian mountain range
+          </a>
+          , New Scientist
+        </li>
+		</div>
     </div>
   )
 };
@@ -662,8 +680,8 @@ export const project2cz = {
           </a>
         </li>
         <li>
-          <b>Chytrý M.</b>, Ermakov N., <b>Danihelka J.</b>, <b>Hájek M.</b>, <b>Hájková P.</b>, <b>Horsák M.</b>, Kočí M., Kubešová
-          S., Lustyk P., <b>Otýpková Z.</b>, <b>Pelánková B.</b>, Valachovič M. &amp; <b>Zelený D.</b> (2012): High
+          <b>Chytrý M.</b>, Ermakov N., <b>Danihelka J.</b>, <b>Hájek M.</b>, <b>Hájková P.</b>, <b>Horsák M.</b>, Kočí M., <b>Kubešová
+          S.</b>, Lustyk P., <b>Otýpková Z.</b>, <b>Pelánková B.</b>, Valachovič M. &amp; <b>Zelený D.</b> (2012): High
           species richness in hemiboreal forests of the northern Russian Altai, southern
           Siberia. <i>Journal of Vegetation Science</i> 23: 605–616. – 
           <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1654-1103.2011.01383.x/abstract">
@@ -895,7 +913,7 @@ export const project2cz = {
         </li>
         <li>
           21/01/2013{" "}
-          <a href="http://www.pluska.sk/plus-7-dni/relax/znicilo-mamuty-iba-globalne-oteplovanie.html">
+          <a href="https://plus7dni.pluska.sk/relax/znicilo-mamuty-iba-globalne-oteplovanie?itm_site=plus7&itm_template=gallery&itm_area=relax&itm_modul=spat-na-clanok">
             Zničilo mamuty iba globálne otepľovanie?
           </a>{" "}
           Plus 7 dní
@@ -905,7 +923,7 @@ export const project2cz = {
           <a href="http://www.ceskatelevize.cz/ivysilani/10095690193-pred-pulnoci/312281381940091/">
             Vegetace doby ledové na dosah? 
           </a>{" "} 
-            Česká televize, Před půlnocí, iVysílání
+            Česká televize – Před půlnocí
         </li>
         <li>
           05/08/2012{" "}
@@ -915,22 +933,16 @@ export const project2cz = {
           , Hospodářské noviny
         </li>
         <li>
-          05/2007 Doba ledová nebyla tak hrozivá 21. století -{" "}
-          <a href="http://www.sci.muni.cz/botany/vz/pdf/Velinsky2007_21-stoleti.pdf">PDF</a>
+          05/2007 {" "}
+          <a href="http://www.sci.muni.cz/botany/vz/pdf/Velinsky2007_21-stoleti.pdf">Doba ledová nebyla tak hrozivá</a>
+		   , 21. století
         </li>
         <li>
-          03/12/2006{" "}
-          <a href="http://www.rozhlas.cz/planetarium/priroda/_zprava/300674">
-            Česko v době ledové - část 1
+          05/01/2007{" "}
+          <a href="https://temata.rozhlas.cz/cesko-v-dobe-ledove-7851787">
+            Česko v době ledové
           </a>
-          . Český rozhlas Leonardo, Planetárium
-        </li>
-        <li>
-          03/12/2006{" "}
-          <a href="http://www.rozhlas.cz/planetarium/priroda/_zprava/302754">
-            Česko v době ledové - část 2
-          </a>
-          . Český rozhlas Leonardo, Planetárium
+          . Český rozhlas
         </li>
       </div>
       

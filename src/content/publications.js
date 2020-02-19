@@ -1,6 +1,6 @@
 ﻿/* eslint-disable no-irregular-whitespace */
 export const mediaCz = [
-{
+  {
     date: `3/12/2019`,
     name: `Botanici připravili nový klíč k určování rostlin. Minulý rychle zastaral`,
     resources: [`Magazín M`],
@@ -39,9 +39,8 @@ export const mediaCz = [
   {
     date: `20/3/2018`,
     name: `Botanici spustili nejrozsáhlejší online databázi české flóry a vegetace`,
-    resources: [`Česká televize`, `České noviny`, `MUNI`, `Radio.cz`, `Sciencemag`, `Ekolist`, `Enviweb`, `21. století`, `Týden.cz`],
+    resources: [`Česká televize`, `MUNI`, `Radio.cz`, `Sciencemag`, `Ekolist`, `Enviweb`, `21. století`, `Týden.cz`],
     links: [`http://www.ceskatelevize.cz/ct24/veda/2424340-cela-kvetena-na-jednom-miste-botanici-spustili-nejrozsahlejsi-online-databazi-ceske`,
-	`http://www.ceskenoviny.cz/zpravy/webova-databaze-shrnuje-informace-o-rostlinnych-druzich-v-cesku/1599651`,
 	`https://www.online.muni.cz/veda-a-vyzkum/10368-botanici-spustili-nejrozsahlejsi-online-databazi-ceske-flory-a-vegetace`,
 	`http://www.radio.cz/ru/rubrika/radiogazeta/vsya-flora-chexii-na-odnom-sajte`,
 	`http://sciencemag.cz/nejrozsahlejsi-online-databaze-ceske-flory-a-vegetace/`, `https://ekolist.cz/cz/zpravodajstvi/zpravy/ode-dneska-je-pristupna-nejrozsahlejsi-online-databaze-ceske-flory-a-vegetace`,
@@ -79,16 +78,46 @@ export const mediaCz = [
     links: [`https://www.online.muni.cz/veda-a-vyzkum/8576-botanici-muni-pomohli-s-popisem-evropske-vegetace-pomuze-chranit-prirodu?utm_source=fb_milujeme&utm_medium=link&utm_campaign=facebook`, `https://www.novinky.cz/veda-skoly/422968-brnensti-botanici-prispeli-k-popisu-evropske-vegetace-ktery-pomuze-chranit-prirodu.html`]
   },
   {
+    date: `30/01/2014`,
+    name: `Ice age thrives in Southern Siberia`,
+    resources: [`Radio Free Europe`],
+    links: [`http://www.rferl.org/content/russia-mongolia-altai-ice-age-species/25247802.html`]
+  },
+  {
     date: `13/7/2014`,
     name: `Aplikace určí rostlinu na počkání`,
     resources: [`Magazín M`],
     links: [`https://www.em.muni.cz/veda-a-vyzkum/4532-aplikace-urci-rostlinu-na-pockani#.VBhSt_l_sn4`]
   },
   {
+    date: `23/01/2014`,
+    name: `Ice-age animals live on in Eurasian mountain range`,
+    resources: [`New Scientist`],
+    links: [`http://www.newscientist.com/article/mg22129533.800-iceage-animals-live-on-in-eurasian-mountain-range.html#.UygwyNtIw8E`]
+  },
+  {
     date: `11/3/2013`,
     name: `Studentka vrací přírodu do lomu`,
     resources: [`Magazín M`],
     links: [`https://www.em.muni.cz/student/3343-studentka-vraci-prirodu-do-lomu#.VBhUqPl_sn4`]
+  },
+    {
+    date: `3/1/2013`,
+    name: `Aktuální soupis naší flóry (Jiří Danihelka)`,
+    resources: [`Český rozhlas Leonardo`],
+    links: [`https://hledani.rozhlas.cz/iRadio/?query=danihelka&reader=&stanice%5B%5D=%C4%8CRo+Leonardo&porad%5B%5D=`]
+  },
+{
+    date: `21/01/2013`,
+    name: `Zničilo mamuty iba globálne otepľovanie?`,
+    resources: [`Plus 7 dní`],
+    links: [`https://plus7dni.pluska.sk/relax/znicilo-mamuty-iba-globalne-oteplovanie?itm_site=plus7&itm_template=gallery&itm_area=relax&itm_modul=spat-na-clanok`]
+  },
+  {
+    date: `27/11/2012`,
+    name: `Vegetace doby ledové na dosah?`,
+    resources: [`Česká televize – Před půlnocí`],
+    links: [`http://www.ceskatelevize.cz/ivysilani/10095690193-pred-pulnoci/312281381940091/`]
   },
   {
     date: `26/11/2012`,
@@ -103,16 +132,28 @@ export const mediaCz = [
     links: [`https://www.em.muni.cz/veda-a-vyzkum/3001-invaze-cizokrajnych-rostlin-v-hledacku-botaniku#.VBhS3fl_sn4`]
   },
   {
-    date: `3/1/2013`,
-    name: `Aktuální soupis naší flóry (Jiří Danihelka)`,
-    resources: [`Český rozhlas Leonardo`, `Natura`],
-    links: [`https://hledani.rozhlas.cz/iRadio/?query=danihelka&reader=&stanice%5B%5D=%C4%8CRo+Leonardo&porad%5B%5D=`, `https://podtail.nl/podcast/natura-1/aktualni-soupis-na-i-flory-ji-i-danihelka-mok-ady-/`]
+    date: `05/08/2012`,
+    name: `Proč vyhynuli mamuti? Odpověď jezdí český vědec hledat na Sibiř`,
+    resources: [`Hospodářské noviny`],
+    links: [`http://zpravy.ihned.cz/cesko/c1-56913430-proc-vyhynuli-mamuti-odpoved-jezdi-cesky-vedec-hledat-na-sibir`]
   },
-
-];
+	{
+    date: `05/01/2007`,
+    name: `Česko v době ledové`,
+    resources: [`Český rozhlas`],
+    links: [`https://temata.rozhlas.cz/cesko-v-dobe-ledove-7851787`]
+  },
+      {
+    date: `05/2007`,
+    name: `Doba ledová nebyla tak hrozivá`,
+    resources: [`21. století`],
+    links: [`http://www.sci.muni.cz/botany/vz/pdf/Velinsky2007_21-stoleti.pdf`]
+  },
+  
+  ];
 
 export const mediaEn = [
-{
+  {
     date: `3/12/2019`,
     name: `Botanici připravili nový klíč k určování rostlin. Minulý rychle zastaral`,
     resources: [`Magazín M`],
@@ -151,9 +192,8 @@ export const mediaEn = [
   {
     date: `20/3/2018`,
     name: `Botanici spustili nejrozsáhlejší online databázi české flóry a vegetace`,
-    resources: [`Česká televize`, `České noviny`, `MUNI`, `Radio.cz`, `Sciencemag`, `Ekolist`, `Enviweb`, `21. století`, `Týden.cz`],
+    resources: [`Česká televize`, `MUNI`, `Radio.cz`, `Sciencemag`, `Ekolist`, `Enviweb`, `21. století`, `Týden.cz`],
     links: [`http://www.ceskatelevize.cz/ct24/veda/2424340-cela-kvetena-na-jednom-miste-botanici-spustili-nejrozsahlejsi-online-databazi-ceske`,
-	`http://www.ceskenoviny.cz/zpravy/webova-databaze-shrnuje-informace-o-rostlinnych-druzich-v-cesku/1599651`,
 	`https://www.online.muni.cz/veda-a-vyzkum/10368-botanici-spustili-nejrozsahlejsi-online-databazi-ceske-flory-a-vegetace`,
 	`http://www.radio.cz/ru/rubrika/radiogazeta/vsya-flora-chexii-na-odnom-sajte`,
 	`http://sciencemag.cz/nejrozsahlejsi-online-databaze-ceske-flory-a-vegetace/`, `https://ekolist.cz/cz/zpravodajstvi/zpravy/ode-dneska-je-pristupna-nejrozsahlejsi-online-databaze-ceske-flory-a-vegetace`,
@@ -191,16 +231,46 @@ export const mediaEn = [
     links: [`https://www.online.muni.cz/veda-a-vyzkum/8576-botanici-muni-pomohli-s-popisem-evropske-vegetace-pomuze-chranit-prirodu?utm_source=fb_milujeme&utm_medium=link&utm_campaign=facebook`, `https://www.novinky.cz/veda-skoly/422968-brnensti-botanici-prispeli-k-popisu-evropske-vegetace-ktery-pomuze-chranit-prirodu.html`]
   },
   {
+    date: `30/01/2014`,
+    name: `Ice age thrives in Southern Siberia`,
+    resources: [`Radio Free Europe`],
+    links: [`http://www.rferl.org/content/russia-mongolia-altai-ice-age-species/25247802.html`]
+  },
+  {
     date: `13/7/2014`,
     name: `Aplikace určí rostlinu na počkání`,
     resources: [`Magazín M`],
     links: [`https://www.em.muni.cz/veda-a-vyzkum/4532-aplikace-urci-rostlinu-na-pockani#.VBhSt_l_sn4`]
   },
   {
+    date: `23/01/2014`,
+    name: `Ice-age animals live on in Eurasian mountain range`,
+    resources: [`New Scientist`],
+    links: [`http://www.newscientist.com/article/mg22129533.800-iceage-animals-live-on-in-eurasian-mountain-range.html#.UygwyNtIw8E`]
+  },
+  {
     date: `11/3/2013`,
     name: `Studentka vrací přírodu do lomu`,
     resources: [`Magazín M`],
     links: [`https://www.em.muni.cz/student/3343-studentka-vraci-prirodu-do-lomu#.VBhUqPl_sn4`]
+  },
+    {
+    date: `3/1/2013`,
+    name: `Aktuální soupis naší flóry (Jiří Danihelka)`,
+    resources: [`Český rozhlas Leonardo`],
+    links: [`https://hledani.rozhlas.cz/iRadio/?query=danihelka&reader=&stanice%5B%5D=%C4%8CRo+Leonardo&porad%5B%5D=`]
+  },
+{
+    date: `21/01/2013`,
+    name: `Zničilo mamuty iba globálne otepľovanie?`,
+    resources: [`Plus 7 dní`],
+    links: [`https://plus7dni.pluska.sk/relax/znicilo-mamuty-iba-globalne-oteplovanie?itm_site=plus7&itm_template=gallery&itm_area=relax&itm_modul=spat-na-clanok`]
+  },
+  {
+    date: `27/11/2012`,
+    name: `Vegetace doby ledové na dosah?`,
+    resources: [`Česká televize – Před půlnocí`],
+    links: [`http://www.ceskatelevize.cz/ivysilani/10095690193-pred-pulnoci/312281381940091/`]
   },
   {
     date: `26/11/2012`,
@@ -215,15 +285,33 @@ export const mediaEn = [
     links: [`https://www.em.muni.cz/veda-a-vyzkum/3001-invaze-cizokrajnych-rostlin-v-hledacku-botaniku#.VBhS3fl_sn4`]
   },
   {
-    date: `3/1/2013`,
-    name: `Aktuální soupis naší flóry (Jiří Danihelka)`,
-    resources: [`Český rozhlas Leonardo`, `Natura`],
-    links: [`https://hledani.rozhlas.cz/iRadio/?query=danihelka&reader=&stanice%5B%5D=%C4%8CRo+Leonardo&porad%5B%5D=`, `https://podtail.nl/podcast/natura-1/aktualni-soupis-na-i-flory-ji-i-danihelka-mok-ady-/`]
+    date: `05/08/2012`,
+    name: `Proč vyhynuli mamuti? Odpověď jezdí český vědec hledat na Sibiř`,
+    resources: [`Hospodářské noviny`],
+    links: [`http://zpravy.ihned.cz/cesko/c1-56913430-proc-vyhynuli-mamuti-odpoved-jezdi-cesky-vedec-hledat-na-sibir`]
   },
+	{
+    date: `05/01/2007`,
+    name: `Česko v době ledové`,
+    resources: [`Český rozhlas`],
+    links: [`https://temata.rozhlas.cz/cesko-v-dobe-ledove-7851787`]
+  },
+      {
+    date: `05/2007`,
+    name: `Doba ledová nebyla tak hrozivá`,
+    resources: [`21. století`],
+    links: [`http://www.sci.muni.cz/botany/vz/pdf/Velinsky2007_21-stoleti.pdf`]
+  },
+  
   ];
 
 export const popularizationCz = [
 {
+    date: `2020`,
+    name: `Teplomilné rostlinstvo Podkarpatské Rusi`,
+    resources: [`Živa`],
+    links: [``]
+  },{
     date: `2019`,
     name: `Biogeografie druhové diverzity rostlinných společenstev`,
     resources: [`Živa`],
@@ -239,19 +327,19 @@ export const popularizationCz = [
     date: `2019`,
     name: `Podpěrovské inspirace v botanice`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/podperovske-inspirace-v-botanice.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pd/pdf/podperovske-inspirace-v-botanice.pdf`]
   },
 {
     date: `2019`,
     name: `Stepi západní Ukrajiny`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/2019-4/stepi-zapadni-ukrajiny.html`]
+    links: [`https://ziva.avcr.cz/2019-4/stepi-zapadni-ukrajiny.html`]
   },
   {
     date: `2018`,
     name: `Tvář jihomoravského luhu se mění`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/tvar-jihomoravskeho-luhu-se-meni.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/tvar-jihomoravskeho-luhu-se-meni.pdf`]
   },
   {
     date: `2018`,
@@ -269,25 +357,25 @@ export const popularizationCz = [
     date: `2018`,
     name: `Známe odpověď na Darwinovu naturalizační hádanku?`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/zname-odpoved-na-darwinovu-naturalizacni-hadanku.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/zname-odpoved-na-darwinovu-naturalizacni-hadanku.pdf`]
   },
   {
     date: `2018`,
     name: `Rostlinné invaze na antropogenních stanovištích`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/rostlinne-invaze-na-antropogennich-stanovistich.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/rostlinne-invaze-na-antropogennich-stanovistich.pdf`]
   },
   {
     date: `2017`,
     name: `Za botanickými krásami jižní Kolchidy I.`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/za-botanickymi-krasami-jizni-kolchidy-i.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/za-botanickymi-krasami-jizni-kolchidy-i.pdf`]
   },
   {
     date: `2017`,
     name: `Za botanickými krásami jižní Kolchidy II.`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/za-botanickymi-krasami-jizni-kolchidy-ii.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/za-botanickymi-krasami-jizni-kolchidy-ii.pdf`]
   },
   {
     date: `2016`,
@@ -311,61 +399,64 @@ export const popularizationCz = [
     date: `2015`,
     name: `Květena Brna – současný stav poznání`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/kvetena-brna-soucasny-stav-poznani.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/kvetena-brna-soucasny-stav-poznani.pdf`]
   },
   {
     date: `2014`,
     name: `Proč je flóra velkoměst pestrá`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/proc-je-flora-velkomest-pestra.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/proc-je-flora-velkomest-pestra.pdf`]
   },
+
   {
     date: `2013`,
     name: `Botanické součty, rozdíly a podíly`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/botanicke-soucty-rozdily-a-podily.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/botanicke-soucty-rozdily-a-podily.pdf`]
   },
  {
     date: `2013`,
     name: `Botanická fotogalerie a další pomůcky k určování rostlin`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/botanicka-fotogalerie-a-dalsi-pomucky-k-urcovani-r.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/botanicka-fotogalerie-a-dalsi-pomucky-k-urcovani-r.pdf`]
   },
+
 {
     date: `2012`,
     name: `GIS a jeho využití v botanice`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/gis-a-jeho-vyuziti-v-botanice.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/gis-a-jeho-vyuziti-v-botanice.pdf`]
   },
   {
     date: `2012`,
     name: `Lesostep Jižního Uralu`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/lesostep-jizniho-uralu.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/lesostep-jizniho-uralu.pdf`]
   },
+
     {
     date: `2012`,
     name: `Ekosystémy Sibiře: analogie zaniklé přírody střední Evropy`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/2012-4/ekosystemy-sibire-analogie-zanikle-prirody-stredni-evropy.html`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/ekosystemy-sibire-analogie-zanikle-prirody-stredni.pdf`]
   },
   {
     date: `2012`,
     name: `Rodinné stříbro české vegetace: máme u nás něco, co jinde nemají?`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/2012-4/rodinne-stribro-ceske-vegetace-mame-u-nas-neco-co-jinde-nemaji.html`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/rodinne-stribro-ceske-vegetace-mame-u-nas-neco-co.pdf`]
   },
   {
     date: `2010`,
     name: `Fenomén subkontinentálních doubrav: diverzita, dynamika a historie jednoho neobyčejného společenstva`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/fenomen-subkontinentalnich-doubrav-diverzita-dynam.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/fenomen-subkontinentalnich-doubrav-diverzita-dynam.pdf`]
   },
      {
     date: `2010`,
     name: `Co je to fytocenologický snímek`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/co-je-to-fytocenologicky-snimek.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/co-je-to-fytocenologicky-snimek.pdf`]
   },
      {
     date: `2010`,
@@ -377,43 +468,43 @@ export const popularizationCz = [
     date: `2010`,
     name: `Krajiny zamrzlé v čase I. Jižní Sibiř – současná analogie střední Evropy v době ledové`,
     resources: [`Živa`],
-    links: [`https://www.sci.muni.cz/botany/chytry/Horsak-Chytry2010ab_Ziva.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/krajiny-zamrzle-v-case-i-jizni-sibir-soucasna-anal.pdf`]
   },
   {
     date: `2010`,
     name: `Krajiny zamrzlé v čase II. Jižní Ural – současná analogie střední Evropy ve starém a středním holocénu`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/krajiny-zamrzle-v-case-ii-jizni-ural-soucasna-anal.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/krajiny-zamrzle-v-case-ii-jizni-ural-soucasna-anal.pdf`]
   },
   {
     date: `2009`,
     name: `Kam se šíří zavlečené rostliny? 1. Rozdíly v invadovanosti velkých území`,
     resources: [`Živa`],
-    links: [`https://www.sci.muni.cz/botany/chytry/Chytry-Pysek2009abc_Ziva.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/kam-se-siri-zavlecene-rostliny-1-rozdily-v-invadov.pdf`]
   },
   {
     date: `2009`,
     name: `Kam se šíří zavlečené rostliny? 2. Invadovanost a invazibilita rostlinných společenstev`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/kam-se-siri-zavlecene-rostliny-2-invadovanost-a-in.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/kam-se-siri-zavlecene-rostliny-2-invadovanost-a-in.pdf`]
   },
   {
     date: `2009`,
     name: `Kam se šíří zavlečené rostliny? 3. Obecné příčiny invazibility společenstev`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/kam-se-siri-zavlecene-rostliny-3-obecne-priciny-in.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/kam-se-siri-zavlecene-rostliny-3-obecne-priciny-in.pdf`]
   },
   {
     date: `2008`,
     name: `„Taiwan? A mají tam vůbec nějaký les?“`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/taiwan-a-maji-tam-vubec-nejaky-les.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/taiwan-a-maji-tam-vubec-nejaky-les.pdf`]
   },
     {
     date: `2005`,
     name: `Sveřep stoklasa - starobylý plevel obilných polí`,
     resources: [`Živa`],
-    links: [`http://ziva.avcr.cz/files/ziva/pdf/sverep-stoklasa-starobyly-plevel-obilnych-poli.pdf`]
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/sverep-stoklasa-starobyly-plevel-obilnych-poli.pdf`]
   },
      {
     date: `2004`,

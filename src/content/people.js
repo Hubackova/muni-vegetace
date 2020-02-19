@@ -30,6 +30,8 @@ import axmanova from "../../static/images/people/axmanova.jpg";
 import kubesova from "../../static/images/people/kubesova.jpg";
 import ceplova from "../../static/images/people/ceplova.jpg";
 import spanikova from "../../static/images/people/spanikova.jpg";
+import cubino from "../../static/images/people/cubino.jpg";
+
 
 
 export const peopleEn = {
@@ -173,7 +175,7 @@ export const peopleEn = {
       id: `hajek`,
       name: `Ondřej Hájek`,
       position: `Researcher`,
-      description: ``,
+      description: `Ondřej Hájek graduated from the Master of Science in Cartography and Geoinformatics at the Faculty of Science, Masaryk University. Now he works for most of the working groups of the Department of Botany and Zoology as an expert for work with GIS. At the same time, he also participates in teaching the subject of geographical information systems in botany and zoology.`,
       email: `ohajek@sci.muni.cz`,
       phoneNumber: `549494033`,
       is: `https://www.muni.cz/en/people/16845-ondrej-hajek`,
@@ -219,7 +221,7 @@ export const peopleEn = {
       id: `kubesova`,
       name: `Svatava Kubešová`,
       position: `Researcher`,
-      description: ``,
+      description: `Svatava Kubešová completed her studies at Masaryk University with a rigorous degree. At the Department of Botany and Zoology, she participates in teaching bryology with two determination courses. Her main job is to manage collections of bryophytes as a curator in the Moravian Museum.`,
       email: `skubesova@mzm.cz`,
       phoneNumber: `545217322`,
       is: `https://www.muni.cz/en/people/18604-svatava-kubesova`,
@@ -233,7 +235,7 @@ export const peopleEn = {
       id: `landucci`,
       name: `Flavia Landucci`,
       position: `Researcher`,
-      description: `Flavia Landucci studied Natural Science in Italy at the University of Perugia, where she graduated and obtained her PhD degree in botany and vegetation science. During her bachelor and master degree she focuses her study on the distribution, ecology and phytochemistry of the exotic specie Senecio inaequidens in Italy. During this time she realized that her favorite part of botany is the study of plant and community ecology. During the PhD she started to develop her interest for aquatic and wetland vegetation. She came in Brno the first time for an Erasmus stay in 2010, during her PhD. At Masaryk University she found a very positive and stimulating environment with cooperative people that encouraged her to continue her research after the PhD. She got the PhD degree in 2011 with a thesis about the classification of aquatic and wetland vegetation of Central Italy. After that, in 2013 she successfully applied for a SoMoPro project (co-funded by the Marie Curie actions and the South Moravian Region) and since that time she has worked in the Vegetation Science Group at the Department of botany and Zoology of Masaryk University. Her research is currently mainly focused on classification of aquatic and wetland vegetation of Europe.`,
+      description: `Flavia Landucci studied Natural Science in Italy at the University of Perugia, where she graduated and obtained her PhD degree in botany and vegetation science. During her bachelor and master degree she focused her study on the distribution, ecology and phytochemistry of the exotic specie Senecio inaequidens in Italy. During this time she realized that her favorite part of botany is the study of plant and community ecology. During the PhD she started to develop her interest for aquatic and wetland vegetation. She came in Brno the first time for an Erasmus stay in 2010, during her PhD. At Masaryk University she found a very positive and stimulating environment with cooperative people that encouraged her to continue her research after the PhD. She got the PhD degree in 2011 with a thesis about the classification of aquatic and wetland vegetation of Central Italy. After that, in 2013 she successfully applied for a SoMoPro project (co-funded by the Marie Curie actions and the South Moravian Region) and since that time she has worked in the Vegetation Science Group at the Department of botany and Zoology of Masaryk University. Her research is currently mainly focused on classification of aquatic and wetland vegetation of Europe.`,
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/en/people/386683-flavia-landucci`,
@@ -287,7 +289,7 @@ export const peopleEn = {
       id: `stepankova`,
       name: `Petra Štěpánková`,
       position: `Researcher`,
-      description: ``,
+      description: `Petra Štěpánková graduated from the Faculty of Horticulture of Mendel University in Lednice in horticulture in 1997. In 2003 she completed her PhD in anatomy and physiology of plants at the Faculty of Agronomy of Mendel University. In 2001–2014 she worked as a lecturer at the Institute of Plant Biology of the same faculty, taught general and systematic botany, led botanical field excursions and practices, created two multimedia learning texts, and number e-learning support for students. Since 2014 she has been working as a researcher at the Department of Botany and Zoology, Faculty of Science, Masaryk University, where she participates in the preparation of data and databases for the creation of maps within the PLADIAS project and databases of the BRNU herbarium collection. She is currently working for the Center for European Vegetable Synthesis (CEVS).`,
       email: `pstepankova@sci.muni.cz`,
       phoneNumber: `549498389`,
       is: `https://www.muni.cz/en/people/234942-petra-stepankova`,
@@ -330,14 +332,15 @@ export const peopleEn = {
       id: `cubino`,
       name: `Josep Padulles Cubino`,
       position: `Postdoc`,
-      description: ``,
+      description: ` "Padu" is broadly interested in vegetation sciences, including the diversity and ecology of plant communities. He is passionate about exploring large-scale patterns of plant biodiversity, considering climate and land use as drivers of diversity. He has worked in urban environments, but also in alpine grasslands and forests. In all these systems, he used analysis of evolutionary relationships among plant species, and morphological and anatomical plant traits, to understand processes that shape ecosystems and the effects of human actions on these processes. He also has experience in the study of plant invasion, particularly on how they impact ecosystem functions and services. He finished his PhD in 2015 in the Department of Geography of the University of Girona, in Catalonia. He has completed two postdoctoral appointments in the Department of Ecology of Lincoln University, in New Zealand (2015–2016), and in the Department of Ecology, Evolution & Behavior of the University of Minnesota, in the United States (2017–2019). He is currently working as a postdoctoral associate in the Department of Botany and Zoology of Masaryk University, in the Czech Republic, exploring the ecological and evolutionary determinants of forest diversity in Europe.`,
       email: `padulles@sci.muni.cz`,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/en/people/243613-josep-padulles-cubino`,
       orcid: `https://orcid.org/0000-0002-2283-5004`,
       publons: `https://publons.com/researcher/1790367/josep-padulles-cubino/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=V-ZcDqAAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Josep_Padulles`
+      researchgate: `https://www.researchgate.net/profile/Josep_Padulles`, 
+	  img: cubino
     },
     {
       id: `fischer`,
@@ -431,7 +434,7 @@ Kateřina Knotková studied Landscape architecture in Faculty of Horticulture, M
       id: `spanikova`,
       name: `Šárka Špániková`,
       position: `PhD student, Researcher`,
-      description: ``,
+      description: `Šárka studied Upper Secondary School Teacher Training in Biology & Upper Secondary School Teacher Training in Geography and Cartography at the Faculty of Science of Masaryk University and also Zoology at the same faculty. In her master‘s theses she deals with Modelling distribution of selected land snail species in the White Carpathians. She will use similar methods in her doctoral studies for modelling distribution of selected European habitats. `,
       email: `408322@mail.muni.cz`,
       phoneNumber: ``,
       is: `https://www.muni.cz/en/people/408322-sarka-spanikova`,
@@ -604,7 +607,7 @@ export const peopleCz = {
       id: `hajek`,
       name: `Ondřej Hájek`,
       position: `Výzkumník`,
-      description: `(EŠ): Ondřej Hájek vystudoval magisterský obor kartografie a geoinformatika na Přírodovědecké fakultě Masarykovy univerzity. Nyní pracuje pro většinu pracovních skupin ÚBZ jako odborník pro práci s GIS, a zároveň se zde podílí také na výuce předmětu geografické informační systémy v botanice a zoologii.`,
+      description: `Ondřej Hájek vystudoval magisterský obor kartografie a geoinformatika na Přírodovědecké fakultě Masarykovy univerzity. Nyní pracuje pro většinu pracovních skupin Ústavu botaniky a zoologie jako odborník pro práci s GIS, a zároveň se zde podílí také na výuce předmětu geografické informační systémy v botanice a zoologii.`,
       email: `ohajek@sci.muni.cz`,
       phoneNumber: `549494033`,
       is: `https://www.muni.cz/lide/16845-ondrej-hajek`,
@@ -626,7 +629,7 @@ export const peopleCz = {
       id: `kalusova`,
       name: `Veronika Kalusová`,
       position: `Výzkumník`,
-      description: `Veronika Kalusová studovala bakalářský i magisterský stupeň v oboru systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy univerzity v Brně (2003–2009). V obou závěrečných pracích se zabývala stanovištními preferencemi nepůvodních druhů rostlin v říčních nivách na jihovýchodě Moravy. Poté navázala doktorským studiem oboru Botanika taktéž na PřF MU, které zakončila v roce 2015. Ve své disertaci srovnávala důležitost evropských biotopů jako zdrojů nepůvodních druhů invadujících v Severní Americe a ve zbytku světa. Od roku 2009 pracuje jako odborný pracovník Ústavu botaniky a zoologie PřF MU a dále zkoumá jednotlivé aspekty invaze nepůvodních rostlin v různých typech vegetace Evropy, se zvláštním zaměřením na člověkem silně ovlivněná stanoviště, jako jsou lidská sídla.`,
+      description: `Veronika Kalusová studovala bakalářský i magisterský stupeň v oboru systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy univerzity v Brně (2003–2009). V obou závěrečných pracích se zabývala stanovištními preferencemi nepůvodních druhů rostlin v říčních nivách na jihovýchodě Moravy. Poté navázala doktorským studiem oboru botanika taktéž na PřF MU, které zakončila v roce 2015. Ve své disertaci srovnávala důležitost evropských biotopů jako zdrojů nepůvodních druhů invadujících v Severní Americe a ve zbytku světa. Od roku 2009 pracuje jako odborný pracovník Ústavu botaniky a zoologie PřF MU a dále zkoumá jednotlivé aspekty invaze nepůvodních rostlin v různých typech vegetace Evropy, se zvláštním zaměřením na člověkem silně ovlivněná stanoviště, jako jsou lidská sídla.`,
       email: `kalveron@tiscali.cz`,
       phoneNumber: `549494992`,
       is: `https://www.muni.cz/lide/106856-veronika-kalusova`,
@@ -650,7 +653,7 @@ export const peopleCz = {
       id: `kubesova`,
       name: `Svatava Kubešová`,
       position: `Výzkumník`,
-      description: `(EŠ): Svatava Kubešová ukončila své studium na Masarykově univerzitě rigorózním řízením s tématem Materiály k bryoflóře Moravy. Na ÚBZ se podílí na výuce bryologie dvěma určovacími kurzy. Zároveň působí jako kurátorka sbírky mechorostů v Moravském zemském muzeu`,
+      description: `Svatava Kubešová ukončila své studium na Masarykově univerzitě rigorózním řízením s tématem Materiály k bryoflóře Moravy. Na Ústavu botaniky a zoologie se podílí na výuce bryologie dvěma určovacími kurzy. Její hlavní náplní práce spravovat sbírky mechorostů jako kurátorka v Moravském zemském muzeu.`,
       email: `skubesova@mzm.cz`,
       phoneNumber: `545217322`,
       is: `https://www.muni.cz/lide/18604-svatava-kubesova`,
@@ -665,8 +668,7 @@ export const peopleCz = {
       id: `landucci`,
       name: `Flavia Landucci`,
       position: `Výzkumník (mateřská dovolená)`,
-      description: `
-Flavia Landucci studied Natural Science in Italy at the University of Perugia, where she graduated and obtained her PhD degree in botany and vegetation science. During her bachelor and master degree she focuses her study on the distribution, ecology and phytochemistry of the exotic specie Senecio inaequidens in Italy. During this time she realized that her favorite part of botany is the study of plant and community ecology. During the PhD she started to develop her interest for aquatic and wetland vegetation. She came in Brno the first time for an Erasmus stay in 2010, during her PhD. At Masaryk University she found a very positive and stimulating environment with cooperative people that encouraged her to continue her research after the PhD. She got the PhD degree in 2011 with a thesis about the classification of aquatic and wetland vegetation of Central Italy. After that, in 2013 she successfully applied for a SoMoPro project (co-funded by the Marie Curie actions and the South Moravian Region) and since that time she has worked in the Vegetation Science Group at the Department of botany and Zoology of Masaryk University. Her research is currently mainly focused on classification of aquatic and wetland vegetation of Europe.`,
+      description: `Flavia Landucci vystudovala přírodní vědy v Itálii na univerzitě v Perugii. Během svého bakalářského a magisterského studia se zabývala distribucí, ekologií a fytochemií exotického druhu Senecio inaequidens v Itálii. V této době si uvědomila, že její oblíbenou součástí botaniky je studium ekologie rostlin. Během doktorského studia začala rozvíjet svůj zájem o vodní a mokřadní vegetaci. Do Brna přišla poprvé během doktorského studia díky pobytu Erasmus v roce 2010. Na Masarykově univerzitě našla velmi pozitivní prostředí, které ji povzbudilo, aby pokračovala ve svém výzkumu po doktorátě. V roce 2011 získala doktorský titul s prací klasifikace vodní a mokřadní vegetace ve střední Itálii. V roce 2013 uspěla v projektu SoMoPro (spolufinancovaný z akcí Marie Curie a Jihomoravským krajem) a od té doby pracovala ve skupině Výzkum vegetace na Ústavu botaniky a zoologie Masarykovy univerzity. Její výzkum je v současné době zaměřen především na klasifikaci vodní a mokřadní vegetace Evropy.`,
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/lide/386683-flavia-landucci`,
@@ -702,7 +704,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       id: `smerdova`,
       name: `Eva Šmerdová (Hettenbergerová)`,
       position: `Výzkumník`,
-      description: `Eva Šmerdová získala bakalářský titul na Ostravské Univerzitě, její práce se zaměřovala na flóru a vegetaci hald. Magisterské studium botaniky ukončila v roce 2006 na PřF Masarykovy Univerzity v Brně diplomovou prací zabývající se vlivem kontaktních společenstev na druhové složení lučních pramenišť. Doktorskou práci na téma Druhová bohatost a variabilita rostlin a měkkýšů na vlhkostním gradientu obhájila v roce 2013. V současné době se zabývá prezentací botaniky a zoologie veřejnosti, především pak studentům středních a základních škol; dále pak výzkumu vlivu zasněžování na vegetaci, přepisováním historických vegetačních snímků pro databázi PLADIAS, správou databáze rostlinných makrozbytků České a Slovenské republiky atd. Spolupracuje na projektu zkoumajícím refugia ohrožených slatiništních rostlin. Také se podílí se na přípravě Biologické olympiády. Ráda cestuje s kolegy po rodné vlasti i do zahraničí a sbírá terénní data k dalšímu výzkumu vegetace.`,
+      description: `Eva Šmerdová získala bakalářský titul na Ostravské univerzitě, její práce se zaměřovala na flóru a vegetaci hald. Magisterské studium botaniky ukončila v roce 2006 na PřF Masarykovy Univerzity v Brně diplomovou prací zabývající se vlivem kontaktních společenstev na druhové složení lučních pramenišť. Doktorskou práci na téma Druhová bohatost a variabilita rostlin a měkkýšů na vlhkostním gradientu obhájila v roce 2013. V současné době se zabývá prezentací botaniky a zoologie veřejnosti, především pak studentům středních a základních škol; dále pak výzkumu vlivu zasněžování na vegetaci, přepisováním historických vegetačních snímků pro databázi PLADIAS, správou databáze rostlinných makrozbytků České a Slovenské republiky atd. Spolupracuje na projektu zkoumajícím refugia ohrožených slatiništních rostlin. Také se podílí se na přípravě Biologické olympiády. Ráda cestuje s kolegy po rodné vlasti i do zahraničí a sbírá terénní data k dalšímu výzkumu vegetace.`,
       email: `eva.hette@centrum.cz`,
       phoneNumber: `549498487`,
       is: `https://www.muni.cz/lide/75764-eva-smerdova`,
@@ -713,7 +715,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       id: `stepankova`,
       name: `Petra Štěpánková`,
       position: `Výzkumník`,
-      description: `Petra Štěpánková absolvovala v roce 1997 inženýrské studium na Zahradnické fakultě Mendelovy univerzity v Lednici, obor zahradnictví, v roce 2003 ukončila doktorské studium v oboru anatomie a fyziologie rostlin na Agronomické fakultě Mendelovy univerzity. V letech 2001–2014 působila na Ústavu biologie rostlin AF Mendelu v Brně jako odborná asistentka, vyučovala obecnou i systematickou botaniku, vedla terénní botanické exkurze a botanické praktikum, vytvořila dva multimediální výukové texty a množství e-learningových opor pro studenty. Od roku 2014 pracuje jako odborná pracovnice na Ústavu botaniky a zoologie PřF Masarykovy Univerzity v Brně, kde se podílí na přípravě dat a databází pro tvorbu map v rámci projektu PLADIAS a databází herbářové sbírky BRNU. V současnosti pracuje pro Centrum pro evropské vegetační syntézy (CEVS). `,
+      description: `Petra Štěpánková absolvovala v roce 1997 inženýrské studium na Zahradnické fakultě Mendelovy univerzity v Lednici, obor zahradnictví, v roce 2003 ukončila doktorské studium v oboru anatomie a fyziologie rostlin na Agronomické fakultě Mendelovy univerzity. V letech 2001–2014 působila na Ústavu biologie rostlin téže fakulty jako odborná asistentka, vyučovala obecnou i systematickou botaniku, vedla terénní botanické exkurze a botanická praktika, vytvořila dva multimediální výukové texty a množství e-learningových opor pro studenty. Od roku 2014 pracuje jako odborná pracovnice na Ústavu botaniky a zoologie PřF Masarykovy Univerzity, kde se podílí na přípravě dat a databází pro tvorbu map v rámci projektu PLADIAS a databází herbářové sbírky BRNU. V současnosti pracuje pro Centrum pro evropské vegetační syntézy (CEVS). `,
       email: `pstepankova@sci.muni.cz`,
       phoneNumber: `549498389`,
       is: `https://www.muni.cz/lide/234942-petra-stepankova`, 
@@ -758,20 +760,21 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       id: `cubino`,
       name: `Josep Padulles Cubino`,
       position: `Postdoc`,
-      description: ``,
+      description: `„Padu“ se zajímá o vegetační vědy, včetně diverzity a ekologie rostlinných společenstev. Zkoumá diverzitu rostlin na velké škále, přičemž za hnací sílu diverzity považuje klima a využití půdy. Pracoval jak v městských biotopech, tak i v lesích nebo alpínských trávnících. Ve všech těchto systémech použil analýzu evolučních vztahů mezi rostlinnými druhy a morfologickými a anatomickými vlastnostmi rostlin k pochopení procesů, které formují ekosystémy, a účinky lidské činnosti na tyto procesy. Má také zkušenosti se studiem rostlinných invazí, zejména jejich vlivu na funkce a služby ekosystému. Doktorát ukončil v roce 2015 na Katedře geografie Gironské univerzity v Katalánsku. Absolvoval dva postdoktorandské pobyty: na Lincolnově univerzitě na Novém Zélandu (2015–2016) a na Minnesotské univerzitě v USA (2017–2019). V současné době pracuje jako postdoc na Ústavu botaniky a zoologie Masarykovy univerzity a zkoumá ekologické a evoluční faktory evropské lesní diverzity.`,
       email: `padulles@sci.muni.cz`,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/lide/243613-josep-padulles-cubino`,
       orcid: `https://orcid.org/0000-0002-2283-5004`,
       publons: `https://publons.com/researcher/1790367/josep-padulles-cubino/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=V-ZcDqAAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Josep_Padulles`
+      researchgate: `https://www.researchgate.net/profile/Josep_Padulles`,
+      img: cubino
     },
     {
       id: `fischer`,
       name: `Felícia Miranda Fischer`,
       position: `Postdoc`,
-      description: `Felícia Fisher aims to understand the processes behind spatial and temporal patterns in plant communities. She is developing the project "Plant communities through time" where she explores changes in species composition in permanent plots at different time-scales and relate these dynamics to intrinsic community properties and environmental factors. She also works with the Pladias database, where she aims to undercover plant distributions and their functional traits in response to natural and human factors on the national scale. Felícia got her PhD in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. She started her career in Ecology as an undergraduate student in 2007 since then she has been several projects concerning Vegetation Science in native grasslands and forests in southern Brazil. She worked on the relationship between grazing disturbance and plant community functional structure and ecosystem processes. Specifically, in her PhD, she studied how plant community functional aspects affect stability face to climate-change-related disturbances. She experienced in caring out field experiments, grassland vegetation surveys, and functional traits methodologies. She also contributes with other international groups in themes as dark diversity, habitat loss and biodiversity conservation and ecosystem stability at local and global scale.`,
+      description: `Felícia Fisher si klade za cíl porozumět procesům, které se skrývají za prostorovými a časovými vzorci v rostlinných společenstvech. Rozvíjí projekt „Rostlinná společenstva v čase“, ve kterém zkoumá změny v druhovém složení trvalých ploch v různých časových měřítcích ve vztahu s vnitřními vlastnostmi společenstva a faktory prostředí. Pracuje také s databází Pladias, kde studuje distribuci rostlin a jejich funkční vlastnosti v reakci na přírodní a lidské faktory v národním měřítku. Felicia získala doktorát z ekologie na Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazílie. Svou kariéru v oboru ekologie začala jako vysokoškolská studentka v roce 2007, od té doby spolupracovala na několika projektech týkajících se vegetace v původních travních porostů a lesů jižní Brazílie. Zkoumala také vztah mezi pastvou, funkční strukturou rostlinných společenstev a ekosystémovými procesy. Má zkušenosti s terénními experimenty, výzkumem vegetace travníků a metodologií funkčních vlastností rostlin. Spolu s dalšími mezinárodními skupinami se také podílí na tématech jako „dark diversity“, ztráta stanovišť a ochrana biodiverzity a stability ekosystémů v místním i globálním měřítku.`,
       email: `ffischer@mail.muni.cz`,
       phoneNumber: `549498479`,
       is: `https://www.muni.cz/lide/243002-felicia-miranda-fischer`,
@@ -785,7 +788,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
       id: `marceno`,
       name: `Corrado Marcenò`,
       position: `Postdoc`,
-      description: `Corrado Marcenò is a PhD in environmental science. He worked at the University of Catania doing a thesis on "The Classification of East Mediterranean Dune Vegetation at Associations Level". After PhD, he had the opportunity to work in several departments and research centres in Europe: University of Bilbao (Spain), National Research Council of Palermo (Italy), National Institute of Agricultural Economics of Pisa (Italy), Muséum National d'Histoire Naturelle of Paris (France) and University of Oviedo (Spain). He is specialized in storing and managing of big databases, vegetation classification, biogeography of plant communities and habitats monitoring and conservation.`,
+      description: `Corrado Marcenò získal doktorský stupeň v oboru ekologie na Katalánské univerzitě za disertační práci „Klasifikace vegetace dun ve východním Středomoří na úrovni asociací“. Po studiu měl příležitost pracovat na několika katedrách a výzkumných centrech v Evropě: University of Bilbao (Španělsko), National Research Council of Palermo (Itálie), National Institute of Agricultural Economics v Pise (Itálie), Muséum National d'Histoire Naturelle v Paříži (Francie) a University of Oviedo (Španělsko). Specializuje se na správu velkých databází, klasifikaci vegetace, biogeografii rostlinných společenstev a monitoring a ochranu biotopů.`,
       email: `marcenocorrado@libero.it`,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/lide/234828-corrado-marceno`,
@@ -800,7 +803,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
     {
       id: `chudomelova`,
       name: `Markéta Chudomelová`,
-      position: `Doktrorand`,
+      position: `Doktorand`,
       description: `Markéta Chudomelová vystudovala bakalářský stupeň v oboru zahradní a krajinářské architektura na Mendelově univerzitě. Následovalo bakalářské, magistrské a současné doktorské studium botaniky na Masarykově univerzitě. Záliba v pěstování rostlin ji ale nepřešla: doma obhospodařuje postupně se rozšiřující sbírku sukulentů a spolu s kolegy z Botanické ústavu se pustila do zakládání experimentálních výsadeb lesních rostlin. Její doménou je hlavně les, kde se při sběru dat vyskytuje po celý rok. Píše doktorskou práci o původu prostorových struktur v rostlinných společenstvech a na Oddělení vegetační ekologie BÚ AVČR se věnuje hlavně jejich změnám v čase. Zajímá ji spíš detail, drobné měřítko a kratší časové horizonty. Jednou by tam ráda našla klíč k pochopení dlouhodobých změn.`,
       email: `323585@mail.muni.cz`,
       phoneNumber: `541126221`,
@@ -812,8 +815,8 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
     {
       id: `jaskova`,
       name: `Anni Kanerva Jašková (Pyykönen)`,
-      position: `Doktrorand, výzkumník`,
-      description: `Anni Jašková is a Ph.D.-student in the Vegetation Science group, specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests lay also in theoretical ecology, i.e. plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in The University of Turku, majoring in ecology. Before undertaking the boreal, she started with the arctic and investigated the interactions between lemmings and lichens in Fennoscandian tundra.`,
+      position: `Doktorand, výzkumník`,
+      description: `Anni Jašková je doktorandkou se specializací na borealní vegetaci. Hlavním cílem její práce je vytvoření jednotné klasifikace boreálních lesů v evropském měřítku, ale její zájmy spočívají také v teoretické ekologii, tj. v rostlinných strategiích a vztahy mezi rostlinami a býložravci. Anni pochází z Finska, kde studovala ekologii na univerzitě v Turku. Před studiem boreálních společenstev zkoumala společenstva arktická, především vztahy mezi lumíky a lišejníky v tundře.`,
       email: `annipyy@mail.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/lide/452344-anni-kanerva-pyykoenen`,
@@ -823,7 +826,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
     {
       id: `kalnikova`,
       name: `Veronika Kalníková`,
-      position: `Doktrorand, výzkumník`,
+      position: `Doktorand, výzkumník`,
       description: `Veronika Kalníková studuje obor botanika, směr ekologie rostlin na Přírodovědecké fakultě Masarykovy univerzity v Brně. Zajímají ji procesy probíhající říčních nivách, především, jak se rostliny a jejich společenstva přizpůsobují extrémním podmínkám na štěrkových náplavech divočících toků. V roce 2012 obhájila diplomovou práci na téma „Rozšíření invazních neofytů a sukcese na štěrkových náplavech na tocích Moravskoslezských Beskyd a jejich podhůří“. Hlavním cílem její disertační práce je vytvoření jednotné klasifikace vegetace štěrkových náplavů v celé Evropě.`,
       email: `V.Kalnikova@seznam.cz`,
       phoneNumber: `549498486`,
@@ -835,7 +838,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
 	{
       id: `knotkova`,
       name: `Kateřina Knotková`,
-      position: `Doktrorand, výzkumník`,
+      position: `Doktorand, výzkumník`,
       description: `Kateřina Knotková je absolventem zahradní a krajinářské architektury na Zahradnické fakultě Mendelovy univerzity v Brně. Svou práci vždy soustředila především na rostliny. V bakalářské práci se zaměřila, na to, jak lze vytvořit botanickou zahradu ze společenstev Národního parku Podyjí. V diplomové práci se pak zaměřila na testování rostlin, které by bylo možné pěstovat ve městech z přímého výsevu a také na dnes velmi diskutované téma dešťových záhonů. Nyní pokračuje ve svých studiích na Ústavu botaniky a zoologie, kde v rámci svého doktorátu řeší použití poloparazitických rostlin v ochraně přírody, jejich vliv na biodiverzitu a ekosystémové služby. Ve své práci se snaží kombinovat vědomosti a přístupy aplikované zahradnické praxe a základního botanického výzkumu.`,
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
@@ -845,7 +848,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
     {
       id: `novak`,
       name: `Pavel Novák`,
-      position: `Doktrorand, výzkumník`,
+      position: `Doktorand, výzkumník`,
       description: `Pavel Novák studoval obor botanika, směr ekologie rostlin na Přírodovědecké fakultě Masarykovy univerzity v Brně. V roce 2013 obhájil diplomovou práci zaměřenou na diverzitu lesní vegetace Krumlovského lesa a okolí (JZ Morava), území vegetačně velmi zajímavého a přitom do té doby takřka neprozkoumaného. V roce 2014 začal svoje doktorské studium, ve kterém pokračuje dodnes. Dizertační práce je zaměřena na variabilitu a syntaxonomii dubohabřin (řád Carpinetalia) na evropské škále. Vedle střední Evropy se věnuje lesní vegetaci Kavkazu a Euxinie.`,
       email: `269109@mail.muni.cz`,
       phoneNumber: `549498485`,
@@ -856,8 +859,8 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
     {
       id: `spanikova`,
       name: `Šárka Špániková`,
-      position: `Doktrorand, výzkumník`,
-      description: ``,
+      position: `Doktorand, výzkumník`,
+      description: `Šárka Špániková studovala na Přírodovědecké fakultě Masarykovy university obor učitelství biologie pro střední školy spolu s učitelstvím geografie a kartografie pro střední školy (dokončeno 2018) a obor zoologie (dokončeno 2019). V diplomová práci z učitelského oboru se věnuje modelům rozšíření suchozemských plžů v Bílých Karpatech, na doktorském studiu využívá podobné metody pro modely vybraných evropských biotopů. `,
       email: `408322@mail.muni.cz`,
       phoneNumber: ``,
       is: `https://www.muni.cz/lide/408322-sarka-spanikova`, 
@@ -866,7 +869,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
     {
       id: `vecera`,
       name: `Martin Večeřa`,
-      position: `Doktrorand, výzkumník`,
+      position: `Doktorand, výzkumník`,
       description: `Martin Večeřa vystudoval geografii, se zaměřením na ekologii krajiny a biogeografii, na Přírodovědecké fakultě Masarykovy univerzity v Brně. Ve své diplomové práci se věnoval šíření lesních rostlin dřevinnými pásy (potenciálními biokoridory) v zemědělské krajině. V současné době je doktorandem na Ústavu botaniky a zoologie. Tématem jeho disertační práce jsou různé ekologické a biogeografické aspekty druhové diverzity lesů a trávníků v Evropě.`,
       email: `martinvec@seznam.cz`,
       phoneNumber: `549498494`,
@@ -878,7 +881,7 @@ Flavia Landucci studied Natural Science in Italy at the University of Perugia, w
     {
       id: `zukal`,
       name: `Dominik Zukal`,
-      position: `Doktrorand, výzkumník`,
+      position: `Doktorand, výzkumník`,
       description: `Dominik Zukal studoval v letech 2010–2015 bakalářský a magisterský studijní program ekologická a evoluční biologie na Přírodovědecké fakultě Masarykovy univerzity v Brně. V rámci svého studia se zabýval lesní vegetací, mj. alternativním způsobem hodnocení její druhové rozmanitosti. S touhou poznat hlubší souvislosti řídící vznik a fungování lesních společenstev se rozhodl pokračovat ve studiu, a tak na téže instituci nastoupil na doktorské studium. V rámci své dizertační práce se věnuje variabilitě vegetace evropských suťových a roklinových lesů.`,
       email: `375623@mail.muni.cz`,
       phoneNumber: `549498494`,
@@ -911,8 +914,7 @@ export const formerPeople = [
     email: `zeleny.david@gmail.com`
   },
   {
-    name: `Ching-Feng Li (2006–2015)`,
-    email: ``
+    name: `Ching-Feng Li (2006–2015)`
   },
     {
     name: `Marie Vymazalová (2007–2014)`,

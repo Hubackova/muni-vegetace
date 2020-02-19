@@ -41,8 +41,8 @@ const Links = ({ mediaData, popularizationData, data, lang }) => {
       <FlexBox>
         <div>
           <H2> {data.links.publications} </H2>
-          <a href="http://botzool.sci.muni.cz/publikace/c">
-            http://botzool.sci.muni.cz/publikace/c
+          <a href="https://botzool.sci.muni.cz/publikace/c">
+            https://botzool.sci.muni.cz/publikace/c
           </a>
           {lang === "cz" && <H2> {data.links.popularization} </H2>}
           <Ul>{popularizationList}</Ul>
