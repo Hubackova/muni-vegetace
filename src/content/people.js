@@ -31,7 +31,7 @@ import kubesova from "../../static/images/people/kubesova.jpg";
 import ceplova from "../../static/images/people/ceplova.jpg";
 import spanikova from "../../static/images/people/spanikova.jpg";
 import cubino from "../../static/images/people/cubino.jpg";
-
+import gotzenberger from "../../static/images/people/gotzenberger.jpg";
 
 
 export const peopleEn = {
@@ -83,7 +83,7 @@ export const peopleEn = {
       id: `tichy`,
       name: `Lubomír Tichý`,
       position: `Associate professor`,
-      description: ``,
+      description: `Lubomír Tichý finished his doctoral study in botany at Masaryk University in 1999 with the topic of PhD thesis ‘The influence of habitat conditions on vegetation diversity’.    He focuses at methods and theoretical aspects of vegetation data collection and their classification to vegetation types.  Since 1988 he is interested in a nature monitoring, protection and management in nature protected areas. He is an author of some software useful for the data collection and vegetation analysis and classification – JUICE, GLAMA, Probabilistic Vegetation Key etc. He teaches Plant population ecology, Processing basic botanical data, Field course in geobotany and some other lectures including  Botanical seminary – Vegetation of Central Europe at the Faculty of Social Studies. He is a guarantor of a new master program Nature Conservation.`,
       email: `tichy@sci.muni.cz`,
       phoneNumber: `549497673`,
       is: `https://www.muni.cz/en/people/6669-lubomir-tichy`,
@@ -169,7 +169,8 @@ export const peopleEn = {
       orcid: `https://orcid.org/0000-0003-3040-2900`,
       publons: `https://publons.com/researcher/991157/lars-gotzenberger/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=VD8lvYMAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`
+      researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`, 
+	  img: gotzenberger
     },
     {
       id: `hajek`,
@@ -601,7 +602,8 @@ export const peopleCz = {
       orcid: `https://orcid.org/0000-0003-3040-2900`,
       publons: `https://publons.com/researcher/991157/lars-gotzenberger/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=VD8lvYMAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`
+      researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`, 
+	  img: gotzenberger
     },
     {
       id: `hajek`,

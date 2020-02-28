@@ -310,7 +310,7 @@ export const popularizationCz = [
     date: `2020`,
     name: `Teplomilné rostlinstvo Podkarpatské Rusi`,
     resources: [`Živa`],
-    links: [``]
+    links: [`https://ziva.avcr.cz/aktuality/`]
   },{
     date: `2019`,
     name: `Biogeografie druhové diverzity rostlinných společenstev`,
