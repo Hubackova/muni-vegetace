@@ -19,8 +19,8 @@ class People extends Component {
     ));
     const formerPeople = formerPeopleData.map(person => (
       <div key={person.name}>
-        <strong style={{ color: "#C0C844" }}>{person.name}</strong> -{" "}
-        <a href={`mailto:${person.email}`}>{person.email}</a>
+        <strong style={{ color: "#C0C844" }}>{person.name}</strong> 
+        {person.email && <span>{" "}-{" "}<a href={`mailto:${person.email}`}>{person.email}</a></span>}
       </div>
     ));
     const visitingScientists = visitingScientistsData.map(person => (

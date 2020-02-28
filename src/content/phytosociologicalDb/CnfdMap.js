@@ -9,14 +9,14 @@ const CnfdMap = ({altText}) => (
         file(relativePath: { regex: "/cnfd_map/" }) {
           childImageSharp {
             fluid(maxWidth: 700) {
-              ...GatsbyImageSharpFluid_noBase64
+              ...GatsbyImageSharpFluid
             }
           }
         }
       }
     `}
     render={data => {
-      if (!data && !data.file) return <div>...loading</div>;
+      if (!data && !data.file&& !data.file.childImageSharp) return <div>...loading</div>;
       return (
         <Img
           fluid={data.file.childImageSharp.fluid}

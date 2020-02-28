@@ -92,22 +92,21 @@ const LogoLink = styled.a`
   flex: 1;
   display: flex;
   justify-content: center;
-  @media (max-width: 730px) {
-    display: none;
-  }
+
 `;
 
 const Logo = styled.img`
-  width: 200px;
-  @media (max-width: 1520px) {
-    width: 190px;
-  }
+  max-width: 50%;
+  margin: 10px;
 `;
 
 const MainLogo = styled.img`
   max-width: 40%;
   margin-left: 2%;
   margin-right: 15px;
+  @media (max-width: 1520px) {
+    max-width: 30%;
+  }
 `;
 
 const RightSide = styled.div`
