@@ -944,103 +944,103 @@ export const visitingScientistsCz = [
     name: `Teemu Tahvanainen (Finsko, 2019)`
   },
     {
-    name: `Silvia Cannucci (Italy, 2019)`
+    name: `Silvia Cannucci (Itálie, 2019)`
   },
   {
-    name: `Charlotte Ndiribe (Nigeria, 2018–2019)`
+    name: `Charlotte Ndiribe (Nigérie, 2018–2019)`
   },
   {
-    name: `Hamid Gholizadeh (Iran, 2018)`
+    name: `Hamid Gholizadeh (Írán, 2018)`
   },
   {
-    name: `Filip Küzmič (Slovenia, 2018)`
+    name: `Filip Küzmič (Slovinsko, 2018)`
   },
   {
-    name: `Ekaterina Petrunenko (Russia, 2017–2018)`
+    name: `Ekaterina Petrunenko (Rusko, 2017–2018)`
   },
   {
-    name: `Nicola Alessi (Italy, 2017)`
+    name: `Nicola Alessi (Itálie, 2017)`
   },
   {
-    name: `Emanuele Fanfarillo (Italy, 2017)`
+    name: `Emanuele Fanfarillo (Itálie, 2017)`
   },
   {
-    name: `Martina Vanini (Italy, 2017)`
+    name: `Martina Vanini (Itálie, 2017)`
   },
   {
-    name: `Katarína Mikulová (Slovakia, 2016–2017)`
+    name: `Katarína Mikulová (Slovensko, 2016–2017)`
   },
   {
-    name: `Elisa Belmonte (Italy, 2016)`
+    name: `Elisa Belmonte (Itálie, 2016)`
   },
   {
-    name: `Elena Brianskaia (Germany/Russia, 2016)`
+    name: `Elena Brianskaia (Německo/Rusko, 2016)`
   },
   {
-    name: `Corrado Marcenò (Italy, 2016)`
+    name: `Corrado Marcenò (Itálie, 2016)`
   },
   {
-    name: `Gianmaria Bonari (Italy, 2015)`
+    name: `Gianmaria Bonari (Itálie, 2015)`
   },
   {
-    name: `Marta Czarniecka-Wiera (Poland, 2015)`
+    name: `Marta Czarniecka-Wiera (Polsko, 2015)`
   },
   {
-    name: `Cloé Levointurier-Vajda (France, 2015)`
+    name: `Cloé Levointurier-Vajda (Francie, 2015)`
   },
   {
-    name: `José Valentín Roces Díaz (Spain, 2015)`
+    name: `José Valentín Roces Díaz (Španělsko, 2015)`
   },
   {
     name: `Yi-Shin Chian (Taiwan, 2014–2015)`
   },
   {
-    name: `Corrado Marcenò (Italy, 2014)`
+    name: `Corrado Marcenò (Itálie, 2014)`
   },
   {
-    name: `Miquel De Cáceres (Spain, 2013)`
+    name: `Miquel De Cáceres (Španělsko, 2013)`
   },
   {
-    name: `María Pilar Rodríguez-Rojo (Spain, 2013)`
+    name: `María Pilar Rodríguez-Rojo (Španělsko, 2013)`
   },
   {
-    name: `Nicola Alessi (Italy, 2012)`
+    name: `Nicola Alessi (Itálie, 2012)`
   },
   {
-    name: `Gianmaria Bonari (Italy, 2012)`
+    name: `Gianmaria Bonari (Itálie, 2012)`
   },
   {
-    name: `Adrian Indreica (Romania, 2012)`
+    name: `Adrian Indreica (Rumunsko, 2012)`
   },
   {
-    name: `Elia Angelini (Italy, 2011)`
+    name: `Elia Angelini (Itálie, 2011)`
   },
   {
     name: `Donald A. (Skip) Walker (USA, 2011)`
   },
   {
-    name: `Flavia Landucci (Italy, 2010–2011)`
+    name: `Flavia Landucci (Itálie, 2010–2011)`
   },
   {
     name: `Cheng-Tao Lin (Taiwan, 2010)`
   },
   {
-    name: `Daniela Dúbravková (Slovakia, 2008)`
+    name: `Daniela Dúbravková (Slovensko, 2008)`
   },
   {
-    name: `Attila Lengyel (Hungary, 2008)`
+    name: `Attila Lengyel (Maďarsko, 2008)`
   },
   {
-    name: `Anna Szabó (Romania, 2006)`
+    name: `Anna Szabó (Rumunsko, 2006)`
   },
   {
-    name: `Eszter Illyés (Hungary, 2005)`
+    name: `Eszter Illyés (Maďarsko, 2005)`
   },
   {
-    name: `Rossen Tzonev (Bulgaria, 2004)`
+    name: `Rossen Tzonev (Bulharsko, 2004)`
   },
   {
-    name: `Zoltán Botta-Dukát (Hungary, 2003)`
+    name: `Zoltán Botta-Dukát (Maďarsko, 2003)`
   }
 ];
 
