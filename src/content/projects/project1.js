@@ -10,7 +10,8 @@ export const project1cz = {
       </div>
       <br />
       <div>
-        <h3>Spolupracovníci (Masarykova univerzita)</h3> Irena Axmanová, Gianmaria Bonari, Jiří
+        <h3>Spolupracovníci </h3> 
+		Irena Axmanová, Gianmaria Bonari, Jiří
         Danihelka, Jan Divíšek, Pavel Dřevojan, Michal Hájek, Ondřej Hájek, Dana Holubová, Anni
         Jašková, Borja Jiménez-Alfaro, Martin Jiroušek, Veronika Kalníková, Veronika Kalusová, Ilona
         Knollová, Anna Kuzemko, Flavia Landucci, Zdeňka Lososová, Corrado Marcenò, Pavel Novák,
@@ -29,12 +30,11 @@ export const project1cz = {
       <div>
         <h3>Finanční podpora</h3>
         <li>
-          2019–2023: Grantová agentura České republiky, EXPRO Centre for European Vegetation Syntheses, grant
+          2019–2023: Grantová agentura České republiky, EXPRO Centrum pro evropské vegetační syntézy, grant
           č. 19-28491X
         </li>
 		<li>
-          2017–2019: Grantová agentura České republiky, Standard Project Next generation expert systems for
-          vegetation classification on a continental scale, grant č. 17-15168S
+          2017–2019: Grantová agentura České republiky, projekt Expertní systémy nové generace pro klasifikaci vegetace v kontinentálním měřítku, grant č. 17-15168S
         </li>
 		<li>
           2014–2018: Grantová agentura České republiky, Centrum excelence Pladias, grant č. 14-36079G
@@ -46,90 +46,59 @@ export const project1cz = {
       <div>
         <h3>Cíle projektu</h3>
         <div>
-          Our group manages the{" "}
-          <a href="http://euroveg.org/eva-database">European Vegetation Archive (EVA)</a>, an
-          integrated database of European vegetation plots, which we established in 2012 in
-          cooperation with colleagues from the IAVS Working Group European Vegetation Survey. We use
-          this resource to analyse different facets of fine-scale diversity of European flora and
-          vegetation, and to develop methods and tools for such analyses. Our main focus is on::
-          <li>developing typologies of European habitat types</li>
+          Naše pracovní skupina koordinuje {" "}
+          <a href="http://euroveg.org/eva-database">Evropský vegetační archiv (EVA)</a>, integrovanou databázi fytocenologických snímků, která byla zřízena v roce 2012 ve spolupráci s kolegy z mezinárodní pracovní skupiny European Vegetation Survey při Mezinárodní společnosti pro výzkum vegetace (IAVS). Tento datový zdroj používáme pro analýzy různých aspektů diverzity evropské flóry a vegetace a vyvíjíme metody a nástroje pro podobné analýzy. Kromě toho provádíme vlastní terénní výzkum vegetace v různých částech Evropy. Soustředíme se zejména na:
+          <li>vývoj typologie evropských biotopů jako nástroje pro ochranu přírody</li>
           <li>
-            revising classification system of European vegetation using comprehensive datasets of
-            vegetation plots
+            revize klasifikačního systému evropské vegetace s využitím rozsáhlých databází fytocenologických snímků
           </li>
           <li>
-            mapping and explaining patterns of fine-scale species richness in European vegetation
+            mapování variability maloplošné druhové diverzity evropské vegetace a vysvětlování příčin této variability
           </li>
           <li>
-            exploring patterns of phylogenetic and functional diversity in European vegetation
+            výzkum fylogenetické a funkční diverzity evropské vegetace
           </li>
-          <li>assessing patterns of plant invasions in European vegetation</li>
-          <li>developing infrastructure, methods and tools for this research</li>
+          <li>hodnocení rostlinných invazí v evropské vegetaci</li>
+          <li>vývoj infrastruktury, metod a nástrojů pro tento výzkum</li>
         </div>
       </div>
       <br />
       <div className="main-results">
         <h3>Hlavní výsledky</h3>
         <p>
-          <b>Vegetation databases</b>
+          <b>Vegetační databáze</b>
 		 <div> 
-        We established the European Vegetation Archive (EVA; Chytrý et al. 2016) and created several
-        thematic databases of European vegetation (e.g. Landucci et al. 2015, Peterka et al. 2015,
-        Marcenò &amp; Jiménez-Alfaro 2017, Kalníková &amp; Kudrnovsky 2017, Bonari et al. 2018,
-        Jašková et al. 2020). We are also contributing data to sPlot – the global vegetation-plot
-        database (Bruelheide et al. 2019).
+    Založili jsme Evropský vegetační archív (EVA; Chytrý et al. 2016) a vytvořili několik tématických databází evropské vegetace (např. Landucci et al. 2015, Peterka et al. 2015, Marcenò & Jiménez-Alfaro 2017, Kalníková & Kudrnovsky 2017, Bonari et al. 2018, Jašková et al. 2020). Také dodáváme data do celosvětové vegetační databáze sPlot (Bruelheide et al. 2019).
 		</div>
 		</p>
         <p>
-          <b>Methods of vegetation analysis and software tools</b>
+          <b>Metody analýzy vegetace a software</b>
         <div>
-		We developed various methods for statistical analysis of large vegetation-plot databases,
-        which are available in the <a href="https://www.sci.muni.cz/botany/juice/">JUICE</a> program by L. Tichý .
-        Recently we focused especially on the development of new functions for the expert systems
-        for vegetation classification (Landucci et al. 2015, Tichý et al. 2019) and other tools for
-        automatic identification of vegetation types (Tichý &amp; Chytrý 2019).
+		Vyvinuli jsme různé metody pro statistické analýzy velkých vegetačních databází. Velká část těchto metod je dostupná v programu <a href="https://www.sci.muni.cz/botany/juice/">JUICE</a> Lubomíra Tichého. V poslední době jsme se zaměřili zejména na vývoj nových funkcí pro expertní systémy pro klasifikaci vegetace (Landucci et al. 2015, Tichý et al. 2019) a další nástroje pro automatické určování vegetačních typů (Tichý & Chytrý 2019).
         </div>
 		</p>
 		<p>
-          <b>Classification of European vegetation</b>
+          <b>Klasifikace evropské vegetace</b>
         <div>
-        We participated in the compilation of the standard list of European vegetation types
-        (EuroVegChecklist, Mucina et al. 2016). Using the data from the European Vegetation Archive,
-        we participated in several studies based on vegetation plots that provided formalized
-        vegetation classification across the whole of Europe or a large part of the continent (e.g.
-        Douda et al. 2016, Rodríguez-Rojo et al. 2017, Willner et al. 2017, 2019); some of these
-        studies were coordinated by our team (e.g. Peterka et al. 2017, Marcenò et al. 2018).
+        Účastnili jsme se přípravy standardního seznam evropské vegetace, tzv. EuroVegChecklistu (Mucina et al. 2016). Dále jsme se podíleli na několika studiích, které na základě analýzy velkých souborů fytocenologických snímků vytvořily formalizované klasifikace vybraných vegetačních typů pro celou Evropu nebo velkou část našeho kontinentu (např. Douda et al. 2016, Rodríguez-Rojo et al. 2017, Willner et al. 2017, 2019); některé z těchto studií byly koordinovány naším týmem (e.g. Peterka et al. 2017, Marcenò et al. 2018, Landucci et al. 2020, Novák et al. 2020).
         </div>
 		</p>
 		<p>
-          <b>European habitat types</b>
+          <b>Evropské biotopy</b>
         <div>
-        We work for the European Environment Agency on the revision and parameterization of the
-        EUNIS habitat classification (Schaminée et al. 2012, 2013, 2014, 2016a, 2016b, 2018, 2019).
-        An early version of the revised EUNIS classification was used in the European Red List of
-        Habitats (Janssen et al. 2016). We developed a classification expert system for the revised
-        habitat types, lists of indicator species and distribution maps, which are essential for the
-        application of the EUNIS habitat classification in nature conservation planning, monitoring
-        and decision-making in the European Union and beyond.
+        Pro Evropskou agenturu životního prostředí pracujeme na revizi a parametrizaci evropské standardní klasifikace biotopů EUNIS (Schaminée et al. 2012, 2013, 2014, 2016a, 2016b, 2018, 2019, 2020). Předběžná verze této revize byla použita v Evropském červeném seznamu biotopů (Janssen et al. 2016), na jehož tvorbě jsme se také podíleli. Vyvinuli jsme klasifikační expertní systém pro revidované typy biotopů EUNIS a vytvořili jsme seznamy jejich indikačních druhů a mapy rozšíření, které jsou významné pro praktické využití této klasifikace biotopů v ochranářském plánování, monitorování a rozhodování v Evropské unii i mimo ni.
         </div>
 		</p>
 		<p>
-          <b>Fine-scale diversity of vegetation types</b>
+          <b>Maloplošná diverzita vegetačních typů</b>
         <div>
-        We developed a technique for mapping fine-scale species richness of vegetation types using
-        vegetation-plot data (Divíšek &amp; Chytrý 2018), mapped species richness of European
-        forests (Večeřa et al. 2019) and modelled species richness of European beech forests
-        (Jiménez-Alfaro et al. 2018). We also documented extremely species-rich grasslands in the
-        Carpathians and adjacent areas (Chytrý et al. 2015, Roleček et al. 2019).
+        Vyvinuli jsme techniku pro mapování maloplošné diverzity vegetace s využitím fytocenologických snímků (Divíšek & Chytrý 2018), zmapovali jsme druhové bohatství evropských lesů (Večeřa et al. 2019) a modelovali jsme druhové bohatství evropských bučin (Jiménez-Alfaro et al. 2018). Také jsme provedli dokumentaci extrémně druhově bohaté travinné vegetace v Karpatech a okolí (Chytrý et al. 2015, Roleček et al. 2019).
         </div>
 		</p>
 		<p>
-          <b>Alien plant invasions in European vegetation types</b>
+          <b>Invaze nepůvodních druhů rostlin v evropské vegetaci</b>
         <div>
-        We performed a detailed assessment of alien plant invasions across European forest types
-        (Wagner et al. 2017). We also studied alien species pools and exchanges of alien species
-        between Europe and other continents in the context of habitat types (Kalusová et al. 2014,
-        2015, 2017).
+        Provedli jsme detailní vyhodnocení invazí nepůvodních druhů rostlin ve všech hlavních typech evropských lesů (Wagner et al. 2017). Také se zabýváme výměnami nepůvodních druhů mezi Evropou a jinými kontinenty v rámci analogických vegetačních typů v původním a nepůvodním areálu (Kalusová et al. 2014, 2015, 2017).
       </div>
 	  </p>
 	  </div>
@@ -155,6 +124,19 @@ export const project1cz = {
             https://doi.org/10.1127/phyto/2019/0336
           </a>
         </li>
+		<li>
+		<b>Landucci F.</b>, Šumberová K., <b>Tichý L.</b>, Hennekens S., Aunina L., Biță‐Nicolae C., Borsukevych L., Bobrov A., Čarni A., De Bie E., Golub V., Hrivnák R., Iemelianova S., Jandt U., Jansen F., Kącki Z., Lájer K., Papastergiadou E., Šilc U., Sinkevičienė Z., Stančić Z., Stepanovič J., Teteryuk B., Tzonev R., Venanzoni R., Zelnik I. & <b>Chytrý M.</b> (2020): Classification of the European marsh vegetation (Phragmito‐Magnocaricetea) to the association level. Applied Vegetation Science 23:297–316. – <a href="https://doi.org/10.1111/avsc.12484">
+            https://doi.org/10.1111/avsc.12484
+          </a>
+		</li>
+		<li>
+<b>Novák P.</b>, Willner W., <b>Zukal D.</b>, Kollár J., <b>Roleček J.</b>, Świerkosz K., Ewald J., Wohlgemuth T., Csiky J., Onyshchenko V. & <b>Chytrý M.</b> (2020): Oak-hornbeam forests in central Europe: a formalized classification and syntaxonomic revision. Preslia 92: 1–34. – <a href="https://doi.org/10.23855/preslia.2020.001">
+            https://doi.org/10.23855/preslia.2020.001
+          </a>
+</li>
+		<li>
+		Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Knollová I.</b>, <b>Lososová Z.</b>, <b>Marcenò C.</b>, <b>Tichý L.</b> & data providers (2020): Updated crosswalks, formal query routines and indicator species of the revised EUNIS Habitat Classification with the European Vegetation Classification for vegetated man-made habitats and aligning of crosswalks between European Red List habitats and Annex I habitats with crosswalks between EUNIS habitats and Annex I habitats. Report EEA/NSS/17/002/Lot 1. European Environment Agency, Copenhagen.
+		</li>
         <b>2019</b>
         <li>
           Bonari G., <b>Knollová I.</b>, <b>Vlčková P.</b>, Xystrakis F., Çoban S., Sağlam C., Didukh Y.P.,
@@ -666,8 +648,8 @@ export const project1en = {
           integrated database of European vegetation plots, which we established in 2012 in
           cooperation with colleagues from the IAVS Working Group European Vegetation Survey. We use
           this resource to analyse different facets of fine-scale diversity of European flora and
-          vegetation, and to develop methods and tools for such analyses. Our main focus is on::
-          <li>developing typologies of European habitat types</li>
+          vegetation, and to develop methods and tools for such analyses. Our main focus is on:
+          <li>developing typologies of European habitats as a tool for nature conservation</li>
           <li>
             revising classification system of European vegetation using comprehensive datasets of
             vegetation plots
@@ -699,7 +681,7 @@ export const project1en = {
           <b>Methods of vegetation analysis and software tools</b>
         <div>
 		We developed various methods for statistical analysis of large vegetation-plot databases,
-        which are available in the <a href="https://www.sci.muni.cz/botany/juice/">JUICE</a> program by L. Tichý .
+        which are available in the <a href="https://www.sci.muni.cz/botany/juice/">JUICE</a> program by L. Tichý.
         Recently we focused especially on the development of new functions for the expert systems
         for vegetation classification (Landucci et al. 2015, Tichý et al. 2019) and other tools for
         automatic identification of vegetation types (Tichý &amp; Chytrý 2019).
@@ -713,14 +695,14 @@ export const project1en = {
         we participated in several studies based on vegetation plots that provided formalized
         vegetation classification across the whole of Europe or a large part of the continent (e.g.
         Douda et al. 2016, Rodríguez-Rojo et al. 2017, Willner et al. 2017, 2019); some of these
-        studies were coordinated by our team (e.g. Peterka et al. 2017, Marcenò et al. 2018).
+        studies were coordinated by our team (e.g. Peterka et al. 2017, Marcenò et al. 2018, Landucci et al. 2020, Novák et al. 2020).
         </div>
 		</p>
 		<p>
           <b>European habitat types</b>
         <div>
         We work for the European Environment Agency on the revision and parameterization of the
-        EUNIS habitat classification (Schaminée et al. 2012, 2013, 2014, 2016a, 2016b, 2018, 2019).
+        EUNIS habitat classification (Schaminée et al. 2012, 2013, 2014, 2016a, 2016b, 2018, 2019, 2020).
         An early version of the revised EUNIS classification was used in the European Red List of
         Habitats (Janssen et al. 2016). We developed a classification expert system for the revised
         habitat types, lists of indicator species and distribution maps, which are essential for the
@@ -770,6 +752,19 @@ export const project1en = {
             https://doi.org/10.1127/phyto/2019/0336
           </a>
         </li>
+		<li>
+		<b>Landucci F.</b>, Šumberová K., <b>Tichý L.</b>, Hennekens S., Aunina L., Biță‐Nicolae C., Borsukevych L., Bobrov A., Čarni A., De Bie E., Golub V., Hrivnák R., Iemelianova S., Jandt U., Jansen F., Kącki Z., Lájer K., Papastergiadou E., Šilc U., Sinkevičienė Z., Stančić Z., Stepanovič J., Teteryuk B., Tzonev R., Venanzoni R., Zelnik I. & <b>Chytrý M.</b> (2020): Classification of the European marsh vegetation (Phragmito‐Magnocaricetea) to the association level. Applied Vegetation Science 23:297–316. – <a href="https://doi.org/10.1111/avsc.12484">
+            https://doi.org/10.1111/avsc.12484
+          </a>
+		</li>
+		<li>
+<b>Novák P.</b>, Willner W., <b>Zukal D.</b>, Kollár J., <b>Roleček J.</b>, Świerkosz K., Ewald J., Wohlgemuth T., Csiky J., Onyshchenko V. & <b>Chytrý M.</b> (2020): Oak-hornbeam forests in central Europe: a formalized classification and syntaxonomic revision. Preslia 92: 1–34. – <a href="https://doi.org/10.23855/preslia.2020.001">
+            https://doi.org/10.23855/preslia.2020.001
+          </a>
+</li>
+		<li>
+		Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Knollová I.</b>, <b>Lososová Z.</b>, <b>Marcenò C.</b>, <b>Tichý L.</b> & data providers (2020): Updated crosswalks, formal query routines and indicator species of the revised EUNIS Habitat Classification with the European Vegetation Classification for vegetated man-made habitats and aligning of crosswalks between European Red List habitats and Annex I habitats with crosswalks between EUNIS habitats and Annex I habitats. Report EEA/NSS/17/002/Lot 1. European Environment Agency, Copenhagen.
+		</li>
         <b>2019</b>
         <li>
           Bonari G., <b>Knollová I.</b>, <b>Vlčková P.</b>, Xystrakis F., Çoban S., Sağlam C., Didukh Y.P.,

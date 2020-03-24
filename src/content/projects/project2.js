@@ -91,7 +91,7 @@ export const project2en = {
         <p>
 		   <b>Glacial refugium in the Altai-Sayan Mountains</b>
         <div>
-        We discovered that the Altai-Sayan Moutains of Southern Siberia are probably the best
+        We discovered that the Altai-Sayan Mountains of Southern Siberia are probably the best
         preserved refugium of full-glacial biota in Eurasia. This finding was supported by
         considerable similarity of modern pollen deposition from the Western Sayan Mountains with
         fossil pollen spectra from the Late Pleistocene deposits in Central Europe (Kuneš et al.
@@ -101,8 +101,8 @@ export const project2en = {
         species of plant and snails in this region (Horsák et al. 2015) and by revealing high
         similarity between recent mammal assemblages of the south-eastern Altai-Sayan Mountains and
         the Pleistocene faunas of several regions in northern Eurasia (Pavelková Řičánková et al.
-        2014). The rate of the mammal extinction in this region between the Last Glacial and the
-        Recent is lowest in northern Eurasia (Pavelková Řičánková et al. 2015).
+        2014, 2018). The rate of the mammal extinction in this region between the Last Glacial and the
+        Recent is lowest in northern Eurasia (Pavelková Řičánková et al. 2015). A landscape mosaic of ecosystems of the south-eastern Russian Altai was described in detail as a modern analogue of the full-glacial steppe-tundra (Chytrý et al. 2019).
         </div>
 		</p>
         <p>
@@ -127,10 +127,7 @@ export const project2en = {
         <p>
           <b>Plant species richness patterns and their determinants</b>
         <div>
-        Based on extensive standardized vegetation sampling, we characterized patterns of species
-        richness in different regions of Siberia and the Southern Urals, focusing on the effects of
-        soil pH (Chytrý et al. 2007), climate continentality (Chytrý et al. 2008) and primary
-        productivity (Axmanová et al. 2012, 2013).
+        Based on extensive standardized vegetation sampling, we characterized patterns of species richness in different regions of Siberia and adjacent regions, focusing on the effects of soil pH (Chytrý et al. 2007, Palpurina et al. 2017), climate continentality (Chytrý et al. 2008, Palpurina et al. 2017) and primary productivity (Axmanová et al. 2012, 2013, Palpurina et al. 2019).
         </div>
 		</p>
         <p>
@@ -139,17 +136,13 @@ export const project2en = {
         We identified pollen deposition in moss polsters and litter along landscape transects in the
         Altai and Western Sayan Mountains and related them to vegetation types (Pelánková et al.
         2008, Pelánková &amp; Chytrý 2009). This enabled us to improve the interpretion of full- and
-        last-glacial vegetation of Central Europe based on fossil pollen (Kuneš et al. 2008).
+        last-glacial vegetation of Central Europe based on fossil pollen (Kuneš et al. 2008, Magyari et al. 2014).
         </div>
 		</p>
         <p>
-          <b>Palaeoecology of southern Siberia</b>
+          <b>Palaeoecology of Siberia</b>
 		<div>
-        To understand glacial history of the refugial area of the Altai Mountains, we modelled
-        habitat distribution in this region during the Last Glacial Maximum (Hais et al. 2015).
-        Using palaeoanthracological and dendroecological methods, we reconstructed ecological
-        history of <i>Tilia sibirica</i> , a relict temperate species of southern Siberia (Novák et al.
-        2014).
+        For a better understanding of the glacial history of the refugial area in the Altai Mountains, we modelled habitat distribution in this region during the Last Glacial Maximum (Hais et al. 2015). This study suggested that this area was dominated by desert steppe. However, northern Siberia and Beringia were different: our study from this area, based on the analysis of plant remains from frozen gastrointestinal tracts of full-glacial megaherbivores, reconstructed a wet landscape with significant participation of tundra, mires, and also scattered woodlands and scrub (Axmanová et al. 2020). We also dealt with temperate relicts in the current Siberian landscape: using palaeoanthracological and dendroecological methods, we reconstructed the ecological history of <i>Tilia sibirica</i>, a relict temperate species surviving in southern Siberia (Novák et al. 2014).
         </div>
 		</p>
         <p>
@@ -157,7 +150,7 @@ export const project2en = {
         <div>
         Pioneering studies of snail faunas, their diversity, ecology and habitat requirements were
         conducted in the Southern Urals (Bashkortostan) (Horsák et al. 2010a), the Altai (Horsák et
-        al. 2010b, 2015). Central Yakutia (Horsák et al. 2013) and the West Siberian Plain (Horsák
+        al. 2010b, 2015, 2018, Chytrý et al. 2019), Central Yakutia (Horsák et al. 2013) and the West Siberian Plain (Horsák
         &amp; Chytrý 2014).
         </div>
 		</p>
@@ -171,14 +164,9 @@ export const project2en = {
         </div>
 		</p>
         <p>
-          <b>New taxa</b>
+          <b>Taxonomic studies and important flora and fauna records</b>
         <div>
-        We described a new species of terrestrial snail, <i>Vertigo botanicorum</i> (Horsák &amp; Pokryszko
-        2010), and new intersectional hybrid of cinquefoil, <i>Potentilla</i> x <i>nebulosa</i>, both from the
-        Russian Altai (Danihelka &amp; Soják 2012). In addition, we found another cinquefoil, {" "}
-         <i>Potentilla turkestanica</i>, as a new species to the flora of Russia (Soják et al. 2011) and
-        three species of mosses (<i>Bryum klinggraeffii</i>, <i>B. rubens</i> and <i>Dicranella staphylinaas</i> new
-        species for the Asian part of Russia).
+        We described several species of Siberian terrestrial snail as new for science, including <i>Vertigo botanicorum</i> (Horsák & Pokryszko 2010), <i>V. beringiana</i>, <i>V. chytryi</i>, <i>V. genesioides</i> (Nekola et al. 2018) and <i>Punctum lozeki</i> (Horsák & Meng 2018). Our genetic analyses confired that <i>Tilia sibirica</i> is a separate taxon that differs from European <i>Tilia cordata</i>. We also described a new intersectional hybrid of cinquefoil, <i>Potentilla</i> x <i>nebulosa</i>, from the Russian Altai (Danihelka & Soják 2012). In addition, we found another cinquefoil, <i>Potentilla turkestanica</i>, as a new species to the flora of Russia (Soják et al. 2011) and three species of mosses (<i>Bryum klinggraeffii</i>, <i>B. rubens</i> and <i>Dicranella staphylina</i>) as new species for the Asian part of Russia.
       </div>
 		</p>
      </div> 
@@ -186,7 +174,7 @@ export const project2en = {
         <div>
           <h3>Research papers</h3>
         </div>
-		        <li>
+		<li>
           <b>Axmanová I.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Lustyk P., Kočí M., <b>Kubešová S.</b>, <b>Horsák M.</b>, Cherosov
           M.M. &amp; Gogoleva P.A. (2013): Plant species richness-productivity relationships in a
           low-productive boreal region. <i>Plant Ecology</i> 214: 207–219. – 
@@ -253,6 +241,12 @@ export const project2en = {
           </a>
         </li>
         <li>
+		<b>Chytrý M.</b>, <b>Horsák M.</b>, <b>Danihelka J.</b>, Ermakov N., German D.A., <b>Hájek M.</b>, <b>Hájková P.</b>, <b>Kočí M.</b>, <b>Kubešová S.</b>, <b>Lustyk P</b>., <b>Nekola J.C.</b>, Pavelková Řičánková V., <b>Preislerová Z.</b>, Resl P. & Valachovič M. (2019): A modern analogue of the Pleistocene steppe-tundra ecosystem in southern Siberia. <i>Boreas</i> 48: 36–56. – <a href="https://doi.org/10.1111/bor.12338">sharable read-only link</a>
+		</li>
+        <li>
+		<b>Chytrý M.</b>, <b>Horsák M.</b>, <b>Syrovátka V.</b>, <b>Danihelka J.</b>, Ermakov N., German D.A., <b>Hájek M.</b>, <b>Hájek O.</b>, <b>Hájková P.</b>, <b>Horsáková V.</b>, <b>Kočí M.</b>, <b>Kubešová S.</b>, <b>Lustyk P.</b>, <b>Nekola J.C.</b>, <b>Preislerová Z.</b>, Resl P. & Valachovič M. (2017) Refugial ecosystems in central Asia as indicators of biodiversity change during the Pleistocene–Holocene transition. <i>Ecological Indicators</i> 77: 357–367. – <a href="http://dx.doi.org/10.1016/j.ecolind.2016.12.033">http://dx.doi.org/10.1016/j.ecolind.2016.12.033</a>
+		</li>
+        <li>
           <b>Chytrý M.</b>, Pešout P. &amp; Anenchonov O.A. (1993): Syntaxonomy of vegetation of Svjatoj
           Nos Peninsula, Lake Baikal. 1. Non forest communities. <i>Folia Geobotanica et Phytotaxonomica</i> 28: 337–383. – 
           <a href="http://www.sci.muni.cz/botany/chytry/Chytry_etal1993_Folia-Geobot.pdf">
@@ -274,6 +268,13 @@ export const project2en = {
             fulltext on IngentaConnect
           </a>
         </li>
+        <li>
+		Hais M., <b>Chytrý M.</b> & <b>Horsák M.</b> (2016) Exposure-related forest-steppe: A diverse landscape type determined by topography and climate. <i>Journal of Arid Environments</i> 135: 75–84. – <i>Phytocoenologia</i> 36: 509–545. –
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140196316301537">
+            {" "}
+            fulltext on ScienceDirect
+          </a>
+		</li>
         <li>
           Hais M., Komprdová K., Ermakov N. &amp; <b>Chytrý M.</b> (2015): Modelling the Last Glacial
           Maximum environments for a refugium of Pleistocene biota in the Russian Altai Mountains,
@@ -332,6 +333,15 @@ export const project2en = {
           </a>
         </li>
         <li>
+		<b>Horsák M.</b> & Meng S. (2018): <i>Punctum lozeki</i> n. sp. – a new minute land-snail species (Gastropoda: Punctidae) from Siberia and Alaska. <i>Malacologia</i> 62: 11–20. 
+		 </li>
+        <li>
+		<b>Horsák M.</b>, Juřičková L., <b>Horsáková V.</b>, Pokorná A., Pokorný P., Šizling A. & <b>Chytrý M.</b> (2018) Forest snail diversity and its environmental predictors along a sharp climatic gradient in southern Siberia. <i>Acta Oecologica</i> 88: 1–8. – <a href="https://doi.org/10.1016/j.actao.2018.02.009">
+            {" "}
+            https://doi.org/10.1016/j.actao.2018.02.009
+          </a>
+		</li>
+        <li>
           <b>Horsák M.</b> &amp; Pokryszko B.M. (2010): <i>Vertigo botanicorum</i> sp. nov. (Gastropoda:
           Pulmonata: Vertiginidae)-a new whorl-snail from the Russian Altai Mountains. <i>Zootaxa</i> 2634:
           57–62. –
@@ -347,6 +357,10 @@ export const project2en = {
           </a>
         </li>
         <li>
+		Logan S.A., <b>Chytrý M.</b> & Wolff K. (2018): Genetic diversity and demographic history of the Siberian lime (Tilia sibirica). Perspectives in Plant Ecology, Evolution and Systematics 33: 9–17. – <a href="https://doi.org/10.1016/j.ppees.2018.04.005">
+            {" "}https://doi.org/10.1016/j.ppees.2018.04.005</a>
+		 </li>
+        <li>
           Magyari E.K., Kuneš P., Jakab G., Sümegi P., <b>Pelánková B.</b>, Schäbitz F., Braun M. &amp;
           <b> Chytrý M.</b> (2014): Late Pleniglacial vegetation in eastern-central Europe: are there modern
           analogues in Siberia? <i>Quaternary Science Reviews</i> 95: 60–79. –
@@ -355,6 +369,9 @@ export const project2en = {
             fulltext in ScienceDirect
           </a>
         </li>
+        <li>
+		<b>Nekola J.C.</b>, Chiba S., Coles B.F., Drost C.A., von Proschwitz T. & <b>Horsák M.</b> (2018): A phylogenetic overview of the genus Vertigo O. F. Müller 1773 (Gastropoda: Pulmonata: Pupillidae: Vertigininae). <i>Malacologia</i> 62: 21–161.
+		</li>
         <li>
           Nekola J.C., Coles B.F. &amp; <b>Horsák M.</b> (2015): Species assignment in Pupilla (Gastropoda:
           Pulmonata: Pupillidae): integration of DNA-sequence data and conchology. <i>Journal of
@@ -368,9 +385,18 @@ export const project2en = {
           Novák J., Trotsiuk V., Sýkora O., Svoboda M. &amp; <b>Chytrý M.</b> (2014): Ecology of <i>Tilia
           sibirica</i> in a continental hemiboreal forest, southern Siberia: An analogue of a glacial
           refugium of broad-leaved temperate trees? <i>The Holocene</i> 24: 908–918. –
-          <a href="http://hol.sagepub.com/content/24/8/908">fulltext in SAGE Journals</a>
+          <a href="http://hol.sagepub.com/content/24/8/908"> fulltext in SAGE Journals</a>
         </li>
         <li>
+		<b>Palpurina S.</b>, <b>Chytrý M.</b>, Hölzel N., <b>Tichý L.</b>, Wagner V., <b>Horsák M.</b>, <b>Axmanová I.</b>, <b>Hájek M.</b>, <b>Hájková P.</b>, Freitag M., <b>Lososová Z.</b>, Mathar W., Tzonev R., <b>Danihelka J.</b> & <b>Dřevojan P.</b> (2019) The type of nutrient limitation affects the plant species richness–productivity relationship: Evidence from dry grasslands across Eurasia. <i>Journal of Ecology</i> 107: 1038–1050. – <a href="https://doi.org/10.1111/1365-2745.13084">https://doi.org/10.1111/1365-2745.13084</a>
+		</li>
+		<li>
+		<b>Palpurina S.</b>, Wagner V., von Wehrden H., <b>Hájek M.</b>, <b>Horsák M.</b>, Brinkert A., Hölzel N., Wesche K., Kamp J., <b>Hájková P.</b>, <b>Danihelka J.</b>, Lustyk P., <b>Merunková K.</b>, <b>Preislerová Z.</b>, <b>Kočí M.</b>, <b>Kubešová S.</b>, Cherosov M., Ermakov N., German D., Gogoleva P., Lashchinsky N., Martynenko V. & <b>Chytrý M.</b> (2017) The relationship between plant species richness and soil pH vanishes with increasing aridity across Eurasian dry grasslands. <i>Global Ecology and Biogeography</i> 26: 425–434. DOI: 10.1111/geb.12549. – <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12549">fulltext in Wiley Online Library</a>
+		</li>
+		<li>
+		Pavelková Řičánková V., <b>Horsák M.</b>, Hais M., Robovský J. & <b>Chytrý M.</b> (2018): Environmental correlates of the Late Quaternary regional extinctions of large and small Palaearctic mammals. <i>Ecography</i> 41: 516–527. – <a href="http://dx.doi.org/10.1111/ecog.02851">http://dx.doi.org/10.1111/ecog.02851</a>
+		</li>
+		<li>
           Pavelková Řičánková V., Riegert J., Semančíková E., Hais M., Čejková A. &amp; Prach K.
           (2014): Habitat preferences in gray marmots (<i>Marmota baibacina</i>). <i>Acta Theriologica</i> 59:
           317–324. – <a href="https://www.academia.edu/14618209/Habitat_preferences_in_gray_marmots_Marmota_baibacina_">fulltext in pdf</a>
@@ -420,6 +446,12 @@ export const project2en = {
             fulltext in pdf
           </a>
         </li>
+		<li>
+		Wagner V., <b>Chytrý M.</b>, <b>Zelený D.</b>, von Wehrden H., Brinkert A., <b>Danihelka J.</b>, Hölzel N., Jansen F., Kamp J., Lustyk P., <b>Merunková K.</b>, <b>Palpurina S.</b>, <b>Preislerová Z.</b> & Wesche K. (2017) Regional differences in soil pH niche among dry grassland plants in Eurasia. <i>Oikos</i> 126: 660–670. – <a href="http://dx.doi.org/10.1111/oik.03369">
+            {" "}
+            http://dx.doi.org/10.1111/oik.03369
+          </a>
+		</li>
       
 	  <div>
 	   <h3>Media</h3>
@@ -499,26 +531,19 @@ export const project2cz = {
       <div>
         <h3>Finanční podpora</h3>
         <li>2011–2015: Grantová agentura České republiky, projekt P504-11-0454</li>
-        <li>2008–2010: MŠMT, projekt MSM0021622416</li>
+        <li>2008–2010: Ministerstvo školství, mládeže a tělovýchovy ČR, projekt MSM0021622416</li>
         <li>2003–2007: Grantová agentura Akademie věd ČR, projekt IAA6163303</li>
       </div>
       <br />
       <div>
         <h3>Cíle projektu</h3>
         <div>
-          The project is focused on diversity of various components of natural ecosystems in
-          different parts of Siberia and the Ural Mountains, with a special focus on plants,
-          molluscs and mammals, i.e. important palaeoecological indicators. The project has two
-          related general aims:
+          Projekt zkoumá diverzitu různých složek přirozených ekosystémů Sibiře a přilehlých oblastí. Speciálně se zaměřuje na rostliny, měkkýše a savce, tedy významné paleoekologické indikátory. Dva hlavní cíle projektu jsou:
           <li>
-            to describe patterns of large-scale species diversity in temperate and boreal ecosystems
-            of continental northern Eurasia and reveal the underlying processes of diversity
-            evolution
+            popsat struktury rozmístění druhové diverzity v temperátních a boreálních ekosystémech kontinentální severní Eurasie a odhalit procesy, které stály za jejich vznikem;
           </li>
           <li>
-            to find potential analogues or relicts of Late Pleistocene and Early Holocene ecosystems
-            that could improve our understanding of ecological processes that may have occurred in
-            vanished ecosystems of northern Eurasia.
+            najít potenciální analogie nebo relikty pozdně pleistocenních a raně holocenních ekosystémů, které by mohly zlepšit naše znalosti o ekologických procesech probíhajících v těchto dávno zaniklých ekosystémech severní Eurasie.
           </li>
         </div>
       </div>
@@ -526,96 +551,57 @@ export const project2cz = {
       <div className="main-results">
         <h3>Hlavní výsledky</h3>
         <p>
-		   <b>Glacial refugium in the Altai-Sayan Mountains</b>
+		   <b>Glaciální refugium v horách Altaje a Západního Sajanu</b>
         <div>
-        We discovered that the Altai-Sayan Moutains of Southern Siberia are probably the best
-        preserved refugium of full-glacial biota in Eurasia. This finding was supported by
-        considerable similarity of modern pollen deposition from the Western Sayan Mountains with
-        fossil pollen spectra from the Late Pleistocene deposits in Central Europe (Kuneš et al.
-        2008, Magyari et al. 2014), by the discovery of the whole community of terrestrial snails
-        typical of the loess deposits from the coldest stages of the Pleistocene in the
-        south-eastern Russian Altai (Horsák et al. 2010b), common occurrence of many glacial relict
-        species of plant and snails in this region (Horsák et al. 2015) and by revealing high
-        similarity between recent mammal assemblages of the south-eastern Altai-Sayan Mountains and
-        the Pleistocene faunas of several regions in northern Eurasia (Pavelková Řičánková et al.
-        2014). The rate of the mammal extinction in this region between the Last Glacial and the
-        Recent is lowest in northern Eurasia (Pavelková Řičánková et al. 2015).
+        V horách Altaje a Západního Sajanu jsme objevili pravděpodobně nejlépe zachovalé refugium vrcholně glaciální bioty v Eurasii. Toto zjištění je podpořeno výraznou podobností moderního pylového spadu z těchto pohoří s fosilními pylovými spektry z pozdně pleistocenních sedimentů ve střední Evropě (Kuneš et al. 2008, Magyari et al. 2014), objevem celého společenstva terestrických měkkýšů typických pro sprašové sedimenty nejchladnějších fází pleistocénu na jihovýchodě ruského Altaje (Horsák et al. 2010b), běžným výskytem mnoha glaciálních reliktních rostlin a plžů v této oblasti (Horsák et al. 2015) a zjištěním velké podobnosti mezi současnou faunou savců jihovýchodního ruského Altaje a Sajanu a pleistocenními faunami několika regionů severní Eurasie (Pavelková Řičánková et al. 2014). Podíl savců, kteří v tomto území vymřeli mezi posledním glaciálem a současností je nejmenší v severní Eurasii (Pavelková Řičánková et al. 2015, 2018). Krajinná mozaika ekosystémů jihovýchodního ruského Altaje byla podrobně popsána jako současná analogie vrcholně glaciální stepotundry (Chytrý et al. 2019).
         </div>
 		</p>
         <p>
-          <b>Southern Ural forests are similar to Central Europan forests of the Early Holocene</b>
+          <b>Lesy jižního Uralu jsou podobné středoevropským lesům raného holocénu</b>
         <div>
-        We interpreted forests of the Southern Urals as analogues of the Early Holocene forests of
-        Central Europe. Ecology of these forests suggests that the spread of broad-leaved temperate
-        trees may have reduced diversity of herb layer of the open Early Holocene forests, but at
-        the same time it may have increased diversity of their snail communities (Chytrý et al.
-        2010, Horsák et al. 2010a).
+        Lesy Jižního Uralu jsme interpretovali jako analogii raně holocenních lesů střední Evropy. Ekologie těchto lesů naznačuje, že šíření širolistých temperátních stromů mohlo omezit diverzitu bylinného patra světlých raně holocenních lesů, ale současně mohlo vést ke zvýšení diverzity společenstev lesních měkkýšů (Chytrý et al. 2010, Horsák et al. 2010a).
         </div>
 		</p>
         <p>
-          <b>The most species-rich forests in extratropical Eurasia</b>
+          <b>Druhově nejbohatší lesy mimotropické Eurasie</b>
         <div>
-        We discovered that birch-pine hemiboreal forests in the northern Altai Mountains locally
-        contain extremely high numbers of vascular plant species (up to 114 species per 100 m² or
-        149 species per 1000 m²). These are so far the highest values of fine-scale species richness
-        reported for forests in temperate and boreal Eurasia (Chytrý et al. 2012).
+        Na severním Altaji jsme objevili březovo-borové hemiboreální lesy s extrémně vysokou druhovou diverzitou v podrostu (až 114 druhů na 100 m² a 149 druhů na 1000 m²). Jde o dosud největší zjištěné hodnoty maloplošné druhové diverzity zaznamenané v lesích temperátní a boreální Eurasie (Chytrý et al. 2012).
         </div>
 		</p>
         <p>
-          <b>Plant species richness patterns and their determinants</b>
+          <b>Rozložení druhového bohatství v krajině a jeho příčiny</b>
         <div>
-        Based on extensive standardized vegetation sampling, we characterized patterns of species
-        richness in different regions of Siberia and the Southern Urals, focusing on the effects of
-        soil pH (Chytrý et al. 2007), climate continentality (Chytrý et al. 2008) and primary
-        productivity (Axmanová et al. 2012, 2013).
+        Na základě rozsáhlého standardizovaného sběru vegetačních dat v různých částech Sibiře a přilehlých územích jsme popsali rozložení druhového bohatství v krajině v závislosti na různých faktorech, zejména pH půdy (Chytrý et al. 2007, Palpurina et al. 2017), klimatické kontinentality (Chytrý et al. 2008, Palpurina et al. 2017) a primární produktivity (Axmanová et al. 2012, 2013, Palpurina et al. 2019).
         </div>
 		</p>
         <p>
-          <b>Modern pollen deposition in continental landscapes</b>
+          <b>Současný pylový spad v kontinentálních krajinách</b>
         <div>
-        We identified pollen deposition in moss polsters and litter along landscape transects in the
-        Altai and Western Sayan Mountains and related them to vegetation types (Pelánková et al.
-        2008, Pelánková &amp; Chytrý 2009). This enabled us to improve the interpretion of full- and
-        last-glacial vegetation of Central Europe based on fossil pollen (Kuneš et al. 2008).
+        Na transektech přes krajinu Altaje a Západního Sajanu jsme prozkoumali spad pylu zachyceného v mechových polštářích a humusu a vztáhli jej k okolním vegetačním typům (Pelánková et al. 2008, Pelánková & Chytrý 2009). To umožnilo zlepšit interpretaci vrcholně a pozdně glaciální vegetace střední Evropy na základě fosilních pylových spekter (Kuneš et al. 2008, Magyari et al. 2014).
         </div>
 		</p>
         <p>
-          <b>Palaeoecology of southern Siberia</b>
+          <b>Paleoekologie Sibiře</b>
         <div>
-        To understand glacial history of the refugial area of the Altai Mountains, we modelled
-        habitat distribution in this region during the Last Glacial Maximum (Hais et al. 2015).
-        Using palaeoanthracological and dendroecological methods, we reconstructed ecological
-        history of <i>Tilia sibirica</i> , a relict temperate species of southern Siberia (Novák et al.
-        2014).
+        Pro lepší pochopení glaciální historie refugiálního území na Altaji jsme vytvořili modely rozšíření biotopů v této oblasti během posledního glaciálního maxima (Hais et al. 2015). Ty naznačují, že v tamní krajině tehdy převládaly pustinné stepi. Na severu Sibiře a v Beringii byla ale situace jiná: naše studie z této oblasti založená na analýze rostlinných zbytků ze zmrzlých žaludků a střev vrcholně glaciálních býložravců rekonstruovala vlhkou krajinu s výrazným zastoupením tundry, rašelinišť i lesíků a křovin (Axmanová et al. 2020). Zabývali jsme se i temperátními relikty v současné sibiřské krajině: pomocí paleoantrakologických a dendroekologických metod jsme rekonstruovali ekologickou historii lípy sibiřské (<i>Tilia sibirica</i>), reliktního druhu přežívajícího na jižní Sibiři (Novák et al. 2014).
         </div>
 		</p>
         <p>
-          <b>Ecology of mollusc communities</b>
+          <b>Ekologie společenstev měkkýšů</b>
         <div>
-        Pioneering studies of snail faunas, their diversity, ecology and habitat requirements were
-        conducted in the Southern Urals (Bashkortostan) (Horsák et al. 2010a), the Altai (Horsák et
-        al. 2010b, 2015). Central Yakutia (Horsák et al. 2013) and the West Siberian Plain (Horsák
-        &amp; Chytrý 2014).
+        Pionýrské studie faun měkkýšů, jejich diverzity, ekologie a stanovištních nároků byly provedeny na Jižním Uralu (Baškortostán) (Horsák et al. 2010a), Altaji (Horsák et al. 2010b, 2015, 2018, Chytrý et al. 2019), ve středním Jakutsku (Horsák et al. 2013) a na Západosibiřské nížině (Horsák & Chytrý 2014).
         </div>
 		</p>
         <p>
-          <b>Vegetation survey</b>
+          <b>Fytocenologický výzkum</b>
         <div>
-        We made detailed phytosociological descriptions of various types of natural vegetation in
-        the northwestern Baikal region (Buryatia) (Chytrý et al. 1993, 1995, Danihelka &amp; Chytrý
-        1995, Anenkhonov &amp; Chytrý 1998) and scree vegetation in the Altai-Sayan region (Ermakov
-        et al. 2006). We formally established several syntaxa new to science.
+        Provedli jsme pionýrské fytocenogické zhodnocení různých typů přirozené vegetace severního Zabajkalí v Burjatsku (Chytrý et al. 1993, 1995, Danihelka & Chytrý 1995, Anenkhonov & Chytrý 1998) a suťové vegetace Altaje a Západního Sajanu (Ermakov et al. 2006). Formálně jsme popsali několik syntaxonů nových pro vědu.
         </div>
 		</p>
         <p>
-          <b>New taxa</b>
+          <b>Taxonomické studie a významné floristické a faunistické nálezy</b>
         <div>
-        We described a new species of terrestrial snail, <i>Vertigo botanicorum</i> (Horsák &amp; Pokryszko
-        2010), and new intersectional hybrid of cinquefoil, <i>Potentilla</i> x <i>nebulosa</i>, both from the
-        Russian Altai (Danihelka &amp; Soják 2012). In addition, we found another cinquefoil, {" "}
-         <i>Potentilla turkestanica</i>, as a new species to the flora of Russia (Soják et al. 2011) and
-        three species of mosses (<i>Bryum klinggraeffii</i>, <i>B. rubens</i> and <i>Dicranella staphylinaas</i> new
-        species for the Asian part of Russia).
+        Popsali jsme několik druhů sibiřských terestrických plžů nových pro vědu: <i>Vertigo botanicorum</i> (Horsák & Pokryszko 2010), <i>V. beringiana, V. chytryi, V. genesioides</i> (Nekola et al. 2018) a <i>Punctum lozeki</i> (Horsák & Meng 2018). Genetickými analýzami jsme potvrdili, že lípa sibiřská (<i>Tilia sibirica</i>) je samostatným druhem odlišným od evropské lípy srdčité (<i>Tilia cordata</i>) (Logan et al. 2018). Z ruského Altaje jsme popsali nového mezirodového hybrida mochny, <i>Potentilla</i> x <i>nebulosa</i> (Danihelka & Soják 2012). Dále jsme nalezli mochnu <i>Potentilla turkestanica</i> na Altaji jako nový druh pro flóru Ruska (Soják et al. 2011) a tři druhy mechů (<i>Bryum klinggraeffii, B. rubens</i> a <i>Dicranella staphylina</i>) jako nové pro asijskou část Ruska.
       </div>
 		</p>
      </div>
@@ -690,6 +676,12 @@ export const project2cz = {
           </a>
         </li>
         <li>
+		<b>Chytrý M.</b>, <b>Horsák M.</b>, <b>Danihelka J.</b>, Ermakov N., German D.A., <b>Hájek M.</b>, <b>Hájková P.</b>, <b>Kočí M.</b>, <b>Kubešová S.</b>, <b>Lustyk P</b>., <b>Nekola J.C.</b>, Pavelková Řičánková V., <b>Preislerová Z.</b>, Resl P. & Valachovič M. (2019): A modern analogue of the Pleistocene steppe-tundra ecosystem in southern Siberia. <i>Boreas</i> 48: 36–56. – <a href="https://doi.org/10.1111/bor.12338">sharable read-only link</a>
+		</li>
+        <li>
+		<b>Chytrý M.</b>, <b>Horsák M.</b>, <b>Syrovátka V.</b>, <b>Danihelka J.</b>, Ermakov N., German D.A., <b>Hájek M.</b>, <b>Hájek O.</b>, <b>Hájková P.</b>, <b>Horsáková V.</b>, <b>Kočí M.</b>, <b>Kubešová S.</b>, <b>Lustyk P.</b>, <b>Nekola J.C.</b>, <b>Preislerová Z.</b>, Resl P. & Valachovič M. (2017) Refugial ecosystems in central Asia as indicators of biodiversity change during the Pleistocene–Holocene transition. <i>Ecological Indicators</i> 77: 357–367. – <a href="http://dx.doi.org/10.1016/j.ecolind.2016.12.033">http://dx.doi.org/10.1016/j.ecolind.2016.12.033</a>
+		</li>
+        <li>
           <b>Chytrý M.</b>, Pešout P. &amp; Anenchonov O.A. (1993): Syntaxonomy of vegetation of Svjatoj
           Nos Peninsula, Lake Baikal. 1. Non forest communities. <i>Folia Geobotanica et Phytotaxonomica</i> 28: 337–383. – 
           <a href="http://www.sci.muni.cz/botany/chytry/Chytry_etal1993_Folia-Geobot.pdf">
@@ -711,6 +703,13 @@ export const project2cz = {
             fulltext on IngentaConnect
           </a>
         </li>
+        <li>
+		Hais M., <b>Chytrý M.</b> & <b>Horsák M.</b> (2016) Exposure-related forest-steppe: A diverse landscape type determined by topography and climate. <i>Journal of Arid Environments</i> 135: 75–84. – <i>Phytocoenologia</i> 36: 509–545. –
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140196316301537">
+            {" "}
+            fulltext on ScienceDirect
+          </a>
+		</li>
         <li>
           Hais M., Komprdová K., Ermakov N. &amp; <b>Chytrý M.</b> (2015): Modelling the Last Glacial
           Maximum environments for a refugium of Pleistocene biota in the Russian Altai Mountains,
@@ -769,6 +768,15 @@ export const project2cz = {
           </a>
         </li>
         <li>
+		<b>Horsák M.</b> & Meng S. (2018): <i>Punctum lozeki</i> n. sp. – a new minute land-snail species (Gastropoda: Punctidae) from Siberia and Alaska. <i>Malacologia</i> 62: 11–20. 
+		 </li>
+        <li>
+		<b>Horsák M.</b>, Juřičková L., <b>Horsáková V.</b>, Pokorná A., Pokorný P., Šizling A. & <b>Chytrý M.</b> (2018) Forest snail diversity and its environmental predictors along a sharp climatic gradient in southern Siberia. <i>Acta Oecologica</i> 88: 1–8. – <a href="https://doi.org/10.1016/j.actao.2018.02.009">
+            {" "}
+            https://doi.org/10.1016/j.actao.2018.02.009
+          </a>
+		</li>
+        <li>
           <b>Horsák M.</b> &amp; Pokryszko B.M. (2010): <i>Vertigo botanicorum</i> sp. nov. (Gastropoda:
           Pulmonata: Vertiginidae)-a new whorl-snail from the Russian Altai Mountains. <i>Zootaxa</i> 2634:
           57–62. –
@@ -784,6 +792,10 @@ export const project2cz = {
           </a>
         </li>
         <li>
+		Logan S.A., <b>Chytrý M.</b> & Wolff K. (2018): Genetic diversity and demographic history of the Siberian lime (Tilia sibirica). Perspectives in Plant Ecology, Evolution and Systematics 33: 9–17. – <a href="https://doi.org/10.1016/j.ppees.2018.04.005">
+            {" "}https://doi.org/10.1016/j.ppees.2018.04.005</a>
+		 </li>
+        <li>
           Magyari E.K., Kuneš P., Jakab G., Sümegi P., <b>Pelánková B.</b>, Schäbitz F., Braun M. &amp;
           <b> Chytrý M.</b> (2014): Late Pleniglacial vegetation in eastern-central Europe: are there modern
           analogues in Siberia? <i>Quaternary Science Reviews</i> 95: 60–79. –
@@ -792,6 +804,9 @@ export const project2cz = {
             fulltext in ScienceDirect
           </a>
         </li>
+        <li>
+		<b>Nekola J.C.</b>, Chiba S., Coles B.F., Drost C.A., von Proschwitz T. & <b>Horsák M.</b> (2018): A phylogenetic overview of the genus Vertigo O. F. Müller 1773 (Gastropoda: Pulmonata: Pupillidae: Vertigininae). <i>Malacologia</i> 62: 21–161.
+		</li>
         <li>
           Nekola J.C., Coles B.F. &amp; <b>Horsák M.</b> (2015): Species assignment in Pupilla (Gastropoda:
           Pulmonata: Pupillidae): integration of DNA-sequence data and conchology. <i>Journal of
@@ -805,9 +820,18 @@ export const project2cz = {
           Novák J., Trotsiuk V., Sýkora O., Svoboda M. &amp; <b>Chytrý M.</b> (2014): Ecology of <i>Tilia
           sibirica</i> in a continental hemiboreal forest, southern Siberia: An analogue of a glacial
           refugium of broad-leaved temperate trees? <i>The Holocene</i> 24: 908–918. –
-          <a href="http://hol.sagepub.com/content/24/8/908">fulltext in SAGE Journals</a>
+          <a href="http://hol.sagepub.com/content/24/8/908"> fulltext in SAGE Journals</a>
         </li>
         <li>
+		<b>Palpurina S.</b>, <b>Chytrý M.</b>, Hölzel N., <b>Tichý L.</b>, Wagner V., <b>Horsák M.</b>, <b>Axmanová I.</b>, <b>Hájek M.</b>, <b>Hájková P.</b>, Freitag M., <b>Lososová Z.</b>, Mathar W., Tzonev R., <b>Danihelka J.</b> & <b>Dřevojan P.</b> (2019) The type of nutrient limitation affects the plant species richness–productivity relationship: Evidence from dry grasslands across Eurasia. <i>Journal of Ecology</i> 107: 1038–1050. – <a href="https://doi.org/10.1111/1365-2745.13084">https://doi.org/10.1111/1365-2745.13084</a>
+		</li>
+		<li>
+		<b>Palpurina S.</b>, Wagner V., von Wehrden H., <b>Hájek M.</b>, <b>Horsák M.</b>, Brinkert A., Hölzel N., Wesche K., Kamp J., <b>Hájková P.</b>, <b>Danihelka J.</b>, Lustyk P., <b>Merunková K.</b>, <b>Preislerová Z.</b>, <b>Kočí M.</b>, <b>Kubešová S.</b>, Cherosov M., Ermakov N., German D., Gogoleva P., Lashchinsky N., Martynenko V. & <b>Chytrý M.</b> (2017) The relationship between plant species richness and soil pH vanishes with increasing aridity across Eurasian dry grasslands. <i>Global Ecology and Biogeography</i> 26: 425–434. DOI: 10.1111/geb.12549. – <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12549">fulltext in Wiley Online Library</a>
+		</li>
+		<li>
+		Pavelková Řičánková V., <b>Horsák M.</b>, Hais M., Robovský J. & <b>Chytrý M.</b> (2018): Environmental correlates of the Late Quaternary regional extinctions of large and small Palaearctic mammals. <i>Ecography</i> 41: 516–527. – <a href="http://dx.doi.org/10.1111/ecog.02851">http://dx.doi.org/10.1111/ecog.02851</a>
+		</li>
+		<li>
           Pavelková Řičánková V., Riegert J., Semančíková E., Hais M., Čejková A. &amp; Prach K.
           (2014): Habitat preferences in gray marmots (<i>Marmota baibacina</i>). <i>Acta Theriologica</i> 59:
           317–324. – <a href="https://www.academia.edu/14618209/Habitat_preferences_in_gray_marmots_Marmota_baibacina_">fulltext in pdf</a>
@@ -857,6 +881,12 @@ export const project2cz = {
             fulltext in pdf
           </a>
         </li>
+		<li>
+		Wagner V., <b>Chytrý M.</b>, <b>Zelený D.</b>, von Wehrden H., Brinkert A., <b>Danihelka J.</b>, Hölzel N., Jansen F., Kamp J., Lustyk P., <b>Merunková K.</b>, <b>Palpurina S.</b>, <b>Preislerová Z.</b> & Wesche K. (2017) Regional differences in soil pH niche among dry grassland plants in Eurasia. <i>Oikos</i> 126: 660–670. – <a href="http://dx.doi.org/10.1111/oik.03369">
+            {" "}
+            http://dx.doi.org/10.1111/oik.03369
+          </a>
+		</li>
 
         <div>
           <h3>Popularizační články</h3>
