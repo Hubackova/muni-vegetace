@@ -1,6 +1,7 @@
 const path = require(`path`)
 
 module.exports = {
+  pathPrefix: `/botany/vegsci`,
   siteMetadata: {
     title: `Vegetace - MUNI`,
     description: `Vegetation Science Group - Masaryk University`,
