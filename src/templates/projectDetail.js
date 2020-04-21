@@ -95,9 +95,9 @@ class ProjectDetail extends Component {
                     onClickNext={this.gotoNext}
                     onClose={this.closeLightbox}
                   />
-                  <h1>{projectData.title}</h1>
+                  <h1>{projectData && projectData.title}</h1>
 
-                  <div className={`project-body ${int}`}>{projectData.body}</div>
+                  <div className={`project-body ${int}`}>{projectData && projectData.body}</div>
                   <StyledLink to="/projects/">
                     <i className="fa fa-arrow-left" />
                   </StyledLink>
